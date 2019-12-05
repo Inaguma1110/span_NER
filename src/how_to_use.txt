@@ -1,0 +1,8 @@
+txtファイルとannファイルを用意
+このファイルは学習にも開発にも試験にも使う
+一文で入力するため'ann2sent.py'で文章単位から文単位にannを作り直す．
+次にpreprocessでNNの入力を作る
+ネットワークの層の最初をBERTにする時はsentencepieceで文をtokenize
+比較実験のためにword2vecで分散表現を獲得する時は文をMecabでtokenize
+preprocessでは処理をdatadicで保存しておき，抽出本体のプログラムで処理内容が欲しい時に時間をとらないようにしている（本体を動かす度に文をpreprocessしない）
+本体のプログラム（span_extrcat_ner_re.py）で抽出する
