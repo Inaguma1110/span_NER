@@ -21,8 +21,6 @@ from CNN import BERT_PRETRAINED_MODEL_JAPANESE, SPAN_CNN
 import pred2ann
 
 
-
-
 config = configparser.ConfigParser()
 config.read('../machine.conf')
 

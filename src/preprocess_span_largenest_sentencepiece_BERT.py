@@ -52,8 +52,9 @@ def load_vocab(vocab_file):
 
 
 def main(config):
-
     data_path = config.get('path', 'DATA_PATH')
+    max_length = int(config.get('makedata', 'MAX_SENT_LEN'))
+    data_output_type = config.get('makedata', 'DATATYPE')
     filelst = os.listdir(data_path)
     doclist = []
 
@@ -64,6 +65,7 @@ def main(config):
     REL_DIC = dict()  #全体の関係辞書
     REL_DIC['None'] = 0
     rel_index = 1
+
     Num_of_data = 0
     Num_of_entity = 0
 
@@ -86,8 +88,9 @@ def main(config):
     filename_lst = []
 
     # dataname = 'Machining_data_kakogijutsu_span_NER_RE_pretrain_Japanese_BERT_maxlength_100'
-    dataname = config.get('dataname', 'SPAN')
+    dataname = config.get('dataname', 'SPAN_ONLY_MACHINING')
     print('\n save dataname is {0}\n'.format(dataname))
+    print('\n target data type is {0}\n'.format(data_output_type))
     only_txt_lst = []
     for txtfile in filelst:
         docpair = ()
@@ -105,17 +108,16 @@ def main(config):
     for n, doc in enumerate(tqdm.tqdm(doclist)):
         # pdb.set_trace()
         # print('create data of ' + str(doc[0]))
+        # doc = ('seimitu_0022_389.txt', 'seimitu_0022_389.ann')
         filename_lst.append(doc[0][:-4])
         Entdic = dict()
         removed_Entdic = dict()
         Reldic = dict()
         Triggerdic = dict()
         vocab = load_vocab('./spm_model/wiki-ja.vocab')
-        
-        # doc = ('endmil_0029_558.txt','endmil_0029_558.ann')
-        
-        max_length = int(config.get('makedata', 'MAX_SENT_LEN'))
 
+        TARGET_DIC = {}
+        
         with open(data_path + doc[0], 'r', encoding='utf-8') as txtfile:
             text = txtfile.read()
 
@@ -130,7 +132,7 @@ def main(config):
                 if 'Trigger' not in instance_tag: #TriggerタグではなかったらEntitiy
                     Entdic[instance[0]] = (instance[1].split()[0],int(instance[1].split()[1]),int(instance[1].split()[2]),instance[2])
                     #Entdic[T0] = (Machihing, 4, 9, '上向き削り') 
-                else:
+                elif 'Machining' == instance_tag:
                     Triggerdic[instance[0]] = (instance[1].split()[0],instance[1].split()[1],instance[1].split()[2],instance[2])
 
             elif 'R' in instance[0]: #instance = ['R1', 'Relation Arg1:T30 Arg2:T25', '']
@@ -162,13 +164,8 @@ def main(config):
         # Num_of_entity += len(removed_Entdic)
         #################################################################################################################
 
-
-
-
-
         # pdb.set_trace()
         spmed = sp.EncodeAsPieces(text)
-
 
         if len(spmed[0]) == 1:
             spmed[0] = '[CLS]'
@@ -179,6 +176,50 @@ def main(config):
             kuttuki += 1
         spmed.append('[SEP]')
 
+        target_spm          = [] 
+        start_cnt = 0
+        end_cnt   = 0
+        for x, subword in enumerate(spmed[1:-1]):
+            end_cnt = len(subword)
+            target_spm.append((x, subword, start_cnt, start_cnt + end_cnt))
+            start_cnt += end_cnt
+
+
+        tokens = []
+        target_tokens = []
+        unit = ''
+        unit_total = 0
+        token_cnt = 0
+
+        # pdb.set_trace()
+        for character in text:
+            unit_flag = False
+            unit_total += 1
+            # pdb.set_trace()
+            for ent_match in Entdic.values():
+                if unit_total == int(ent_match[1]) or unit_total == int(ent_match[2]):
+                    unit_flag = True
+            # pdb.set_trace()
+            for trig_match in Triggerdic.values():
+                if unit_total == int(trig_match[1]) or unit_total == int(trig_match[2]):
+                    unit_flag = True
+            # pdb.set_trace()
+            for spm_match in target_spm:
+                if unit_total == spm_match[2] or unit_total == spm_match[3]:
+                    unit_flag = True
+
+            # pdb.set_trace()
+            unit += character
+            if unit_flag:
+                tokens.append(unit)
+                target_tokens.append((unit, token_cnt, token_cnt + len(unit)))
+                token_cnt += len(unit)
+                unit = ''
+
+        tokens.insert(0, '[CLS]')
+        tokens.append('[SEP]')
+
+        # pdb.set_trace()
 
         #Paddingは0で置き換え
         output_film_size1   = [0] * (max_length - 1)
@@ -188,17 +229,7 @@ def main(config):
 
         attention_mask      = [1] * len(spmed)
 
-
-        target_spm          = [] 
-        start_cnt = 0
-        end_cnt   = 0
-
-        for x, subword in enumerate(spmed[1:-1]):
-            end_cnt = len(subword)
-            target_spm.append((x, subword, start_cnt, start_cnt + end_cnt))
-            start_cnt += end_cnt
-        
-        for x1 in range(len(target_spm)):
+        for x1 in range(len(target_tokens)):
             x2 = x1 + 1
             x3 = x1 + 2
             x4 = x1 + 3
@@ -217,45 +248,55 @@ def main(config):
             output_film_size3[x1] = 0
             output_film_size4[x1] = 0
 
-            for k, v in Entdic.items():      #Entityの存在する部分にfilter毎に1を立てる
-                try:
 
-                    if target_spm[x1][2] == v[1] and target_spm[x1][3] == v[2]:
+            try:
+                if data_output_type == 'NEST_INNER':
+                    TARGET_DIC = Entdic
+                elif data_output_type == 'LARGE':
+                    TARGET_DIC = removed_Entdic
+                else:
+                    raise ValueError('Choose datatype')
+            except ValueError as e:
+                print(e)
+
+            for k, v in TARGET_DIC.items():      #Entityの存在する部分にfilter毎に1を立てる
+                try:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x1][2] == v[2]:
                         output_film_size1[x1] = 1
                         Numspan1 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x2][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x2][2] == v[2]:
                         output_film_size2[x1] = 1
                         Numspan2 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x3][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x3][2] == v[2]:
                         output_film_size3[x1] = 1
                         Numspan3 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x4][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x4][2] == v[2]:
                         output_film_size4[x1] = 1
                         Numspan4 += 1
 
 
-                    if target_spm[x1][2] == v[1] and target_spm[x5][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x5][2] == v[2]:
                         Numspan5 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x6][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x6][2] == v[2]:
                         Numspan6 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x7][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x7][2] == v[2]:
                         Numspan7 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x8][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x8][2] == v[2]:
                         Numspan8 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x9][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x9][2] == v[2]:
                         Numspan9 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x10][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x10][2] == v[2]:
                         Numspan10 += 1
 
-                    if target_spm[x1][2] == v[1] and target_spm[x11][3] == v[2]:
+                    if target_tokens[x1][1] == v[1] and target_tokens[x11][2] == v[2]:
                         Numspan11 += 1
 
                 except IndexError:
@@ -268,17 +309,17 @@ def main(config):
         output_film_size4.insert(0,0)
         # attention_mask[0] = 1
 
-        for i in range(max_length - len(spmed)):
-            spmed.append('[PAD]')
+        for i in range(max_length - len(tokens)):
+            tokens.append('[PAD]')
             attention_mask.append(0)
         # pdb.set_trace()
 
-        indx_tokens = [vocab[s] if s in vocab else vocab['<unk>'] for s in spmed]
+        indx_tokens = [vocab[s] if s in vocab else vocab['<unk>'] for s in tokens]
 
 
         # pdb.set_trace()
 
-        corpus.append((doc[0], indx_tokens, output_film_size1, output_film_size2, output_film_size3, output_film_size4, attention_mask, spmed, (n,doc,removed_Entdic, Reldic)))
+        corpus.append((doc[0], indx_tokens, output_film_size1, output_film_size2, output_film_size3, output_film_size4, attention_mask, tokens, (n,doc,removed_Entdic, Reldic)))
 
         Num_of_data += 1
         Numallspan = Numspan1 + Numspan2 + Numspan3 + Numspan4 + Numspan5 + Numspan6 + Numspan7 + Numspan8 + Numspan9 + Numspan10 + Numspan11
