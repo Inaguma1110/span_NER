@@ -17,8 +17,8 @@ import torch.utils.data as D
 
 import tensorboardX as tb
 
-from CNN import BERT_PRETRAINED_MODEL_JAPANESE, SPAN_CNN
-import pred2ann
+from model.CNN import BERT_PRETRAINED_MODEL_JAPANESE, SPAN_CNN
+from util import pred2ann
 
 
 config = configparser.ConfigParser()
