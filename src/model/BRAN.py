@@ -143,21 +143,6 @@ class RelationExtractionModule(nn.Module):
         self.Pooling_2        = nn.MaxPool1d(4, stride=2)
 
 
-    def make_entity_position(self, pred_pair_unit):
-        entity1_position_vec = torch.zeros(len(pred_pair_unit),1,self.max_sent_len)
-        entity2_position_vec = torch.zeros(len(pred_pair_unit),1,self.max_sent_len)
-        # pdb.set_trace() #TODO
-        for m, mini_batch in enumerate(pred_pair_unit):
-            for i, unit in enumerate(mini_batch):
-                entity_structure_num = unit[0]
-                entity_start_index = unit[1]
-                if i%2==0:
-                    entity1_position_vec[m,0,entity_start_index:entity_structure_num+entity_start_index] = 1
-                if i%2==1:
-                    entity2_position_vec[m,0,entity_start_index:entity_structure_num+entity_start_index] = 1
-        return entity1_position_vec, entity2_position_vec
-
-
     def forward(self, rel_word_x, data_unit_for_relation, dflag):
         rel_logits = []
         rel_labels = []
@@ -172,11 +157,6 @@ class RelationExtractionModule(nn.Module):
                     tail_span_size, tail_index = one_pair[0][1]
                     rel_label = torch.from_numpy(np.array(one_pair[1],dtype=np.int64)).to(device)
 
-                    # head_position_vec = torch.zeros(1,self.max_sent_len).to(rel_word_x)
-                    # tail_position_vec = torch.zeros(1,self.max_sent_len).to(rel_word_x)
-
-                    # head_position_vec[0,head_index:head_index+head_span_size] = 1
-                    # tail_position_vec[0,tail_index:tail_index+tail_span_size] = 1
 
                     headrep = rel_word_x[b].permute(1,0)[head_index:head_index+head_span_size].max(0)[0]
                     tailrep = rel_word_x[b].permute(1,0)[tail_index:tail_index+tail_span_size].max(0)[0]
@@ -249,10 +229,6 @@ class MyModel(nn.Module):
 
         for num in range(len(n_doc)):
             data_unit_for_relation.setdefault(num,[])
-        # unique_x             = torch.LongTensor([a[0] for a in data_unit_for_relation])
-        # rel_word_x           = torch.stack([a[1] for a in data_unit_for_relation], dim=0)
-        # rel_pred_x           = torch.LongTensor([a[2] for a in data_unit_for_relation])
-        # rel_y                = torch.LongTensor([a[3] for a in data_unit_for_relation]).to(device)
         return data_unit_for_relation
 
 
@@ -265,8 +241,6 @@ class MyModel(nn.Module):
         # betch_pair = self.make_pair(spans)
         data_unit_for_relation = self.make_pair(spans, n_doc, Relation_gold_learning_switch)
 
-        # if down_sampling_switch:
-        #     unique_x, rel_word_x, rel_pred_x, rel_y = self.downsampling(unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation)
 
         return self.ReModel(tokens, data_unit_for_relation, 0)
 
