@@ -258,41 +258,6 @@ class MyModel(nn.Module):
 
 
 
-
-    # def downsampling(self, unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation):
-    #     nonzero_indexes = rel_y.nonzero().squeeze().cpu().numpy().tolist()
-    #     if type(nonzero_indexes) == int:
-    #         nonzero_indexes = [nonzero_indexes]
-    #     # pdb.set_trace()
-    #     zero_indexes = []
-    #     for index in range(0,len(rel_y)):
-    #         if index in nonzero_indexes or index == nonzero_indexes:
-    #             pass
-    #         else:
-    #             zero_indexes.append(index)
-    #     zero_indexes = random.sample(zero_indexes, int(float(len(nonzero_indexes)*self.down_sampling_rate)))
-    #     unique_x_list = []
-    #     rel_word_x_list = []
-    #     rel_pred_x_list = []
-    #     rel_y_list = []
-    #     for c in range(0,len(data_unit_for_relation)):
-    #         if c in nonzero_indexes or c in zero_indexes:
-    #             unique_x_list.append(data_unit_for_relation[c][0])
-    #             rel_word_x_list.append(data_unit_for_relation[c][1])
-    #             rel_pred_x_list.append(data_unit_for_relation[c][2])
-    #             rel_y_list.append(data_unit_for_relation[c][3])
-
-    #     try:
-    #         unique_x = torch.LongTensor(unique_x_list).to(device)
-    #         rel_word_x = torch.stack(rel_word_x_list, dim=0)
-    #         rel_pred_x = torch.LongTensor(rel_pred_x_list).to(device)
-    #         rel_y = torch.LongTensor(rel_y_list).to(device)
-    #     except:
-    #         pass
-    #     # pdb.set_trace()
-    #     return unique_x, rel_word_x, rel_pred_x, rel_y
-
-
     def pred_span_entity(self, tokens):
         return self.NerModel(tokens)
 

@@ -55,7 +55,7 @@ def get_key_from_value(d, val):
 def joint_switch_controll(epoch, switches):
     global desc_tr, desc_dev, Relation_gold_learning_switch
 
-    if epoch == 100:
+    if epoch == 10:
         # if epoch == int(config.get('main', 'START_RELATION_EPOCH')):
         print(str("#" * 80) + '  Start Joint Learning  ' + str("#" * 90), end='\n')
         switches['NER_RE_switch'] = "Joint"
