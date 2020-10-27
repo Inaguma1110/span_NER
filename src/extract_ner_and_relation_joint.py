@@ -152,7 +152,6 @@ else:
     writer = 0
 # model_writer = SummaryWriter()
 
-pdb.set_trace()
 
 print('\nCreate data...')
 database = shelve.open(config.get('path', 'SHELVE_PATH'))
@@ -257,7 +256,7 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
                 answers_spans[s_x].append(y_spans.permute(1,0,2)[s_x])
 
         if switches['NER_RE_switch'] == 'RE':
-            relation_logit, rel_pred_x, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            relation_logit, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             loss_relation = loss_function_relation(relation_logit, rel_y)
             sum_loss_relation += loss_relation
             all_loss += loss_relation
@@ -265,7 +264,7 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             answers_relation.append(rel_y)
 
         if switches['NER_RE_switch'] == 'Joint':
-            logits_spans, relation_logit, rel_pred_x, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            logits_spans, relation_logit, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             for s_x in range(span_size):
                 loss_span = loss_functions[s_x](logits_spans[s_x], y_spans.permute(1,0,2)[s_x])
                 sum_losses[s_x] += loss_span

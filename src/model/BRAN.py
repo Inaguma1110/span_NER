@@ -158,31 +158,43 @@ class RelationExtractionModule(nn.Module):
         return entity1_position_vec, entity2_position_vec
 
 
-    def forward(self, rel_word_x, pred_pair_unit, dflag):
-        pdb.set_trace()
-        entity1_position_vec, entity2_position_vec = self.make_entity_position(pred_pair_unit)
-        entity1_position_vec, entity2_position_vec = map(lambda x: x.to(rel_word_x), [entity1_position_vec, entity2_position_vec])
-        h_conv1_entity = torch.cat([rel_word_x, entity1_position_vec, entity2_position_vec],dim=1) #(b_size, hidden_dim, max_sent_len)
-        # rel_word_x = F.dropout(self.linear0(rel_word_x.transpose(-1,-2)),0.2).transpose(-1,-2)
-
+    def forward(self, rel_word_x, data_unit_for_relation, dflag):
+        rel_logits = []
+        rel_labels = []
         rel_word_x = F.dropout(rel_word_x, 0.2) #[num_pair, D, seq_len]
         rel_word_x = F.relu(self.rel_conv(rel_word_x)) + rel_word_x #[num_pair, D, seq_len]
         rel_word_x = F.relu(self.rel_conv2(rel_word_x)) + rel_word_x #[num_pair, D, seq_len]
 
+        for b, pair_list in data_unit_for_relation.items():
+            if len(pair_list) > 0:
+                for one_pair in pair_list:
+                    head_span_size, head_index = one_pair[0][0]
+                    tail_span_size, tail_index = one_pair[0][1]
+                    rel_label = torch.from_numpy(np.array(one_pair[1],dtype=np.int64)).to(device)
 
+                    # head_position_vec = torch.zeros(1,self.max_sent_len).to(rel_word_x)
+                    # tail_position_vec = torch.zeros(1,self.max_sent_len).to(rel_word_x)
 
+                    # head_position_vec[0,head_index:head_index+head_span_size] = 1
+                    # tail_position_vec[0,tail_index:tail_index+tail_span_size] = 1
 
-        head = (entity1_position_vec*rel_word_x).max(-1)[0] #[num_pair, D]
-        tail = (entity2_position_vec*rel_word_x).max(-1)[0] #[num_pair, D]
+                    headrep = rel_word_x[b].permute(1,0)[head_index:head_index+head_span_size].max(0)[0]
+                    tailrep = rel_word_x[b].permute(1,0)[tail_index:tail_index+tail_span_size].max(0)[0]
 
-        maxed = head+tail #[num_pair, D]
-        maxed = F.relu(self.linear1(maxed))
-        maxed = F.relu(self.linear2(maxed))
+                    maxed = headrep+tailrep
+                    maxed = F.relu(self.linear1(maxed))
+                    maxed = F.relu(self.linear2(maxed))
 
-        maxed = F.dropout(maxed,0.5)
-        rel_logits = self.rel_linear(maxed)
-
-        return rel_logits
+                    maxed = F.dropout(maxed,0.5)
+                    rel_logit = self.rel_linear(maxed)
+                    rel_logits.append(rel_logit)
+                    rel_labels.append(rel_label)
+            else:
+                pass
+        # rel_word_x = F.dropout(self.linear0(rel_word_x.transpose(-1,-2)),0.2).transpose(-1,-2)
+        rel_logits = torch.stack(tuple(rel_logits),dim=0)
+        rel_labels = torch.stack(tuple(rel_labels),dim=0)
+        return rel_logits, rel_labels
 
 
 
@@ -208,8 +220,9 @@ class MyModel(nn.Module):
         self.dropout      = nn.Dropout(p=0.5)
         self.softmax      = nn.Softmax(dim = 2)
 
-    def make_pair(self, tokens, spans, n_doc, Relation_gold_learning_switch):
-        pdb.set_trace()
+    def make_pair(self, spans, n_doc, Relation_gold_learning_switch):
+        n_doc = n_doc.to('cpu').detach().numpy().copy().squeeze()
+
         if not Relation_gold_learning_switch: # NERの結果を使ってREの学習を行うとき
             predicts_spans = torch.max(spans, dim=1)[1]
             pairs_list_per_batch = PairsModule(predicts_spans).make_pair()
@@ -217,80 +230,86 @@ class MyModel(nn.Module):
         if Relation_gold_learning_switch:  #NERの結果を使わずにgoldで学習するとき
             pairs_list_per_batch = PairsModule(spans).make_pair()
 
-
-        data_unit_for_relation = []
-        dict_unit_for_relation = {0:0,1:0,2:0,3:0,4:0,5:0}
+        data_unit_for_relation = defaultdict(list)
+        num_relation = {0:0,1:0,2:0,3:0,4:0,5:0}
         for number_in_minibatch, unique_number in enumerate(n_doc):
             pred_pairs = pairs_list_per_batch[number_in_minibatch]
             gold_pairs = self.REL_LABEL_DICT[unique_number.item()]
             for pred_pair_unit in pred_pairs:
                 rel_label_index = self.rel_dic["None"]
+                relation_entity_all_label = ()
                 for gold_pair_unit in gold_pairs:
                     shaped_gold_unit = [(gold_pair_unit[1][0][0],gold_pair_unit[1][0][1][0]),(gold_pair_unit[1][1][0],gold_pair_unit[1][1][1][0])]
                     if set(pred_pair_unit) == set(shaped_gold_unit):
                         rel_label_index = gold_pair_unit[0]
                         # rel_label_index = 1
-                        dict_unit_for_relation[rel_label_index] += 1
-                relation_entity_all_label = (unique_number, tokens[number_in_minibatch], pred_pair_unit, rel_label_index)
-                data_unit_for_relation.append(relation_entity_all_label)
-        pdb.set_trace()
-        unique_x             = torch.LongTensor([a[0] for a in data_unit_for_relation])
-        rel_word_x           = torch.stack([a[1] for a in data_unit_for_relation], dim=0)
-        rel_pred_x           = torch.LongTensor([a[2] for a in data_unit_for_relation])
-        rel_y                = torch.LongTensor([a[3] for a in data_unit_for_relation]).to(device)
-        return unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation
+                        num_relation[rel_label_index] += 1
+                relation_entity_all_label = (pred_pair_unit, rel_label_index)
+                data_unit_for_relation[number_in_minibatch].append(relation_entity_all_label)
+
+        for num in range(len(n_doc)):
+            data_unit_for_relation.setdefault(num,[])
+        # unique_x             = torch.LongTensor([a[0] for a in data_unit_for_relation])
+        # rel_word_x           = torch.stack([a[1] for a in data_unit_for_relation], dim=0)
+        # rel_pred_x           = torch.LongTensor([a[2] for a in data_unit_for_relation])
+        # rel_y                = torch.LongTensor([a[3] for a in data_unit_for_relation]).to(device)
+        return data_unit_for_relation
 
 
-    def downsampling(self, unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation):
-        nonzero_indexes = rel_y.nonzero().squeeze().cpu().numpy().tolist()
-        if type(nonzero_indexes) == int:
-            nonzero_indexes = [nonzero_indexes]
-        # pdb.set_trace()
-        zero_indexes = []
-        for index in range(0,len(rel_y)):
-            if index in nonzero_indexes or index == nonzero_indexes:
-                pass
-            else:
-                zero_indexes.append(index)
-        zero_indexes = random.sample(zero_indexes, int(float(len(nonzero_indexes)*self.down_sampling_rate)))
-        unique_x_list = []
-        rel_word_x_list = []
-        rel_pred_x_list = []
-        rel_y_list = []
-        for c in range(0,len(data_unit_for_relation)):
-            if c in nonzero_indexes or c in zero_indexes:
-                unique_x_list.append(data_unit_for_relation[c][0])
-                rel_word_x_list.append(data_unit_for_relation[c][1])
-                rel_pred_x_list.append(data_unit_for_relation[c][2])
-                rel_y_list.append(data_unit_for_relation[c][3])
 
-        try:
-            unique_x = torch.LongTensor(unique_x_list).to(device)
-            rel_word_x = torch.stack(rel_word_x_list, dim=0)
-            rel_pred_x = torch.LongTensor(rel_pred_x_list).to(device)
-            rel_y = torch.LongTensor(rel_y_list).to(device)
-        except:
-            pass
-        # pdb.set_trace()
-        return unique_x, rel_word_x, rel_pred_x, rel_y
+
+
+    # def downsampling(self, unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation):
+    #     nonzero_indexes = rel_y.nonzero().squeeze().cpu().numpy().tolist()
+    #     if type(nonzero_indexes) == int:
+    #         nonzero_indexes = [nonzero_indexes]
+    #     # pdb.set_trace()
+    #     zero_indexes = []
+    #     for index in range(0,len(rel_y)):
+    #         if index in nonzero_indexes or index == nonzero_indexes:
+    #             pass
+    #         else:
+    #             zero_indexes.append(index)
+    #     zero_indexes = random.sample(zero_indexes, int(float(len(nonzero_indexes)*self.down_sampling_rate)))
+    #     unique_x_list = []
+    #     rel_word_x_list = []
+    #     rel_pred_x_list = []
+    #     rel_y_list = []
+    #     for c in range(0,len(data_unit_for_relation)):
+    #         if c in nonzero_indexes or c in zero_indexes:
+    #             unique_x_list.append(data_unit_for_relation[c][0])
+    #             rel_word_x_list.append(data_unit_for_relation[c][1])
+    #             rel_pred_x_list.append(data_unit_for_relation[c][2])
+    #             rel_y_list.append(data_unit_for_relation[c][3])
+
+    #     try:
+    #         unique_x = torch.LongTensor(unique_x_list).to(device)
+    #         rel_word_x = torch.stack(rel_word_x_list, dim=0)
+    #         rel_pred_x = torch.LongTensor(rel_pred_x_list).to(device)
+    #         rel_y = torch.LongTensor(rel_y_list).to(device)
+    #     except:
+    #         pass
+    #     # pdb.set_trace()
+    #     return unique_x, rel_word_x, rel_pred_x, rel_y
 
 
     def pred_span_entity(self, tokens):
         return self.NerModel(tokens)
 
     def pred_relation(self, tokens, spans, n_doc, down_sampling_switch, Relation_gold_learning_switch):
-        unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation = self.make_pair(tokens, spans, n_doc, Relation_gold_learning_switch)
-        if down_sampling_switch:
-            unique_x, rel_word_x, rel_pred_x, rel_y = self.downsampling(unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation)
+        # betch_pair = self.make_pair(spans)
+        data_unit_for_relation = self.make_pair(spans, n_doc, Relation_gold_learning_switch)
 
-        return self.ReModel(rel_word_x, rel_pred_x, 0), rel_pred_x, rel_y
+        # if down_sampling_switch:
+        #     unique_x, rel_word_x, rel_pred_x, rel_y = self.downsampling(unique_x, rel_word_x, rel_pred_x, rel_y, data_unit_for_relation)
+
+        return self.ReModel(tokens, data_unit_for_relation, 0)
 
 
 
     def forward(self, n_doc, tokens_tensor, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop):
         ###  SHARE PART ###
         # self.pretrained_BERT_model.eval()
-        pdb.set_trace()
         with torch.no_grad():
             all_encoder_layers = self.bert_model(tokens_tensor, attention_mask=attention_mask)
 
@@ -318,13 +337,12 @@ class MyModel(nn.Module):
 
         ### RE Part ###
         if NER_RE_switch == "RE": #Relationの学習のみを行う場合
-            pdb.set_trace()
             y_spans = nest_cut(y_spans,self.span_size)
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag Relationだけの学習を行う=Goldで学習する
-                Re_tag, rel_pred_x, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
             else:
                 raise ValueError("Relation gold learning switch is OFF")
-            return Re_tag, rel_pred_x, Rel_label
+            return Re_tag, Rel_label
 
 
 
@@ -333,9 +351,9 @@ class MyModel(nn.Module):
             logits_spans = self.pred_span_entity(h_conv)
 
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag
-                Re_tag, rel_pred_x, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
             else:
-                Re_tag, rel_pred_x, Rel_label = self.pred_relation(h_conv, logits_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(h_conv, logits_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
 
-            return logits_spans, Re_tag, rel_pred_x, Rel_label
+            return logits_spans, Re_tag, Rel_label
 
