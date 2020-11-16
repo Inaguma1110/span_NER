@@ -185,7 +185,7 @@ class RelationExtractionModule(nn.Module):
         
         rel_logits = torch.stack(tuple(rel_logits),dim=0)
         rel_labels = torch.stack(tuple(rel_labels),dim=0)
-        return rel_logits, rel_labels
+        return rel_logits, trig_attn, rel_labels
 
 class TriggerAttentionLoss(nn.Module):
     def __init__(self, embedding_dim, window_size, hidden_dim):
@@ -313,10 +313,10 @@ class MyModel(nn.Module):
 
             y_spans = nest_cut(y_spans,self.span_size)
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag Relationだけの学習を行う=Goldで学習する
-                Re_tag, Rel_label = self.pred_relation(hidden, y_spans, n_doc, trigger_vecs, trig_attn, Relation_gold_learning_switch)
+                re_tag, trig_attn, re_label = self.pred_relation(hidden, y_spans, n_doc, trigger_vecs, trig_attn, Relation_gold_learning_switch)
             else:
                 raise ValueError("Relation gold learning switch is OFF")
-            return Re_tag, Rel_label
+            return re_tag, trig_attn, re_label
 
 
 
@@ -325,9 +325,9 @@ class MyModel(nn.Module):
             logits_spans = self.pred_span_entity(h_conv)
 
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag
-                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, Relation_gold_learning_switch)
+                re_tag, trig_attn, re_label = self.pred_relation(h_conv, y_spans, n_doc, Relation_gold_learning_switch)
             else:
-                Re_tag, Rel_label = self.pred_relation(h_conv, logits_spans, n_doc, Relation_gold_learning_switch)
+                re_tag, trig_attn, re_label = self.pred_relation(h_conv, logits_spans, n_doc, Relation_gold_learning_switch)
 
-            return logits_spans, Re_tag, Rel_label
+            return logits_spans, re_tag, trig_attn, re_label
 

@@ -213,6 +213,17 @@ if scheduler_switch:
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min')
 
 
+
+
+#TODO
+attention_dict = shelve.open('../attention_viewing/attention_dict')
+
+
+
+
+
+
+
 def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_training):
     NER_best_scores, best_average_score, best_re_score = scores
     NER_RE_switch = switches['NER_RE_switch']
@@ -258,15 +269,18 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
                 answers_spans[s_x].append(y_spans.permute(1,0,2)[s_x])
 
         if switches['NER_RE_switch'] == 'RE':
-            relation_logit, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            relation_logit, trig_attn, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             loss_relation = loss_function_relation(relation_logit, rel_y)
             sum_loss_relation += loss_relation
             all_loss += loss_relation
             predicts_relation.append(torch.max(relation_logit, 1)[1])
             answers_relation.append(rel_y)
 
+
+            attention_dict[str(i)] = (n_doc, words, trig_attn)
+
         if switches['NER_RE_switch'] == 'Joint':
-            logits_spans, relation_logit, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            logits_spans, relation_logit, trig_attn, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             for s_x in range(span_size):
                 loss_span = loss_functions[s_x](logits_spans[s_x], y_spans.permute(1,0,2)[s_x])
                 sum_losses[s_x] += loss_span
@@ -280,7 +294,6 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             all_loss += loss_relation
             predicts_relation.append(torch.max(relation_logit, 1)[1])
             answers_relation.append(rel_y)
-
 
 
         if is_training:
@@ -366,6 +379,7 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             best_re_score[1] = epoch
         print('best ' + desc + 'RE score/epoch is {0} / {1}\n'.format(best_re_score[0], best_re_score[1]))
         
+        attention_dict.close()
     return [NER_best_scores, best_average_score, best_re_score]
 
 
@@ -373,6 +387,8 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
 
 start = time.time()
 rel_ann_dict = defaultdict(list)
+
+
 
 
 tr_NER_best_scores = [[-1,0] for _ in range(span_size)]
