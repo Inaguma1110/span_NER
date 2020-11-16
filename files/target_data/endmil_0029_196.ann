@@ -1,0 +1,20 @@
+T560	Machining 12 16	ダイス鋼
+T561	Machining 17 23	コーティング
+T562	Machining 23 30	超硬エンドミル
+T563	Machining 32 36	切削速度
+R131	Relation Arg1:T563 Arg2:T565
+T564	Machining 58 60	切削
+T565	Machining 65 68	被削面
+T566	Machining 83 87	切削速度
+T2471	Machining 23 25	超硬
+T2472	Machining 25 30	エンドミル
+T2473	Machining 32 34	切削
+T2474	Machining 34 36	速度
+T2475	Quantity 36 38	20
+T2476	Unit 38 43	ｍ／ｍｉｎ
+T2477	Quantity 44 47	150
+T2478	Unit 47 52	ｍ／ｍｉｎ
+T2479	Quantity 87 90	150
+T2480	Unit 90 95	ｍ／ｍｉｎ
+T2481	Machining 83 85	切削
+T2482	Machining 85 87	速度

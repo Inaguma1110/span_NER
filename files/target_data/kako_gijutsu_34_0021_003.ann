@@ -1,0 +1,14 @@
+T23	Machining 10 13	切込み
+R4	Relation Arg1:T23 Arg2:T33
+T24	Machining 57 60	切込み
+R5	Relation Arg1:T24 Arg2:T34
+T25	Machining 90 92	送り
+T26	Machining 90 93	送り量
+R6	Relation Arg1:T26 Arg2:T34
+T33	Machining 23 28	再生びびり
+T34	Machining 65 70	再生びびり
+T35	Machining 67 70	びびり
+T36	Machining 25 28	びびり
+T37	Machining 48 51	びびり
+T38	Machining 3 6	びびり
+T40	Machining 48 53	びびり限界

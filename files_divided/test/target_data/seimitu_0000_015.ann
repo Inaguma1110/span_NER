@@ -1,0 +1,4 @@
+T38	Machining 2 6	すくい角
+R10	NegativeLinear Arg1:T38 Arg2:T39
+T39	Machining 10 13	切削角
+T1805	Machining 14 26	ｃｕｔｔｉｎｇａｎｇｌｅ

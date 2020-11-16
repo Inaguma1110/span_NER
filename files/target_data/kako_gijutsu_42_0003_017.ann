@@ -1,0 +1,6 @@
+T22	Machining 3 9	エンゲージ角
+R6	Relation Arg1:T22 Arg2:T24
+T23	Machining 3 8	エンゲージ
+T24	Machining 13 17	工具寿命
+T25	Machining 13 15	工具
+T137	Machining 15 17	寿命

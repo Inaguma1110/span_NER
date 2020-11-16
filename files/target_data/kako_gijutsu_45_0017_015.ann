@@ -1,0 +1,12 @@
+T43	Machining 10 13	親和性
+T44	Machining 16 21	サーメット
+T45	Machining 41 46	サーメット
+R24	Relation Arg1:T45 Arg2:T85
+T46	Machining 57 60	仕上げ
+T47	Machining 57 62	仕上げ切削
+T48	Machining 60 62	切削
+T82	Machining 2 7	ステンレス
+T83	Machining 30 32	刃先
+T85	Machining 33 38	絶対的強度
+T86	Machining 48 53	ステンレス
+T96	Machining 36 38	強度

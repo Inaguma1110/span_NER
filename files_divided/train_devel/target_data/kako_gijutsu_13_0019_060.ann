@@ -1,0 +1,6 @@
+T160	Machining 10 17	Al_2O_3
+T161	Machining 21 23	硬度
+T162	Machining 36 38	摩耗
+T1283	Machining 20 26	高硬度介在物
+R35	Relation Arg1:T1283 Arg2:T162
+T1920	Machining 23 26	介在物

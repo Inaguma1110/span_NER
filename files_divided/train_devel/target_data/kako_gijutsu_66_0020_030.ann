@@ -1,0 +1,15 @@
+T132	Machining 2 4	切削
+T133	Machining 19 21	送り
+T134	Machining 19 22	送り量
+R31	Relation Arg1:T134 Arg2:T181
+R34	Relation Arg1:T134 Arg2:T184
+T135	Machining 29 31	工具
+T181	Machining 2 9	切削時の振動音
+T182	Machining 29 34	工具の振れ
+R32	Relation Arg1:T182 Arg2:T181
+R35	Relation Arg1:T182 Arg2:T184
+T183	Machining 35 39	突出し量
+R33	Relation Arg1:T183 Arg2:T181
+R36	Relation Arg1:T183 Arg2:T184
+T204	Machining 6 8	振動
+T220	Machining 35 38	突出し

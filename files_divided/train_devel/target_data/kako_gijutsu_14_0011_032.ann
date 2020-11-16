@@ -1,0 +1,11 @@
+T175	Machining 2 5	工具材
+R17	Relation Arg1:T175 Arg2:T177
+T177	Machining 6 14	切削仕上げ面粗さ
+T178	Machining 6 12	切削仕上げ面
+T179	Machining 6 8	切削
+T181	Machining 8 12	仕上げ面
+T183	Machining 29 31	切削
+T1270	Machining 27 31	低速切削
+T295	Machining 8 11	仕上げ
+T1446	Machining 12 14	粗さ
+T1542	Machining 27 29	低速

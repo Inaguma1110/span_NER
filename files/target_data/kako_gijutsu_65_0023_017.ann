@@ -1,0 +1,6 @@
+T111	Machining 32 34	加工
+T254	Machining 4 23	ソリューブルおよびソリュージョン形油剤
+R40	Sub Arg1:T254 Arg2:T252
+T258	Machining 30 34	研削加工
+T279	Machining 21 23	油剤
+T359	Machining 30 32	研削

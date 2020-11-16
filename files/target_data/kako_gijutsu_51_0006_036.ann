@@ -1,0 +1,8 @@
+T103	Machining 10 14	切りくず
+T105	Machining 38 42	切りくず
+T106	Machining 38 44	切りくず排出
+T144	Machining 10 18	切りくずポケット
+R9	Relation Arg1:T144 Arg2:T145
+T145	Machining 38 45	切りくず排出性
+T173	Machining 27 29	深溝
+R29	Relation Arg1:T173 Arg2:T145

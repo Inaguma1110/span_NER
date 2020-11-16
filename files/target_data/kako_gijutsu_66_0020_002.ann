@@ -1,0 +1,8 @@
+T12	Machining 0 4	切削条件
+T13	Machining 0 2	切削
+T14	Machining 8 11	被削材
+R10	Relation Arg1:T14 Arg2:T12
+T15	Machining 15 17	工具
+R12	Relation Arg1:T15 Arg2:T12
+T159	Machining 12 14	機械
+R11	Relation Arg1:T159 Arg2:T12

@@ -1,0 +1,11 @@
+T29	Machining 4 8	すくい角
+T30	Machining 19 22	切れ刃
+T31	Machining 26 29	溝加工
+R22	Relation Arg1:T31 Arg2:T146
+T32	Machining 26 27	溝
+T33	Machining 27 29	加工
+T34	Machining 37 39	加工
+T159	Machining 35 39	段差加工
+R24	Relation Arg1:T159 Arg2:T146
+T160	Machining 31 34	幅決め
+R23	Relation Arg1:T160 Arg2:T146

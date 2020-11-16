@@ -1,0 +1,6 @@
+T1097	Machining 22 24	応力
+T1098	Machining 25 29	切削条件
+T1099	Machining 25 27	切削
+T1234	Machining 18 24	表層残留応力
+R152	Relation Arg1:T1234 Arg2:T1098
+T1616	Machining 20 22	残留

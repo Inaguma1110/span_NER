@@ -1,0 +1,21 @@
+T75	Machining 0 7	チップポケット
+R15	Positive Arg1:T75 Arg2:T77
+R16	Negative Arg1:T75 Arg2:T78
+R17	Negative Arg1:T75 Arg2:T79
+R12	Positive Arg1:T75 Arg2:T4890
+T76	Machining 15 19	切りくず
+T77	Machining 32 35	切込み
+T78	Machining 48 53	工具断面積
+T79	Machining 60 64	工具剛性
+T1815	Machining 0 3	チップ
+T1816	Machining 60 62	工具
+T1817	Machining 62 64	剛性
+T4199	Machining 48 50	工具
+T4458	Trigger 8 13	大きくする
+T4459	Trigger 25 27	増大
+T4460	Trigger 36 38	可能
+T4461	Trigger 54 59	小さくなり
+T4462	Trigger 65 67	低下
+T4888	Machining 20 22	収容
+T4889	Machining 22 24	能力
+T4890	Machining 20 24	収容能力

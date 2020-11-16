@@ -1,0 +1,9 @@
+T1315	Machining 9 13	切削油剤
+T1316	Machining 20 22	加工
+T3482	Machining 3 5	溶着
+R676	Relation Arg1:T3482 Arg2:T1315
+R677	Relation Arg1:T3482 Arg2:T3485
+T3483	Machining 9 11	切削
+T3484	Machining 11 13	油剤
+T3485	Machining 17 22	ＭＱＬ加工
+T3486	Machining 17 20	ＭＱＬ

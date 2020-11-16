@@ -1,0 +1,15 @@
+T287	Machining 32 34	振動
+R37	Positive Arg1:T287 Arg2:T288
+T288	Machining 63 67	振動変形
+T475	Machining 63 65	振動
+T476	Machining 65 67	変形
+T518	Machining 26 29	周波数
+T520	Quantity 0 2	数百
+T521	Unit 2 4	Hz
+T522	Quantity 6 7	数
+T523	Unit 7 11	キロHz
+T524	Quantity 14 15	十
+T525	Unit 15 19	キロHz
+T597	Machining 35 37	波動
+T623	Trigger 68 73	引き起こす
+T633	Trigger 25 31	高周波数範囲

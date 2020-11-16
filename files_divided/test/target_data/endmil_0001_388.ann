@@ -1,0 +1,15 @@
+T1170	Machining 32 37	切込み深さ
+T1171	Machining 40 43	送り量
+T1172	Machining 45 47	切削
+T1173	Machining 76 81	切取り厚さ
+T3297	Machining 0 7	スクエアタイプ
+T3298	Machining 8 15	ラジアスタイプ
+T3299	Machining 32 35	切込み
+T3300	Machining 35 37	深さ
+T3301	Machining 40 42	送り
+T3302	Machining 54 60	切り取り厚さ
+T3303	Machining 54 58	切り取り
+T3304	Machining 58 60	厚さ
+T3305	Machining 65 72	ラジアスタイプ
+T3306	Machining 76 79	切取り
+T3307	Machining 79 81	厚さ

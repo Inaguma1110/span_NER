@@ -1,0 +1,8 @@
+T1047	Machining 5 9	ねじれ角
+R312	Negative Arg1:T1047 Arg2:T1048
+R644	Negative Arg1:T1047 Arg2:T3156
+T1048	Machining 21 24	コーナ
+T3156	Machining 32 34	強度
+T4715	Trigger 10 15	大きくなれ
+T4716	Trigger 27 29	鋭利
+T4717	Trigger 35 37	低下

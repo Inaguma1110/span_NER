@@ -1,0 +1,8 @@
+T918	Machining 11 15	切削温度
+T919	Machining 11 13	切削
+T920	Machining 13 15	温度
+T921	Machining 17 20	被削材
+T1398	Machining 17 23	被削材の強度
+R109	Linear Arg1:T1398 Arg2:T918
+T1505	Variable 15 16	θ
+T1610	Machining 21 23	強度

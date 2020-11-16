@@ -1,0 +1,5 @@
+T422	Machining 2 4	応力
+T423	Machining 20 23	切込み
+T424	Machining 24 26	切削
+T1000	Machining 0 4	残留応力
+T1295	Machining 0 2	残留

@@ -1,0 +1,7 @@
+T658	Machining 5 9	S55C
+T659	Machining 10 12	送り
+T660	Machining 10 13	送り量
+R66	Relation Arg1:T660 Arg2:T661
+T661	Machining 14 18	切削温度
+T662	Machining 14 16	切削
+T663	Machining 16 18	温度

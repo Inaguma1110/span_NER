@@ -1,0 +1,22 @@
+T1174	Machining 29 33	すくい角
+T1175	Machining 72 76	切りくず
+R346	Positive Arg1:T1175 Arg2:T1177
+T1176	Machining 86 90	切削抵抗
+R345	Positive Arg1:T1176 Arg2:T1177
+T1177	Machining 126 129	送り量
+T3308	Machining 5 12	ラジアスタイプ
+T3309	Machining 16 23	アキシャル方向
+T3310	Machining 16 21	アキシャル
+T3311	Machining 24 27	軸方向
+T3312	Machining 24 25	軸
+T3313	Machining 43 47	ねじれ刃
+T3314	Machining 57 61	ねじれ刃
+T3315	Machining 77 79	生成
+T3316	Machining 86 88	切削
+T3317	Machining 88 90	抵抗
+T3318	Machining 94 96	分力
+T3319	Machining 121 122	刃
+T3320	Machining 126 128	送り
+T4746	Trigger 77 79	生成
+T4747	Trigger 91 93	分散
+T4748	Trigger 130 135	高められる

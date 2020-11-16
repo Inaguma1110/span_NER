@@ -1,0 +1,7 @@
+T96	Machining 0 3	切込み
+T780	Variable 3 4	a
+T781	Quantity 5 6	１
+T782	Quantity 7 10	0.5
+T783	Quantity 11 15	0.25
+T784	Quantity 16 19	0.1
+T785	Unit 19 21	mm

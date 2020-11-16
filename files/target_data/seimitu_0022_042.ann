@@ -1,0 +1,18 @@
+T139	Machining 2 6	せん断型
+R659	Relation Arg1:T139 Arg2:T149
+T140	Machining 28 33	せん断破壊
+T141	Machining 43 45	切削
+R36	Positive Arg1:T141 Arg2:T142
+T142	Machining 53 57	切りくず
+T143	Machining 63 67	切りくず
+R62	Relation Arg1:T143 Arg2:T144
+T144	Machining 72 77	せん断破壊
+T1853	Machining 28 31	せん断
+T1854	Machining 31 33	破壊
+T1856	Machining 72 75	せん断
+T1857	Machining 75 77	破壊
+T1858	Machining 40 42	材料
+T3237	Machining 21 23	延性
+T3244	Machining 7 16	ｓｈｅａｒｔｙｐｅ
+T3803	Trigger 45 47	する
+T3804	Trigger 49 53	見られる

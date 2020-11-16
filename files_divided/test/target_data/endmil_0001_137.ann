@@ -1,0 +1,8 @@
+T360	Machining 0 2	亀裂
+R78	Negative Arg1:T360 Arg2:T362
+T361	Machining 3 6	加工面
+T362	Machining 18 21	加工面
+T4235	Machining 3 5	加工
+T4236	Machining 18 20	加工
+T4515	Trigger 8 17	深いところまで及ぶ
+T4516	Trigger 25 27	悪化

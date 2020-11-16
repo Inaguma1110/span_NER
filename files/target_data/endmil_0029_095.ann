@@ -1,0 +1,16 @@
+T2079	Machining 10 14	蒸発金属
+R774	Relation Arg1:T2079 Arg2:T2084
+R775	Relation Arg1:T2079 Arg2:T2085
+T2080	Machining 10 12	蒸発
+T2081	Machining 12 14	金属
+T2082	Machining 19 21	Ｔｉ
+R773	Sub Arg1:T2082 Arg2:T2079
+T2084	Machining 46 48	溶解
+T2085	Machining 48 50	蒸発
+T4213	Machining 53 57	反応ガス
+T4214	Machining 58 60	Ｎ2
+R777	Sub Arg1:T4214 Arg2:T4213
+T4215	Machining 61 64	ＣＨ4
+R776	Sub Arg1:T4215 Arg2:T4213
+T4216	Machining 29 34	特殊電子銃
+T4217	Machining 37 42	電子ビーム

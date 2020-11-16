@@ -1,0 +1,12 @@
+T440	Machining 4 6	硬さ
+T441	Machining 7 9	靭性
+T442	Machining 12 15	加工性
+T443	Machining 16 18	切削
+T445	Machining 51 53	超硬
+T446	Machining 51 55	超硬合金
+T447	Machining 56 59	TiN
+T448	Machining 60 66	コーティング
+T449	Machining 69 74	TiAlN
+T450	Machining 75 81	コーティング
+T444	Machining 47 55	超微粒子超硬合金
+T670	Machining 53 55	合金

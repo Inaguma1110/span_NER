@@ -1,0 +1,11 @@
+T15	Machining 22 26	工具摩耗
+R3	Relation Arg1:T15 Arg2:T8
+T16	Machining 22 24	工具
+T17	Machining 24 26	摩耗
+T18	Machining 27 31	構成刃先
+R4	Relation Arg1:T18 Arg2:T8
+T19	Machining 35 37	切削
+T20	Machining 35 39	切削油剤
+R5	Relation Arg1:T20 Arg2:T8
+T194	Machining 29 31	刃先
+T195	Machining 37 39	油剤

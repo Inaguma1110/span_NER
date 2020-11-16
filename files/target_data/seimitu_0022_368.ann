@@ -1,0 +1,10 @@
+T1317	Machining 5 7	工具
+T1318	Machining 14 16	工具
+T2770	Machining 0 2	硬脆
+T2771	Machining 2 4	材料
+T2772	Machining 10 13	焼結系
+R607	Sub Arg1:T2772 Arg2:T3023
+R608	Relation Arg1:T2772 Arg2:T3601
+T3023	Machining 0 4	硬脆材料
+T3601	Machining 24 26	欠陥
+R609	Relation Arg1:T3601 Arg2:T1319

@@ -1,0 +1,5 @@
+T125	Machining 4 8	すくい角
+R22	Relation Arg1:T125 Arg2:T126
+T126	Machining 9 13	工具寿命
+T127	Machining 9 11	工具
+T913	Machining 11 13	寿命

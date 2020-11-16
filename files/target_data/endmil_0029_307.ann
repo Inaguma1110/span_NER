@@ -1,0 +1,31 @@
+T912	Machining 0 4	潤滑効果
+R266	Negative Arg1:T912 Arg2:T920
+R267	Negative Arg1:T912 Arg2:T921
+R268	Positive Arg1:T912 Arg2:T922
+R269	Negative Arg1:T912 Arg2:T923
+R270	Positive Arg1:T912 Arg2:T924
+R850	Relation Arg1:T912 Arg2:T3049
+R851	Relation Arg1:T912 Arg2:T3051
+T913	Machining 12 16	切りくず
+T914	Machining 17 20	切れ刃
+T915	Machining 20 24	すくい面
+T916	Machining 31 34	加工面
+T917	Machining 35 38	切れ刃
+T918	Machining 38 41	逃げ面
+T919	Machining 47 49	摩擦
+R299	Positive Arg1:T919 Arg2:T925
+T920	Machining 54 58	工具摩耗
+R300	Positive Arg1:T920 Arg2:T925
+T921	Machining 69 73	切削抵抗
+R301	Positive Arg1:T921 Arg2:T925
+T3043	Machining 0 2	潤滑
+T3045	Machining 54 56	工具
+T3046	Machining 56 58	摩耗
+T3047	Machining 69 71	切削
+T3048	Machining 71 73	抵抗
+T3049	Machining 74 77	発熱量
+R909	Positive Arg1:T3049 Arg2:T925
+T3050	Machining 74 76	発熱
+T4684	Trigger 50 52	軽減
+T4685	Trigger 59 61	減少
+T4686	Trigger 78 80	減少

@@ -1,0 +1,11 @@
+T1157	Machining 9 14	エンドミル
+T1158	Machining 26 30	加工精度
+T3272	Machining 15 19	たわみ量
+T3274	Machining 15 18	たわみ
+T3275	Machining 0 2	刃長
+R356	Positive Arg1:T3275 Arg2:T3272
+R661	Relation Arg1:T3275 Arg2:T1158
+T3276	Machining 26 28	加工
+T3277	Machining 28 30	精度
+T4738	Trigger 3 7	長くなれ
+T4739	Trigger 20 25	大きくなり

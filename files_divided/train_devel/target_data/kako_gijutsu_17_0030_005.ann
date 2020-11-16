@@ -1,0 +1,7 @@
+T251	Machining 23 29	運動の加速度
+R1	Linear Arg1:T251 Arg2:T252
+T252	Machining 34 37	慣性力
+T253	Machining 51 57	相互運動変位
+R2	Linear Arg1:T253 Arg2:T254
+T254	Machining 62 69	弾性的な復元力
+T355	Machining 42 44	弾性

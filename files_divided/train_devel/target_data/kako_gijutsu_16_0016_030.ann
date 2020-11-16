@@ -1,0 +1,16 @@
+T71	Machining 2 4	温度
+T72	Machining 10 14	切りくず
+T73	Machining 14 16	温度
+T74	Machining 25 29	切りくず
+T404	Machining 20 24	冷却速度
+T405	Machining 25 32	切りくずの形状
+R21	Relation Arg1:T405 Arg2:T404
+T406	Machining 33 35	速度
+R22	Relation Arg1:T406 Arg2:T404
+T407	Machining 36 39	雰囲気
+R23	Relation Arg1:T407 Arg2:T404
+T465	Machining 0 4	加熱温度
+T70	Machining 0 2	加熱
+T692	Machining 20 22	冷却
+T693	Machining 22 24	速度
+T699	Machining 10 16	切りくず温度

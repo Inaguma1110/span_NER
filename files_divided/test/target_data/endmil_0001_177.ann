@@ -1,0 +1,11 @@
+T498	Machining 0 2	摩耗
+R107	Positive Arg1:T498 Arg2:T664
+R108	Positive Arg1:T498 Arg2:T2385
+T499	Machining 6 8	工具
+T500	Machining 19 21	加工
+T501	Machining 27 29	応力
+T664	Machining 19 24	加工変質層
+T2384	Machining 25 27	残留
+T2385	Machining 25 29	残留応力
+T4549	Trigger 9 15	使用し続ける
+T4550	Trigger 30 35	発生を促す

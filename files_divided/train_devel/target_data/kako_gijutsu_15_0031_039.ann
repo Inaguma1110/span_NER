@@ -1,0 +1,8 @@
+T126	Machining 3 6	工作物
+T127	Machining 11 14	工作物
+T1151	Machining 7 9	変位
+T1152	Machining 7 10	変位量
+R14	Positive Arg1:T1152 Arg2:T1230
+T1230	Machining 15 17	長さ
+T834	Trigger 18 20	長い
+T835	Trigger 21 26	大きくなる

@@ -1,0 +1,31 @@
+T944	Machining 0 4	冷却効果
+R272	Negative Arg1:T944 Arg2:T945
+R273	Positive Arg1:T944 Arg2:T946
+R274	Negative Arg1:T944 Arg2:T948
+R275	Positive Arg1:T944 Arg2:T949
+R278	Positive Arg1:T944 Arg2:T951
+R279	Positive Arg1:T944 Arg2:T952
+R280	Negative Arg1:T944 Arg2:T953
+R281	Positive Arg1:T944 Arg2:T954
+R282	Relation Arg1:T944 Arg2:T955
+T945	Machining 6 9	熱膨張
+T946	Machining 14 18	寸法精度
+T947	Machining 28 33	エンドミル
+T948	Machining 34 38	刃先温度
+T949	Machining 51 55	工具寿命
+T3059	Machining 0 2	冷却
+T3060	Machining 6 7	熱
+T3061	Machining 7 9	膨張
+T3062	Machining 16 18	精度
+T3063	Machining 34 36	刃先
+T3064	Machining 42 44	刃先
+T3065	Machining 45 47	軟化
+T3066	Machining 51 53	工具
+T3067	Machining 53 55	寿命
+T4438	Machining 36 38	温度
+T4440	Machining 42 47	刃先の軟化
+T4695	Trigger 10 13	減らし
+T4696	Trigger 22 24	防止
+T4697	Trigger 39 41	下げ
+T4698	Trigger 56 58	延長
+T4699	Trigger 48 50	防ぎ

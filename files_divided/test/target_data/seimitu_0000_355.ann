@@ -1,0 +1,8 @@
+T1267	Machining 10 12	工具
+T1268	Machining 17 19	応力
+R394	Relation Arg1:T1268 Arg2:T1270
+T1269	Machining 26 28	応力
+T1270	Machining 39 41	亀裂
+T2727	Machining 24 26	破壊
+T2728	Machining 24 28	破壊応力
+R601	Relation Arg1:T2728 Arg2:T1270

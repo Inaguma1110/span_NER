@@ -1,0 +1,9 @@
+T66	Machining 0 2	工具
+T67	Machining 15 19	すくい面
+R226	Relation Arg1:T67 Arg2:T68
+T68	Machining 20 24	切りくず
+T69	Machining 25 27	摩擦
+T70	Machining 29 32	逃げ面
+R225	Relation Arg1:T70 Arg2:T71
+T71	Machining 34 38	仕上げ面
+T1590	Machining 34 37	仕上げ

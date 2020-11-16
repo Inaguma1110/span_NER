@@ -1,0 +1,13 @@
+T430	Machining 0 3	被削材
+T432	Machining 4 10	アルミニウム
+T433	Machining 34 36	温度
+R61	Relation Arg1:T433 Arg2:T436
+T435	Machining 49 55	アルミニウム
+T436	Machining 87 91	仕上げ面
+T1210	Variable 27 29	up
+R60	Relation Arg1:T1210 Arg2:T433
+T1211	Machining 69 71	速度
+R62	Relation Arg1:T1211 Arg2:T436
+T1390	Quantity 58 61	400
+T1391	Unit 61 66	m/min
+T560	Machining 87 90	仕上げ

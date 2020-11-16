@@ -1,0 +1,56 @@
+T321	Machining 8 12	切削抵抗
+T322	Machining 8 10	切削
+T323	Machining 12 15	主分力
+T324	Machining 23 26	被削材
+T325	Machining 27 31	引張強さ
+T326	Machining 41 44	被削材
+T327	Machining 45 51	ブリネル硬さ
+T329	Machining 59 61	工具
+T330	Machining 62 66	すくい角
+T331	Machining 94 98	せん断角
+T333	Machining 106 109	切込み
+T335	Machining 116 119	送り量
+T336	Machining 130 134	切削速度
+T337	Machining 130 132	切削
+T406	Variable 4 7	F_v
+R84	Relation Arg1:T406 Arg2:T323
+T407	Unit 16 17	N
+T408	Variable 19 22	σ_B
+R85	Relation Arg1:T408 Arg2:T325
+T409	Unit 32 35	GPa
+T410	Variable 37 40	H_B
+R86	Relation Arg1:T410 Arg2:T327
+T411	Unit 52 55	HBW
+T412	Variable 57 58	γ
+R87	Relation Arg1:T412 Arg2:T330
+T413	Variable 77 78	ψ
+R88	Relation Arg1:T413 Arg2:T526
+T414	Unit 87 90	deg
+T415	Variable 92 93	φ
+R89	Relation Arg1:T415 Arg2:T331
+T416	Unit 99 102	deg
+T417	Unit 110 112	mm
+T418	Unit 120 126	mm/rev
+T419	Variable 128 129	V
+R92	Relation Arg1:T419 Arg2:T336
+T420	Variable 142 145	r_c
+R93	Relation Arg1:T420 Arg2:T210
+T421	Unit 135 140	m/min
+T514	Variable 71 72	γ
+T524	Variable 104 105	a
+R90	Relation Arg1:T524 Arg2:T333
+T525	Variable 114 115	f
+R91	Relation Arg1:T525 Arg2:T335
+T526	Machining 79 84	アプローチ
+T570	Machining 10 12	抵抗
+T98	Machining 85 86	角
+T166	Quantity 67 69	-6
+T183	Quantity 73 74	6
+T186	Unit 69 70	°
+T193	Unit 74 75	°
+T210	Machining 146 149	切削比
+T582	Machining 94 97	せん断
+T583	Machining 116 118	送り
+T599	Machining 49 51	硬さ
+T601	Machining 27 29	引張
+T602	Machining 29 31	強さ

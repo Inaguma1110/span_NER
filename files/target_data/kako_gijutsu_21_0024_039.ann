@@ -1,0 +1,3 @@
+T147	Machining 5 8	チップ
+T752	Machining 3 8	四角チップ
+R69	Sub Arg1:T752 Arg2:T751

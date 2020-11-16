@@ -1,0 +1,12 @@
+T606	Machining 0 5	セラミック
+T607	Machining 0 7	セラミック工具
+T608	Machining 5 7	工具
+T609	Machining 19 21	超硬
+T610	Machining 19 23	超硬工具
+T611	Machining 21 23	工具
+T612	Machining 35 39	高速度鋼
+T613	Machining 35 41	高速度鋼工具
+T614	Machining 39 41	工具
+T1327	Quantity 9 16	0.5~1.0
+T1330	Quantity 25 32	0.3~0.8
+T1334	Quantity 43 50	0.1~0.4

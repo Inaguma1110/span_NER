@@ -1,0 +1,5 @@
+T1162	Machining 17 19	凝着
+R350	Relation Arg1:T1162 Arg2:T2617
+R587	Relation Arg1:T1162 Arg2:T2616
+T1163	Machining 33 35	凝着
+T1164	Machining 40 42	摩耗

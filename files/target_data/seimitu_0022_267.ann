@@ -1,0 +1,14 @@
+T974	Machining 5 7	工具
+T975	Machining 8 11	高硬度
+T976	Machining 16 18	靭性
+T977	Machining 35 39	切削速度
+T978	Machining 49 53	断続切削
+T2402	Machining 2 5	焼結系
+T2403	Machining 2 7	焼結系工具
+R552	Relation Arg1:T2403 Arg2:T975
+R553	Relation Arg1:T2403 Arg2:T976
+R574	Relation Arg1:T2403 Arg2:T977
+R575	Relation Arg1:T2403 Arg2:T978
+T2404	Machining 35 37	切削
+T2405	Machining 37 39	速度
+T2406	Machining 51 53	切削

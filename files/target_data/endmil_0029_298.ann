@@ -1,0 +1,11 @@
+T891	Machining 0 3	溝切削
+T892	Machining 9 15	径方向切込み
+T893	Machining 16 21	エンドミル
+R292	Sub Arg1:T893 Arg2:T895
+T894	Machining 31 33	切削
+T895	Machining 38 40	工具
+T896	Machining 72 74	加工
+T3021	Machining 1 3	切削
+T3022	Machining 12 15	切込み
+T3024	Machining 54 60	アップカット
+T3025	Machining 61 67	ダウンカット

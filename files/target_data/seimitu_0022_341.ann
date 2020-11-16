@@ -1,0 +1,11 @@
+T1210	Machining 20 22	温度
+R357	Relation Arg1:T1210 Arg2:T1209
+T1211	Machining 28 30	摩擦
+T1212	Machining 47 52	エネルギー
+T1306	Machining 44 52	活性化エネルギー
+R376	Relation Arg1:T1306 Arg2:T1209
+T2679	Machining 32 34	金属
+T2680	Machining 28 31	摩擦面
+T2681	Machining 16 19	接触面
+T2682	Machining 16 18	接触
+T3588	Variable 13 15	θｔ

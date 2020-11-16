@@ -1,0 +1,17 @@
+T846	Machining 55 63	前切れ刃境界摩耗
+R112	Relation Arg1:T846 Arg2:T850
+T848	Machining 59 63	境界摩耗
+T849	Machining 61 63	摩耗
+T850	Machining 68 74	切削仕上げ面
+T851	Machining 68 70	切削
+T852	Machining 70 74	仕上げ面
+T1177	Machining 6 10	前切れ刃
+T1216	Machining 41 43	空気
+T1328	Machining 27 31	炭酸ガス
+T1404	Machining 20 25	不活性ガス
+T1405	Machining 41 46	空気を遮断
+R113	Relation Arg1:T1405 Arg2:T846
+R71	Relation Arg1:T1405 Arg2:T850
+T67	Machining 55 59	前切れ刃
+T845	Machining 59 61	境界
+T847	Machining 70 73	仕上げ

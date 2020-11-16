@@ -1,0 +1,9 @@
+T116	Machining 0 4	切りくず
+T117	Machining 10 13	工作物
+R83	Relation Arg1:T117 Arg2:T615
+T118	Machining 14 16	工具
+T119	Machining 16 19	逃げ面
+T614	Machining 37 40	カール
+T615	Machining 37 42	カール半径
+T663	Machining 14 19	工具逃げ面
+R84	Relation Arg1:T663 Arg2:T615

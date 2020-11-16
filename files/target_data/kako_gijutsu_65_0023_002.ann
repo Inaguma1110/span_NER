@@ -1,0 +1,21 @@
+T10	Machining 5 8	穴あけ
+T11	Machining 8 10	加工
+T12	Machining 11 15	旋削加工
+R32	Sub Arg1:T12 Arg2:T247
+T13	Machining 11 13	旋削
+T14	Machining 13 15	加工
+T15	Machining 20 22	加工
+T17	Machining 32 36	断続切削
+T18	Machining 34 36	切削
+T19	Machining 43 45	工具
+T20	Machining 62 66	切りくず
+T21	Machining 76 78	工具
+T22	Machining 79 82	切削熱
+T23	Machining 79 81	切削
+T24	Machining 81 82	熱
+T244	Machining 5 10	穴あけ加工
+R26	Sub Arg1:T244 Arg2:T247
+T246	Machining 16 22	ブローチ加工
+R33	Sub Arg1:T246 Arg2:T247
+T247	Machining 25 28	加工法
+T261	Machining 88 90	損傷

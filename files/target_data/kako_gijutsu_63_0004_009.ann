@@ -1,0 +1,5 @@
+T41	Machining 10 14	ねじれ角
+R1	Relation Arg1:T41 Arg2:T42
+T42	Machining 19 23	すくい角
+R2	Relation Arg1:T42 Arg2:T224
+T265	Machining 3 6	ボール

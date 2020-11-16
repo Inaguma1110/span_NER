@@ -1,0 +1,20 @@
+T424	Machining 0 3	切削点
+T425	Machining 4 6	温度
+R59	Positive Arg1:T425 Arg2:T430
+R821	Positive Arg1:T425 Arg2:T4373
+R822	Positive Arg1:T425 Arg2:T2320
+T426	Machining 12 16	切りくず
+T427	Machining 17 19	工具
+T428	Machining 32 34	工具
+T429	Machining 46 50	工具材質
+T430	Machining 71 73	摩耗
+T2288	Machining 35 37	刃先
+T2318	Machining 25 27	拡散
+T2319	Machining 46 48	工具
+T2320	Machining 56 59	化合物
+T2321	Machining 60 62	生成
+T4373	Machining 23 27	相互拡散
+T4522	Trigger 7 11	高くなる
+T4523	Trigger 28 30	発生
+T4524	Trigger 60 62	生成
+T4525	Trigger 81 83	進行

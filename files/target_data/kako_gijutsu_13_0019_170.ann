@@ -1,0 +1,8 @@
+T619	Machining 7 11	切削速度
+R94	Relation Arg1:T619 Arg2:T1386
+T620	Machining 7 9	切削
+T622	Machining 24 27	送り量
+R95	Relation Arg1:T622 Arg2:T1386
+T1386	Machining 3 5	寿命
+T1557	Machining 24 26	送り
+T1870	Machining 9 11	速度

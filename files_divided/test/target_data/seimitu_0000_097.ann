@@ -1,0 +1,6 @@
+T321	Machining 13 15	切削
+R74	Relation Arg1:T321 Arg2:T322
+T322	Machining 20 25	エネルギー
+T323	Machining 33 36	せん断
+T405	Machining 33 38	せん断変形
+T3349	Machining 36 38	変形

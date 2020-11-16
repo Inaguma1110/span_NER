@@ -1,0 +1,15 @@
+T198	Machining 11 13	黄銅
+T200	Machining 17 19	切削
+T201	Machining 23 26	切込み
+R50	Relation Arg1:T201 Arg2:T478
+T202	Machining 27 31	長手切削
+T203	Machining 29 31	切削
+T205	Machining 32 35	送り量
+T206	Machining 40 45	比切削抵抗
+T207	Machining 41 45	切削抵抗
+T208	Machining 41 43	切削
+T209	Machining 46 49	主分力
+T478	Machining 40 49	比切削抵抗の主分力
+T503	Machining 14 19	2次元切削
+T559	Machining 43 45	抵抗
+T577	Machining 32 34	送り

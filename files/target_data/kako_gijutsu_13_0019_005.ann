@@ -1,0 +1,11 @@
+T19	Machining 0 2	工具
+T20	Machining 9 13	切削時間
+T21	Machining 9 11	切削
+T22	Machining 38 41	工具費
+T1338	Machining 0 6	工具使用時間
+R6	Linear Arg1:T1338 Arg2:T1339
+T1339	Machining 19 22	生産高
+T1340	Machining 7 13	延べ切削時間
+R7	Linear Arg1:T1340 Arg2:T1339
+T1342	Machining 42 44	時間
+R8	NegativeLinear Arg1:T1342 Arg2:T22

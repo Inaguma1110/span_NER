@@ -1,0 +1,8 @@
+T259	Machining 4 6	応力
+T554	Machining 2 4	剪断
+T555	Machining 2 6	剪断応力
+T556	Variable 7 9	γu
+R93	Relation Arg1:T556 Arg2:T558
+T557	Machining 10 12	剪断
+T558	Machining 10 14	剪断歪み
+T232	Machining 12 14	歪み

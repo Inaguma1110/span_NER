@@ -1,0 +1,9 @@
+T408	Machining 3 11	最大せん断応力説
+T409	Machining 5 10	せん断応力
+T410	Machining 5 8	せん断
+T411	Machining 8 10	応力
+T412	Machining 16 20	切削抵抗
+T413	Machining 16 18	切削
+T1290	Variable 23 24	F
+T71	Machining 18 20	抵抗
+T155	Machining 21 23	合力

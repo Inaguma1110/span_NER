@@ -1,0 +1,12 @@
+T693	Machining 8 10	凝着
+T694	Machining 17 20	工具材
+R99	Relation Arg1:T694 Arg2:T693
+T696	Machining 24 29	サーメット
+T697	Machining 30 33	CBN
+T698	Machining 34 37	TiN
+T699	Machining 38 44	コーティング
+T700	Machining 46 48	工具
+T701	Machining 53 57	切削速度
+T702	Machining 53 55	切削
+T703	Machining 64 66	切削
+T1581	Machining 55 57	速度

@@ -1,0 +1,8 @@
+T186	Machining 0 6	ダイヤモンド
+T187	Machining 19 21	加工
+T1995	Machining 0 9	ダイヤモンド焼結体
+R364	Relation Arg1:T1995 Arg2:T4421
+T1996	Machining 6 9	焼結体
+T4419	Machining 11 15	非鉄金属
+T4420	Machining 16 19	非金属
+T4421	Machining 11 21	非鉄金属・非金属加工

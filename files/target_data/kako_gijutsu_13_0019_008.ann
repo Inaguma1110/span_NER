@@ -1,0 +1,9 @@
+T1348	Machining 6 9	工具費
+R13	Relation Arg1:T1348 Arg2:T1350
+R177	Relation Arg1:T1348 Arg2:T1349
+T1349	Machining 23 26	損傷量
+R14	Relation Arg1:T1349 Arg2:T1350
+T1350	Machining 30 32	寿命
+T1444	Variable 17 18	P
+T1585	Machining 23 25	損傷
+T1594	Machining 6 8	工具

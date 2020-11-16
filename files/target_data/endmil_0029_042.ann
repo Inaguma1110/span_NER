@@ -1,0 +1,21 @@
+T105	Machining 0 6	高速度工具鋼
+R30	Sub Arg1:T105 Arg2:T106
+R854	Relation Arg1:T105 Arg2:T1846
+R855	Relation Arg1:T105 Arg2:T1847
+R856	Relation Arg1:T105 Arg2:T1848
+R857	Relation Arg1:T105 Arg2:T1849
+R858	Relation Arg1:T105 Arg2:T1850
+T106	Machining 56 59	合金鋼
+T1845	Machining 3 6	工具鋼
+T1846	Machining 7 13	タングステン
+T1847	Machining 17 22	モリブデン
+T1848	Machining 27 30	クロム
+T1849	Machining 35 40	バナジウム
+T1850	Machining 44 48	コバルト
+T1858	Machining 14 15	Ｗ
+T1859	Machining 23 25	Ｍｏ
+T1860	Machining 31 33	Ｃｒ
+T1861	Machining 41 42	Ｖ
+T1862	Machining 49 51	Ｃｏ
+T2294	Machining 0 3	高速度
+T4368	Machining 74 76	添加

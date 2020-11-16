@@ -1,0 +1,16 @@
+T471	Machining 0 2	工具
+T472	Machining 28 30	工具
+T473	Machining 33 37	切削条件
+R203	Relation Arg1:T473 Arg2:T597
+T474	Machining 41 44	せん断
+T475	Machining 62 65	せん断
+T476	Machining 66 68	仕事
+T597	Machining 41 47	せん断面面積
+R204	Relation Arg1:T597 Arg2:T600
+T600	Machining 62 68	せん断面仕事
+T2037	Machining 33 35	切削
+T3403	Machining 0 4	工具形状
+T3404	Machining 28 32	工具形状
+R120	Relation Arg1:T3404 Arg2:T597
+T3405	Machining 41 45	せん断面
+T3407	Machining 62 66	せん断面

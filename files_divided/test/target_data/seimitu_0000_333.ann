@@ -1,0 +1,28 @@
+T1174	Machining 3 7	超硬合金
+T1175	Machining 7 9	工具
+T1176	Machining 20 24	切りくず
+T1177	Machining 33 35	工具
+T1178	Machining 44 48	凝着確率
+R352	Relation Arg1:T1178 Arg2:T1179
+T1179	Machining 67 69	硬さ
+T1180	Machining 75 79	工具損傷
+T1181	Machining 85 89	凝着摩耗
+R353	Sub Arg1:T1181 Arg2:T1180
+T1182	Machining 99 101	欠損
+R354	Sub Arg1:T1182 Arg2:T1180
+T2631	Machining 3 5	超硬
+T2632	Machining 5 7	合金
+T2633	Machining 14 17	炭化物
+T2634	Machining 3 9	超硬合金工具
+T2635	Machining 11 13	Ｃｏ
+R590	Relation Arg1:T2635 Arg2:T1176
+T2636	Machining 18 19	Ｃ
+R591	Relation Arg1:T2636 Arg2:T1176
+T2637	Machining 35 37	表面
+T2638	Machining 33 37	工具表面
+T2639	Machining 26 28	拡散
+T2640	Machining 75 77	工具
+T2641	Machining 77 79	損傷
+T2642	Machining 85 87	凝着
+T2643	Machining 87 89	摩耗
+T2644	Machining 44 46	凝着

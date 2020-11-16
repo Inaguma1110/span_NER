@@ -1,0 +1,8 @@
+T228	Machining 9 11	切削
+T229	Machining 15 18	切込み
+R53	Relation Arg1:T229 Arg2:T230
+T230	Machining 19 24	比切削抵抗
+T231	Machining 20 24	切削抵抗
+T232	Machining 20 22	切削
+T508	Machining 6 11	2次元切削
+T563	Machining 22 24	抵抗

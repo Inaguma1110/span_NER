@@ -1,0 +1,13 @@
+T55	Machining 14 18	切削速度
+T56	Machining 14 16	切削
+T57	Machining 28 30	工具
+T161	Machining 28 31	工具径
+R16	Relation Arg1:T161 Arg2:T162
+T162	Machining 34 38	回転速度
+T163	Machining 52 56	回転速数
+R17	Relation Arg1:T163 Arg2:T55
+T237	Machining 34 36	回転
+T238	Machining 36 38	速度
+T239	Machining 16 18	速度
+T240	Machining 52 54	回転
+T241	Machining 54 56	速数

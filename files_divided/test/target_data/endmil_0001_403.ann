@@ -1,0 +1,19 @@
+T1220	Machining 28 33	エンドミル
+T1221	Machining 37 39	切削
+T1222	Machining 46 50	工具摩耗
+T1223	Machining 64 68	切りくず
+R391	Positive Arg1:T1223 Arg2:T1225
+T1224	Machining 77 81	仕上げ面
+T1225	Machining 82 85	むしれ
+T3362	Machining 25 28	ＨＳＳ
+T3363	Machining 25 33	ＨＳＳエンドミル
+T3364	Machining 46 48	工具
+T3365	Machining 48 50	摩耗
+T3366	Machining 69 71	溶着
+T3381	Machining 77 80	仕上げ
+T3393	Machining 6 11	ＳＳ400
+T3394	Machining 0 6	一般構造用鋼
+T3395	Machining 12 16	低炭素鋼
+T3396	Machining 16 21	Ｓ15Ｃ材
+T4754	Trigger 69 71	溶着
+T4755	Trigger 86 88	発生

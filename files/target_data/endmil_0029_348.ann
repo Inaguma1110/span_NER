@@ -1,0 +1,8 @@
+T1067	Machining 3 5	切削
+T1068	Machining 8 12	シャンク
+T3168	Machining 20 24	たわみ量
+T3169	Machining 20 23	たわみ
+T4389	Machining 3 7	切削位置
+R860	Negative Arg1:T4389 Arg2:T3168
+T4718	Trigger 25 27	減少
+T4719	Trigger 14 16	移る

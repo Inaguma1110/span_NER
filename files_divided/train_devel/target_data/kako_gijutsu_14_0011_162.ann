@@ -1,0 +1,7 @@
+T1137	Machining 7 11	切削速度
+R156	Relation Arg1:T1137 Arg2:T1238
+T1138	Machining 7 9	切削
+T1139	Machining 16 18	応力
+T1238	Machining 12 18	表層残留応力
+T1570	Machining 9 11	速度
+T1599	Machining 14 16	残留

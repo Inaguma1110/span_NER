@@ -1,0 +1,13 @@
+T130	Machining 7 11	切削温度
+T131	Machining 7 9	切削
+T132	Machining 9 11	温度
+T133	Machining 39 40	熱
+T448	Variable 11 12	θ
+T517	Machining 17 22	入力パワー
+R26	Linear Arg1:T517 Arg2:T130
+T518	Machining 39 43	熱の放散
+R27	Negative Arg1:T518 Arg2:T130
+T633	Machining 35 37	冷却
+T499	Machining 27 29	高温
+T513	Trigger 52 54	低下
+T502	Trigger 27 29	高温

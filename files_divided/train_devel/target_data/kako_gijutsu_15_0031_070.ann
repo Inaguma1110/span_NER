@@ -1,0 +1,24 @@
+T207	Machining 0 4	切削加工
+T208	Machining 0 2	切削
+T209	Machining 2 4	加工
+T210	Machining 6 9	工作物
+T211	Machining 10 12	工具
+T212	Machining 21 25	切りくず
+T213	Machining 35 36	熱
+R37	Relation Arg1:T213 Arg2:T215
+R38	Relation Arg1:T213 Arg2:T825
+T215	Machining 44 47	熱膨張
+R34	Relation Arg1:T215 Arg2:T218
+T216	Machining 44 45	熱
+T217	Machining 48 49	熱
+T218	Machining 56 60	加工精度
+T219	Machining 56 58	加工
+T220	Machining 58 60	精度
+T825	Machining 48 51	熱変形
+R35	Relation Arg1:T825 Arg2:T218
+T898	Machining 21 27	切りくず生成
+R36	Relation Arg1:T898 Arg2:T213
+T950	Machining 15 19	工作機械
+T132	Machining 39 41	加熱
+T1064	Machining 45 47	膨張
+T1065	Machining 49 51	変形

@@ -1,0 +1,13 @@
+T221	Machining 24 28	切削抵抗
+T222	Machining 24 26	切削
+T223	Machining 38 42	すくい角
+R35	Negative Arg1:T223 Arg2:T221
+T224	Machining 46 49	チップ
+R72	Relation Arg1:T224 Arg2:T223
+T495	Machining 0 5	ボーリング
+T558	Machining 26 28	抵抗
+T590	Machining 13 16	突出し
+T625	Machining 13 18	突出し長さ
+T636	Machining 16 18	長さ
+T725	Trigger 29 32	減らす
+T739	Trigger 43 46	大きな

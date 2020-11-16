@@ -1,0 +1,10 @@
+T1035	Machining 0 5	右ねじれ溝
+R309	Relation Arg1:T1035 Arg2:T1037
+R310	Relation Arg1:T1035 Arg2:T1040
+T1036	Machining 4 5	溝
+T1037	Machining 34 38	すくい角
+T3142	Machining 6 13	アキシャル方向
+T3143	Machining 6 11	アキシャル
+T3144	Machining 14 17	軸方向
+T3145	Machining 14 15	軸
+T3141	Machining 0 4	右ねじれ

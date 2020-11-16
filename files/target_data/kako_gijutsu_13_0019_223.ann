@@ -1,0 +1,5 @@
+T800	Machining 15 17	切削
+T1491	Machining 0 2	K種
+R108	Relation Arg1:T1491 Arg2:T801
+R232	Relation Arg1:T1491 Arg2:T1841
+T1929	Machining 3 5	鋼系

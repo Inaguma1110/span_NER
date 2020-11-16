@@ -1,0 +1,8 @@
+T639	Machining 2 6	すくい角
+R93	Relation Arg1:T639 Arg2:T640
+T640	Machining 7 15	切削仕上げ面粗さ
+T641	Machining 7 13	切削仕上げ面
+T642	Machining 7 9	切削
+T644	Machining 9 13	仕上げ面
+T716	Machining 9 12	仕上げ
+T1474	Machining 13 15	粗さ

@@ -1,0 +1,5 @@
+T104	Machining 0 2	加工
+R17	Relation Arg1:T104 Arg2:T170
+T105	Machining 18 20	加工
+T170	Machining 6 8	材質
+T183	Machining 18 23	加工変質層

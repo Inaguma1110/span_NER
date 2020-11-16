@@ -1,0 +1,4 @@
+T1460	Machining 5 10	平フライス
+R431	Sub Arg1:T1460 Arg2:T1458
+T1461	Machining 12 18	正面フライス
+R432	Sub Arg1:T1461 Arg2:T1458

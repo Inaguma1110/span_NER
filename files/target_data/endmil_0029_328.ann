@@ -1,0 +1,27 @@
+T984	Machining 7 9	切削
+T985	Machining 18 20	底刃
+T986	Machining 31 35	左ねじれ
+T987	Machining 38 42	右ねじれ
+T988	Machining 43 48	エンドミル
+T989	Machining 64 68	すくい角
+R322	Negative Arg1:T989 Arg2:T990
+R324	Positive Arg1:T989 Arg2:T992
+T990	Machining 84 90	切りくず厚さ
+T991	Machining 96 100	切りくず
+R260	Negative Arg1:T991 Arg2:T992
+T992	Machining 126 128	切削
+T3098	Machining 88 90	厚さ
+T3099	Machining 115 117	生成
+T3102	Machining 51 56	アキシャル
+T3103	Machining 51 58	アキシャル方向
+T3104	Machining 59 62	軸方向
+T3105	Machining 59 60	軸
+T4303	Machining 29 31	右刃
+T4304	Machining 29 35	右刃左ねじれ
+T4305	Machining 36 38	左刃
+T4306	Machining 36 42	左刃右ねじれ
+T4262	Machining 84 88	切りくず
+T4705	Trigger 91 95	厚くなり
+T4706	Trigger 69 80	ネガティブ（負の角度）
+T4707	Trigger 115 117	生成
+T4708	Trigger 129 134	できません

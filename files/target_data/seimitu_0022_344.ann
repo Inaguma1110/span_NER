@@ -1,0 +1,11 @@
+T1220	Machining 0 4	摩耗速度
+T1221	Machining 12 14	温度
+R358	Relation Arg1:T1221 Arg2:T1223
+R359	Relation Arg1:T1221 Arg2:T1220
+T1222	Machining 30 34	切削条件
+T1223	Machining 67 71	摩耗速度
+T2691	Machining 0 2	摩耗
+T2692	Machining 2 4	速度
+T2716	Machining 30 32	切削
+T2717	Machining 67 69	摩耗
+T2718	Machining 69 71	速度

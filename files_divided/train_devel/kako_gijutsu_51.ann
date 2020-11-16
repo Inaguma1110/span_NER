@@ -1,0 +1,291 @@
+T0	Machining 3 8	側フライス
+T1	Machining 4 8	フライス
+T2	Machining 9 14	側フライス
+T3	Machining 10 14	フライス
+T4	Machining 16 19	外周刃
+T5	Machining 20 22	側刃
+T6	Machining 40 42	切削
+T8	Machining 58 59	溝
+T9	Machining 59 61	加工
+T10	Machining 68 70	加工
+T11	Machining 82 85	切れ刃
+T12	Machining 85 87	外径
+T13	Machining 134 140	正面フライス
+T14	Machining 136 140	フライス
+T15	Machining 144 146	剛性
+T16	Machining 155 158	切れ刃
+T17	Machining 170 172	剛性
+T18	Machining 199 203	フライス
+T19	Machining 261 263	加工
+T21	Machining 272 279	側フライス加工
+T22	Machining 273 277	フライス
+T23	Machining 277 279	加工
+T24	Machining 283 285	工具
+T25	Machining 290 295	側フライス
+T26	Machining 291 295	フライス
+T27	Machining 346 351	側フライス
+T28	Machining 347 351	フライス
+T29	Machining 362 366	すくい角
+T30	Machining 377 380	切れ刃
+T31	Machining 384 387	溝加工
+T32	Machining 384 385	溝
+T33	Machining 385 387	加工
+T34	Machining 395 397	加工
+T35	Machining 416 421	側フライス
+T36	Machining 417 421	フライス
+T37	Machining 431 434	切れ刃
+T38	Machining 454 457	切れ刃
+T39	Machining 494 497	溝加工
+T40	Machining 494 495	溝
+T41	Machining 495 497	加工
+T42	Machining 518 525	片刃側フライス
+T43	Machining 520 525	側フライス
+T44	Machining 521 525	フライス
+T45	Machining 533 536	切れ刃
+T46	Machining 558 562	すくい角
+T47	Machining 584 586	加工
+T48	Machining 600 602	加工
+T49	Machining 616 621	側フライス
+T50	Machining 617 621	フライス
+T51	Machining 635 638	切れ刃
+T52	Machining 649 651	外径
+T53	Machining 664 665	溝
+T54	Machining 675 677	加工
+T55	Machining 700 702	超硬
+T56	Machining 702 706	ろう付け
+T57	Machining 724 727	切れ刃
+T59	Machining 730 732	超硬
+T60	Machining 730 734	超硬合金
+T61	Machining 735 739	ろう付け
+T62	Machining 747 750	切れ刃
+T63	Machining 762 764	超硬
+T64	Machining 764 768	ろう付け
+T65	Machining 789 792	切れ刃
+T67	Machining 795 797	超硬
+T68	Machining 795 799	超硬合金
+T69	Machining 800 804	ろう付け
+T70	Machining 846 849	切れ刃
+T71	Machining 883 884	溝
+T72	Machining 893 895	超硬
+T73	Machining 947 950	チップ
+T74	Machining 972 975	チップ
+T75	Machining 993 997	切削条件
+T76	Machining 993 995	切削
+T77	Machining 998 1001	被削材
+T79	Machining 1018 1022	工具材質
+T80	Machining 1018 1020	工具
+T81	Machining 1036 1044	正面フライス加工
+T83	Machining 1038 1042	フライス
+T84	Machining 1042 1044	加工
+T85	Machining 1073 1075	加工
+T86	Machining 1108 1111	溝加工
+T87	Machining 1108 1109	溝
+T88	Machining 1109 1111	加工
+T89	Machining 1133 1136	切込み
+T90	Machining 1142 1146	切りくず
+T91	Machining 1142 1148	切りくず排出
+T92	Machining 1181 1183	送り
+T93	Machining 1192 1194	精度
+T94	Machining 1198 1199	溝
+T95	Machining 1213 1214	溝
+T96	Machining 1220 1222	剛性
+T97	Machining 1224 1226	加工
+T98	Machining 1242 1244	加工
+T99	Machining 1275 1279	すくい角
+T100	Machining 1313 1316	溝加工
+T101	Machining 1313 1314	溝
+T102	Machining 1314 1316	加工
+T103	Machining 1343 1347	切りくず
+T105	Machining 1371 1375	切りくず
+T106	Machining 1371 1377	切りくず排出
+T107	Machining 1395 1398	溝加工
+T108	Machining 1395 1396	溝
+T109	Machining 1396 1398	加工
+T110	Machining 1409 1414	側フライス
+T111	Machining 1410 1414	フライス
+T112	Machining 1422 1426	右ねじれ
+T113	Machining 1427 1431	左ねじれ
+T114	Machining 1461 1464	切削力
+T115	Machining 1461 1463	切削
+T116	Machining 1489 1491	切削
+T117	Machining 1508 1513	側フライス
+T118	Machining 1509 1513	フライス
+T119	Machining 1521 1526	側フライス
+T120	Machining 1522 1526	フライス
+T121	Machining 1531 1538	片刃側フライス
+T122	Machining 1533 1538	側フライス
+T123	Machining 1534 1538	フライス
+T124	Machining 1547 1552	側フライス
+T125	Machining 1548 1552	フライス
+T126	Machining 1557 1559	超硬
+T127	Machining 1559 1563	ろう付け
+T128	Machining 1569 1571	超硬
+T129	Machining 1582 1584	超硬
+T130	Machining 840 845	ダイヤ研削
+T131	Machining 811 814	植え刃
+T132	Machining 943 950	刃先交換チップ
+T133	Machining 869 875	セレーション
+T134	Machining 1254 1258	千鳥刃型
+T135	Machining 1262 1265	片刃型
+T136	Machining 1266 1274	ダブルポジティブ
+T137	Machining 159 163	側面振れ
+T138	Machining 177 180	びびり
+R1	Relation Arg1:T17 Arg2:T138	
+T139	Machining 90 95	本体の厚み
+R2	Positive Arg1:T139 Arg2:T15	
+T140	Machining 107 111	保持穴径
+R3	Positive Arg1:T140 Arg2:T15	
+T141	Machining 115 119	保持面積
+R4	Positive Arg1:T141 Arg2:T15	
+R5	Relation Arg1:T15 Arg2:T137	
+R6	Relation Arg1:T89 Arg2:T91	
+T142	Machining 1175 1183	１刃当たりの送り
+R7	Negative Arg1:T142 Arg2:T93	
+T143	Machining 1201 1205	寸法管理
+R8	Relation Arg1:T93 Arg2:T143	
+T144	Machining 1343 1351	切りくずポケット
+T145	Machining 1371 1378	切りくず排出性
+R9	Relation Arg1:T144 Arg2:T145	
+R10	Part Arg1:T4 Arg2:T2	
+R11	Part Arg1:T5 Arg2:T2	
+T146	Machining 344 351	直刃側フライス
+T147	Machining 413 421	千鳥刃側フライス
+T148	Machining 611 621	組み合わせ側フライス
+R12	Sub Arg1:T146 Arg2:T25	
+R14	Sub Arg1:T147 Arg2:T25	
+R13	Sub Arg1:T42 Arg2:T25	
+R15	Sub Arg1:T148 Arg2:T25	
+T149	Machining 696 698	構造
+#1	AnnotatorNotes T149	側フライスの構造
+T150	Machining 700 707	超硬ろう付け式
+R16	Sub Arg1:T150 Arg2:T149	
+T151	Machining 762 772	超硬ろう付け植え刃式
+T152	Machining 893 900	超硬刃先交換式
+R17	Sub Arg1:T151 Arg2:T149	
+R18	Sub Arg1:T152 Arg2:T149	
+T153	Machining 58 61	溝加工
+#2	AnnotatorNotes T153	Y・M
+T154	Machining 62 65	幅決め
+#3	AnnotatorNotes T154	Y・M
+T155	Machining 66 70	段差加工
+#4	AnnotatorNotes T155	Y・M
+R19	Relation Arg1:T153 Arg2:T2	
+#5	AnnotatorNotes R19	Y・M
+R20	Relation Arg1:T154 Arg2:T2	
+#6	AnnotatorNotes R20	Y・M
+R21	Relation Arg1:T155 Arg2:T2	
+#7	AnnotatorNotes R21	Y・M
+T156	Machining 198 204	横フライス盤
+#8	AnnotatorNotes T156	Y・M
+T157	Machining 195 204	ひざ型横フライス盤
+#9	AnnotatorNotes T157	Y・M
+T158	Machining 254 260	サイドカッタ
+#10	AnnotatorNotes T158	Y・M
+T159	Machining 393 397	段差加工
+#11	AnnotatorNotes T159	Y・M
+T160	Machining 389 392	幅決め
+#12	AnnotatorNotes T160	Y・M
+R22	Relation Arg1:T31 Arg2:T146	
+#13	AnnotatorNotes R22	Y・M
+R23	Relation Arg1:T160 Arg2:T146	
+#14	AnnotatorNotes R23	Y・M
+R24	Relation Arg1:T159 Arg2:T146	
+#15	AnnotatorNotes R24	Y・M
+T161	Machining 449 452	両側面
+#16	AnnotatorNotes T161	Y・M
+R25	Relation Arg1:T38 Arg2:T161	
+#17	AnnotatorNotes R25	Y・M
+T162	Machining 466 468	衝撃
+#18	AnnotatorNotes T162	Y・M
+T163	Machining 460 464	食い付き
+#19	AnnotatorNotes T163	Y・M
+T164	Machining 460 468	食い付き時の衝撃
+#20	AnnotatorNotes T164	Y・M
+R26	Relation Arg1:T164 Arg2:T147	
+#21	AnnotatorNotes R26	Y・M
+T165	Machining 582 586	段差加工
+#22	AnnotatorNotes T165	Y・M
+T166	Machining 597 602	幅決め加工
+#23	AnnotatorNotes T166	Y・M
+T167	Machining 666 668	段差
+#24	AnnotatorNotes T167	Y・M
+T168	Machining 669 672	幅決め
+#25	AnnotatorNotes T168	Y・M
+T169	Machining 1106 1111	浅い溝加工
+#26	AnnotatorNotes T169	Y・M
+T170	Machining 1311 1316	深い溝加工
+#27	AnnotatorNotes T170	Y・M
+T171	Machining 1120 1125	直刃タイプ
+#28	AnnotatorNotes T171	Y・M
+R27	Relation Arg1:T171 Arg2:T169	
+#29	AnnotatorNotes R27	Y・M
+T172	Machining 1321 1325	千鳥刃型
+#30	AnnotatorNotes T172	Y・M
+R28	Relation Arg1:T172 Arg2:T170	
+#31	AnnotatorNotes R28	Y・M
+T173	Machining 1360 1362	深溝
+#32	AnnotatorNotes T173	Y・M
+R29	Relation Arg1:T173 Arg2:T145	
+#33	AnnotatorNotes R29	Y・M
+T174	Machining 1506 1508	直刃
+#34	AnnotatorNotes T174	Y・M
+T175	Machining 1506 1513	直刃側フライス
+#35	AnnotatorNotes T175	Y・M
+T176	Machining 1518 1521	千鳥刃
+#36	AnnotatorNotes T176	Y・M
+T177	Machining 1518 1526	千鳥刃側フライス
+#37	AnnotatorNotes T177	Y・M
+T178	Machining 1543 1552	組合わせ側フライス
+#38	AnnotatorNotes T178	Y・M
+T20	Machining 797 799	合金
+T58	Machining 860 863	植え刃
+T66	Machining 909 912	植え刃
+T179	Machining 895 897	刃先
+T180	Machining 968 970	刃先
+T181	Machining 968 975	刃先交換チップ
+T182	Machining 732 734	合金
+T183	Machining 943 945	刃先
+T82	Machining 1479 1481	振動
+T184	Machining 1432 1435	カッタ
+T104	Machining 1584 1586	刃先
+T78	Machining 344 346	直刃
+T185	Machining 479 481	直刃
+T186	Machining 1120 1122	直刃
+T187	Machining 413 416	千鳥刃
+T188	Machining 1163 1165	多刃
+T190	Machining 1531 1533	片刃
+T191	Machining 1571 1574	ろう付
+T192	Machining 1574 1576	植刃
+T193	Machining 1584 1589	刃先交換式
+T194	Machining 518 520	片刃
+T195	Machining 768 771	植え刃
+T189	Machining 1321 1324	千鳥刃
+T196	Machining 99 102	カッタ
+T197	Machining 99 103	カッタ径
+T198	Machining 1254 1257	千鳥刃
+T199	Machining 479 482	直刃型
+T200	Machining 440 442	千鳥
+T201	Machining 226 232	片持ちアーバ
+T202	Machining 218 225	プラノミラー機
+T203	Machining 815 819	ブレード
+T204	Machining 825 828	くさび
+T205	Machining 829 835	締め付けねじ
+T206	Machining 955 957	ねじ
+T207	Machining 951 954	押え金
+T208	Quantity 1281 1282	5
+T209	Unit 1282 1283	°
+T210	Quantity 1285 1287	10
+T211	Unit 1287 1288	°
+T212	Machining 1456 1460	軸方向力
+T213	Machining 1404 1414	組み合わせ側フライス
+T214	Machining 1388 1398	広い底面を持つ溝加工
+R30	Relation Arg1:T214 Arg2:T213	
+T215	Machining 93 95	厚み
+T216	Machining 741 746	ダイヤ研削
+T7	Machining 161 163	振れ
+T217	Trigger 96 98	薄い
+T218	Trigger 112 115	小さく
+T219	Trigger 147 149	低い
+T220	Trigger 120 123	小さい
+T221	Trigger 1184 1189	小さくなり
+T222	Trigger 1195 1197	向上

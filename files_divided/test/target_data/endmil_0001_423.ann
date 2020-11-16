@@ -1,0 +1,16 @@
+T1297	Machining 8 13	せん断強さ
+R372	Positive Arg1:T1297 Arg2:T1300
+T1298	Machining 17 21	切削抵抗
+R373	Positive Arg1:T1298 Arg2:T1300
+T1299	Machining 28 30	切削
+T1300	Machining 32 37	びびり振動
+T3457	Machining 8 11	せん断
+T3458	Machining 11 13	強さ
+T3459	Machining 4 6	高温
+T3460	Machining 17 19	切削
+T3461	Machining 19 21	抵抗
+T3462	Machining 32 35	びびり
+T3463	Machining 35 37	振動
+T4767	Trigger 14 16	高く
+T4768	Trigger 22 25	大きい
+T4769	Trigger 38 45	生じやすくなり

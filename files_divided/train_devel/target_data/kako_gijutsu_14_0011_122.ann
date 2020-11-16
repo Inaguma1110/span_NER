@@ -1,0 +1,19 @@
+T827	Machining 22 26	焼ならし
+T828	Machining 28 30	超硬
+T829	Machining 28 32	超硬工具
+T830	Machining 30 32	工具
+T831	Machining 38 42	長手旋削
+T832	Machining 40 42	旋削
+T834	Machining 52 61	前切れ刃境界摩耗幅
+T837	Machining 56 61	境界摩耗幅
+T838	Machining 58 60	摩耗
+T839	Machining 58 61	摩耗幅
+T1175	Machining 17 21	S25C
+T1176	Machining 33 36	P30
+T1219	Machining 48 51	雰囲気
+R120	Relation Arg1:T1219 Arg2:T834
+T1327	Machining 9 17	機械構造用炭素鋼
+T54	Machining 52 56	前切れ刃
+T1416	Machining 14 17	炭素鋼
+T1522	Machining 56 58	境界
+T1589	Machining 60 61	幅

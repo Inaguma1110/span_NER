@@ -1,0 +1,5 @@
+T1406	Machining 27 30	添加量
+R120	Relation Arg1:T1406 Arg2:T960
+T1516	Machining 0 2	Pb
+T1517	Machining 19 21	固溶
+T1612	Machining 19 23	固溶限度

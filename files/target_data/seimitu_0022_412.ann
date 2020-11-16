@@ -1,0 +1,10 @@
+T1443	Machining 8 10	工具
+T1444	Machining 13 19	フライス工具
+R409	Sub Arg1:T1444 Arg2:T1443
+T1445	Machining 38 40	工具
+T2928	Machining 3 5	多刃
+T2929	Machining 6 8	回転
+T2930	Machining 6 10	回転工具
+T2931	Machining 13 17	フライス
+T2932	Machining 17 19	工具
+T2933	Machining 23 31	ミリングカッター

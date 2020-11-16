@@ -1,0 +1,5 @@
+T163	Machining 9 11	Al
+R36	Relation Arg1:T163 Arg2:T164
+T164	Machining 18 21	被削性
+T1284	Machining 12 13	O
+R37	Relation Arg1:T1284 Arg2:T164

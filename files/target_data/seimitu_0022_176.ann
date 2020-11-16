@@ -1,0 +1,11 @@
+T630	Machining 16 18	温度
+T631	Machining 25 29	工具摩耗
+T632	Machining 41 43	工具
+T633	Machining 41 47	工具すくい面
+T784	Machining 41 49	工具すくい面温度
+R258	Relation Arg1:T784 Arg2:T631
+T2148	Machining 25 27	工具
+T2149	Machining 27 29	摩耗
+T2150	Machining 43 47	すくい面
+T2151	Machining 47 49	温度
+T3659	Machining 16 20	温度分布

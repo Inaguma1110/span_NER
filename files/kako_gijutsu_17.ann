@@ -1,0 +1,749 @@
+T0	Machining 4 9	びびり振動
+T1	Machining 10 14	切削加工
+T2	Machining 10 12	切削
+T3	Machining 12 14	加工
+T4	Machining 18 23	びびり振動
+T5	Machining 97 102	びびり振動
+T6	Machining 130 133	工作物
+T7	Machining 134 136	工具
+T8	Machining 432 437	固有振動数
+T9	Machining 472 474	加工
+T10	Machining 504 506	加工
+T11	Machining 551 556	びびり振動
+T12	Machining 602 606	切削加工
+T13	Machining 602 604	切削
+T14	Machining 604 606	加工
+T15	Machining 689 692	切削力
+T16	Machining 689 691	切削
+T17	Machining 702 706	断続切削
+T18	Machining 704 706	切削
+T19	Machining 713 717	連続切削
+T20	Machining 715 717	切削
+T21	Machining 722 726	切りくず
+T22	Machining 755 759	断続切削
+T23	Machining 757 759	切削
+T24	Machining 766 772	フライス加工
+T25	Machining 766 770	フライス
+T26	Machining 770 772	加工
+T27	Machining 777 779	加工
+T28	Machining 794 798	断続切削
+T29	Machining 796 798	切削
+T30	Machining 826 831	固有振動数
+T31	Machining 890 895	固有振動数
+T32	Machining 953 956	切削力
+T33	Machining 953 955	切削
+T34	Machining 971 973	工具
+T35	Machining 971 975	工具刃形
+T36	Machining 973 975	刃形
+T37	Machining 994 998	切りくず
+T38	Machining 1015 1019	切りくず
+T39	Machining 1022 1025	焼入れ
+T40	Machining 1034 1038	切りくず
+T41	Machining 1041 1045	快削黄銅
+T42	Machining 1043 1045	黄銅
+T44	Machining 1063 1068	固有振動数
+T45	Machining 1089 1091	工具
+T46	Machining 1092 1095	工作物
+T47	Machining 1097 1099	切削
+T48	Machining 1108 1113	固有振動数
+T49	Machining 1125 1127	送り
+T50	Machining 1137 1139	加工
+T51	Machining 1166 1170	切削速度
+T52	Machining 1166 1168	切削
+T53	Machining 1241 1243	工具
+T54	Machining 1246 1249	工作物
+T55	Machining 1383 1388	固有振動数
+T56	Machining 1402 1407	固有振動数
+T57	Machining 1503 1506	切込み
+T58	Machining 1529 1532	仕上げ
+T59	Machining 1529 1534	仕上げ加工
+T60	Machining 1532 1534	加工
+T61	Machining 1541 1545	仕上げ面
+T62	Machining 1541 1544	仕上げ
+T63	Machining 1643 1645	切削
+T64	Machining 1729 1731	工具
+T65	Machining 1732 1735	工作物
+T66	Machining 1747 1749	切削
+T67	Machining 1823 1826	切削幅
+T68	Machining 1823 1825	切削
+T69	Machining 1995 1997	切削
+T70	Machining 2073 2075	摩擦
+T71	Machining 2104 2106	加工
+T72	Machining 2132 2135	重切削
+T74	Machining 2175 2178	突切り
+T75	Machining 2186 2188	削り
+T76	Machining 2191 2193	溶接
+T77	Machining 2198 2202	切削加工
+T78	Machining 2198 2200	切削
+T79	Machining 2200 2202	加工
+T80	Machining 2212 2219	エンドミル加工
+T81	Machining 2212 2217	エンドミル
+T82	Machining 2217 2219	加工
+T83	Machining 2223 2227	フライス
+T84	Machining 2258 2261	重切削
+T85	Machining 2259 2261	切削
+T86	Machining 2274 2277	切込み
+T87	Machining 2288 2290	加工
+T88	Machining 2339 2341	切削
+T89	Machining 2454 2456	工具
+T90	Machining 2463 2466	切削力
+T91	Machining 2463 2465	切削
+T92	Machining 2498 2500	切削
+T93	Machining 2539 2542	切削幅
+T94	Machining 2539 2541	切削
+T95	Machining 2547 2550	切込み
+T96	Machining 2578 2581	加工面
+T97	Machining 2578 2580	加工
+T98	Machining 2591 2593	切削
+T99	Machining 2628 2632	切削条件
+T100	Machining 2628 2630	切削
+T101	Machining 2657 2661	切削速度
+T102	Machining 2657 2659	切削
+T103	Machining 2668 2671	切削幅
+T104	Machining 2668 2670	切削
+T105	Machining 2715 2720	固有振動数
+T106	Machining 2799 2804	比切削抵抗
+T107	Machining 2800 2804	切削抵抗
+T108	Machining 2800 2802	切削
+T109	Machining 2810 2814	すくい角
+T110	Machining 2814 2816	工具
+T111	Machining 2843 2845	工具
+T112	Machining 2851 2854	逃げ角
+T113	Machining 2860 2862	工具
+T114	Machining 2876 2880	切削条件
+T115	Machining 2876 2878	切削
+T116	Machining 2884 2888	軽切込み
+T117	Machining 2889 2892	切削幅
+T118	Machining 2889 2891	切削
+T119	Machining 2895 2898	高送り
+T120	Machining 2902 2906	低速切削
+T121	Machining 2946 2948	切削
+T122	Machining 2964 2969	中ぐり加工
+T123	Machining 2967 2969	加工
+T124	Machining 2970 2973	突切り
+T125	Machining 2970 2975	突切り加工
+T126	Machining 2973 2975	加工
+T127	Machining 3007 3009	工具
+T128	Machining 3021 3027	正面フライス
+T129	Machining 3023 3027	フライス
+T130	Machining 3028 3031	リーマ
+T131	Machining 3038 3044	アプローチ角
+T132	Machining 3048 3054	アプローチ角
+T133	Machining 3054 3056	工具
+T134	Machining 3057 3062	平フライス
+T135	Machining 3058 3062	フライス
+T136	Machining 3063 3068	エンドミル
+T137	Machining 3081 3085	すくい面
+T138	Machining 3088 3093	エンドミル
+T139	Machining 3119 3121	摩擦
+T140	Machining 3125 3129	切削速度
+T141	Machining 3125 3127	切削
+T142	Machining 3139 3142	切削力
+T143	Machining 3139 3141	切削
+T144	Machining 3148 3152	切削速度
+T145	Machining 3148 3150	切削
+T146	Machining 3160 3163	切削力
+T147	Machining 3160 3162	切削
+T148	Machining 3198 3202	切削加工
+T149	Machining 3198 3200	切削
+T150	Machining 3200 3202	加工
+T151	Machining 3241 3243	工具
+T152	Machining 3243 3246	切れ刃
+T153	Machining 3247 3252	逃げ面摩耗
+T154	Machining 3247 3250	逃げ面
+T155	Machining 3250 3252	摩耗
+T156	Machining 3271 3276	逃げ面摩耗
+T157	Machining 3271 3274	逃げ面
+T158	Machining 3274 3276	摩耗
+T159	Machining 3298 3301	切込み
+T160	Machining 3302 3304	切削
+T161	Machining 3331 3336	固有振動数
+T162	Machining 3341 3345	切削速度
+T163	Machining 3341 3343	切削
+T164	Machining 3414 3418	シャンク
+T165	Machining 3419 3421	曲げ
+T166	Machining 3421 3426	固有振動数
+T167	Machining 3436 3438	工具
+T168	Machining 3438 3442	シャンク
+T169	Machining 3484 3486	工具
+T171	Machining 3573 3576	切削幅
+T172	Machining 3573 3575	切削
+T173	Machining 3602 3607	びびり振動
+T174	Machining 3622 3624	加工
+T175	Machining 3639 3642	加工面
+T176	Machining 3639 3641	加工
+T177	Machining 3654 3656	加工
+T178	Machining 3793 3795	剛性
+T179	Machining 3865 3870	固有振動数
+T180	Machining 3886 3891	固有振動数
+T181	Machining 3931 3936	固有振動数
+T182	Machining 3992 3997	固有振動数
+T183	Machining 4025 4030	固有振動数
+T184	Machining 4081 4083	工具
+T185	Machining 4084 4087	工作物
+T186	Machining 4116 4118	精度
+T187	Machining 4125 4127	加工
+T188	Machining 4128 4140	単結晶ダイヤモンドバイト
+T189	Machining 4131 4137	ダイヤモンド
+T190	Machining 4131 4140	ダイヤモンドバイト
+T191	Machining 4146 4148	旋削
+T192	Machining 4166 4169	仕上げ
+T193	Machining 4166 4171	仕上げ加工
+T195	Machining 4169 4171	加工
+T196	Machining 4171 4173	精度
+T197	Machining 4195 4200	固有振動数
+T198	Machining 4283 4285	剛性
+T199	Machining 4367 4369	工具
+T200	Machining 4370 4373	工作物
+T201	Machining 4393 4397	断続切削
+T202	Machining 4395 4397	切削
+T203	Machining 4433 4435	加工
+T204	Machining 4445 4450	固有振動数
+T205	Machining 4511 4513	曲げ
+T206	Machining 4610 4615	固有振動数
+T207	Machining 4809 4815	ステンレス鋼
+T209	Machining 4837 4841	旋盤加工
+T210	Machining 4839 4841	加工
+T211	Machining 4868 4870	送り
+T212	Machining 4870 4872	加工
+T213	Machining 4876 4881	セラミック
+T214	Machining 4876 4883	セラミック工具
+T215	Machining 4881 4883	工具
+T216	Machining 4902 4904	加工
+T217	Machining 4932 4937	中ぐり加工
+T218	Machining 4935 4937	加工
+T219	Machining 4968 4970	工具
+T220	Machining 4979 4981	工具
+T221	Machining 4982 4987	固有振動数
+T222	Machining 5066 5068	摩擦
+T223	Machining 5172 5178	ダイヤモンド
+T224	Machining 150 152	振動
+T225	Machining 203 205	振動
+T226	Machining 412 414	振動
+T227	Machining 449 451	振動
+T228	Machining 455 458	周波数
+T229	Machining 513 515	振動
+T230	Machining 576 580	強制振動
+T231	Machining 581 585	自動振動
+T232	Machining 912 918	振動変位振幅
+T233	Machining 919 924	加振力振幅
+T234	Machining 957 962	強制的変動
+T235	Machining 1055 1058	周波数
+T236	Machining 1454 1458	強制振動
+T237	Machining 1606 1611	混合形振動
+T238	Machining 1624 1630	空転時の振動
+T239	Machining 1671 1675	強制振動
+T240	Machining 1676 1681	再生びびり
+T241	Machining 1795 1800	再生びびり
+T242	Machining 1809 1814	再生びびり
+T243	Machining 2063 2068	再生びびり
+T244	Machining 2073 2078	摩擦形振動
+T245	Machining 2230 2238	ラジアルボール盤
+T246	Machining 2357 2369	アウタモジューレーション
+T247	Machining 2403 2414	インナモジュレーション
+T248	Machining 2496 2502	瞬間切削厚さ
+T249	Machining 2656 2661	低切削速度
+T250	Machining 773 779	ブローチ加工
+T251	Machining 298 304	運動の加速度
+T252	Machining 309 312	慣性力
+R1	Linear Arg1:T251 Arg2:T252	
+T253	Machining 326 332	相互運動変位
+T254	Machining 337 344	弾性的な復元力
+R2	Linear Arg1:T253 Arg2:T254	
+T255	Machining 899 911	構造体のコンプライアンス
+R3	Linear Arg1:T232 Arg2:T255	
+R4	NegativeLinear Arg1:T233 Arg2:T255	
+#1	AnnotatorNotes R4	反比例
+T256	Machining 1009 1011	振動
+R5	Relation Arg1:T235 Arg2:T256	
+T257	Machining 1143 1145	振動
+R7	Relation Arg1:T49 Arg2:T257	
+T258	Machining 1134 1136	低速
+R8	Relation Arg1:T258 Arg2:T257	
+T259	Machining 1373 1379	空転時の振動
+T260	Machining 1362 1367	強制振動源
+R9	Relation Arg1:T260 Arg2:T259	
+R10	Relation Arg1:T55 Arg2:T259	
+T261	Machining 1393 1398	再生びびり
+R11	Relation Arg1:T56 Arg2:T261	
+T262	Machining 1635 1639	再生効果
+R12	Relation Arg1:T262 Arg2:T238	
+R13	Relation Arg1:T239 Arg2:T237	
+R14	Relation Arg1:T240 Arg2:T237	
+T263	Machining 1937 1941	自励振動
+T264	Machining 1965 1974	機械構造系の動特性
+T265	Machining 1995 2003	切削過程の動特性
+R15	Relation Arg1:T264 Arg2:T263	
+R16	Relation Arg1:T265 Arg2:T263	
+T266	Machining 2279 2284	再生びびり
+R17	Positive Arg1:T86 Arg2:T266	
+T267	Variable 2506 2507	u
+T268	Machining 2463 2472	切削力の瞬間変動分
+T269	Machining 2496 2506	瞬間切削厚さの変動分
+R18	Linear Arg1:T269 Arg2:T268	
+T270	Machining 2663 2671	安定限界の切削幅
+R19	Negative Arg1:T101 Arg2:T270	
+T271	Machining 2820 2824	重複係数
+T272	Machining 2843 2847	工具形状
+R21	Relation Arg1:T272 Arg2:T271	
+T273	Machining 2907 2912	再生びびり
+R22	Relation Arg1:T116 Arg2:T273	
+R24	Relation Arg1:T119 Arg2:T273	
+R25	Relation Arg1:T120 Arg2:T273	
+T274	Machining 2944 2948	変速切削
+T275	Machining 2949 2953	再生効果
+R26	Relation Arg1:T274 Arg2:T275	
+R27	Relation Arg1:T144 Arg2:T146	
+T276	Machining 3404 3406	振動
+T277	Machining 3503 3505	摩耗
+R28	Relation Arg1:T277 Arg2:T276	
+#2	AnnotatorNotes T276	摩擦形振動
+T278	Machining 3805 3807	振動
+T279	Machining 4053 4056	慣性力
+T280	Machining 4075 4077	変形
+T281	Machining 4093 4097	振動変位
+R30	Relation Arg1:T279 Arg2:T280	
+R31	Relation Arg1:T279 Arg2:T281	
+T282	Machining 4166 4173	仕上げ加工精度
+R32	Negative Arg1:T281 Arg2:T282	
+T283	Machining 4205 4208	慣性力
+R33	Positive Arg1:T197 Arg2:T283	
+T284	Machining 4271 4274	慣性力
+R34	Negative Arg1:T198 Arg2:T284	
+T285	Machining 4433 4437	加工性能
+R35	Relation Arg1:T204 Arg2:T285	
+T286	Machining 4476 4478	変形
+R36	Relation Arg1:T204 Arg2:T286	
+T287	Machining 4766 4768	振動
+T288	Machining 4797 4801	振動変形
+R37	Positive Arg1:T287 Arg2:T288	
+T289	Machining 4851 4856	高周波振動
+T290	Machining 4876 4886	セラミック工具の寿命
+R38	Relation Arg1:T289 Arg2:T290	
+T291	Machining 5007 5010	びびり
+R39	Positive Arg1:T221 Arg2:T291	
+T292	Machining 5061 5068	材料の内部摩擦
+T293	Machining 5080 5086	振動エネルギ
+R40	Relation Arg1:T292 Arg2:T293	
+T294	Machining 5092 5094	振動
+R41	Positive Arg1:T293 Arg2:T294	
+T295	Machining 4599 4601	振動
+T296	Machining 4616 4622	振動モード形
+R42	Relation Arg1:T206 Arg2:T295	
+R43	Relation Arg1:T296 Arg2:T295	
+T297	Machining 491 494	変動力
+R44	Relation Arg1:T9 Arg2:T297	
+R45	Relation Arg1:T297 Arg2:T229	
+T298	Machining 994 1004	切りくず生成の周期性
+R46	Relation Arg1:T298 Arg2:T256	
+T299	Machining 1350 1360	空転時そのままの振動
+R47	Relation Arg1:T236 Arg2:T299	
+T300	Machining 1474 1478	外来振動
+R48	Relation Arg1:T300 Arg2:T299	
+R49	Relation Arg1:T299 Arg2:T61	
+T301	Machining 2110 2114	再生効果
+T302	Machining 2148 2150	振動
+R50	Positive Arg1:T301 Arg2:T302	
+T303	Machining 2522 2527	再生びびり
+R51	Relation Arg1:T93 Arg2:T303	
+R52	Relation Arg1:T95 Arg2:T303	
+T304	Machining 2797 2804	動的比切削抵抗
+R20	Negative Arg1:T109 Arg2:T304	
+R53	Relation Arg1:T280 Arg2:T281	
+T305	Machining 4375 4377	振動
+R54	Relation Arg1:T204 Arg2:T305	
+T306	Machining 4416 4418	振動
+R55	Relation Arg1:T306 Arg2:T285	
+R56	Sub Arg1:T230 Arg2:T11	
+R57	Sub Arg1:T231 Arg2:T11	
+T307	Machining 634 638	強制振動
+T308	Machining 651 655	力外乱形
+T309	Machining 660 665	変位外乱形
+R58	Sub Arg1:T308 Arg2:T307	
+R59	Sub Arg1:T309 Arg2:T307	
+#3	AnnotatorNotes T308	力外乱形強制振動
+#4	AnnotatorNotes T309	変位外乱形強制振動
+T310	Machining 709 711	振動
+R60	Relation Arg1:T17 Arg2:T310	
+T311	Machining 739 742	周期性
+T312	Machining 747 749	振動
+R61	Relation Arg1:T311 Arg2:T312	
+T313	Machining 762 764	振動
+R62	Relation Arg1:T22 Arg2:T313	
+T314	Machining 3139 3147	切削力の垂下特性
+T315	Machining 3183 3187	自励振動
+R6	Relation Arg1:T314 Arg2:T315	
+T316	Machining 137 141	工作機械
+#5	AnnotatorNotes T316	Y・M
+T317	Machining 463 467	工作機械
+#6	AnnotatorNotes T317	Y・M
+T318	Machining 780 788	ギヤシェービング
+#7	AnnotatorNotes T318	Y・M
+T319	Machining 1031 1038	不連続切りくず
+#8	AnnotatorNotes T319	Y・M
+T320	Machining 1422 1425	電動機
+#9	AnnotatorNotes T320	Y・M
+T321	Machining 1426 1429	回転軸
+#10	AnnotatorNotes T321	Y・M
+T322	Machining 1430 1432	軸受
+#11	AnnotatorNotes T322	Y・M
+T323	Machining 1012 1019	鋸歯状切りくず
+#12	AnnotatorNotes T323	Y・M
+T324	Machining 1022 1026	焼入れ鋼
+#13	AnnotatorNotes T324	Y・M
+T325	Machining 1198 1203	再生びびり
+#14	AnnotatorNotes T325	Y・M
+T326	Machining 1187 1191	自励振動
+#15	AnnotatorNotes T326	Y・M
+R63	Relation Arg1:T325 Arg2:T326	
+#16	AnnotatorNotes R63	Y・M
+T327	Machining 1241 1245	工具刃先
+#17	AnnotatorNotes T327	Y・M
+T328	Machining 1433 1436	軸継手
+#18	AnnotatorNotes T328	Y・M
+T329	Machining 1437 1439	歯車
+#19	AnnotatorNotes T329	Y・M
+T330	Machining 1440 1443	ポンプ
+#20	AnnotatorNotes T330	Y・M
+T331	Machining 1444 1447	ベルト
+#21	AnnotatorNotes T331	Y・M
+T332	Machining 2025 2032	動的不安定現象
+#22	AnnotatorNotes T332	Y・M
+R64	Relation Arg1:T332 Arg2:T263	
+#23	AnnotatorNotes R64	Y・M
+T333	Machining 2102 2106	機械加工
+#24	AnnotatorNotes T333	Y・M
+T335	Machining 2156 2160	旋盤作業
+#26	AnnotatorNotes T335	Y・M
+T336	Machining 2167 2172	総形バイト
+#27	AnnotatorNotes T336	Y・M
+T337	Machining 3004 3009	多数刃工具
+#28	AnnotatorNotes T337	Y・M
+T338	Machining 3013 3020	不等ピッチ設計
+#29	AnnotatorNotes T338	Y・M
+T339	Machining 2994 3000	振動抑制方法
+#30	AnnotatorNotes T339	Y・M
+T340	Machining 2994 2996	振動
+#31	AnnotatorNotes T340	Y・M
+R65	Relation Arg1:T338 Arg2:T339	
+#32	AnnotatorNotes R65	Y・M
+T341	Machining 3411 3418	バイトシャンク
+#33	AnnotatorNotes T341	Y・M
+T342	Machining 4123 4127	研削加工
+#34	AnnotatorNotes T342	Y・M
+T343	Machining 4143 4148	鏡面の旋削
+#35	AnnotatorNotes T343	Y・M
+T344	Machining 4115 4118	高精度
+#36	AnnotatorNotes T344	Y・M
+T345	Machining 4816 4822	高マンガン鋼
+#37	AnnotatorNotes T345	Y・M
+T346	Machining 4823 4830	ニッケル基合金
+#38	AnnotatorNotes T346	Y・M
+T347	Machining 4833 4836	難削材
+#39	AnnotatorNotes T347	Y・M
+R66	Relation Arg1:T346 Arg2:T347	
+#40	AnnotatorNotes R66	Y・M
+R67	Relation Arg1:T345 Arg2:T347	
+#41	AnnotatorNotes R67	Y・M
+R68	Relation Arg1:T207 Arg2:T347	
+#42	AnnotatorNotes R68	Y・M
+T348	Machining 4900 4904	研削加工
+#43	AnnotatorNotes T348	Y・M
+T349	Machining 4 7	びびり
+T350	Machining 7 9	振動
+T351	Machining 18 21	びびり
+T352	Machining 21 23	振動
+T353	Machining 97 100	びびり
+T354	Machining 100 102	振動
+T355	Machining 317 319	弾性
+T356	Machining 578 580	振動
+T357	Machining 583 585	振動
+T358	Machining 551 554	びびり
+T359	Machining 554 556	振動
+T360	Machining 610 612	振動
+T361	Machining 636 638	振動
+T362	Machining 979 981	振動
+T363	Machining 631 633	振動
+T364	Machining 629 633	強制振動
+T365	Machining 1189 1191	振動
+T366	Machining 1223 1225	振動
+T367	Machining 1228 1230	変位
+T368	Machining 1226 1228	振動
+T369	Machining 1243 1245	刃先
+T370	Machining 1343 1345	振動
+T371	Machining 1255 1257	振動
+T372	Machining 1332 1334	振動
+T373	Machining 1340 1345	混合形振動
+T374	Machining 1200 1203	びびり
+T375	Machining 1358 1360	振動
+T376	Machining 1456 1458	振動
+T377	Machining 1673 1675	振動
+T378	Machining 1861 1863	振動
+T379	Machining 1859 1863	強制振動
+T380	Machining 1939 1941	振動
+T381	Machining 1943 1945	振動
+T382	Machining 1955 1957	振動
+T383	Machining 2456 2458	刃先
+T384	Machining 2473 2475	刃先
+T385	Machining 2582 2584	振動
+T386	Machining 2802 2804	抵抗
+T387	Machining 2909 2912	びびり
+T388	Machining 3122 3124	振動
+T390	Machining 1395 1398	びびり
+T391	Machining 1364 1366	振動
+T392	Machining 1377 1379	振動
+T395	Machining 1476 1478	振動
+T396	Machining 1628 1630	振動
+T397	Machining 1609 1611	振動
+T398	Machining 1811 1814	びびり
+T399	Machining 1797 1800	びびり
+T400	Machining 2076 2078	振動
+T401	Machining 2065 2068	びびり
+T402	Machining 2281 2284	びびり
+T403	Machining 2469 2471	変動
+T404	Machining 2503 2505	変動
+T405	Machining 2524 2527	びびり
+T407	Machining 2317 2321	再生効果
+T408	Machining 3102 3105	びびり
+T409	Machining 3100 3105	再生びびり
+T410	Machining 3185 3187	振動
+T411	Machining 3351 3353	振動
+T413	Machining 3629 3631	振動
+T414	Machining 3647 3649	振動
+T420	Machining 4093 4095	振動
+T421	Machining 4095 4097	変位
+T422	Machining 4347 4349	振動
+T423	Machining 4447 4449	振動
+T424	Machining 4402 4404	振動
+T425	Machining 4400 4404	強制振動
+T427	Machining 4518 4522	固有振動
+T429	Machining 4616 4618	振動
+T430	Machining 4854 4856	振動
+T431	Machining 4900 4902	研削
+T432	Machining 4948 4951	びびり
+T433	Machining 4946 4951	再生びびり
+T434	Machining 4911 4913	振動
+T436	Machining 5080 5082	振動
+T438	Machining 5031 5033	振動
+T439	Machining 5047 5049	油膜
+T440	Machining 5041 5045	合わせ面
+T441	Machining 5144 5151	固有振動モード
+T442	Machining 5137 5139	剛体
+T443	Machining 5139 5141	運動
+T444	Machining 5137 5141	剛体運動
+T447	Machining 695 697	振動
+T448	Machining 840 844	共振現象
+T449	Machining 840 842	共振
+T43	Machining 1041 1043	快削
+T451	Machining 1102 1104	振動
+T453	Machining 1572 1574	振動
+T454	Machining 1570 1575	強制振動源
+T455	Machining 2500 2502	厚さ
+T456	Machining 2473 2476	刃先点
+T457	Machining 2692 2697	再生びびり
+T458	Machining 2694 2697	びびり
+T459	Machining 2724 2726	振動
+T460	Machining 2764 2766	振動
+T461	Machining 3119 3124	摩擦形振動
+T462	Machining 3379 3381	振動
+T463	Machining 3525 3528	びびり
+T464	Machining 3523 3528	再生びびり
+T465	Machining 3602 3605	びびり
+T466	Machining 3605 3607	振動
+T467	Machining 3620 3624	機械加工
+T468	Machining 3658 3660	振動
+T469	Machining 3658 3662	振動測定
+T470	Machining 3722 3724	振動
+T471	Machining 3838 3840	剛体
+T472	Machining 4037 4039	剛体
+T473	Machining 4037 4041	剛体運動
+T474	Machining 4483 4485	振動
+T475	Machining 4797 4799	振動
+T476	Machining 4799 4801	変形
+T477	Quantity 3207 3211	1000
+T478	Unit 3211 3213	Hz
+T479	Machining 193 195	振動
+T480	Machining 686 688	振動
+T483	Machining 912 914	振動
+T484	Machining 914 916	変位
+T485	Machining 916 918	振幅
+T486	Machining 919 922	加振力
+T487	Machining 922 924	振幅
+T488	Machining 960 962	変動
+T489	Machining 3143 3147	垂下特性
+T490	Machining 3351 3355	振動変位
+T491	Quantity 3319 3323	1000
+T492	Unit 3323 3325	Hz
+T493	Machining 3805 3809	振動抑制
+R29	Relation Arg1:T178 Arg2:T493	
+T494	Machining 4389 4392	びびり
+T495	Machining 4387 4392	再生びびり
+T496	Machining 680 684	力外乱形
+T497	Machining 1496 1498	振動
+T498	Machining 1899 1904	再生びびり
+T499	Machining 1901 1904	びびり
+T500	Machining 1886 1889	周波数
+T501	Machining 3844 3846	並進
+T502	Machining 3847 3849	揺動
+T503	Machining 3850 3852	回転
+T504	Machining 4123 4125	研削
+T505	Machining 4318 4321	周波数
+T506	Machining 4340 4342	変形
+T507	Machining 4513 4515	変形
+T508	Machining 4511 4515	曲げ変形
+T509	Machining 4532 4534	変形
+T510	Machining 4562 4564	変形
+T511	Machining 4153 4163	フライ・カッティング
+T512	Quantity 4301 4303	数十
+T513	Unit 4303 4305	Hz
+T514	Quantity 4307 4309	数百
+T515	Unit 4309 4311	Hz
+T516	Machining 4360 4363	周波数
+T517	Machining 4428 4432	工作機械
+T518	Machining 4760 4763	周波数
+T519	Machining 4687 4689	変形
+T520	Quantity 4734 4736	数百
+T521	Unit 4736 4738	Hz
+T522	Quantity 4740 4741	数
+T523	Unit 4741 4745	キロHz
+T524	Quantity 4748 4749	十
+T525	Unit 4749 4753	キロHz
+T526	Machining 4916 4919	周波数
+T527	Quantity 4988 4990	数千
+T528	Unit 4990 4992	Hz
+T529	Machining 5003 5006	周波数
+T530	Machining 5027 5030	周波数
+T531	Machining 4837 4839	旋盤
+T532	Machining 5178 5180	旋盤
+T533	Machining 5109 5112	周波数
+T534	Machining 5128 5132	工作機械
+T535	Quantity 3998 3999	4
+T536	Quantity 4002 4004	50
+T537	Unit 4004 4006	Hz
+T538	Machining 818 821	周波数
+T539	Machining 1156 1158	振動
+T540	Machining 1175 1178	周波数
+T541	Machining 1277 1281	再生効果
+T542	Machining 2637 2640	周波数
+T543	Machining 2939 2941	変動
+T544	Machining 3133 3135	変動
+T545	Machining 3672 3675	周波数
+T546	Quantity 3706 3708	数十
+T547	Unit 3708 3710	Hz
+T548	Quantity 3939 3941	10
+T549	Unit 3941 3943	Hz
+T550	Quantity 3944 3947	110
+T551	Unit 3947 3949	Hz
+T552	Quantity 3952 3955	120
+T553	Unit 3955 3957	Hz
+T554	Machining 3715 3718	周波数
+T555	Machining 3755 3757	揺れ
+T556	Machining 3760 3762	回転
+T557	Machining 3218 3221	周波数
+T558	Variable 2445 2446	φ
+T559	Machining 3549 3553	再生効果
+T560	Machining 4961 4964	突出し
+T561	Machining 2426 2434	モジュレーション
+T562	Machining 2481 2489	モジュレーション
+T563	Machining 2096 2101	再生びびり
+T564	Machining 2343 2346	びびり
+T565	Machining 854 857	周波数
+T566	Machining 1678 1681	びびり
+R69	Relation Arg1:T8 Arg2:T228	
+T208	Machining 802 805	周波数
+R70	Relation Arg1:T508 Arg2:T427	
+T567	Machining 4240 4244	空気ばね
+T568	Machining 4010 4014	空気ばね
+R71	Relation Arg1:T568 Arg2:T183	
+T445	Machining 662 665	外乱形
+T446	Machining 652 655	外乱形
+T569	Machining 680 688	力外乱形強制振動
+T570	Machining 684 688	強制振動
+T571	Machining 681 684	外乱形
+T572	Machining 1216 1225	変位外乱形強制振動
+T573	Machining 1221 1225	強制振動
+T574	Machining 1218 1221	外乱形
+T575	Machining 1216 1221	変位外乱形
+T576	Machining 1955 1958	振動源
+T577	Machining 2098 2101	びびり
+T393	Machining 1572 1575	振動源
+T194	Machining 1743 1745	振動
+T389	Machining 1741 1745	相対振動
+T394	Machining 2926 2928	主軸
+T406	Machining 2926 2930	主軸速度
+T412	Machining 4637 4639	変形
+T415	Machining 3500 3502	刃先
+T416	Machining 4508 4510	主軸
+T417	Machining 928 930	振動
+T418	Machining 2778 2781	ダンパ
+T419	Machining 3411 3414	バイト
+T426	Machining 4965 4968	中ぐり
+T428	Machining 4965 4970	中ぐり工具
+T435	Machining 4976 4979	中ぐり
+T437	Machining 4976 4981	中ぐり工具
+T450	Machining 3195 3197	鋼材
+T452	Machining 5061 5063	材料
+T481	Machining 4884 4886	寿命
+T482	Machining 1819 1826	安定限界切削幅
+T578	Machining 1819 1823	安定限界
+T579	Machining 2663 2667	安定限界
+T580	Machining 2964 2967	中ぐり
+T581	Machining 3353 3355	変位
+T582	Machining 1792 1794	振動
+T583	Machining 1825 1826	幅
+T584	Machining 2541 2542	幅
+T585	Machining 3575 3576	幅
+T586	Machining 2928 2930	速度
+T587	Machining 3343 3345	速度
+T588	Machining 3127 3129	速度
+T589	Machining 3150 3152	速度
+T590	Machining 5082 5086	エネルギ
+T591	Machining 2659 2661	速度
+T592	Machining 2902 2904	低速
+T593	Machining 1168 1170	速度
+T594	Machining 4039 4041	運動
+T595	Machining 396 398	運動
+T596	Machining 2670 2671	幅
+T597	Machining 4769 4771	波動
+R72	Sub Arg1:T243 Arg2:T263	
+R73	Sub Arg1:T244 Arg2:T263	
+T598	Machining 2184 2188	外丸削り
+T599	Machining 5172 5180	ダイヤモンド旋盤
+T600	Machining 1097 1101	切削方向
+T601	Machining 994 1000	切りくず生成
+T602	Machining 2681 2687	低速安定効果
+T603	Machining 2681 2683	低速
+T604	Machining 4864 4866	高速
+T605	Machining 2891 2892	幅
+T606	Machining 190 192	速さ
+T607	Machining 429 431	速さ
+T608	Machining 722 728	切りくず生成
+T609	Machining 1783 1785	挙動
+T610	Machining 1932 1936	自励振動
+T611	Machining 1934 1936	振動
+T612	Machining 1261 1263	空転
+T613	Machining 1324 1326	空転
+R74	Positive Arg1:T72 Arg2:T302	
+T73	Machining 2904 2906	切削
+T170	Trigger 2136 2139	行おう
+T334	Trigger 2151 2154	生じる
+T614	Trigger 2121 2124	により
+#25	AnnotatorNotes T614	『により』か？わからない。。
+T615	Trigger 2285 2287	生じ
+T616	Trigger 2672 2674	増大
+T617	Trigger 2805 2807	低減
+T618	Trigger 2817 2819	使用
+T619	Trigger 4098 4101	生じる
+T620	Trigger 4174 4176	低下
+T621	Trigger 4275 4278	減らす
+T622	Trigger 4286 4288	高い
+T623	Trigger 4802 4807	引き起こす
+T625	Trigger 4995 4997	高い
+T626	Trigger 5011 5014	生じる
+T627	Trigger 5087 5089	消散
+T628	Trigger 5095 5097	抑制
+T629	Trigger 2270 2273	わずか
+T630	Trigger 2656 2657	低
+T631	Trigger 4201 4204	低くし
+T632	Trigger 4209 4214	小さくする
+T633	Trigger 4759 4765	高周波数範囲

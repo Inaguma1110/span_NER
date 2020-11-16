@@ -1,0 +1,13 @@
+T245	Machining 3 8	逃げ面摩耗
+T246	Machining 3 9	逃げ面摩耗幅
+R26	Positive Arg1:T246 Arg2:T251
+R27	Positive Arg1:T246 Arg2:T252
+T247	Machining 3 6	逃げ面
+T248	Machining 6 8	摩耗
+T251	Machining 19 23	送り分力
+T252	Machining 24 27	背分力
+T571	Machining 21 23	分力
+T613	Machining 8 9	幅
+T659	Trigger 10 12	増大
+T660	Trigger 28 37	増し方が大きくなる
+T259	Machining 25 27	分力

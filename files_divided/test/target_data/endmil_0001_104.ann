@@ -1,0 +1,6 @@
+T243	Machining 11 17	コーティング
+T2127	Machining 2 5	ＤＬＣ
+R566	Relation Arg1:T2127 Arg2:T2133
+R567	Relation Arg1:T2127 Arg2:T2131
+R568	Relation Arg1:T2127 Arg2:T2132
+T2130	Machining 6 8	被膜

@@ -1,0 +1,16 @@
+T32	Machining 2 8	フライス加工
+T33	Machining 2 6	フライス
+T34	Machining 6 8	加工
+T35	Machining 9 13	断続切削
+T36	Machining 11 13	切削
+T37	Machining 19 22	切れ刃
+T38	Machining 23 25	切削
+T75	Machining 28 33	機械的衝撃
+R3	Relation Arg1:T75 Arg2:T37
+R5	Relation Arg1:T75 Arg2:T49
+T76	Machining 34 38	熱的衝撃
+R4	Relation Arg1:T76 Arg2:T37
+R6	Relation Arg1:T76 Arg2:T49
+T83	Machining 0 8	正面フライス加工
+T28	Machining 31 33	衝撃
+T53	Machining 36 38	衝撃

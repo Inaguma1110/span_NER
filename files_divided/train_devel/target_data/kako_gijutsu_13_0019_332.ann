@@ -1,0 +1,20 @@
+T1236	Machining 4 8	すくい角
+R164	Negative Arg1:T1236 Arg2:T1237
+T1237	Machining 15 21	すくい面摩耗
+T1238	Machining 15 19	すくい面
+T1239	Machining 19 21	摩耗
+T1240	Machining 31 35	すくい角
+R165	Positive Arg1:T1240 Arg2:T1241
+T1241	Machining 37 42	逃げ面摩耗
+T1242	Machining 37 40	逃げ面
+T1243	Machining 40 42	摩耗
+T1244	Machining 55 59	工具寿命
+T1245	Machining 55 57	工具
+T1246	Machining 67 71	すくい角
+R166	Relation Arg1:T1246 Arg2:T1244
+T1688	Machining 0 3	バイト
+T1788	Machining 57 59	寿命
+T1974	Trigger 9 14	大きくする
+T1975	Trigger 22 24	減少
+T1976	Trigger 43 45	増加
+T2013	Trigger 28 30	過大

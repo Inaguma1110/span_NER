@@ -1,0 +1,9 @@
+T279	Machining 1 5	切りくず
+T280	Machining 6 10	すくい面
+R98	Relation Arg1:T280 Arg2:T315
+T281	Machining 11 13	摩擦
+T283	Machining 13 15	熱源
+T472	Variable 15 18	Q_2
+T315	Machining 11 15	摩擦熱源
+R113	Relation Arg1:T315 Arg2:T147
+T147	Machining 26 28	加熱

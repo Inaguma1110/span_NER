@@ -1,0 +1,6 @@
+T294	Machining 0 3	快削鋼
+T295	Machining 4 8	切りくず
+T296	Machining 10 13	ひずみ
+T634	Machining 8 13	限界ひずみ
+R87	Linear Arg1:T634 Arg2:T668
+T668	Quantity 18 21	1/2

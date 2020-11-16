@@ -1,0 +1,15 @@
+T682	Machining 6 9	工作物
+T683	Machining 10 14	熱伝導率
+R244	Relation Arg1:T683 Arg2:T681
+T684	Machining 18 22	切りくず
+T685	Machining 23 25	温度
+T686	Machining 30 32	熱源
+T775	Machining 23 28	温度拡散率
+R245	Relation Arg1:T775 Arg2:T681
+T776	Machining 30 34	熱源強さ
+R246	Relation Arg1:T776 Arg2:T681
+T2176	Machining 25 28	拡散率
+T2177	Machining 32 34	強さ
+T3496	Variable 3 5	ｋ１
+T3497	Variable 15 17	Ｋ１
+T3498	Variable 29 30	ｑ

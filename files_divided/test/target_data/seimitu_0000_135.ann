@@ -1,0 +1,17 @@
+T467	Machining 2 6	すくい角
+T468	Machining 10 14	せん断角
+T469	Machining 23 25	切削
+T470	Machining 60 64	せん断角
+T583	Machining 0 6	有効すくい角
+R139	Relation Arg1:T583 Arg2:T468
+T2033	Machining 45 52	有効すくい断角
+R119	Relation Arg1:T2033 Arg2:T2036
+T2035	Machining 47 52	すくい断角
+T2036	Machining 58 64	有効せん断角
+T3396	Variable 6 8	αｅ
+T3397	Machining 10 13	せん断
+T3398	Variable 14 16	φｅ
+T3399	Machining 20 25	二次元切削
+T3400	Variable 52 54	αｅ
+T3401	Variable 64 66	φｅ
+T3402	Machining 60 63	せん断

@@ -1,0 +1,22 @@
+T802	Machining 10 14	工具材料
+T803	Machining 26 31	高速度鋼系
+R263	Sub Arg1:T803 Arg2:T802
+T804	Machining 36 41	超硬合金系
+R264	Sub Arg1:T804 Arg2:T802
+T805	Machining 42 48	セラミック系
+R266	Sub Arg1:T805 Arg2:T802
+T806	Machining 49 55	ダイヤモンド
+R265	Sub Arg1:T806 Arg2:T802
+T2205	Machining 10 12	工具
+T2206	Machining 12 14	材料
+T2207	Machining 21 25	炭素鋼系
+R193	Sub Arg1:T2207 Arg2:T802
+T2208	Machining 58 62	ｃＢＮ系
+R267	Sub Arg1:T2208 Arg2:T802
+T3539	Machining 36 38	超硬
+T3540	Machining 21 24	炭素鋼
+T3541	Machining 26 30	高速度鋼
+T3542	Machining 38 40	合金
+T3543	Machining 42 47	セラミック
+T3544	Machining 58 61	ｃＢＮ
+T3545	Machining 32 35	焼結系

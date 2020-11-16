@@ -1,0 +1,17 @@
+T3	Machining 0 3	加工面
+T4	Machining 0 2	加工
+T5	Machining 26 28	送り
+T6	Machining 26 29	送り量
+R7	Relation Arg1:T6 Arg2:T44
+T7	Machining 55 59	構成刃先
+T44	Machining 0 5	加工面粗さ
+T45	Machining 39 41	刃先
+R1	Relation Arg1:T45 Arg2:T44
+R2	Relation Arg1:T45 Arg2:T7
+R3	Relation Arg1:T45 Arg2:T47
+T46	Variable 41 42	R
+T47	Machining 67 70	びびり
+T50	Variable 30 31	f
+T51	Variable 6 11	H_max
+T75	Machining 57 59	刃先
+T95	Machining 3 5	粗さ

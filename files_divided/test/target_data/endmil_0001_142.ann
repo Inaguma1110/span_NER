@@ -1,0 +1,16 @@
+T376	Machining 12 17	エンドミル
+T377	Machining 17 21	側面切削
+T378	Machining 27 31	切削速度
+T379	Machining 32 36	切りくず
+T380	Machining 42 46	切りくず
+T381	Machining 57 59	温度
+T2248	Machining 8 11	炭素鋼
+T2252	Machining 47 49	生成
+T2254	Machining 19 21	切削
+T2255	Machining 27 29	切削
+T2256	Machining 29 31	速度
+T4430	Machining 32 38	切りくずの色
+T4431	Machining 12 21	エンドミル側面切削
+R81	Relation Arg1:T4431 Arg2:T378
+R898	Relation Arg1:T4431 Arg2:T4430
+R899	Relation Arg1:T4431 Arg2:T381

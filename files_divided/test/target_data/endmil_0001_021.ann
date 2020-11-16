@@ -1,0 +1,14 @@
+T60	Machining 3 7	ろう付け
+T61	Machining 10 14	刃部材質
+T62	Machining 18 21	チップ
+R10	Part Arg1:T62 Arg2:T61
+T63	Machining 25 32	スローアウェイ
+T64	Machining 34 36	刃部
+T65	Machining 40 50	スローアウェイチップ
+R11	Part Arg1:T65 Arg2:T64
+T1811	Machining 10 12	刃部
+T1813	Machining 47 50	チップ
+T4198	Machining 51 63	インデキサブルインサート
+T4406	Machining 40 47	スローアウェイ
+T4407	Machining 51 58	インデキサブル
+T4408	Machining 58 63	インサート

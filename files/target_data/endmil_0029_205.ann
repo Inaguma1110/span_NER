@@ -1,0 +1,13 @@
+T597	Machining 5 9	切削速度
+R151	Negative Arg1:T597 Arg2:T600
+T598	Machining 46 48	切削
+T599	Machining 58 62	切削条件
+R173	Relation Arg1:T599 Arg2:T600
+T600	Machining 64 68	工具寿命
+T2530	Machining 5 7	切削
+T2531	Machining 7 9	速度
+T2532	Machining 58 60	切削
+T2533	Machining 64 66	工具
+T2534	Machining 66 68	寿命
+T4579	Trigger 10 12	変化
+T4580	Trigger 69 71	予測

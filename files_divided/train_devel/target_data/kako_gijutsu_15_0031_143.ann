@@ -1,0 +1,22 @@
+T477	Machining 4 8	構成刃先
+R61	Relation Arg1:T477 Arg2:T854
+T478	Machining 10 13	切込み
+T479	Machining 25 29	構成刃先
+R62	Relation Arg1:T479 Arg2:T482
+R63	Relation Arg1:T479 Arg2:T485
+T480	Machining 30 34	仕上げ面
+T482	Machining 39 45	仕上げ面粗さ
+R64	Relation Arg1:T482 Arg2:T485
+T483	Machining 39 43	仕上げ面
+T485	Machining 49 53	加工精度
+T486	Machining 49 51	加工
+T487	Machining 51 53	精度
+T854	Machining 9 15	実切込み寸法
+T1102	Machining 6 8	刃先
+T1103	Machining 27 29	刃先
+T1104	Machining 30 33	仕上げ
+T1171	Machining 39 42	仕上げ
+T1215	Machining 43 45	粗さ
+T1264	Machining 0 2	成長
+T1265	Machining 21 23	脱落
+T1314	Machining 35 37	残留

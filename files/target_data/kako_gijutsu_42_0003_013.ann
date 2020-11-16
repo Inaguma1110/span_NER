@@ -1,0 +1,4 @@
+T13	Machining 11 14	切れ刃
+T99	Machining 6 10	接触状態
+R4	Relation Arg1:T99 Arg2:T100
+T100	Machining 11 17	切れ刃諸角度

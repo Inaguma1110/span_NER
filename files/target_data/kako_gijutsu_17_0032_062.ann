@@ -1,0 +1,6 @@
+T169	Machining 17 19	工具
+T277	Machining 36 38	摩耗
+R28	Relation Arg1:T277 Arg2:T276
+T463	Machining 58 61	びびり
+T464	Machining 56 61	再生びびり
+T415	Machining 33 35	刃先

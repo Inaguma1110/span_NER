@@ -1,0 +1,7 @@
+T1260	Machining 2 7	セラミック
+T1261	Machining 15 17	工具
+T1262	Machining 21 26	チャンファ
+R173	Relation Arg1:T1262 Arg2:T1263
+T1263	Machining 30 35	チッピング
+T605	Machining 10 12	靱性
+T1673	Machining 19 21	刃先

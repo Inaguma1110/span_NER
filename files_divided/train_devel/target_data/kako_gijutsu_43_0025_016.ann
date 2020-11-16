@@ -1,0 +1,10 @@
+T75	Machining 4 10	仕上げ面粗さ
+T76	Machining 4 8	仕上げ面
+T77	Machining 4 7	仕上げ
+T78	Machining 18 22	構成刃先
+R13	Relation Arg1:T78 Arg2:T75
+T79	Machining 33 35	切削
+T226	Machining 28 31	高速域
+R37	Relation Arg1:T226 Arg2:T75
+T245	Machining 20 22	刃先
+T332	Machining 8 10	粗さ

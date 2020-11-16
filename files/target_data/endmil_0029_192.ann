@@ -1,0 +1,7 @@
+T545	Machining 9 13	切削速度
+R117	Relation Arg1:T545 Arg2:T546
+T546	Machining 14 18	切削抵抗
+T2448	Machining 9 11	切削
+T2449	Machining 11 13	速度
+T2450	Machining 14 16	切削
+T2451	Machining 16 18	抵抗

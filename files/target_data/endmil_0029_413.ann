@@ -1,0 +1,9 @@
+T1273	Machining 7 9	鋳鉄
+T1274	Machining 12 14	黒鉛
+R399	Part Arg1:T1274 Arg2:T3441
+T1275	Machining 15 21	グラファイト
+T3430	Machining 40 43	潤滑剤
+T3441	Machining 0 3	ＦＣ材
+R866	Relation Arg1:T3441 Arg2:T3430
+R867	Relation Arg1:T3441 Arg2:T3429
+T3442	Machining 4 9	ねずみ鋳鉄

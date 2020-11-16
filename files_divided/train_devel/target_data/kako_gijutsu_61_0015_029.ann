@@ -1,0 +1,21 @@
+T109	Machining 0 3	被削材
+T110	Machining 20 22	硬度
+T111	Machining 23 24	銅
+R133	Sub Arg1:T111 Arg2:T624
+T112	Machining 25 28	アルミ
+R134	Sub Arg1:T112 Arg2:T624
+T113	Machining 35 41	グラファイト
+R136	Sub Arg1:T113 Arg2:T624
+T521	Machining 42 46	超耐熱鋼
+R137	Sub Arg1:T521 Arg2:T624
+T522	Machining 29 34	ステンレス
+R135	Sub Arg1:T522 Arg2:T624
+T624	Machining 0 4	被削材料
+T625	Machining 12 14	非鉄
+R130	Sub Arg1:T625 Arg2:T624
+T626	Machining 15 18	非金属
+R131	Sub Arg1:T626 Arg2:T624
+T627	Machining 19 22	高硬度
+R132	Sub Arg1:T627 Arg2:T624
+T628	Machining 9 11	汎用
+R129	Sub Arg1:T628 Arg2:T624

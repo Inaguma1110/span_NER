@@ -1,0 +1,17 @@
+T1763	Machining 6 12	オイルミスト
+R502	Positive Arg1:T1763 Arg2:T4452
+R503	Positive Arg1:T1763 Arg2:T1769
+R505	Negative Arg1:T1763 Arg2:T1768
+R937	Positive Arg1:T1763 Arg2:T4364
+R938	Positive Arg1:T1763 Arg2:T4139
+T1764	Machining 24 27	加工面
+R496	Positive Arg1:T1764 Arg2:T4139
+R504	Positive Arg1:T1764 Arg2:T1769
+R506	Negative Arg1:T1764 Arg2:T1768
+T1765	Machining 40 42	工具
+T4138	Machining 13 16	ＭＱＬ
+T4364	Machining 40 44	工具軌跡
+T4365	Machining 42 44	軌跡
+T4452	Machining 28 30	光沢
+T4857	Trigger 17 19	使用
+T4858	Trigger 31 34	見られ

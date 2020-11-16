@@ -1,0 +1,8 @@
+T1343	Machining 4 6	損傷
+R9	Negative Arg1:T1343 Arg2:T1344
+T1344	Machining 14 16	機能
+R10	Positive Arg1:T1344 Arg2:T1345
+R11	Relation Arg1:T1344 Arg2:T1346
+R12	Negative Arg1:T1344 Arg2:T1347
+T1654	Trigger 7 9	増加
+T1656	Trigger 17 19	低下

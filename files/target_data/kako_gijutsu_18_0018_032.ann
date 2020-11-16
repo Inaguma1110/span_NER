@@ -1,0 +1,11 @@
+T52	Machining 29 31	送り
+T53	Machining 29 32	送り量
+R7	Relation Arg1:T53 Arg2:T79
+T54	Machining 34 38	切削速度
+R8	Relation Arg1:T54 Arg2:T80
+T55	Machining 34 36	切削
+T79	Variable 13 18	V_mc′
+T80	Variable 19 24	f_mc′
+T81	Variable 32 33	f
+T82	Variable 38 39	V
+T167	Machining 36 38	速度

@@ -1,0 +1,9 @@
+T1510	Machining 25 27	精度
+T3695	Machining 0 3	保持具
+R705	Relation Arg1:T3695 Arg2:T3696
+R706	Relation Arg1:T3695 Arg2:T3698
+R707	Relation Arg1:T3695 Arg2:T3699
+T3696	Machining 19 22	把持力
+T3697	Machining 23 25	振れ
+T3698	Machining 23 27	振れ精度
+T3699	Machining 30 36	動的バランス

@@ -1,0 +1,13 @@
+T221	Machining 23 25	温度
+R39	Linear Arg1:T221 Arg2:T826
+T826	Machining 47 50	線膨張
+T951	Machining 12 15	鉄鋼材
+T953	Quantity 17 18	1
+T954	Unit 18 19	℃
+T955	Machining 4 6	長さ
+T956	Quantity 6 9	100
+T957	Unit 9 11	mm
+T958	Quantity 33 34	1
+T959	Unit 34 36	μm
+T1242	Quantity 37 43	1/1000
+T1243	Unit 43 45	mm

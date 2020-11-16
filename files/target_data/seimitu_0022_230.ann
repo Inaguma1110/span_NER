@@ -1,0 +1,20 @@
+T854	Machining 0 4	高速度鋼
+R248	Relation Arg1:T854 Arg2:T857
+R259	Relation Arg1:T854 Arg2:T858
+R280	Relation Arg1:T854 Arg2:T2226
+R289	Relation Arg1:T854 Arg2:T859
+R290	Relation Arg1:T854 Arg2:T860
+T855	Machining 9 14	超硬合金系
+T856	Machining 15 17	工具
+T857	Machining 21 23	硬度
+T858	Machining 24 27	耐熱性
+T859	Machining 37 41	被加工性
+T860	Machining 42 44	靭性
+T861	Machining 53 55	工具
+T862	Machining 70 73	高精度
+T863	Machining 76 78	工具
+T864	Machining 79 83	断続切削
+T865	Machining 84 87	工具材
+T942	Machining 74 78	総型工具
+T2226	Machining 28 32	耐磨耗性
+T3555	Machining 81 83	切削

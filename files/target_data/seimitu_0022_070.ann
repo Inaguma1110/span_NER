@@ -1,0 +1,10 @@
+T240	Machining 0 3	ひずみ
+T241	Machining 6 9	ひずみ
+R95	Relation Arg1:T241 Arg2:T386
+T242	Machining 41 44	ひずみ
+T386	Machining 0 5	ひずみ速度
+T1935	Machining 3 5	速度
+T1936	Machining 20 22	変形
+T1937	Machining 24 26	厚さ
+T1938	Machining 44 46	速度
+T1939	Machining 41 46	ひずみ速度

@@ -1,0 +1,9 @@
+T328	Machining 0 4	切りくず
+R836	Relation Arg1:T328 Arg2:T2216
+R837	Relation Arg1:T328 Arg2:T332
+T329	Machining 6 11	エンドミル
+T330	Machining 11 14	切れ刃
+R89	Part Arg1:T330 Arg2:T329
+T331	Machining 14 18	すくい面
+T332	Machining 39 41	亀裂
+T2216	Machining 35 38	くびれ

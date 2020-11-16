@@ -1,0 +1,6 @@
+T195	Machining 2 6	異常損傷
+T196	Machining 9 11	欠損
+R150	Sub Arg1:T196 Arg2:T195
+T197	Machining 12 14	折損
+R151	Sub Arg1:T197 Arg2:T195
+T674	Machining 4 6	損傷

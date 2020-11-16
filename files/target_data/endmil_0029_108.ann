@@ -1,0 +1,15 @@
+T256	Machining 0 7	エンドミル加工
+T257	Machining 8 12	旋削加工
+T258	Machining 22 24	工具
+T259	Machining 35 38	穴加工
+T260	Machining 59 63	断続切削
+T2142	Machining 0 5	エンドミル
+T2143	Machining 5 7	加工
+T2144	Machining 24 26	回転
+T2145	Machining 22 26	工具回転
+T2146	Machining 8 10	旋削
+T2147	Machining 10 12	加工
+T2148	Machining 54 56	空転
+T2149	Machining 61 63	切削
+T2150	Machining 35 36	穴
+T2151	Machining 36 38	加工

@@ -1,0 +1,7 @@
+T767	Machining 9 15	高速度工具鋼
+T769	Machining 12 15	工具鋼
+T770	Machining 16 19	TiN
+T771	Machining 21 27	コーティング
+R181	Positive Arg1:T771 Arg2:T772
+T1879	Machining 9 12	高速度
+T1953	Trigger 28 30	施す

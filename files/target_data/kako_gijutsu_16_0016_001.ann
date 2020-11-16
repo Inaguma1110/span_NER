@@ -1,0 +1,3 @@
+T1	Machining 6 10	切りくず
+R60	Relation Arg1:T1 Arg2:T444
+T444	Machining 15 19	トラブル

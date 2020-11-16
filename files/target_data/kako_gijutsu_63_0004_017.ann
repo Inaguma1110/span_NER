@@ -1,0 +1,11 @@
+T102	Machining 0 8	ボールエンドミル
+T103	Machining 3 8	エンドミル
+T104	Machining 18 21	荒削り
+T106	Machining 22 26	中仕上げ
+T107	Machining 23 26	仕上げ
+T108	Machining 27 30	仕上げ
+T109	Machining 47 50	切れ刃
+T110	Machining 51 55	仕上げ面
+T111	Machining 51 54	仕上げ
+T267	Machining 44 50	ボール切れ刃
+R40	Part Arg1:T267 Arg2:T102

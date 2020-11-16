@@ -1,0 +1,7 @@
+T1625	Machining 7 11	すくい角
+R721	Relation Arg1:T1625 Arg2:T3948
+R722	Relation Arg1:T1625 Arg2:T1626
+T1626	Machining 25 30	エンドミル
+T3947	Machining 3 5	研削
+T3948	Machining 22 24	砥石
+T4348	Machining 36 41	オフセット

@@ -1,0 +1,8 @@
+T342	Machining 2 6	切削温度
+R71	Relation Arg1:T342 Arg2:T346
+T343	Machining 2 4	切削
+T344	Machining 4 6	温度
+T345	Machining 14 16	摩耗
+T346	Machining 14 18	摩耗速度
+T1804	Machining 23 25	寿命
+T1853	Machining 16 18	速度

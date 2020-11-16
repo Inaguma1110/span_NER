@@ -1,0 +1,8 @@
+T216	Machining 8 11	工具材
+R23	Relation Arg1:T216 Arg2:T218
+T218	Machining 14 22	切削仕上げ面粗さ
+T219	Machining 14 20	切削仕上げ面
+T220	Machining 14 16	切削
+T222	Machining 16 20	仕上げ面
+T359	Machining 16 19	仕上げ
+T1449	Machining 20 22	粗さ

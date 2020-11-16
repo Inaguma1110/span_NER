@@ -1,0 +1,11 @@
+T1050	Machining 0 4	工具寿命
+T1051	Machining 5 7	切削
+T1052	Machining 11 13	工具
+T1053	Machining 33 37	切削時間
+R315	Relation Arg1:T1053 Arg2:T1050
+T1054	Machining 41 43	切削
+T1120	Machining 40 45	総切削距離
+R316	Relation Arg1:T1120 Arg2:T1050
+T2484	Machining 0 2	工具
+T2485	Machining 2 4	寿命
+T2486	Machining 33 35	切削

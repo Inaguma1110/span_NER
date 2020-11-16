@@ -1,0 +1,14 @@
+T57	Machining 8 12	工具材料
+T58	Machining 8 10	工具
+T59	Machining 24 29	FC250
+T60	Machining 30 32	切削
+T61	Machining 37 41	切削速度
+R10	Relation Arg1:T61 Arg2:T63
+T62	Machining 37 39	切削
+T63	Machining 42 48	仕上げ面粗さ
+T64	Machining 42 46	仕上げ面
+T65	Machining 42 45	仕上げ
+T183	Machining 17 23	SS4100
+T329	Machining 46 48	粗さ
+T341	Machining 10 12	材料
+T345	Machining 39 41	速度

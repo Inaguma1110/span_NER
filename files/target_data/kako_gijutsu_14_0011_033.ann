@@ -1,0 +1,24 @@
+T184	Machining 12 20	切削仕上げ面粗さ
+T185	Machining 12 18	切削仕上げ面
+T186	Machining 12 14	切削
+T188	Machining 14 18	仕上げ面
+T190	Machining 32 36	構成刃先
+R18	Relation Arg1:T190 Arg2:T184
+T191	Machining 41 45	構成刃先
+T192	Machining 104 108	仕上げ面
+T193	Machining 104 107	仕上げ
+T1194	Machining 52 54	速度
+R19	Relation Arg1:T1194 Arg2:T1240
+T1195	Machining 78 80	速度
+R20	Relation Arg1:T1195 Arg2:T1240
+T1240	Machining 41 49	構成刃先の大きさ
+T1359	Machining 55 56	鋼
+T1362	Unit 63 68	m/min
+T1363	Machining 81 82	鋼
+T1364	Quantity 85 88	120
+T134	Unit 88 93	m/min
+T180	Quantity 58 63	20～50
+T297	Machining 14 17	仕上げ
+T304	Machining 34 36	刃先
+T308	Machining 43 45	刃先
+T1447	Machining 18 20	粗さ

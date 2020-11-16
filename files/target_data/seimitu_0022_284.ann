@@ -1,0 +1,7 @@
+T1046	Machining 0 4	切削条件
+R343	Relation Arg1:T1046 Arg2:T1048
+T1047	Machining 11 13	工具
+T1048	Machining 24 28	工具寿命
+T2479	Machining 0 2	切削
+T2480	Machining 24 26	工具
+T2481	Machining 26 28	寿命

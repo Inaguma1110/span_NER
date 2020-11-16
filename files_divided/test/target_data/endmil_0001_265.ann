@@ -1,0 +1,9 @@
+T785	Machining 0 4	切削抵抗
+R209	Positive Arg1:T785 Arg2:T786
+T786	Machining 17 22	切込み深さ
+T2841	Machining 0 2	切削
+T2843	Machining 2 4	抵抗
+T2844	Machining 17 20	切込み
+T2845	Machining 20 22	深さ
+T4640	Trigger 23 25	増加
+T4641	Trigger 31 33	増加

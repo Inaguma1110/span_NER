@@ -1,0 +1,12 @@
+T47	Machining 4 8	すくい角
+R5	Negative Arg1:T47 Arg2:T48
+R6	Negative Arg1:T47 Arg2:T49
+T48	Machining 20 24	刃先強度
+T49	Machining 38 42	切削抵抗
+T50	Machining 38 40	切削
+T790	Machining 40 42	抵抗
+T798	Machining 20 22	刃先
+T894	Machining 22 24	強度
+T994	Trigger 9 15	正（プラス）
+T995	Trigger 25 27	低下
+T996	Trigger 43 45	増大

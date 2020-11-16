@@ -1,0 +1,13 @@
+T147	Machining 4 8	異常摩耗
+T148	Machining 6 8	摩耗
+T149	Machining 11 16	チッピング
+T150	Machining 24 28	切削速度
+R27	Relation Arg1:T150 Arg2:T147
+R28	Relation Arg1:T150 Arg2:T149
+T151	Machining 24 26	切削
+T152	Machining 33 36	切込み
+T180	Machining 33 37	切込み量
+R29	Relation Arg1:T180 Arg2:T147
+R30	Relation Arg1:T180 Arg2:T149
+T222	Machining 0 3	境界部
+T262	Machining 26 28	速度

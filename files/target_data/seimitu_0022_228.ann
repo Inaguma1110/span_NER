@@ -1,0 +1,6 @@
+T842	Machining 0 4	高速度鋼
+T843	Machining 5 8	熱処理
+R276	Relation Arg1:T843 Arg2:T844
+R277	Relation Arg1:T843 Arg2:T845
+T844	Machining 15 17	硬度
+T845	Machining 20 22	靭性

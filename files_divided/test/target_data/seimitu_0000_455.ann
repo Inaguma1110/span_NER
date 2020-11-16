@@ -1,0 +1,9 @@
+T1608	Machining 5 9	送り速度
+T1609	Machining 21 26	コーナ半径
+T3050	Machining 5 7	送り
+T3632	Machining 32 34	粗さ
+T3633	Machining 7 9	速度
+T3634	Variable 3 4	ｆ
+T3635	Variable 18 20	ｒｃ
+T3636	Variable 27 29	Ｒｙ
+T3637	Machining 30 34	最大粗さ

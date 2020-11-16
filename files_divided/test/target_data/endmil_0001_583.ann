@@ -1,0 +1,15 @@
+T1678	Machining 0 5	エンドミル
+T1679	Machining 43 47	加工精度
+T1680	Machining 56 60	工具寿命
+T4046	Machining 6 9	保持具
+T4047	Machining 10 18	ツーリングホルダ
+T4048	Machining 23 27	機械主軸
+T4049	Machining 23 25	機械
+T4050	Machining 25 27	主軸
+T4051	Machining 43 45	加工
+T4052	Machining 45 47	精度
+T4053	Machining 35 37	振れ
+R811	UpDown Arg1:T4053 Arg2:T1679
+R812	UpDown Arg1:T4053 Arg2:T1680
+T4054	Machining 56 58	工具
+T4055	Machining 58 60	寿命

@@ -1,0 +1,10 @@
+T1132	Machining 0 2	加工
+T1133	Machining 19 23	切削条件
+T1134	Machining 19 21	切削
+T1135	Machining 39 42	荒削り
+T1143	Quantity 26 29	200
+T1182	Unit 29 31	μm
+T1183	Quantity 46 49	600
+T1184	Unit 49 51	μm
+T1187	Machining 10 13	炭素鋼
+T1190	Machining 0 5	加工変質層

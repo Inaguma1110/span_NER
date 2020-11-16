@@ -1,0 +1,8 @@
+T1050	Machining 0 6	フライス切削
+T1051	Machining 0 4	フライス
+T1052	Machining 4 6	切削
+T1053	Machining 8 10	工具
+T1054	Machining 24 28	工具寿命
+T1055	Machining 24 26	工具
+T1807	Machining 26 28	寿命
+T2008	Trigger 32 34	影響

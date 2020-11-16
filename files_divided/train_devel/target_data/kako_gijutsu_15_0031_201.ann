@@ -1,0 +1,26 @@
+T725	Machining 20 23	切込み
+T726	Machining 38 40	工具
+T727	Machining 43 46	工作物
+T730	Machining 63 67	加工精度
+T731	Machining 63 65	加工
+T732	Machining 65 67	精度
+T889	Machining 16 19	工程数
+T890	Machining 3 7	取りしろ
+R125	Positive Arg1:T890 Arg2:T889
+R126	Positive Arg1:T890 Arg2:T891
+R127	Positive Arg1:T890 Arg2:T892
+R128	Positive Arg1:T890 Arg2:T893
+R129	Negative Arg1:T890 Arg2:T730
+T891	Machining 20 25	切込み回数
+T892	Machining 47 50	熱変位
+R134	Relation Arg1:T892 Arg2:T730
+T893	Machining 53 56	熱変形
+R135	Relation Arg1:T893 Arg2:T730
+T1140	Machining 47 48	熱
+T1141	Machining 48 50	変位
+T1142	Machining 53 54	熱
+T1143	Machining 54 56	変形
+T1366	Trigger 8 11	大きい
+T1367	Trigger 27 31	多くなる
+T1368	Trigger 57 63	大きくなって
+T1369	Trigger 68 70	低下

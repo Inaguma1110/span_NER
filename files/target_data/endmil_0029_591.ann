@@ -1,0 +1,14 @@
+T1698	Machining 8 10	切削
+R883	Positive Arg1:T1698 Arg2:T1701
+R935	Negative Arg1:T1698 Arg2:T1699
+R936	Negative Arg1:T1698 Arg2:T4078
+T1699	Machining 14 18	加工精度
+T1700	Machining 28 33	エンドミル
+T1701	Machining 34 39	チッピング
+T4076	Machining 14 16	加工
+T4077	Machining 16 18	精度
+T4078	Machining 19 21	粗さ
+T4079	Machining 22 24	劣化
+T4835	Trigger 11 13	行う
+T4836	Trigger 22 24	劣化
+T4837	Trigger 42 44	誘発

@@ -1,0 +1,18 @@
+T88	Machining 0 2	超硬
+T90	Machining 3 5	工具
+T91	Machining 9 11	超硬
+T92	Machining 9 13	超硬合金
+R141	Sub Arg1:T92 Arg2:T607
+T93	Machining 14 19	サーメット
+R142	Sub Arg1:T93 Arg2:T607
+T94	Machining 20 26	ダイヤモンド
+R143	Sub Arg1:T94 Arg2:T607
+T95	Machining 27 32	窒化ほう素
+R144	Sub Arg1:T95 Arg2:T607
+T96	Machining 33 38	セラミック
+R145	Sub Arg1:T96 Arg2:T607
+T607	Machining 0 7	超硬質工具材料
+R146	Sub Arg1:T607 Arg2:T86
+T642	Machining 11 13	合金
+T465	Machining 3 7	工具材料
+T417	Machining 5 7	材料

@@ -1,0 +1,9 @@
+T417	Machining 9 11	応力
+T418	Machining 12 16	加工精度
+T419	Machining 12 14	加工
+T420	Machining 14 16	精度
+T421	Machining 40 42	応力
+T846	Machining 7 11	残留応力
+R52	Relation Arg1:T846 Arg2:T418
+T999	Machining 40 44	応力分布
+T1294	Machining 7 9	残留

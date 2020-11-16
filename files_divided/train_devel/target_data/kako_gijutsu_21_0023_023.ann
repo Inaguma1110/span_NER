@@ -1,0 +1,18 @@
+T99	Machining 0 3	コーナ
+T100	Machining 0 5	コーナ半径
+R17	Negative Arg1:T100 Arg2:T714
+R18	Positive Arg1:T100 Arg2:T104
+T101	Machining 21 27	仕上げ面粗さ
+T102	Machining 21 25	仕上げ面
+T103	Machining 21 24	仕上げ
+T104	Machining 34 38	刃先強度
+T714	Machining 19 27	理論仕上げ面粗さ
+T40	Machining 6 11	ノーズ半径
+R68	Negative Arg1:T40 Arg2:T714
+T804	Machining 34 36	刃先
+T895	Machining 36 38	強度
+T896	Machining 25 27	粗さ
+T977	Machining 6 9	ノーズ
+T1007	Trigger 13 18	大きくする
+T1008	Trigger 28 30	向上
+T1009	Trigger 39 41	増す

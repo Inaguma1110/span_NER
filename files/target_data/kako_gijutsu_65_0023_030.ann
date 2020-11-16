@@ -1,0 +1,21 @@
+T195	Machining 5 12	エンドミル加工
+T196	Machining 5 10	エンドミル
+T197	Machining 10 12	加工
+T198	Machining 13 16	切込み
+T199	Machining 27 29	送り
+T200	Machining 30 34	切削条件
+T201	Machining 30 32	切削
+T202	Machining 35 39	切りくず
+T204	Machining 47 49	工具
+T205	Machining 50 53	切れ刃
+T207	Machining 57 60	切削面
+T208	Machining 57 59	切削
+T209	Machining 61 63	切削
+R28	Relation Arg1:T209 Arg2:T210
+T210	Machining 69 70	熱
+T211	Machining 75 77	切削
+T355	Machining 21 25	高速回転
+T356	Machining 3 5	高速
+T357	Machining 21 23	高速
+T358	Machining 23 25	回転
+T367	Machining 3 12	高速エンドミル加工

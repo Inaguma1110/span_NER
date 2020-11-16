@@ -1,0 +1,45 @@
+T32	Machining 0 2	切削
+T33	Machining 0 4	切削油剤
+R3	Relation Arg1:T33 Arg2:T318
+R4	Relation Arg1:T33 Arg2:T263
+R5	Relation Arg1:T33 Arg2:T362
+R6	Relation Arg1:T33 Arg2:T40
+R7	Relation Arg1:T33 Arg2:T223
+R8	Relation Arg1:T33 Arg2:T43
+R9	Relation Arg1:T33 Arg2:T224
+R10	Relation Arg1:T33 Arg2:T46
+R11	Relation Arg1:T33 Arg2:T48
+T34	Machining 8 11	切削熱
+T35	Machining 8 10	切削
+T36	Machining 10 11	熱
+T37	Machining 15 18	切削点
+T38	Machining 15 17	切削
+T39	Machining 22 26	切りくず
+T40	Machining 46 50	工具寿命
+T41	Machining 46 48	工具
+T42	Machining 57 59	摩擦
+T43	Machining 62 66	切削抵抗
+T44	Machining 62 64	切削
+T45	Machining 75 79	切りくず
+T46	Machining 87 91	寸法精度
+R1	Sub Arg1:T46 Arg2:T51
+T47	Machining 89 91	精度
+T48	Machining 95 101	仕上げ面粗さ
+R2	Negative Arg1:T48 Arg2:T51
+T49	Machining 95 99	仕上げ面
+T50	Machining 95 98	仕上げ
+T51	Machining 110 115	高精度加工
+T52	Machining 113 115	加工
+T223	Machining 57 61	摩擦抵抗
+T224	Machining 75 82	切りくずつまり
+T262	Machining 2 4	油剤
+T263	Machining 19 21	潤滑
+T264	Machining 64 66	抵抗
+T265	Machining 59 61	抵抗
+T306	Machining 99 101	粗さ
+T318	Machining 12 14	冷却
+T321	Machining 48 50	寿命
+T362	Machining 27 29	排除
+T16	Machining 110 113	高精度
+T203	Trigger 102 104	向上
+T368	Trigger 116 118	可能

@@ -1,0 +1,10 @@
+T1026	Machining 4 6	切削
+T1027	Machining 15 18	重切削
+T1028	Machining 19 23	送り速度
+T1029	Machining 24 29	切込み深さ
+T3133	Machining 19 21	送り
+T3135	Machining 24 27	切込み
+T3136	Machining 21 23	速度
+T3137	Machining 27 29	深さ
+T4711	Trigger 30 32	増加
+T4712	Trigger 10 12	分散

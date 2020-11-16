@@ -1,0 +1,6 @@
+T393	Machining 0 6	クレータ摩耗
+T394	Machining 4 6	摩耗
+T395	Machining 7 11	切削温度
+R29	Relation Arg1:T395 Arg2:T393
+T396	Machining 7 9	切削
+T397	Machining 9 11	温度

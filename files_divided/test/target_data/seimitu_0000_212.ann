@@ -1,0 +1,14 @@
+T758	Machining 14 17	せん断
+T759	Machining 19 21	温度
+T760	Machining 22 26	切削速度
+R230	Relation Arg1:T760 Arg2:T759
+T761	Machining 42 48	すくい面温度
+T762	Machining 49 53	切削速度
+R231	Relation Arg1:T762 Arg2:T761
+T2185	Machining 22 24	切削
+T2188	Machining 24 26	速度
+T2189	Machining 42 46	すくい面
+T2190	Machining 46 48	温度
+T2191	Machining 49 51	切削
+T2192	Machining 51 53	速度
+T3526	Machining 14 18	せん断面

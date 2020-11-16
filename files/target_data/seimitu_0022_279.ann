@@ -1,0 +1,37 @@
+T1025	Machining 0 3	超硬系
+T1026	Machining 3 7	工具材料
+T1027	Machining 12 16	切削速度
+T1028	Machining 45 51	炭素工具鋼系
+R311	Sub Arg1:T1028 Arg2:T1031
+R297	Relation Arg1:T1028 Arg2:T1032
+R298	Relation Arg1:T1028 Arg2:T1035
+R576	Relation Arg1:T1028 Arg2:T2463
+T1029	Machining 52 57	高速度鋼系
+R312	Sub Arg1:T1029 Arg2:T1031
+R302	Relation Arg1:T1029 Arg2:T1032
+R326	Relation Arg1:T1029 Arg2:T1035
+R577	Relation Arg1:T1029 Arg2:T2463
+T1030	Machining 60 63	熱処理
+T1031	Machining 67 72	工具材料系
+T1032	Machining 83 85	摩耗
+T1033	Machining 117 119	工具
+T1034	Machining 125 127	溶融
+T1035	Machining 132 136	摩耗脱落
+T1036	Machining 137 139	切削
+T2458	Machining 3 5	工具
+T2459	Machining 5 7	材料
+T2460	Machining 0 7	超硬系工具材料
+T2461	Machining 12 14	切削
+T2462	Machining 14 16	速度
+T2463	Machining 93 95	速度
+T2464	Machining 119 122	刃先部
+T2465	Machining 117 122	工具刃先部
+T2466	Machining 132 134	摩耗
+T2467	Machining 134 136	脱落
+T3570	Machining 45 47	炭素
+T3571	Machining 47 50	工具鋼
+T3572	Machining 45 50	炭素工具鋼
+T3575	Machining 52 56	高速度鋼
+T3576	Machining 67 69	工具
+T3577	Machining 69 71	材料
+T3578	Machining 67 71	工具材料

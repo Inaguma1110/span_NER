@@ -1,0 +1,15 @@
+T398	Machining 2 6	切削温度
+T399	Machining 2 4	切削
+T400	Machining 4 6	温度
+T401	Machining 7 11	切削条件
+T402	Machining 7 9	切削
+T403	Machining 16 20	切削速度
+R30	Positive Arg1:T403 Arg2:T398
+T404	Machining 16 18	切削
+T405	Machining 21 24	切込み
+R31	Positive Arg1:T405 Arg2:T398
+T406	Machining 25 27	送り
+R32	Positive Arg1:T406 Arg2:T398
+T952	Machining 18 20	速度
+T1016	Trigger 32 34	高い
+T1017	Trigger 36 40	高くなる

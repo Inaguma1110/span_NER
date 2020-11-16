@@ -1,0 +1,5 @@
+T1275	Machining 8 10	応力
+T1276	Machining 11 13	温度
+R380	Relation Arg1:T1276 Arg2:T1309
+T1309	Machining 6 10	破壊応力
+T2731	Machining 6 8	破壊

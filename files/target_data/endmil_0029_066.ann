@@ -1,0 +1,25 @@
+T142	Machining 0 5	サーメット
+R44	Relation Arg1:T142 Arg2:T143
+R515	Relation Arg1:T142 Arg2:T146
+T143	Machining 12 15	親和性
+T144	Machining 19 23	切削工具
+R826	Positive Arg1:T144 Arg2:T146
+T145	Machining 23 25	刃部
+R41	Part Arg1:T145 Arg2:T144
+T146	Machining 43 47	仕上げ面
+T147	Machining 69 71	硬さ
+T148	Machining 82 87	仕上げ加工
+T1948	Machining 8 10	材料
+T1949	Machining 25 27	材料
+T1950	Machining 19 21	切削
+T1951	Machining 23 27	刃部材料
+T1952	Machining 67 68	鋼
+T1953	Quantity 71 73	45
+T1954	Unit 73 76	ＨＲＣ
+T1955	Machining 82 85	仕上げ
+T1956	Machining 85 87	加工
+T2053	Machining 21 23	工具
+T2304	Machining 6 10	鉄系材料
+T4204	Machining 43 46	仕上げ
+T4480	Trigger 48 54	得られやすい
+T4481	Trigger 30 33	用いる

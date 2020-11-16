@@ -1,0 +1,25 @@
+T467	Machining 0 5	エンドミル
+T468	Machining 5 7	工具
+T469	Machining 12 15	ハイス
+T470	Machining 16 18	超硬
+T472	Machining 21 25	工具材質
+T473	Machining 21 23	工具
+T474	Machining 37 39	靭性
+R63	Relation Arg1:T474 Arg2:T475
+T475	Machining 42 47	チッピング
+T476	Machining 55 58	被削材
+T477	Machining 60 63	親和性
+T478	Machining 83 85	摩耗
+T480	Machining 91 95	工具材質
+T481	Machining 91 93	工具
+T482	Machining 96 99	被削材
+T483	Machining 111 114	被削材
+T484	Machining 123 125	切削
+T486	Machining 134 138	工具材質
+T487	Machining 134 136	工具
+T584	Machining 65 67	溶着
+T585	Machining 55 63	被削材との親和性
+R64	Relation Arg1:T585 Arg2:T584
+R65	Relation Arg1:T585 Arg2:T586
+R66	Relation Arg1:T585 Arg2:T478
+T586	Machining 73 77	化学反応

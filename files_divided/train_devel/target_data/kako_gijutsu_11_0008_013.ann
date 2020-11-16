@@ -1,0 +1,9 @@
+T65	Machining 21 26	比切削抵抗
+R32	Relation Arg1:T65 Arg2:T483
+T66	Machining 22 26	切削抵抗
+T67	Machining 22 24	切削
+T68	Machining 29 33	切削動力
+T69	Machining 29 31	切削
+T483	Machining 27 33	単位切削動力
+T567	Machining 24 26	抵抗
+T108	Machining 31 33	動力

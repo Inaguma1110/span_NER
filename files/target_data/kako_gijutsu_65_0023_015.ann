@@ -1,0 +1,13 @@
+T101	Machining 18 25	水溶性切削油剤
+T102	Machining 21 23	切削
+T103	Machining 21 25	切削油剤
+T104	Machining 42 44	加工
+T105	Machining 50 52	加工
+T253	Machining 4 13	エマルジョン形油剤
+R39	Sub Arg1:T253 Arg2:T252
+R44	Relation Arg1:T253 Arg2:T325
+T276	Machining 11 13	油剤
+T277	Machining 23 25	油剤
+T325	Machining 29 32	潤滑性
+T333	Machining 18 21	水溶性
+T344	Machining 40 41	鋼

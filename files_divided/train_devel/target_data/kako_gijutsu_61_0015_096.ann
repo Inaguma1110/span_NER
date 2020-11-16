@@ -1,0 +1,14 @@
+T451	Machining 4 8	耐摩耗性
+R58	Relation Arg1:T451 Arg2:T455
+T453	Machining 12 14	硬さ
+R59	Relation Arg1:T453 Arg2:T455
+T454	Machining 22 24	送り
+T455	Machining 25 29	高速切削
+T456	Machining 27 29	切削
+T457	Machining 36 38	靭性
+R61	Relation Arg1:T457 Arg2:T583
+T459	Machining 53 55	切削
+T460	Machining 63 66	重切削
+T582	Machining 46 48	速度
+T583	Machining 53 56	切削量
+T707	Machining 25 27	高速

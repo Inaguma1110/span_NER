@@ -1,0 +1,11 @@
+T748	Machining 8 10	送り
+T749	Machining 8 11	送り量
+T751	Machining 38 41	切込み
+T752	Machining 54 60	仕上げ面粗さ
+T753	Machining 54 58	仕上げ面
+T755	Machining 71 74	切込み
+T757	Machining 79 82	送り量
+R136	Relation Arg1:T757 Arg2:T752
+T1144	Machining 79 81	送り
+T1145	Machining 54 57	仕上げ
+T1222	Machining 58 60	粗さ

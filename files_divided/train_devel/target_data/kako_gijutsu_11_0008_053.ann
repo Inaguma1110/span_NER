@@ -1,0 +1,12 @@
+T265	Machining 2 5	被削材
+T266	Machining 6 8	切削
+T268	Machining 16 19	逃げ面
+T270	Machining 25 29	圧縮応力
+R36	Linear Arg1:T270 Arg2:T273
+T271	Machining 27 29	応力
+T272	Machining 44 47	被削材
+T273	Machining 48 54	ブリネル硬さ
+T528	Machining 19 22	摩耗面
+T269	Machining 15 22	主逃げ面摩耗面
+T597	Machining 52 54	硬さ
+T632	Machining 25 27	圧縮

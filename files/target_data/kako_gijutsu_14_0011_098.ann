@@ -1,0 +1,7 @@
+T655	Machining 5 7	切削
+T656	Machining 9 13	すくい角
+R94	Relation Arg1:T656 Arg2:T657
+T657	Machining 22 26	仕上げ面
+T1305	Machining 3 7	低速切削
+T731	Machining 22 25	仕上げ
+T1580	Machining 3 5	低速

@@ -1,0 +1,12 @@
+T464	Machining 5 9	材料試片
+T465	Machining 5 13	材料試片の断面積
+R23	Relation Arg1:T465 Arg2:T467
+R22	Positive Arg1:T465 Arg2:T217
+T467	Machining 39 41	材料
+T164	Machining 20 22	材料
+T217	Machining 20 33	材料内に欠陥の存在する確率
+T496	Machining 5 7	材料
+T506	Machining 7 9	試片
+T637	Machining 24 26	欠陥
+T654	Trigger 14 19	小さくなる
+T655	Trigger 34 36	減少

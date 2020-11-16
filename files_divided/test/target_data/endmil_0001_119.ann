@@ -1,0 +1,11 @@
+T301	Machining 0 4	切りくず
+T302	Machining 9 13	切削条件
+R71	Relation Arg1:T302 Arg2:T301
+T303	Machining 18 23	エンドミル
+R72	Relation Arg1:T303 Arg2:T301
+T304	Machining 27 31	被削材質
+R73	Relation Arg1:T304 Arg2:T301
+T305	Machining 45 49	切りくず
+T2196	Machining 0 7	切りくずの形状
+T2197	Machining 27 29	被削
+T2207	Machining 9 11	切削

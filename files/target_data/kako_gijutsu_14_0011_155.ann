@@ -1,0 +1,12 @@
+T1101	Machining 17 21	S45C
+T1102	Machining 28 30	旋削
+T1103	Machining 35 39	切削速度
+R174	Relation Arg1:T1103 Arg2:T1235
+T1104	Machining 35 37	切削
+T1105	Machining 44 46	応力
+T1235	Machining 40 46	表層残留応力
+T1355	Machining 9 17	機械構造用炭素鋼
+T1356	Machining 22 26	焼なまし
+T1100	Machining 14 17	炭素鋼
+T1591	Machining 37 39	速度
+T1609	Machining 42 44	残留

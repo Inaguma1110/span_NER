@@ -1,0 +1,13 @@
+T605	Machining 14 16	切削
+T606	Machining 20 24	切削速度
+R86	Relation Arg1:T606 Arg2:T608
+T607	Machining 20 22	切削
+T608	Machining 25 33	切削仕上げ面粗さ
+T609	Machining 25 31	切削仕上げ面
+T610	Machining 25 27	切削
+T612	Machining 27 31	仕上げ面
+T1302	Machining 6 10	低炭素鋼
+T1303	Machining 11 16	２次元切削
+T678	Machining 27 30	仕上げ
+T1472	Machining 31 33	粗さ
+T1557	Machining 22 24	速度

@@ -1,0 +1,239 @@
+T0	Machining 4 6	切削
+T1	Machining 19 23	切削速度
+T2	Machining 19 21	切削
+T3	Machining 81 83	切削
+T4	Machining 96 98	工具
+T5	Machining 112 117	工具コスト
+T6	Machining 112 114	工具
+T7	Machining 163 167	切削時間
+T8	Machining 163 165	切削
+T9	Machining 180 182	工具
+T10	Machining 216 219	切れ刃
+T11	Machining 222 224	工具
+T12	Machining 236 239	工作物
+T13	Machining 248 251	工作物
+T14	Machining 260 262	送り
+T15	Machining 260 263	送り量
+T16	Machining 274 278	切削速度
+T17	Machining 274 276	切削
+T18	Machining 288 292	工具寿命
+T19	Machining 288 290	工具
+T20	Machining 361 365	切削速度
+T21	Machining 361 363	切削
+T22	Machining 375 379	切削速度
+T23	Machining 375 377	切削
+T24	Machining 406 408	送り
+T25	Machining 406 409	送り量
+T26	Machining 421 425	切削速度
+T27	Machining 421 423	切削
+T28	Machining 442 446	工具寿命
+T29	Machining 442 444	工具
+T30	Machining 523 527	切削速度
+T31	Machining 523 525	切削
+T32	Machining 541 545	工具寿命
+T33	Machining 541 543	工具
+T34	Machining 682 684	切削
+T35	Machining 691 695	切削速度
+T36	Machining 691 693	切削
+T37	Machining 709 713	切削速度
+T38	Machining 709 711	切削
+T39	Machining 714 716	送り
+T40	Machining 714 717	送り量
+T41	Machining 721 725	切削速度
+T42	Machining 721 723	切削
+T43	Machining 727 729	送り
+T44	Machining 727 730	送り量
+T45	Machining 742 746	工具寿命
+T46	Machining 742 749	工具寿命方程式
+T47	Machining 742 744	工具
+T48	Machining 817 821	切削速度
+T49	Machining 817 819	切削
+T50	Machining 839 841	送り
+T51	Machining 839 842	送り量
+T52	Machining 913 915	送り
+T53	Machining 913 916	送り量
+T54	Machining 918 922	切削速度
+T55	Machining 918 920	切削
+T56	Machining 976 984	切削仕上げ面粗さ
+T58	Machining 976 978	切削
+T60	Machining 978 982	仕上げ面
+T61	Machining 978 981	仕上げ
+T62	Machining 1001 1003	送り
+T63	Machining 1001 1004	送り量
+T64	Machining 1020 1024	切削速度
+T65	Machining 1020 1022	切削
+T66	Machining 1042 1046	切削速度
+T67	Machining 1042 1044	切削
+T68	Machining 1047 1049	送り
+T69	Machining 1047 1050	送り量
+T70	Machining 29 39	製品１箇当りのコスト
+T71	Variable 39 40	c
+T72	Machining 63 70	アイドルコスト
+T73	Machining 79 86	正味切削コスト
+T74	Machining 96 103	工具交換コスト
+R1	Relation Arg1:T72 Arg2:T70	
+R2	Relation Arg1:T73 Arg2:T70	
+R3	Relation Arg1:T74 Arg2:T70	
+R4	Relation Arg1:T5 Arg2:T70	
+T75	Variable 365 366	V
+T76	Machining 387 391	全コスト
+T77	Variable 391 392	c
+R5	Relation Arg1:T22 Arg2:T76	
+T78	Machining 682 690	切削のコスト要素
+R6	Relation Arg1:T78 Arg2:T35	
+T79	Variable 897 902	V_mc′
+T80	Variable 903 908	f_mc′
+T81	Variable 916 917	f
+T82	Variable 922 923	V
+R7	Relation Arg1:T53 Arg2:T79	
+R8	Relation Arg1:T54 Arg2:T80	
+T83	Variable 946 947	f
+T84	Machining 957 960	コスト
+T85	Variable 960 961	c
+R9	Negative Arg1:T83 Arg2:T84	
+T86	Variable 1004 1009	f_max
+#1	AnnotatorNotes T83	送り量
+T87	Machining 998 1004	最大の送り量
+R10	Relation Arg1:T87 Arg2:T64	
+T88	Machining 985 987	動力
+T89	Machining 988 991	トルク
+#2	AnnotatorNotes R6	キャプション（図1.8-1）
+#3	AnnotatorNotes T79	最経済切削速度
+T90	Variable 425 429	V_mc
+T91	Variable 446 450	T_mc
+#4	AnnotatorNotes T80	最経済送り量
+T92	Variable 842 847	f_mc′
+T93	Variable 821 826	V_mc′
+T94	Machining 134 141	アイドルタイム
+#5	AnnotatorNotes T94	Y・M
+T95	Machining 142 147	手扱い時間
+#6	AnnotatorNotes T95	Y・M
+T96	Unit 149 155	min/pc
+#7	AnnotatorNotes T96	Y・M
+T97	Variable 130 133	t_i
+#8	AnnotatorNotes T97	Y・M
+T98	Variable 157 160	t_m
+#9	AnnotatorNotes T98	Y・M
+T99	Unit 168 174	min/pc
+#10	AnnotatorNotes T99	Y・M
+T100	Variable 176 179	t_c
+#11	AnnotatorNotes T100	Y・M
+T101	Unit 187 190	min
+#12	AnnotatorNotes T101	Y・M
+T102	Machining 180 186	工具交換時間
+#13	AnnotatorNotes T102	Y・M
+T103	Machining 161 167	正味切削時間
+#14	AnnotatorNotes T103	Y・M
+T104	Variable 192 195	K_1
+#15	AnnotatorNotes T104	Y・M
+T105	Machining 196 204	直接人件費＋経費
+#16	AnnotatorNotes T105	Y・M
+T106	Unit 205 209	￥/pc
+#17	AnnotatorNotes T106	Y・M
+T107	Variable 211 214	K_2
+#18	AnnotatorNotes T107	Y・M
+T108	Machining 215 225	1切れ刃当りの工具費
+#19	AnnotatorNotes T108	Y・M
+T109	Unit 226 232	￥/edge
+#20	AnnotatorNotes T109	Y・M
+T110	Variable 234 235	L
+#21	AnnotatorNotes T110	Y・M
+T111	Unit 242 244	mm
+#22	AnnotatorNotes T111	Y・M
+T112	Machining 236 241	工作物長さ
+#23	AnnotatorNotes T112	Y・M
+T113	Variable 246 247	D
+#24	AnnotatorNotes T113	Y・M
+T114	Machining 248 253	工作物直径
+#25	AnnotatorNotes T114	Y・M
+T115	Unit 254 256	mm
+#26	AnnotatorNotes T115	Y・M
+T116	Variable 258 259	f
+#27	AnnotatorNotes T116	Y・M
+T117	Unit 264 270	mm/rev
+#28	AnnotatorNotes T117	Y・M
+T118	Variable 272 273	V
+#29	AnnotatorNotes T118	Y・M
+T119	Unit 279 284	m/min
+#30	AnnotatorNotes T119	Y・M
+T120	Variable 286 287	T
+#31	AnnotatorNotes T120	Y・M
+T121	Unit 293 296	min
+#32	AnnotatorNotes T121	Y・M
+T122	Variable 298 299	C
+#33	AnnotatorNotes T122	Y・M
+T123	Machining 300 314	寿命方程式VT_n＝Cの常数
+#34	AnnotatorNotes T123	Y・M
+T124	Variable 315 316	n
+#35	AnnotatorNotes T124	Y・M
+T125	Machining 317 327	寿命方程式のTの指数
+#36	AnnotatorNotes T125	Y・M
+T126	Unit 430 435	m/min
+#37	AnnotatorNotes T126	Y・M
+T127	Unit 451 454	min
+T128	Variable 527 531	V_mp
+#38	AnnotatorNotes T128	Y・M
+T129	Unit 532 537	m/min
+#39	AnnotatorNotes T129	Y・M
+T130	Variable 545 549	T_mp
+#40	AnnotatorNotes T130	Y・M
+T131	Unit 550 553	min
+#41	AnnotatorNotes T131	Y・M
+T132	Variable 725 726	V
+#42	AnnotatorNotes T132	Y・M
+T133	Variable 730 731	f
+#43	AnnotatorNotes T133	Y・M
+T134	Unit 827 832	m/min
+T135	Unit 848 854	mm/rev
+T57	Variable 633 637	V_mp
+T59	Variable 638 642	V_mc
+T136	Variable 643 647	T_mc
+T137	Variable 648 652	T_mp
+T138	Variable 560 573	t＝t_i＋t_m＋t_c
+R11	Relation Arg1:T97 Arg2:T94	
+R12	Relation Arg1:T98 Arg2:T103	
+R13	Relation Arg1:T100 Arg2:T102	
+R14	Relation Arg1:T104 Arg2:T105	
+R15	Relation Arg1:T107 Arg2:T108	
+R16	Relation Arg1:T110 Arg2:T112	
+R17	Relation Arg1:T113 Arg2:T114	
+R18	Relation Arg1:T116 Arg2:T15	
+R19	Relation Arg1:T118 Arg2:T16	
+R20	Relation Arg1:T120 Arg2:T18	
+R21	Relation Arg1:T122 Arg2:T123	
+R22	Relation Arg1:T124 Arg2:T125	
+T139	Machining 982 984	粗さ
+T140	Machining 290 292	寿命
+T141	Machining 300 302	寿命
+T142	Machining 317 319	寿命
+T143	Machining 444 446	寿命
+T144	Machining 744 746	寿命
+T145	Machining 543 545	寿命
+T146	Machining 222 225	工具費
+T147	Machining 300 305	寿命方程式
+T148	Machining 317 322	寿命方程式
+T149	Machining 353 358	コスト要素
+T150	Machining 36 39	コスト
+T151	Machining 67 70	コスト
+T152	Machining 83 86	コスト
+T153	Machining 100 103	コスト
+T154	Machining 114 117	コスト
+T155	Machining 353 356	コスト
+T156	Machining 505 508	コスト
+T157	Machining 685 688	コスト
+T158	Machining 21 23	速度
+T159	Machining 363 365	速度
+T160	Machining 377 379	速度
+T161	Machining 423 425	速度
+T162	Machining 525 527	速度
+T163	Machining 693 695	速度
+T164	Machining 711 713	速度
+T165	Machining 723 725	速度
+T166	Machining 819 821	速度
+T167	Machining 920 922	速度
+T168	Machining 1044 1046	速度
+T169	Machining 1022 1024	速度
+T170	Machining 276 278	速度
+T171	Machining 49 52	コスト
+T172	Trigger 948 950	増大
+T173	Trigger 962 964	減少

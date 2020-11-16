@@ -1,0 +1,9 @@
+T84	Machining 6 9	重切削
+T85	Machining 7 9	切削
+T86	Machining 22 25	切込み
+R17	Positive Arg1:T86 Arg2:T266
+T87	Machining 36 38	加工
+T266	Machining 27 32	再生びびり
+T402	Machining 29 32	びびり
+T615	Trigger 33 35	生じ
+T629	Trigger 18 21	わずか

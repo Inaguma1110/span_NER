@@ -1,0 +1,19 @@
+T282	Machining 0 3	せん断
+T283	Machining 5 8	せん断
+T284	Machining 23 26	せん断
+T285	Machining 35 38	せん断
+T286	Machining 40 42	応力
+T287	Machining 47 50	せん断
+T396	Machining 35 42	せん断変形応力
+R105	Relation Arg1:T396 Arg2:T398
+T397	Machining 47 53	せん断面面積
+R106	Relation Arg1:T397 Arg2:T398
+T398	Machining 5 10	せん断変形
+T1953	Machining 8 10	変形
+T1954	Machining 20 22	材料
+T1955	Machining 26 28	変形
+T3313	Machining 47 51	せん断面
+T3314	Machining 28 30	強さ
+T3317	Machining 23 30	せん断変形強さ
+T3318	Machining 38 40	変形
+T3324	Variable 43 45	τｓ

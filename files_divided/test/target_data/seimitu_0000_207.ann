@@ -1,0 +1,4 @@
+T747	Machining 7 9	温度
+R252	Relation Arg1:T747 Arg2:T782
+T748	Machining 20 21	熱
+T782	Machining 20 23	熱定数

@@ -1,0 +1,18 @@
+T1012	Machining 0 4	切削速度
+R129	Relation Arg1:T1012 Arg2:T1018
+T1013	Machining 0 2	切削
+T1015	Machining 5 8	送り量
+R130	Relation Arg1:T1015 Arg2:T1018
+T1016	Machining 9 12	切込み
+T1017	Machining 9 14	切込み深さ
+R131	Relation Arg1:T1017 Arg2:T1018
+T1018	Machining 16 20	工具寿命
+T1019	Machining 16 18	工具
+T1020	Machining 37 41	工具寿命
+T1021	Machining 37 44	工具寿命方程式
+T1022	Machining 37 39	工具
+T1567	Machining 5 7	送り
+T1779	Machining 18 20	寿命
+T1780	Machining 39 41	寿命
+T1891	Machining 2 4	速度
+T1647	Machining 12 14	深さ

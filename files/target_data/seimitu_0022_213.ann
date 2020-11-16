@@ -1,0 +1,14 @@
+T763	Machining 4 9	熱分配割合
+T764	Machining 23 26	せん断
+T765	Machining 29 33	切削速度
+R52	Positive Arg1:T765 Arg2:T3814
+T766	Machining 40 44	切りくず
+T767	Machining 55 59	すくい面
+T2193	Machining 29 31	切削
+T2194	Machining 31 33	速度
+T2195	Machining 61 64	低速域
+T3754	Trigger 34 36	増大
+T3755	Trigger 51 53	増大
+T3812	Machining 46 48	流入
+T3813	Machining 48 50	割合
+T3814	Machining 46 50	流入割合

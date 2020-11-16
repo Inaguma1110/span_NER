@@ -1,0 +1,11 @@
+T1615	Machining 5 10	平フライス
+R497	Sub Arg1:T1615 Arg2:T1616
+T1616	Machining 10 12	工具
+T1617	Machining 28 30	送り
+T1618	Machining 37 39	削り
+T1619	Machining 42 47	下向き削り
+T3052	Machining 33 39	うわむき削り
+T3053	Machining 18 21	カッタ
+T3054	Machining 45 47	削り
+T3639	Variable 3 4	Ｄ
+T3640	Variable 16 17	Ｓ

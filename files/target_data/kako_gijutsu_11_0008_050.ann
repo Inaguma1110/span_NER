@@ -1,0 +1,17 @@
+T236	Machining 0 4	工具摩耗
+T237	Machining 0 2	工具
+T238	Machining 2 4	摩耗
+T239	Machining 8 14	すくい面摩耗
+R24	Positive Arg1:T239 Arg2:T479
+R25	Negative Arg1:T239 Arg2:T243
+R103	Sub Arg1:T239 Arg2:T236
+T240	Machining 8 12	すくい面
+T241	Machining 12 14	摩耗
+T242	Machining 22 26	すくい角
+T243	Machining 31 35	切削抵抗
+T244	Machining 31 33	切削
+T479	Machining 20 26	有効すくい角
+T562	Machining 33 35	抵抗
+T656	Trigger 15 17	進行
+T657	Trigger 27 29	増大
+T658	Trigger 39 41	減少

@@ -1,0 +1,18 @@
+T545	Machining 3 5	切削
+T546	Machining 35 37	摩耗
+R71	Negative Arg1:T546 Arg2:T862
+R72	Positive Arg1:T546 Arg2:T547
+T547	Machining 52 56	寸法精度
+T548	Machining 54 56	精度
+T549	Machining 69 71	工具
+T550	Machining 74 76	摩耗
+T862	Machining 40 42	粗さ
+R73	Positive Arg1:T862 Arg2:T547
+T1012	Machining 69 73	工具切刃
+T1013	Machining 81 85	刃先位置
+T620	Machining 71 73	切刃
+T667	Machining 10 12	切刃
+T1112	Machining 81 83	刃先
+T1335	Trigger 47 52	小さくなり
+T1336	Trigger 57 59	向上
+T1337	Trigger 32 34	平坦

@@ -1,0 +1,20 @@
+T294	Machining 0 7	エンドミル加工
+R893	Positive Arg1:T294 Arg2:T2188
+R894	Relation Arg1:T294 Arg2:T2189
+T295	Machining 13 16	切れ刃
+R895	Positive Arg1:T295 Arg2:T297
+R896	Relation Arg1:T295 Arg2:T2187
+T296	Machining 20 22	切削
+R70	Positive Arg1:T296 Arg2:T297
+T297	Machining 36 38	温度
+T2184	Machining 0 5	エンドミル
+T2185	Machining 5 7	加工
+T2186	Machining 31 33	発熱
+T2187	Machining 48 50	冷却
+T2188	Machining 59 61	発熱
+T2189	Machining 62 64	冷却
+T4232	Machining 44 46	空転
+R571	Relation Arg1:T4232 Arg2:T2187
+T4502	Trigger 23 27	している
+T4503	Trigger 38 40	上昇
+T4540	Trigger 68 74	繰り返される

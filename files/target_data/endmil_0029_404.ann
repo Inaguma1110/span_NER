@@ -1,0 +1,25 @@
+T1226	Machining 0 6	コーティング
+T1227	Machining 6 13	超硬エンドミル
+T1228	Machining 20 24	切削速度
+T1229	Machining 34 36	切削
+T1230	Machining 46 50	切削速度
+R368	UpDown Arg1:T1230 Arg2:T1233
+R369	DownUp Arg1:T1230 Arg2:T1232
+T1231	Machining 65 67	切削
+T1232	Machining 73 75	摩耗
+R367	Negative Arg1:T1232 Arg2:T1233
+T1233	Machining 85 89	工具寿命
+T3367	Machining 6 8	超硬
+T3368	Machining 8 13	エンドミル
+T3369	Machining 20 22	切削
+T3370	Machining 22 24	速度
+T3371	Quantity 24 26	30
+T3372	Unit 26 31	ｍ／ｍｉｎ
+T3373	Quantity 50 56	70～150
+T3374	Unit 56 61	ｍ／ｍｉｎ
+T3375	Machining 46 48	切削
+T3376	Machining 85 87	工具
+T3377	Machining 48 50	速度
+T3379	Machining 87 89	寿命
+T4756	Trigger 76 82	進行が緩やか
+T4757	Trigger 90 92	延長

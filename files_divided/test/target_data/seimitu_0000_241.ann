@@ -1,0 +1,25 @@
+T886	Machining 0 6	セラミックス
+R294	Relation Arg1:T886 Arg2:T888
+R531	Negative Arg1:T886 Arg2:T889
+R532	Positive Arg1:T886 Arg2:T2267
+R533	Relation Arg1:T886 Arg2:T893
+R682	Relation Arg1:T886 Arg2:T3687
+T887	Machining 9 13	工具材料
+T888	Machining 17 21	軟化温度
+T889	Machining 37 40	親和性
+T890	Machining 56 60	超硬合金
+T891	Machining 60 62	工具
+T892	Machining 70 72	切削
+T2267	Machining 45 49	耐磨耗性
+T2268	Machining 56 58	超硬
+T2269	Machining 58 60	合金
+T2275	Machining 9 11	工具
+T2276	Machining 11 13	材料
+T2277	Machining 56 62	超硬合金工具
+T3561	Machining 17 19	軟化
+T3562	Machining 19 21	温度
+T3686	Machining 67 69	高速
+T3687	Machining 67 72	高速の切削
+T3758	Trigger 22 27	1200Ｋ
+T3759	Trigger 41 43	低い
+T3760	Trigger 50 55	優れており

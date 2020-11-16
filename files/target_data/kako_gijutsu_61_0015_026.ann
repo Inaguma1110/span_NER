@@ -1,0 +1,13 @@
+T97	Machining 0 4	高速度鋼
+R147	Sub Arg1:T97 Arg2:T86
+T98	Machining 5 8	ハイス
+T99	Machining 12 15	ハイス
+T100	Machining 16 21	粉末ハイス
+R139	Sub Arg1:T100 Arg2:T97
+T101	Machining 18 21	ハイス
+T102	Machining 25 30	粉末ハイス
+T103	Machining 27 30	ハイス
+T520	Machining 22 30	高合金粉末ハイス
+R140	Sub Arg1:T520 Arg2:T97
+T629	Machining 10 15	溶解ハイス
+R138	Sub Arg1:T629 Arg2:T97

@@ -1,0 +1,12 @@
+T1317	Machining 0 5	チタン合金
+R678	Negative Arg1:T1317 Arg2:T1318
+T1318	Machining 34 38	工具寿命
+T3455	Machining 11 24	オーステナイト系ステンレス
+T3487	Machining 0 3	チタン
+T3488	Machining 3 5	合金
+T3489	Machining 11 19	オーステナイト系
+T3490	Machining 34 36	工具
+T3491	Machining 36 38	寿命
+T3492	Machining 19 24	ステンレス
+T3494	Machining 6 8	被削
+T4782	Trigger 43 47	短くなり

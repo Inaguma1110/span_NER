@@ -1,0 +1,6 @@
+T1677	Machining 12 14	切削
+T1678	Machining 21 23	工具
+T1679	Machining 24 27	切れ刃
+R484	Part Arg1:T1679 Arg2:T1678
+T1680	Machining 44 48	仕上げ面
+T3134	Machining 44 47	仕上げ

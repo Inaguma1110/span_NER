@@ -1,0 +1,46 @@
+T0	Machining 11 16	中ぐり加工
+T1	Machining 14 16	加工
+T2	Machining 20 22	工具
+T4	Machining 39 41	加工
+T5	Machining 47 49	加工
+T6	Machining 52 54	加工
+T7	Machining 86 88	加工
+T8	Machining 97 99	加工
+T9	Machining 105 109	シャンク
+T10	Machining 135 137	加工
+T11	Machining 143 145	工具
+T12	Machining 154 158	シャンク
+T13	Machining 200 201	溝
+T14	Machining 205 207	加工
+T15	Machining 223 225	工具
+T16	Machining 340 342	工具
+T17	Machining 166 173	ガイドブッシュ
+T18	Machining 182 191	リセッシングツール
+T19	Machining 272 282	差込式ボーリングバー
+T20	Machining 287 297	カートリッジユニット
+T21	Machining 298 306	マイクロユニット
+T22	Machining 310 317	ボーリングバー
+T23	Machining 245 248	バイト
+T24	Machining 20 24	工具種類
+T25	Machining 73 78	片持ち方式
+T26	Machining 122 127	両持ち方式
+R1	Sub Arg1:T25 Arg2:T24	
+R2	Sub Arg1:T26 Arg2:T24	
+R3	Sub Arg1:T18 Arg2:T24	
+T27	Machining 37 39	下穴
+#1	AnnotatorNotes T27	Y・M
+T3	Machining 37 41	下穴加工
+#2	AnnotatorNotes T3	Y・M
+T29	Machining 337 342	中ぐり工具
+T28	Machining 3 6	中ぐり
+T30	Machining 11 14	中ぐり
+T31	Machining 337 340	中ぐり
+T32	Machining 29 33	鋳抜き穴
+T33	Machining 29 32	鋳抜き
+T34	Machining 32 33	穴
+T35	Machining 84 85	穴
+T36	Machining 95 96	穴
+T37	Machining 92 96	止まり穴
+T38	Machining 133 134	穴
+T39	Machining 192 193	穴
+T40	Machining 232 234	内径

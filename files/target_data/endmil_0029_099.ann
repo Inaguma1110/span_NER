@@ -1,0 +1,11 @@
+T222	Machining 4 10	ダイヤモンド
+T223	Machining 10 16	コーティング
+T224	Machining 23 28	エンドミル
+R43	Sub Arg1:T224 Arg2:T226
+T225	Machining 39 46	超硬合金製工具
+T226	Machining 44 46	工具
+T227	Machining 55 61	コーティング
+T2093	Machining 48 51	ＣＶＤ
+T2100	Machining 4 16	ダイヤモンドコーティング
+T4219	Machining 39 41	超硬
+T4220	Machining 41 44	合金製

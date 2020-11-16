@@ -1,0 +1,5 @@
+T503	Machining 34 37	せん断
+T504	Machining 38 40	仕事
+T589	Machining 34 40	せん断面仕事
+T3421	Machining 34 38	せん断面
+T3422	Variable 40 42	Ｕｓ

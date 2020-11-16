@@ -1,0 +1,4 @@
+T229	Machining 8 10	摩耗
+T1288	Machining 1 5	衝撃回数
+R178	Relation Arg1:T1288 Arg2:T229
+T1813	Machining 1 3	衝撃

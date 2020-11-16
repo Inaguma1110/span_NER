@@ -1,0 +1,10 @@
+T576	Machining 8 16	ボールエンドミル
+T577	Machining 19 23	切削速度
+R137	Relation Arg1:T577 Arg2:T578
+T578	Machining 27 31	切削抵抗
+T2500	Machining 11 16	エンドミル
+T2501	Machining 19 21	切削
+T2502	Machining 21 23	速度
+T2503	Machining 27 29	切削
+T2504	Machining 29 31	抵抗
+T2505	Machining 31 34	3分力

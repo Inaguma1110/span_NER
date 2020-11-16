@@ -1,0 +1,15 @@
+T1554	Machining 7 10	切込み
+T1555	Machining 26 27	溝
+R472	Part Arg1:T1555 Arg2:T1556
+T1556	Machining 31 36	エンドミル
+T1557	Machining 73 78	エンドミル
+T1558	Machining 79 82	外周刃
+R473	Part Arg1:T1558 Arg2:T1557
+T3779	Machining 37 39	回転
+T3782	Machining 4 6	砥石
+T3783	Machining 21 27	外周ねじれ溝
+T3784	Machining 44 45	軸
+T3785	Machining 55 59	円錐研削
+T3786	Machining 57 59	研削
+T4340	Machining 23 26	ねじれ
+T4341	Machining 21 23	外周

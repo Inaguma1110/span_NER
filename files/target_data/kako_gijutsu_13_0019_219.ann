@@ -1,0 +1,11 @@
+T784	Machining 0 2	超硬
+T785	Machining 0 4	超硬合金
+R184	Sub Arg1:T785 Arg2:T1437
+T786	Machining 8 11	TiC
+T787	Machining 48 51	工具材
+T1437	Machining 37 39	合金
+T1480	Machining 5 7	WC
+T1481	Machining 12 15	TaC
+T1482	Machining 18 23	硬質炭化物
+T1483	Machining 24 26	Co
+T1555	Machining 2 4	合金

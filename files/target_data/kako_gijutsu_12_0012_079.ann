@@ -1,0 +1,4 @@
+T275	Machining 18 20	温度
+T471	Variable 8 11	θ_1
+T600	Machining 12 15	剪断面
+T537	Machining 12 14	剪断

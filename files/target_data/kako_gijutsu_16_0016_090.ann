@@ -1,0 +1,3 @@
+T161	Machining 4 8	すくい角
+T415	Machining 1 8	バックすくい角
+R31	Relation Arg1:T415 Arg2:T416

@@ -1,0 +1,11 @@
+T33	Machining 0 2	工具
+T34	Machining 15 21	仕上げ面粗さ
+T35	Machining 15 19	仕上げ面
+T36	Machining 15 18	仕上げ
+T187	Machining 6 9	溶着物
+R4	Relation Arg1:T187 Arg2:T34
+T225	Machining 0 5	工具切り刃
+T235	Machining 2 5	切り刃
+T243	Machining 10 12	付着
+T339	Machining 19 21	粗さ
+T355	Machining 22 24	劣化

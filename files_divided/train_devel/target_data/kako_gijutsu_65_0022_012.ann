@@ -1,0 +1,9 @@
+T88	Machining 4 12	不水溶性切削油剤
+R43	Relation Arg1:T88 Arg2:T329
+T89	Machining 8 10	切削
+T90	Machining 8 12	切削油剤
+T91	Machining 13 16	水溶性
+T92	Machining 35 37	工具
+T93	Machining 38 40	摩耗
+T274	Machining 10 12	油剤
+T329	Machining 20 23	潤滑性

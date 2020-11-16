@@ -1,0 +1,7 @@
+T342	Machining 0 4	長手旋削
+T343	Machining 2 4	旋削
+T344	Machining 11 15	切削動力
+T345	Machining 11 13	切削
+T427	Variable 15 16	P
+T428	Unit 17 18	W
+T364	Machining 13 15	動力

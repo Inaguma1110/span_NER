@@ -1,0 +1,9 @@
+T114	Machining 15 17	硬さ
+T1885	Quantity 17 19	70
+T1886	Unit 19 22	ＨＲＣ
+T1887	Machining 9 12	ＨＳＳ
+T1888	Machining 0 3	高合金
+T2052	Machining 7 12	粉末ＨＳＳ
+R945	Positive Arg1:T2052 Arg2:T114
+T4476	Trigger 23 25	実現
+T4863	Trigger 0 4	高合金化

@@ -1,0 +1,18 @@
+T981	Machining 5 9	切削速度
+T982	Machining 19 21	切削
+T983	Machining 25 27	工具
+T984	Machining 27 31	すくい面
+R338	Part Arg1:T984 Arg2:T983
+T985	Machining 36 38	温度
+T986	Machining 47 51	垂直応力
+T987	Machining 74 76	擦過
+T2407	Machining 3 4	鋼
+T2408	Machining 5 7	切削
+T2409	Machining 7 9	速度
+T2410	Quantity 9 12	100
+T2411	Unit 12 17	ｍ／ｍｉｎ
+T2412	Machining 25 31	工具すくい面
+R295	Relation Arg1:T2412 Arg2:T985
+R296	Relation Arg1:T2412 Arg2:T986
+T2413	Machining 70 73	高速度
+T3569	Machining 49 51	応力

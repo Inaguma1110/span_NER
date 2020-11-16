@@ -1,0 +1,23 @@
+T288	Machining 0 4	工具寿命
+T289	Machining 0 2	工具
+T291	Machining 10 16	逃げ面摩耗幅
+R24	Relation Arg1:T291 Arg2:T562
+T292	Machining 10 13	逃げ面
+T293	Machining 13 15	摩耗
+T294	Machining 13 16	摩耗幅
+T295	Machining 36 41	エンドミル
+T296	Machining 45 47	工具
+T297	Machining 50 52	刃数
+R33	Relation Arg1:T297 Arg2:T291
+T298	Machining 54 57	仕上げ
+T562	Machining 0 6	工具寿命基準
+T566	Machining 36 44	エンドミルの種類
+R31	Relation Arg1:T566 Arg2:T291
+T567	Machining 45 49	工具直径
+R32	Relation Arg1:T567 Arg2:T291
+T568	Machining 53 59	荒仕上げの別
+R34	Relation Arg1:T568 Arg2:T291
+T664	Quantity 17 24	0.1～1.0
+T665	Unit 24 26	mm
+T687	Machining 2 4	寿命
+T709	Machining 15 16	幅

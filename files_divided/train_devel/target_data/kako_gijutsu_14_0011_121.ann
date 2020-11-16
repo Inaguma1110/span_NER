@@ -1,0 +1,9 @@
+T821	Machining 3 11	前切れ刃境界摩耗
+T823	Machining 7 11	境界摩耗
+T824	Machining 9 11	摩耗
+T825	Machining 14 16	機構
+T1218	Machining 30 33	雰囲気
+R119	Relation Arg1:T1218 Arg2:T821
+T63	Machining 3 7	前切れ刃
+T1521	Machining 7 9	境界
+T1536	Machining 12 16	発生機構

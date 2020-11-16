@@ -1,0 +1,13 @@
+T1021	Machining 0 4	ねじれ溝
+R327	Relation Arg1:T1021 Arg2:T1027
+R328	Positive Arg1:T1021 Arg2:T1028
+R329	Positive Arg1:T1021 Arg2:T1029
+T1022	Machining 12 15	切れ刃
+T1023	Machining 37 39	切削
+T1024	Machining 42 45	切れ刃
+T1025	Machining 61 63	切削
+T3130	Machining 23 25	直刃
+T3131	Machining 82 84	移動
+T3132	Machining 17 20	ねじれ
+T3140	Machining 0 3	ねじれ
+T4310	Machining 3 4	溝

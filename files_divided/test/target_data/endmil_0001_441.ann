@@ -1,0 +1,7 @@
+T1345	Machining 2 5	コーナ
+T1346	Machining 7 12	チッピング
+T1347	Machining 22 27	チッピング
+T1348	Machining 33 36	コーナ
+R415	Part Arg1:T1348 Arg2:T1349
+T1349	Machining 51 56	エンドミル
+T3513	Machining 43 50	ラジアスタイプ

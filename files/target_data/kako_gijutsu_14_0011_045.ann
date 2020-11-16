@@ -1,0 +1,10 @@
+T254	Machining 36 38	超硬
+T255	Machining 36 40	超硬合金
+T256	Machining 54 59	切れ刃凝着
+T257	Machining 54 57	切れ刃
+T258	Machining 57 59	凝着
+T1199	Machining 50 53	溶解度
+R27	Relation Arg1:T1199 Arg2:T256
+T1273	Machining 41 44	結合剤
+T722	Machining 38 40	合金
+T1613	Machining 44 46	Co

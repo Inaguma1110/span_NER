@@ -1,0 +1,4 @@
+T623	Machining 0 3	切込み
+T624	Machining 0 5	切込み深さ
+R96	Relation Arg1:T624 Arg2:T1386
+T1843	Machining 3 5	深さ

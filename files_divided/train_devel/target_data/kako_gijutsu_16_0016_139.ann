@@ -1,0 +1,6 @@
+T302	Machining 0 5	快削添加物
+R46	Relation Arg1:T302 Arg2:T430
+R55	Relation Arg1:T302 Arg2:T442
+R56	Relation Arg1:T302 Arg2:T440
+T303	Machining 2 5	添加物
+T596	Machining 0 2	快削

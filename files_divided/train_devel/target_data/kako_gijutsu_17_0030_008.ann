@@ -1,0 +1,7 @@
+T9	Machining 9 11	加工
+R44	Relation Arg1:T9 Arg2:T297
+T10	Machining 41 43	加工
+T229	Machining 50 52	振動
+T297	Machining 28 31	変動力
+R45	Relation Arg1:T297 Arg2:T229
+T317	Machining 0 4	工作機械

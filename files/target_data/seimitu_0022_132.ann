@@ -1,0 +1,12 @@
+T458	Machining 2 4	工具
+T459	Machining 4 8	すくい面
+T460	Machining 18 22	摩擦仕事
+T461	Machining 26 30	すくい面
+T595	Machining 26 33	すくい面摩擦力
+R201	Relation Arg1:T595 Arg2:T460
+T2025	Machining 2 8	工具すくい面
+T2026	Machining 18 20	摩擦
+T2027	Machining 20 22	仕事
+T2028	Machining 30 33	摩擦力
+T3389	Variable 22 24	Ｕｆ
+T3390	Variable 34 36	Ｆｔ

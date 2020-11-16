@@ -1,0 +1,7 @@
+T58	Machining 10 14	仕上げ面
+T59	Machining 10 13	仕上げ
+T86	Machining 0 2	振動
+R17	Relation Arg1:T86 Arg2:T58
+T87	Machining 3 6	びびり
+R18	Relation Arg1:T87 Arg2:T58
+T114	Machining 18 20	劣化

@@ -1,0 +1,47 @@
+T0	Machining 4 8	切削条件
+T1	Machining 4 6	切削
+T2	Machining 22 26	切削条件
+T3	Machining 22 24	切削
+T4	Machining 33 35	旋削
+T5	Machining 52 54	工具
+T6	Machining 66 72	仕上げ面粗さ
+T7	Machining 66 70	仕上げ面
+T8	Machining 66 69	仕上げ
+T9	Machining 73 77	寸法精度
+T10	Machining 75 77	精度
+T11	Machining 95 97	送り
+T12	Machining 98 101	切込み
+T13	Machining 120 123	仕上げ
+T14	Machining 120 125	仕上げ加工
+T15	Machining 123 125	加工
+T16	Machining 126 130	切削条件
+T17	Machining 126 128	切削
+T18	Machining 136 140	加工精度
+T19	Machining 136 138	加工
+T20	Machining 138 140	精度
+T21	Machining 160 164	切削条件
+T22	Machining 160 162	切削
+T23	Machining 189 192	切込み
+T24	Machining 236 239	切込み
+T25	Machining 269 271	送り
+T26	Machining 269 272	送り量
+T27	Machining 297 300	仕上げ
+T28	Machining 297 302	仕上げ加工
+T29	Machining 300 302	加工
+T30	Machining 303 307	切削条件
+T31	Machining 303 305	切削
+T32	Machining 84 87	びびり
+R1	Relation Arg1:T6 Arg2:T32	
+R2	Relation Arg1:T9 Arg2:T32	
+R3	Relation Arg1:T16 Arg2:T18	
+T33	Machining 202 207	再生びびり
+R4	Relation Arg1:T23 Arg2:T33	
+T34	Machining 244 249	再生びびり
+R5	Relation Arg1:T24 Arg2:T34	
+R6	Relation Arg1:T26 Arg2:T34	
+T35	Machining 246 249	びびり
+T36	Machining 204 207	びびり
+T37	Machining 227 230	びびり
+T38	Machining 182 185	びびり
+T39	Machining 70 72	粗さ
+T40	Machining 227 232	びびり限界

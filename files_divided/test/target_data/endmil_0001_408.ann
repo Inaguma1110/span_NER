@@ -1,0 +1,5 @@
+T1245	Machining 2 7	エンドミル
+T1246	Machining 10 12	超硬
+T1247	Machining 12 19	スローアウェイ
+T1248	Machining 19 24	エンドミル
+R394	Sub Arg1:T1248 Arg2:T1245

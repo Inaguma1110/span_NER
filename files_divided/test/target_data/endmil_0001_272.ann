@@ -1,0 +1,12 @@
+T804	Machining 3 6	溝切削
+R235	Sub Arg1:T804 Arg2:T806
+R846	Relation Arg1:T804 Arg2:T805
+T805	Machining 9 12	切削熱
+T806	Machining 27 29	切削
+T807	Machining 35 39	切りくず
+T808	Machining 47 51	切りくず
+T809	Machining 52 55	再切削
+T2870	Machining 3 4	溝
+T2871	Machining 4 6	切削
+T2872	Machining 9 11	切削
+T2873	Machining 11 12	熱

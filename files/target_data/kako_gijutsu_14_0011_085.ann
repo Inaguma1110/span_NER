@@ -1,0 +1,14 @@
+T565	Machining 8 10	送り
+T566	Machining 26 30	理論粗さ
+T567	Machining 43 45	送り
+T568	Machining 47 51	切削速度
+T569	Machining 47 49	切削
+T570	Machining 66 70	構成刃先
+T571	Machining 85 89	理論粗さ
+T1300	Machining 7 10	高送り
+T1301	Machining 42 45	低送り
+T652	Machining 68 70	刃先
+T1431	Machining 87 89	粗さ
+T1498	Machining 28 30	粗さ
+T1507	Machining 78 80	粗さ
+T1553	Machining 49 51	速度

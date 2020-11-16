@@ -1,0 +1,10 @@
+T1648	Machining 0 7	チップポケット
+R459	Positive Arg1:T1648 Arg2:T4453
+R460	Positive Arg1:T1648 Arg2:T1650
+T1649	Machining 14 18	切りくず
+T1650	Machining 32 34	切削
+T4007	Machining 0 3	チップ
+T4453	Machining 19 23	収容能力
+T4820	Trigger 8 13	小さくなる
+T4821	Trigger 24 28	なくなり
+T4822	Trigger 35 41	できなくなり

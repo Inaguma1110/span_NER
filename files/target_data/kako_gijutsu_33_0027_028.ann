@@ -1,0 +1,11 @@
+T53	Machining 7 13	主軸駆動歯車
+T105	Machining 14 20	かみあい振動
+R18	Relation Arg1:T105 Arg2:T52
+T114	Machining 18 20	振動
+T115	Machining 7 9	主軸
+T116	Machining 11 13	歯車
+T54	Machining 40 42	振動
+R19	Relation Arg1:T54 Arg2:T52
+T112	Machining 34 39	主軸モータ
+T123	Machining 34 36	主軸
+T124	Machining 30 33	軸受け

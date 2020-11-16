@@ -1,0 +1,6 @@
+T629	Machining 0 3	切込み
+R64	Relation Arg1:T629 Arg2:T631
+T630	Machining 13 15	送り
+R65	Relation Arg1:T630 Arg2:T631
+T631	Machining 22 26	切りくず
+T632	Machining 29 31	伸び

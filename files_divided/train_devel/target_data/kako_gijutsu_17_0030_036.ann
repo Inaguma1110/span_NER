@@ -1,0 +1,7 @@
+T70	Machining 36 38	摩擦
+T243	Machining 26 31	再生びびり
+R72	Sub Arg1:T243 Arg2:T263
+T244	Machining 36 41	摩擦形振動
+R73	Sub Arg1:T244 Arg2:T263
+T400	Machining 39 41	振動
+T401	Machining 28 31	びびり

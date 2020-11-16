@@ -1,0 +1,17 @@
+T403	Machining 5 7	外径
+T406	Machining 29 31	加工
+T407	Machining 47 49	応力
+T408	Machining 55 59	圧縮応力
+T409	Machining 57 59	応力
+T802	Machining 45 49	引張応力
+T990	Machining 26 31	引抜き加工
+T991	Machining 12 14	内径
+T992	Quantity 7 9	50
+T993	Unit 9 11	mm
+T994	Quantity 14 16	40
+T995	Unit 16 18	mm
+T996	Machining 19 22	黄銅管
+T1098	Machining 45 47	引張
+T1187	Machining 26 29	引抜き
+T1307	Machining 55 57	圧縮
+T1308	Machining 60 62	残留

@@ -1,0 +1,11 @@
+T298	Machining 0 2	切削
+T299	Machining 0 4	切削油剤
+R55	Relation Arg1:T299 Arg2:T469
+T300	Machining 5 9	潤滑作用
+T301	Machining 19 21	切削
+T405	Unit 25 30	m/min
+T469	Machining 17 21	低速切削
+T126	Quantity 23 25	20
+T581	Machining 2 4	油剤
+T592	Machining 5 7	潤滑
+T626	Machining 17 19	低速

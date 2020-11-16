@@ -1,0 +1,14 @@
+T246	Machining 39 43	仕上げ面
+T1272	Machining 33 37	遷移金属
+R201	Relation Arg1:T1272 Arg2:T246
+T1370	Machining 18 20	Fe
+R197	Sub Arg1:T1370 Arg2:T1272
+T1371	Machining 21 23	Ni
+R198	Sub Arg1:T1371 Arg2:T1272
+T1372	Machining 24 26	Mo
+R199	Sub Arg1:T1372 Arg2:T1272
+T1373	Machining 28 29	W
+R200	Sub Arg1:T1373 Arg2:T1272
+T1374	Machining 56 58	Ti
+T422	Machining 39 42	仕上げ
+T1571	Machining 73 75	酸化

@@ -1,0 +1,15 @@
+T173	Machining 11 14	切れ刃
+T174	Machining 17 21	構成刃先
+R16	Positive Arg1:T174 Arg2:T477
+R17	Negative Arg1:T174 Arg2:T176
+R62	Relation Arg1:T174 Arg2:T173
+T175	Machining 37 41	すくい角
+T176	Machining 48 52	切削抵抗
+T177	Machining 48 50	切削
+T477	Machining 35 41	有効すくい角
+R49	Negative Arg1:T477 Arg2:T176
+T555	Machining 50 52	抵抗
+T587	Machining 19 21	刃先
+T650	Trigger 28 30	発達
+T651	Trigger 53 58	小さくなる
+T664	Trigger 42 48	大きくなって

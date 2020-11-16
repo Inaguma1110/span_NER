@@ -1,0 +1,6 @@
+T1141	Machining 7 10	送り量
+R157	Relation Arg1:T1141 Arg2:T1239
+T1142	Machining 15 17	応力
+T1239	Machining 11 17	表層残留応力
+T75	Machining 7 9	送り
+T1598	Machining 13 15	残留

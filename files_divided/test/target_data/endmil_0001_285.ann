@@ -1,0 +1,24 @@
+T864	Machining 0 5	切込み深さ
+R257	Positive Arg1:T864 Arg2:T865
+R258	Positive Arg1:T864 Arg2:T867
+T865	Machining 12 15	切削熱
+T866	Machining 28 33	エンドミル
+T867	Machining 37 38	熱
+T868	Machining 54 58	切削速度
+R259	Relation Arg1:T868 Arg2:T2977
+T2969	Machining 0 3	切込み
+T2970	Machining 3 5	深さ
+T2971	Machining 12 14	切削
+T2972	Machining 14 15	熱
+T2973	Machining 33 35	刃先
+T2974	Machining 28 35	エンドミル刃先
+R797	Positive Arg1:T2974 Arg2:T867
+T2975	Machining 54 56	切削
+T2976	Machining 56 58	速度
+T2977	Machining 64 67	発熱量
+T2978	Machining 64 66	発熱
+T4673	Trigger 6 11	大きくする
+T4674	Trigger 19 21	増加
+T4675	Trigger 42 44	助長
+T4676	Trigger 59 63	小さくし
+T4677	Trigger 68 70	軽減

@@ -1,0 +1,944 @@
+T0	Machining 4 8	切りくず
+T1	Machining 17 21	切りくず
+T3	Machining 49 50	熱
+T4	Machining 57 61	切りくず
+T5	Machining 76 80	切削加工
+T6	Machining 76 78	切削
+T7	Machining 78 80	加工
+T9	Machining 126 130	切りくず
+T10	Machining 208 212	切りくず
+T11	Machining 227 231	切りくず
+T12	Machining 241 245	切りくず
+T13	Machining 263 265	切削
+T14	Machining 299 303	切削条件
+T15	Machining 299 301	切削
+T16	Machining 325 329	切りくず
+T17	Machining 352 354	硬さ
+T18	Machining 355 359	切りくず
+T19	Machining 369 373	塑性変形
+T20	Machining 377 381	加工硬化
+T21	Machining 377 379	加工
+T22	Machining 385 389	加工硬化
+T23	Machining 385 387	加工
+T24	Machining 393 397	切りくず
+T25	Machining 402 406	ひずみ量
+T26	Machining 412 416	加工硬化
+T27	Machining 412 418	加工硬化指数
+T28	Machining 412 414	加工
+T29	Machining 432 434	切削
+T30	Machining 436 438	硬さ
+T31	Machining 453 457	切りくず
+T32	Machining 462 465	被削材
+T33	Machining 480 482	温度
+T34	Machining 483 487	切りくず
+T35	Machining 488 490	工具
+T36	Machining 490 494	すくい面
+T37	Machining 520 524	すくい面
+T38	Machining 535 537	温度
+T39	Machining 544 546	温度
+T40	Machining 547 551	切りくず
+T41	Machining 565 567	切削
+T43	Machining 570 572	温度
+T44	Machining 587 589	温度
+T45	Machining 624 628	切りくず
+T46	Machining 628 630	温度
+T47	Machining 631 635	切削速度
+T48	Machining 631 633	切削
+T49	Machining 663 667	切りくず
+T50	Machining 667 669	温度
+T51	Machining 670 675	比切削抵抗
+T52	Machining 671 675	切削抵抗
+T53	Machining 671 673	切削
+T54	Machining 679 684	比切削抵抗
+T55	Machining 680 684	切削抵抗
+T56	Machining 680 682	切削
+T57	Machining 691 694	被削材
+T58	Machining 698 700	比熱
+T60	Machining 703 704	熱
+T61	Machining 732 736	切りくず
+T62	Machining 736 738	温度
+T63	Machining 745 749	切りくず
+T64	Machining 768 772	切りくず
+T65	Machining 772 774	温度
+T67	Machining 817 821	切りくず
+T69	Machining 848 850	温度
+T71	Machining 873 875	温度
+T72	Machining 881 885	切りくず
+T73	Machining 885 887	温度
+T74	Machining 896 900	切りくず
+T75	Machining 927 931	切りくず
+T76	Machining 934 936	工具
+T77	Machining 939 941	温度
+T78	Machining 959 962	切削点
+T79	Machining 959 961	切削
+T80	Machining 966 970	切りくず
+T81	Machining 1005 1009	切りくず
+T82	Machining 1080 1084	切りくず
+T83	Machining 1173 1177	切りくず
+T84	Machining 1177 1179	温度
+T85	Machining 1188 1192	切りくず
+T86	Machining 1192 1194	温度
+T87	Machining 1195 1199	切りくず
+T88	Machining 1218 1222	切りくず
+T89	Machining 1237 1241	切りくず
+T90	Machining 1259 1261	旋削
+T91	Machining 1261 1265	切りくず
+T92	Machining 1301 1305	切りくず
+T93	Machining 1330 1332	工具
+T94	Machining 1333 1336	逃げ面
+T95	Machining 1378 1382	切りくず
+T96	Machining 1388 1392	切りくず
+T97	Machining 1397 1400	ひずみ
+T98	Machining 1449 1453	切りくず
+T99	Machining 1493 1497	切りくず
+T100	Machining 1526 1528	切削
+T101	Machining 1554 1558	切りくず
+T102	Machining 1559 1563	曲げ試験
+T103	Machining 1559 1561	曲げ
+T104	Machining 1568 1572	切りくず
+T105	Machining 1577 1580	ひずみ
+T106	Machining 1602 1605	ひずみ
+T107	Machining 1609 1613	切削条件
+T108	Machining 1609 1611	切削
+T109	Machining 1633 1636	ひずみ
+T110	Machining 1637 1640	被削材
+T111	Machining 1645 1648	ひずみ
+T112	Machining 1669 1672	ひずみ
+T113	Machining 1686 1690	切りくず
+T114	Machining 1720 1724	切りくず
+T115	Machining 1736 1740	切りくず
+T116	Machining 1779 1783	切りくず
+T117	Machining 1789 1792	工作物
+T118	Machining 1793 1795	工具
+T119	Machining 1795 1798	逃げ面
+T120	Machining 1831 1835	切りくず
+T121	Machining 1891 1894	工作物
+T122	Machining 1898 1902	切りくず
+T123	Machining 1906 1909	被削材
+T124	Machining 1923 1927	切削条件
+T125	Machining 1923 1925	切削
+T126	Machining 1941 1944	被削材
+T127	Machining 1945 1947	工具
+T128	Machining 1950 1954	切りくず
+T129	Machining 1968 1972	工具損傷
+T130	Machining 1968 1970	工具
+T131	Machining 1983 1986	逃げ面
+T132	Machining 2021 2025	すくい角
+T133	Machining 2029 2033	すくい角
+T134	Machining 2065 2069	切りくず
+T135	Machining 2070 2073	逃げ面
+T136	Machining 2100 2102	工具
+T137	Machining 2106 2109	重切削
+T138	Machining 2107 2109	切削
+T139	Machining 2131 2135	切りくず
+T140	Machining 2150 2154	切りくず
+T141	Machining 2171 2174	切込み
+T142	Machining 2190 2194	切りくず
+T143	Machining 2212 2214	切削
+T144	Machining 2228 2232	切りくず
+T145	Machining 2295 2299	切りくず
+T146	Machining 2346 2348	旋削
+T147	Machining 2349 2354	ドリル加工
+T148	Machining 2349 2352	ドリル
+T149	Machining 2352 2354	加工
+T150	Machining 2355 2359	切りくず
+T151	Machining 2374 2378	切りくず
+T152	Machining 2389 2391	切削
+T153	Machining 2400 2404	切りくず
+T154	Machining 2418 2422	切りくず
+T155	Machining 2435 2437	工具
+T156	Machining 2444 2446	工具
+T157	Machining 2449 2453	切りくず
+T158	Machining 2464 2468	すくい角
+T159	Machining 2473 2477	切りくず
+T160	Machining 2483 2485	加工
+T161	Machining 2529 2533	すくい角
+T162	Machining 2554 2558	切りくず
+T163	Machining 2572 2575	コーナ
+T164	Machining 2572 2577	コーナ半径
+T165	Machining 2603 2606	切込み
+T166	Machining 2624 2630	アプローチ角
+T167	Machining 2635 2639	切りくず
+T168	Machining 2667 2674	チップブレーカ
+T169	Machining 2667 2670	チップ
+T170	Machining 2670 2674	ブレーカ
+T171	Machining 2685 2692	チップブレーカ
+T172	Machining 2685 2688	チップ
+T173	Machining 2688 2692	ブレーカ
+T174	Machining 2710 2714	クランプ
+T175	Machining 2716 2717	溝
+T176	Machining 2716 2722	溝研ぎつけ型
+T177	Machining 2768 2770	工具
+T178	Machining 2801 2805	切削条件
+T179	Machining 2801 2803	切削
+T180	Machining 2806 2809	被削材
+T181	Machining 2818 2825	チップブレーカ
+T182	Machining 2818 2821	チップ
+T183	Machining 2821 2825	ブレーカ
+T184	Machining 2837 2844	チップブレーカ
+T185	Machining 2837 2840	チップ
+T186	Machining 2840 2844	ブレーカ
+T187	Machining 2882 2886	切りくず
+T188	Machining 2916 2920	切りくず
+T189	Machining 2939 2941	送り
+T190	Machining 2939 2942	送り量
+T191	Machining 2955 2958	切込み
+T192	Machining 2970 2974	切りくず
+T193	Machining 2990 2994	工具損傷
+T194	Machining 2990 2992	工具
+T196	Machining 3023 3030	チップブレーカ
+T197	Machining 3023 3026	チップ
+T198	Machining 3026 3030	ブレーカ
+T199	Machining 3079 3083	切りくず
+T200	Machining 3110 3117	チップブレーカ
+T201	Machining 3110 3113	チップ
+T202	Machining 3113 3117	ブレーカ
+T203	Machining 3145 3149	切りくず
+T204	Machining 3155 3158	仕上げ
+T205	Machining 3155 3160	仕上げ切削
+T206	Machining 3158 3160	切削
+T207	Machining 3173 3176	仕上げ
+T208	Machining 3173 3178	仕上げ切削
+T209	Machining 3176 3178	切削
+T210	Machining 3181 3183	加工
+T211	Machining 3195 3198	切込み
+T212	Machining 3209 3212	仕上げ
+T213	Machining 3209 3214	仕上げ切削
+T214	Machining 3212 3214	切削
+T215	Machining 3217 3224	チップブレーカ
+T216	Machining 3217 3220	チップ
+T217	Machining 3220 3224	ブレーカ
+T218	Machining 3250 3253	コーナ
+T219	Machining 3254 3257	切れ刃
+T220	Machining 3266 3269	切れ刃
+T221	Machining 3315 3319	切削抵抗
+T222	Machining 3315 3317	切削
+T223	Machining 3329 3333	すくい角
+T224	Machining 3337 3340	チップ
+T226	Machining 3350 3355	アルミ合金
+T227	Machining 3356 3358	切削
+T228	Machining 3359 3362	添加物
+T230	Machining 3366 3371	アルミ合金
+T231	Machining 3372 3376	切りくず
+T232	Machining 3384 3388	切りくず
+T233	Machining 3401 3405	すくい角
+T234	Machining 3409 3412	チップ
+T235	Machining 3422 3426	ブレーカ
+T236	Machining 3451 3455	耐熱合金
+T238	Machining 3456 3458	切削
+T240	Machining 3467 3471	すくい角
+T241	Machining 3484 3487	切れ刃
+T242	Machining 3500 3503	切れ刃
+T243	Machining 3509 3513	すくい角
+T244	Machining 3515 3518	切れ刃
+T245	Machining 3531 3535	すくい角
+T246	Machining 3541 3545	すくい角
+T247	Machining 3545 3548	チップ
+T248	Machining 3559 3563	切削条件
+T249	Machining 3559 3561	切削
+T250	Machining 3570 3574	切削速度
+T251	Machining 3570 3572	切削
+T252	Machining 3575 3579	切削速度
+T253	Machining 3575 3577	切削
+T254	Machining 3586 3590	切りくず
+T255	Machining 3600 3603	ひずみ
+T256	Machining 3652 3656	切りくず
+T257	Machining 3656 3658	温度
+T258	Machining 3678 3682	切削速度
+T259	Machining 3678 3680	切削
+T260	Machining 3698 3702	構成刃先
+T261	Machining 3707 3711	切りくず
+T262	Machining 3724 3726	切削
+T263	Machining 3724 3728	切削油剤
+T264	Machining 3724 3731	切削油剤の効果
+T265	Machining 3733 3736	水溶性
+T266	Machining 3736 3738	切削
+T267	Machining 3736 3740	切削油剤
+T268	Machining 3748 3750	工具
+T269	Machining 3750 3754	すくい面
+T270	Machining 3759 3763	切りくず
+T271	Machining 3771 3775	切りくず
+T272	Machining 3785 3788	水溶性
+T273	Machining 3788 3790	切削
+T274	Machining 3788 3792	切削油剤
+T275	Machining 3811 3818	チップブレーカ
+T276	Machining 3811 3814	チップ
+T277	Machining 3814 3818	ブレーカ
+T278	Machining 3826 3830	切りくず
+T279	Machining 3830 3832	温度
+T280	Machining 3860 3864	切りくず
+T281	Machining 3895 3899	切りくず
+T282	Machining 3920 3922	切削
+T283	Machining 3936 3943	チップブレーカ
+T284	Machining 3936 3939	チップ
+T285	Machining 3939 3943	ブレーカ
+T286	Machining 3953 3957	切りくず
+T287	Machining 3972 3979	チップブレーカ
+T288	Machining 3972 3975	チップ
+T289	Machining 3975 3979	ブレーカ
+T290	Machining 3991 3994	被削材
+T291	Machining 4001 4003	被削
+T292	Machining 4021 4025	切りくず
+T293	Machining 4028 4031	ひずみ
+T294	Machining 4043 4046	快削鋼
+T295	Machining 4047 4051	切りくず
+T296	Machining 4053 4056	ひずみ
+T297	Machining 4085 4088	快削鋼
+T298	Machining 4090 4093	快削鋼
+T299	Machining 4094 4101	チップブレーカ
+T300	Machining 4094 4097	チップ
+T301	Machining 4097 4101	ブレーカ
+T302	Machining 4132 4137	快削添加物
+T303	Machining 4134 4137	添加物
+T304	Machining 4147 4151	切りくず
+T305	Machining 4155 4157	Mn
+T306	Machining 4166 4168	応力
+T307	Machining 4174 4178	切りくず
+T308	Machining 4230 4234	切りくず
+T309	Machining 4245 4248	快削鋼
+T310	Machining 4342 4346	快削黄銅
+T311	Machining 4344 4346	黄銅
+T313	Machining 4372 4375	アルミ
+T314	Machining 4394 4398	切りくず
+T315	Machining 4419 4422	快削鋼
+T316	Machining 4464 4465	熱
+T317	Machining 4464 4467	熱処理
+T318	Machining 4481 4484	合金鋼
+T319	Machining 4496 4500	焼ならし
+T320	Machining 4507 4510	ひずみ
+T321	Machining 4515 4519	切削加工
+T322	Machining 4515 4517	切削
+T323	Machining 4517 4519	加工
+T324	Machining 4532 4536	切りくず
+T325	Machining 4557 4559	硬さ
+T326	Machining 4575 4577	伸び
+T327	Machining 4584 4588	切りくず
+T328	Machining 4607 4611	切りくず
+T329	Machining 4624 4626	加工
+T330	Machining 4635 4638	被削材
+T331	Machining 4639 4643	切りくず
+T332	Machining 4671 4673	加工
+T333	Machining 4688 4690	加工
+T334	Machining 4692 4696	切りくず
+T335	Machining 4700 4702	送り
+T336	Machining 4700 4703	送り量
+T337	Machining 4714 4716	加工
+T338	Machining 4723 4725	加工
+T339	Machining 4739 4741	送り
+T340	Machining 4739 4742	送り量
+T341	Machining 4754 4758	切りくず
+T342	Machining 4765 4769	切りくず
+T343	Machining 4790 4794	切りくず
+T344	Machining 4797 4800	ひずみ
+T345	Machining 4801 4805	切りくず
+T346	Machining 4809 4815	せん断ひずみ
+T347	Machining 4809 4812	せん断
+T348	Machining 4812 4815	ひずみ
+T349	Machining 4828 4830	加工
+T350	Machining 4833 4837	切りくず
+T351	Machining 4840 4843	ひずみ
+T352	Machining 4853 4857	切りくず
+T353	Machining 4861 4867	せん断ひずみ
+T354	Machining 4861 4864	せん断
+T355	Machining 4864 4867	ひずみ
+T356	Machining 4876 4880	切りくず
+T357	Machining 4901 4903	加工
+T358	Machining 4904 4908	切りくず
+T359	Machining 4933 4934	熱
+T360	Machining 4933 4936	熱処理
+T361	Machining 4939 4942	ひずみ
+T362	Machining 4947 4950	SCM
+T363	Machining 4965 4967	加工
+T364	Machining 4969 4973	切りくず
+T365	Machining 4975 4978	ひずみ
+T366	Machining 4979 4983	切りくず
+T367	Machining 4987 4993	せん断ひずみ
+T368	Machining 4987 4990	せん断
+T369	Machining 4990 4993	ひずみ
+T370	Machining 4994 4997	SCM
+T371	Machining 5013 5015	加工
+T372	Machining 5024 5027	快削鋼
+T373	Machining 5028 5032	切りくず
+T374	Machining 5037 5044	チップブレーカ
+T375	Machining 5037 5040	チップ
+T376	Machining 5040 5044	ブレーカ
+T377	Machining 5062 5064	加工
+T378	Machining 5066 5070	切りくず
+T379	Machining 5086 5090	切りくず
+T380	Machining 5092 5095	ひずみ
+R1	Relation Arg1:T25 Arg2:T22	
+R2	Relation Arg1:T27 Arg2:T22	
+T381	Machining 1005 1012	切りくずの形状
+T382	Machining 1027 1033	上向きカール
+T383	Machining 1035 1041	横向きカール
+T384	Machining 1043 1046	流出角
+R3	Relation Arg1:T382 Arg2:T381	
+R4	Relation Arg1:T383 Arg2:T381	
+R5	Relation Arg1:T384 Arg2:T381	
+T385	Machining 1575 1580	限界ひずみ
+T386	Machining 2018 2025	バックすくい角
+T387	Machining 2026 2033	サイドすくい角
+T388	Machining 2162 2165	遠心力
+T389	Machining 31 33	切削
+T390	Machining 49 54	熱エネルギ
+R6	Relation Arg1:T389 Arg2:T390	
+T391	Machining 325 335	切りくずの折れやすさ
+T392	Machining 340 344	最大厚さ
+R7	Relation Arg1:T392 Arg2:T391	
+R8	Relation Arg1:T18 Arg2:T20	
+R9	Relation Arg1:T18 Arg2:T19	
+T393	Machining 552 557	折れやすさ
+T394	Machining 558 559	色
+R10	Relation Arg1:T39 Arg2:T393	
+R11	Relation Arg1:T39 Arg2:T394	
+T396	Machining 663 669	切りくず温度
+R13	Relation Arg1:T51 Arg2:T396	
+R14	Positive Arg1:T54 Arg2:T396	
+T397	Machining 691 697	被削材の密度
+R15	Negative Arg1:T397 Arg2:T396	
+R16	Negative Arg1:T58 Arg2:T396	
+T398	Machining 703 707	熱伝導度
+R17	Negative Arg1:T398 Arg2:T396	
+T399	Machining 817 823	切りくずの色
+T400	Machining 824 830	酸化膜の厚さ
+R18	Relation Arg1:T400 Arg2:T399	
+T401	Machining 836 842	酸化膜の厚さ
+T402	Machining 846 850	加熱温度
+T403	Machining 857 861	冷却速度
+R19	Positive Arg1:T402 Arg2:T401	
+R20	Negative Arg1:T403 Arg2:T401	
+T404	Machining 891 895	冷却速度
+T405	Machining 896 903	切りくずの形状
+T406	Machining 904 906	速度
+T407	Machining 907 910	雰囲気
+R21	Relation Arg1:T405 Arg2:T404	
+R22	Relation Arg1:T406 Arg2:T404	
+R23	Relation Arg1:T407 Arg2:T404	
+T408	Machining 1891 1897	工作物障害形
+T409	Machining 1914 1917	流出角
+R24	Relation Arg1:T409 Arg2:T408	
+T410	Machining 2007 2017	上向きカール数巻き形
+R25	Relation Arg1:T386 Arg2:T410	
+R26	Relation Arg1:T387 Arg2:T410	
+T411	Machining 2115 2125	横向きカール数巻き形
+R27	Relation Arg1:T141 Arg2:T411	
+T412	Machining 2461 2468	サイドすくい角
+R28	Negative Arg1:T412 Arg2:T159	
+T413	Machining 2483 2488	加工ぜい化
+R29	Relation Arg1:T412 Arg2:T413	
+T414	Machining 2495 2503	横向きカール半径
+R30	Positive Arg1:T412 Arg2:T414	
+T415	Machining 2526 2533	バックすくい角
+T416	Machining 2538 2544	上向きカール
+R31	Relation Arg1:T415 Arg2:T416	
+T417	Machining 2582 2590	横向きカール半径
+R32	Positive Arg1:T164 Arg2:T417	
+T418	Machining 2635 2641	切りくずの幅
+T419	Machining 2645 2647	厚さ
+R33	Positive Arg1:T166 Arg2:T418	
+R34	Negative Arg1:T166 Arg2:T419	
+R35	Negative Arg1:T223 Arg2:T221	
+R37	Negative Arg1:T252 Arg2:T254	
+T420	Machining 3598 3603	限界ひずみ
+T421	Variable 3603 3606	ε’B
+R38	Positive Arg1:T252 Arg2:T420	
+T422	Machining 3626 3630	折断領域
+R39	Negative Arg1:T252 Arg2:T422	
+T423	Machining 3652 3658	切りくず温度
+R40	Positive Arg1:T252 Arg2:T423	
+T424	Machining 3732 3740	不水溶性切削油剤
+T425	Machining 3759 3766	切りくずカール
+R41	Relation Arg1:T424 Arg2:T425	
+T426	Machining 3785 3792	水溶性切削油剤
+T427	Machining 3811 3821	チップブレーカの効果
+R42	Relation Arg1:T426 Arg2:T427	
+T428	Machining 3826 3832	切りくず温度
+R43	Relation Arg1:T426 Arg2:T428	
+T429	Machining 3844 3849	折れやすさ
+R44	Negative Arg1:T428 Arg2:T429	
+R45	Relation Arg1:T426 Arg2:T429	
+T430	Machining 4174 4181	切りくずの延性
+R46	Relation Arg1:T302 Arg2:T430	
+T431	Machining 4765 4772	切りくずの延性
+T432	Machining 4737 4742	限界送り量
+R47	Positive Arg1:T431 Arg2:T432	
+T433	Machining 4826 4830	冷間加工
+T434	Machining 4838 4843	限界ひずみ
+R48	Relation Arg1:T433 Arg2:T434	
+R49	Relation Arg1:T433 Arg2:T353	
+T435	Machining 4899 4903	冷間加工
+T436	Machining 4904 4911	切りくず折断性
+R50	Relation Arg1:T435 Arg2:T436	
+T437	Machining 4937 4942	限界ひずみ
+R51	Relation Arg1:T360 Arg2:T437	
+T438	Machining 3707 3714	切りくずカール
+R52	Relation Arg1:T260 Arg2:T438	
+#2	AnnotatorNotes R51	キャプション（表1.6-6）
+#3	AnnotatorNotes T419	切りくずの厚さ
+#4	AnnotatorNotes T159	切りくず厚さ
+T439	Machining 3748 3756	工具すくい面潤滑
+R53	Relation Arg1:T439 Arg2:T425	
+T440	Machining 4230 4237	切りくずの延性
+T441	Machining 4166 4170	応力集中
+R54	Relation Arg1:T441 Arg2:T430	
+T442	Machining 4224 4228	分散析出
+R55	Relation Arg1:T302 Arg2:T442	
+R56	Relation Arg1:T302 Arg2:T440	
+R57	Relation Arg1:T442 Arg2:T440	
+R58	Negative Arg1:T341 Arg2:T432	
+#5	AnnotatorNotes T341	切りくず厚さ
+R59	Positive Arg1:T353 Arg2:T356	
+#6	AnnotatorNotes T356	切りくず厚さ
+#7	AnnotatorNotes T254	切りくず厚さ
+T443	Machining 4 10	切りくず処理
+#1	AnnotatorNotes T443	Y・M
+T444	Machining 26 30	トラブル
+#8	AnnotatorNotes T444	Y・M
+R60	Relation Arg1:T1 Arg2:T444	
+#9	AnnotatorNotes R60	Y・M
+T445	Quantity 43 45	80
+#10	AnnotatorNotes T445	Y・M
+T446	Unit 45 46	％
+#11	AnnotatorNotes T446	Y・M
+T447	Machining 76 82	切削加工技術
+#12	AnnotatorNotes T447	Y・M
+T448	Machining 88 92	切りくず
+#13	AnnotatorNotes T448	Y・M
+R61	Relation Arg1:T447 Arg2:T448	
+#14	AnnotatorNotes R61	Y・M
+T449	Machining 216 220	トラブル
+#15	AnnotatorNotes T449	Y・M
+R62	Relation Arg1:T10 Arg2:T449	
+#16	AnnotatorNotes R62	Y・M
+T450	Machining 249 250	幅
+#17	AnnotatorNotes T450	Y・M
+T451	Machining 251 253	厚さ
+#18	AnnotatorNotes T451	Y・M
+T452	Machining 254 256	長さ
+#19	AnnotatorNotes T452	Y・M
+T453	Machining 241 248	切りくずの寸法
+#20	AnnotatorNotes T453	Y・M
+R63	Relation Arg1:T453 Arg2:T450	
+R64	Relation Arg1:T453 Arg2:T451	
+R65	Relation Arg1:T453 Arg2:T452	
+#21	AnnotatorNotes R65	Y・M
+#22	AnnotatorNotes R64	Y・M
+#23	AnnotatorNotes R63	Y・M
+R66	Relation Arg1:T19 Arg2:T20	
+#24	AnnotatorNotes R66	Y・M
+T454	Quantity 506 510	1000
+#25	AnnotatorNotes T454	Y・M
+T455	Unit 510 511	℃
+#26	AnnotatorNotes T455	Y・M
+T456	Machining 513 515	高温
+#27	AnnotatorNotes T456	Y・M
+T457	Machining 560 564	工作機械
+#28	AnnotatorNotes T457	Y・M
+T458	Machining 570 574	温度上昇
+#29	AnnotatorNotes T458	Y・M
+T395	Machining 565 569	切削油剤
+#30	AnnotatorNotes T395	Y・M
+R12	Relation Arg1:T39 Arg2:T395	
+T459	Quantity 636 638	50
+#31	AnnotatorNotes T459	Y・M
+T460	Unit 638 643	m/min
+#32	AnnotatorNotes T460	Y・M
+T461	Quantity 775 778	400
+#33	AnnotatorNotes T461	Y・M
+T462	Unit 778 779	℃
+#34	AnnotatorNotes T462	Y・M
+T463	Quantity 802 804	80
+#35	AnnotatorNotes T463	Y・M
+T464	Unit 804 805	％
+#36	AnnotatorNotes T464	Y・M
+T465	Machining 871 875	加熱温度
+#37	AnnotatorNotes T465	Y・M
+T466	Machining 932 933	色
+#38	AnnotatorNotes T466	Y・M
+T467	Machining 822 823	色
+#39	AnnotatorNotes T467	Y・M
+T468	Machining 927 933	切りくずの色
+#40	AnnotatorNotes T468	Y・M
+T469	Machining 937 941	最高温度
+#41	AnnotatorNotes T469	Y・M
+T470	Machining 971 973	塑性
+#42	AnnotatorNotes T470	Y・M
+T471	Machining 1218 1224	切りくず形状
+#43	AnnotatorNotes T471	Y・M
+T472	Machining 1311 1315	流出半径
+#44	AnnotatorNotes T472	Y・M
+T473	Variable 1315 1318	R_o
+#45	AnnotatorNotes T473	Y・M
+T474	Machining 1363 1366	限界値
+#46	AnnotatorNotes T474	Y・M
+T475	Variable 1366 1368	RL
+#47	AnnotatorNotes T475	Y・M
+T476	Variable 1400 1404	ε’_B
+#48	AnnotatorNotes T476	Y・M
+T477	Variable 1581 1585	ε’_B
+#49	AnnotatorNotes T477	Y・M
+T478	Machining 1600 1605	限界ひずみ
+#50	AnnotatorNotes T478	Y・M
+T479	Machining 1631 1636	限界ひずみ
+#51	AnnotatorNotes T479	Y・M
+T482	Unit 1678 1679	％
+#54	AnnotatorNotes T482	Y・M
+T485	Unit 1698 1699	％
+#57	AnnotatorNotes T485	Y・M
+T486	Machining 1935 1940	うず巻き形
+#58	AnnotatorNotes T486	Y・M
+T487	Machining 1983 1989	逃げ面障害形
+#59	AnnotatorNotes T487	Y・M
+T488	Machining 1879 1885	折断パターン
+#60	AnnotatorNotes T488	Y・M
+R67	Sub Arg1:T488 Arg2:T408	
+R68	Sub Arg1:T488 Arg2:T486	
+R69	Sub Arg1:T488 Arg2:T487	
+#61	AnnotatorNotes R69	Y・M
+#62	AnnotatorNotes R68	Y・M
+#63	AnnotatorNotes R67	Y・M
+T489	Machining 2047 2054	横向きカール形
+#64	AnnotatorNotes T489	Y・M
+R70	Sub Arg1:T488 Arg2:T410	
+#65	AnnotatorNotes R70	Y・M
+R71	Sub Arg1:T488 Arg2:T489	
+#66	AnnotatorNotes R71	Y・M
+T491	Machining 3162 3164	鍛造
+#68	AnnotatorNotes T491	Y・M
+T492	Quantity 3198 3199	1
+#69	AnnotatorNotes T492	Y・M
+T493	Unit 3199 3201	mm
+#70	AnnotatorNotes T493	Y・M
+T494	Machining 3270 3272	研削
+#71	AnnotatorNotes T494	Y・M
+T495	Machining 3291 3296	ボーリング
+#72	AnnotatorNotes T495	Y・M
+R72	Relation Arg1:T224 Arg2:T223	
+#73	AnnotatorNotes R72	Y・M
+T496	Machining 3416 3421	焼結ダイヤ
+#74	AnnotatorNotes T496	Y・M
+T497	Machining 3459 3461	発熱
+#75	AnnotatorNotes T497	Y・M
+T498	Quantity 3637 3640	300
+#76	AnnotatorNotes T498	Y・M
+T499	Unit 3640 3645	m/min
+#77	AnnotatorNotes T499	Y・M
+T500	Quantity 3683 3686	100
+#78	AnnotatorNotes T500	Y・M
+T501	Unit 3686 3691	m/min
+#79	AnnotatorNotes T501	Y・M
+T502	Machining 3732 3736	不水溶性
+#80	AnnotatorNotes T502	Y・M
+T503	Machining 4083 4088	硫黄快削鋼
+#81	AnnotatorNotes T503	Y・M
+T504	Machining 4089 4093	鉛快削鋼
+#82	AnnotatorNotes T504	Y・M
+T505	Machining 4192 4194	Te
+#83	AnnotatorNotes T505	Y・M
+T506	Machining 4189 4191	Se
+#84	AnnotatorNotes T506	Y・M
+T507	Machining 4155 4158	MnS
+#85	AnnotatorNotes T507	Y・M
+T508	Machining 4252 4255	硫黄系
+#86	AnnotatorNotes T508	Y・M
+T509	Machining 4258 4260	硫黄
+#87	AnnotatorNotes T509	Y・M
+T510	Machining 4261 4262	鉛
+#88	AnnotatorNotes T510	Y・M
+T511	Machining 4252 4254	硫黄
+#89	AnnotatorNotes T511	Y・M
+T512	Machining 4258 4263	硫黄+鉛系
+#90	AnnotatorNotes T512	Y・M
+R73	Relation Arg1:T508 Arg2:T309	
+#91	AnnotatorNotes R73	Y・M
+R74	Relation Arg1:T512 Arg2:T309	
+#92	AnnotatorNotes R74	Y・M
+T513	Machining 4268 4271	JIS
+#93	AnnotatorNotes T513	Y・M
+T514	Machining 4326 4330	鉄系材料
+#94	AnnotatorNotes T514	Y・M
+T515	Machining 4325 4330	非鉄系材料
+#95	AnnotatorNotes T515	Y・M
+T516	Machining 4332 4333	鉛
+#96	AnnotatorNotes T516	Y・M
+T517	Quantity 4334 4335	3
+#97	AnnotatorNotes T517	Y・M
+T518	Unit 4335 4336	％
+#98	AnnotatorNotes T518	Y・M
+T519	Machining 4347 4353	ジュラルミン
+#99	AnnotatorNotes T519	Y・M
+T520	Machining 4354 4355	鉛
+#100	AnnotatorNotes T520	Y・M
+T523	Unit 4363 4364	％
+#103	AnnotatorNotes T523	Y・M
+T524	Machining 4370 4375	快削アルミ
+#104	AnnotatorNotes T524	Y・M
+R75	Relation Arg1:T310 Arg2:T515	
+#105	AnnotatorNotes R75	Y・M
+R76	Relation Arg1:T524 Arg2:T515	
+#106	AnnotatorNotes R76	Y・M
+T525	Machining 4394 4401	切りくず処理性
+#107	AnnotatorNotes T525	Y・M
+T526	Machining 4622 4626	冷間加工
+#108	AnnotatorNotes T526	Y・M
+T527	Machining 4669 4673	冷間加工
+#109	AnnotatorNotes T527	Y・M
+T528	Machining 4669 4674	冷間加工材
+#110	AnnotatorNotes T528	Y・M
+T529	Machining 4686 4690	冷間加工
+T530	Machining 4686 4691	冷間加工材
+#111	AnnotatorNotes T530	Y・M
+T531	Machining 4712 4716	冷間加工
+#112	AnnotatorNotes T531	Y・M
+T532	Machining 4721 4725	冷間加工
+#113	AnnotatorNotes T532	Y・M
+T533	Quantity 4726 4728	30
+#114	AnnotatorNotes T533	Y・M
+T534	Unit 4728 4729	％
+#115	AnnotatorNotes T534	Y・M
+T535	Quantity 4732 4734	50
+#116	AnnotatorNotes T535	Y・M
+T536	Unit 4734 4735	％
+#117	AnnotatorNotes T536	Y・M
+T537	Machining 4963 4967	冷間加工
+#118	AnnotatorNotes T537	Y・M
+T538	Machining 4994 5000	SCM420
+#119	AnnotatorNotes T538	Y・M
+T539	Machining 5011 5015	冷間加工
+#120	AnnotatorNotes T539	Y・M
+T540	Machining 5060 5064	冷間加工
+#121	AnnotatorNotes T540	Y・M
+T541	Machining 371 373	変形
+T542	Machining 369 371	塑性
+T543	Machining 379 381	硬化
+T544	Machining 387 389	硬化
+T545	Machining 393 399	切りくず生成
+T546	Machining 567 569	油剤
+T547	Machining 673 675	抵抗
+T548	Machining 682 684	抵抗
+T68	Machining 846 848	加熱
+T549	Machining 857 859	冷却
+T70	Machining 871 873	加熱
+T550	Machining 1667 1672	限界ひずみ
+T551	Machining 1720 1726	切りくず生成
+T552	Machining 1736 1742	切りくず表面
+T553	Machining 1970 1972	損傷
+T554	Machining 2228 2234	切りくず形状
+T555	Machining 2444 2448	工具形状
+T556	Machining 2485 2488	ぜい化
+T557	Machining 2992 2994	損傷
+T558	Machining 3317 3319	抵抗
+T237	Machining 3700 3702	刃先
+T239	Machining 3726 3728	油剤
+T559	Machining 3754 3756	潤滑
+T560	Machining 3738 3740	油剤
+T561	Machining 3790 3792	油剤
+T562	Machining 3920 3923	切削性
+T312	Quantity 309 310	2
+T563	Unit 310 311	倍
+T564	Quantity 315 318	1/2
+T565	Quantity 439 446	1.5～2.5
+T566	Unit 446 447	倍
+T480	Quantity 1673 1678	20～40
+T481	Quantity 1694 1698	2～10
+T483	Machining 402 405	ひずみ
+T484	Machining 306 308	厚さ
+T521	Machining 312 314	長さ
+R77	Linear Arg1:T484 Arg2:T312	
+R78	Linear Arg1:T521 Arg2:T564	
+T522	Machining 3162 3166	鍛造技術
+T567	Machining 342 344	厚さ
+T59	Machining 828 830	厚さ
+T568	Machining 824 827	酸化膜
+T569	Machining 1241 1243	折断
+T570	Machining 1237 1243	切りくず折断
+T571	Machining 1266 1268	折断
+T572	Machining 2212 2215	切削性
+T573	Machining 2404 2406	切断
+T574	Machining 2422 2424	折断
+T490	Machining 2418 2424	切りくず折断
+T575	Machining 2400 2406	切りくず切断
+T576	Machining 2995 2998	びびり
+T577	Machining 414 416	硬化
+T578	Machining 2558 2560	流出
+T579	Machining 2561 2563	折断
+T580	Machining 2554 2563	切りくず流出と折断
+T582	Machining 4342 4344	快削
+T583	Machining 4370 4372	快削
+T585	Machining 279 281	厚さ
+T586	Machining 287 289	長さ
+T587	Machining 2055 2061	上向きカール
+T588	Variable 1435 1438	R_L
+T589	Machining 1852 1854	延性
+T590	Machining 3304 3307	突出し
+T591	Machining 3376 3378	折断
+T592	Machining 3372 3378	切りくず折断
+T593	Machining 1879 1881	折断
+T594	Machining 2085 2087	座屈
+T595	Machining 2136 2138	座屈
+T596	Machining 4132 4134	快削
+T225	Machining 3451 3453	耐熱
+T229	Machining 3453 3455	合金
+T597	Machining 3626 3628	折断
+T598	Machining 4432 4434	添加
+T599	Machining 4908 4911	折断性
+T600	Machining 1395 1400	限界ひずみ
+T601	Machining 4026 4031	限界ひずみ
+T584	Machining 4643 4646	折断性
+T581	Machining 3083 3086	折断性
+T602	Machining 5070 5072	折断
+R79	Relation Arg1:T486 Arg2:T129	
+T603	Machining 5032 5034	折断
+T604	Machining 2498 2503	カール半径
+T605	Machining 2498 2501	カール
+T606	Machining 2541 2544	カール
+T607	Machining 3389 3392	カール
+T608	Machining 3711 3714	カール
+T609	Machining 3763 3766	カール
+T610	Machining 4973 4978	限界ひずみ
+T611	Machining 5090 5095	限界ひずみ
+T612	Machining 4795 4800	限界ひずみ
+T613	Machining 1643 1648	限界ひずみ
+T614	Machining 1816 1819	カール
+T615	Machining 1816 1821	カール半径
+T616	Machining 2058 2061	カール
+T617	Machining 2050 2053	カール
+T618	Machining 2318 2321	カール
+T619	Machining 2585 2588	カール
+T620	Machining 2585 2590	カール半径
+T621	Machining 792 796	被削材種
+T622	Machining 3018 3022	被削材種
+T195	Machining 3018 3020	被削
+T66	Machining 792 794	被削
+T623	Machining 1030 1033	カール
+T624	Machining 1038 1041	カール
+T625	Machining 3304 3309	突出し長さ
+T626	Machining 4001 4005	被削材種
+T627	Machining 4505 4510	限界ひずみ
+T628	Machining 4018 4020	鋼材
+T629	Machining 407 409	材料
+T630	Machining 2010 2013	カール
+T631	Machining 2118 2121	カール
+T632	Machining 3487 3489	強度
+T633	Machining 3484 3489	切れ刃強度
+T634	Machining 4051 4056	限界ひずみ
+T635	Machining 727 729	鋼材
+T636	Machining 3307 3309	長さ
+T637	Machining 840 842	厚さ
+T638	Machining 836 839	酸化膜
+T639	Machining 4313 4320	快削ステンレス
+T640	Quantity 4209 4212	2～3
+T641	Unit 4212 4214	μm
+T642	Machining 3145 3151	切りくず処理
+T643	Machining 5066 5072	切りくず折断
+T644	Machining 5028 5034	切りくず折断
+T645	Machining 3079 3086	切りくず折断性
+T646	Machining 3957 3959	折断
+T648	Machining 4113 4115	折断
+T649	Machining 4113 4117	折断領域
+T650	Machining 4639 4646	切りくず折断性
+T651	Machining 4696 4698	折断
+T652	Machining 4692 4698	切りくず折断
+T653	Machining 2374 2383	切りくず折れやすさ
+T647	Machining 3953 3959	切りくず折断
+T654	Machining 3953 3961	切りくず折断領域
+T655	Machining 4692 4700	切りくず折断限界
+T656	Machining 5028 5036	切りくず折断領域
+T657	Machining 5066 5074	切りくず折断限界
+T658	Machining 5083 5085	鋼材
+T659	Machining 1664 1666	母材
+T660	Quantity 4356 4363	0.2～0.6
+T661	Machining 4485 4492	球状化焼鈍し材
+T662	Machining 261 262	幅
+R80	Relation Arg1:T13 Arg2:T662	
+R83	Relation Arg1:T117 Arg2:T615	
+T663	Machining 1793 1798	工具逃げ面
+R84	Relation Arg1:T663 Arg2:T615	
+T664	Machining 1965 1967	折断
+T665	Machining 1999 2001	折断
+T666	Machining 2916 2922	切りくず折断
+T667	Machining 2920 2922	折断
+R85	Relation Arg1:T666 Arg2:T190	
+R86	Relation Arg1:T666 Arg2:T191	
+T668	Quantity 4061 4064	1/2
+R87	Linear Arg1:T634 Arg2:T668	
+T669	Machining 1772 1774	折断
+T670	Machining 1772 1778	折断パターン
+T672	Machining 785 787	流入
+T673	Machining 1200 1202	流入
+T674	Machining 1311 1313	流出
+T675	Machining 2400 2411	切りくず切断メカニズム
+T676	Machining 2418 2428	切りくず折断パターン
+T677	Machining 3063 3069	有効折断領域
+T678	Machining 4147 4153	切りくず生成
+T679	Machining 4853 4860	切りくず生成域
+T680	Machining 4979 4986	切りくず生成域
+T681	Machining 1728 1731	ぜい化
+T682	Machining 4310 4312	硫黄
+T683	Machining 4300 4308	オーステナイト系
+T684	Machining 4527 4529	材料
+T685	Machining 4580 4582	材料
+T686	Machining 4604 4606	材料
+T687	Machining 2126 2127	幅
+T688	Machining 3065 3069	折断領域
+T689	Machining 3065 3067	折断
+T690	Machining 633 635	速度
+T691	Machining 859 861	速度
+T692	Machining 891 893	冷却
+T693	Machining 893 895	速度
+T694	Machining 38 42	エネルギ
+T695	Machining 50 54	エネルギ
+T696	Machining 624 630	切りくず温度
+T697	Machining 768 774	切りくず温度
+T698	Machining 732 738	切りくず温度
+T699	Machining 881 887	切りくず温度
+T700	Machining 1173 1179	切りくず温度
+T701	Machining 1188 1194	切りくず温度
+T702	Machining 1080 1086	切りくずの形
+T703	Machining 2157 2159	回転
+T704	Machining 2449 2459	切りくずの折れやすさ
+T705	Machining 1259 1275	旋削切りくずが折断するメカニズム
+T706	Machining 3572 3574	速度
+T707	Machining 3577 3579	速度
+T708	Machining 3680 3682	速度
+R88	Sub Arg1:T488 Arg2:T411	
+T709	Machining 754 758	エネルギ
+T671	Machining 1204 1208	エネルギ
+T710	Machining 3444 3449	ステンレス
+R89	Relation Arg1:T389 Arg2:T4	
+R90	Relation Arg1:T39 Arg2:T457	
+T2	Trigger 273 278	変わらない
+T8	Trigger 282 286	厚くなり
+T42	Trigger 290 294	短くなる
+T711	Trigger 685 688	大きく
+T712	Trigger 708 711	小さい
+T713	Trigger 712 716	高くなる
+T714	Trigger 851 853	高い
+T715	Trigger 862 864	低い
+T716	Trigger 867 869	厚い
+T717	Trigger 2478 2482	厚くなる
+T718	Trigger 2504 2509	小さくなる
+T719	Trigger 2469 2472	小さく
+T720	Trigger 2578 2581	小さく
+T721	Trigger 2591 2593	減少
+T722	Trigger 2631 2634	小さく
+T723	Trigger 2642 2645	小さく
+T724	Trigger 2648 2652	厚くなる
+T725	Trigger 3320 3323	減らす
+#52	AnnotatorNotes T725	『減らす』or『減らす必要があり』?
+T726	Trigger 3580 3582	増大
+T727	Trigger 3591 3595	薄くなる
+T728	Trigger 3607 3612	大きくなる
+T729	Trigger 3631 3635	狭くなる
+T730	Trigger 3659 3661	増大
+T731	Trigger 3833 3835	低下
+T732	Trigger 3850 3852	促進
+T733	Trigger 4743 4745	高い
+T734	Trigger 4759 4763	薄くなる
+T735	Trigger 4773 4775	増す
+T736	Trigger 4868 4870	減少
+T737	Trigger 4881 4885	薄くなる
+#53	AnnotatorNotes T2	「幅」にPositiveとNegativeがつくと思う。
+T739	Trigger 3334 3337	大きな
+R36	Positive Arg1:T662 Arg2:T585	
+R81	Negative Arg1:T662 Arg2:T586	

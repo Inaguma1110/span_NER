@@ -1,0 +1,12 @@
+T37	Machining 9 13	材料強度
+R8	Relation Arg1:T37 Arg2:T38
+T38	Machining 24 28	切削抵抗
+T39	Machining 24 26	切削
+T534	Machining 3 5	高温
+R79	Negative Arg1:T534 Arg2:T37
+T590	Machining 26 28	抵抗
+T617	Machining 9 11	材料
+T618	Machining 11 13	強度
+T246	Trigger 17 19	低下
+T503	Trigger 30 32	影響
+T511	Trigger 6 8	なれ

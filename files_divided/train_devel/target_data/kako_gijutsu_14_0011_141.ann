@@ -1,0 +1,20 @@
+T997	Machining 9 12	送り量
+T998	Machining 44 46	切削
+T999	Machining 52 56	S50C
+T1000	Machining 60 65	平フライス
+T1001	Machining 61 65	フライス
+T1002	Machining 65 67	削り
+T1003	Machining 73 75	切削
+T1004	Machining 73 77	切削油剤
+R136	Relation Arg1:T1004 Arg2:T1005
+T1005	Machining 78 86	切削仕上げ面粗さ
+T1006	Machining 78 84	切削仕上げ面
+T1007	Machining 78 80	切削
+T1009	Machining 80 84	仕上げ面
+T1180	Machining 49 52	炭素鋼
+T1348	Quantity 13 17	0.18
+T1349	Unit 17 23	mm/rev
+T1035	Machining 9 11	送り
+T1037	Machining 80 83	仕上げ
+T1042	Machining 75 77	油剤
+T1488	Machining 84 86	粗さ

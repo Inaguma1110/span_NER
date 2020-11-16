@@ -1,0 +1,7 @@
+T1378	Machining 0 6	グラファイト
+T1379	Machining 7 9	加工
+T1380	Machining 19 22	加工物
+T1381	Machining 23 29	グラファイト
+T3531	Machining 33 37	こば欠け
+T3536	Machining 0 9	グラファイトの加工
+R688	Relation Arg1:T3536 Arg2:T3531

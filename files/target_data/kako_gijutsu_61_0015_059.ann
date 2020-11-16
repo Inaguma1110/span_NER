@@ -1,0 +1,7 @@
+T266	Machining 0 5	エンドミル
+T267	Machining 12 17	逃げ面摩耗
+R19	Relation Arg1:T267 Arg2:T556
+T268	Machining 12 15	逃げ面
+T269	Machining 15 17	摩耗
+T556	Machining 0 8	エンドミルの損傷
+T495	Machining 6 8	損傷

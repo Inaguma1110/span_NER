@@ -1,0 +1,11 @@
+T1144	Machining 2 5	凝着部
+R192	Positive Arg1:T1144 Arg2:T1148
+T1145	Machining 17 20	工具材
+T1146	Machining 23 26	工具材
+T1147	Machining 27 30	工作物
+T1148	Machining 44 46	工具
+T1149	Machining 47 49	摩耗
+T2594	Machining 6 8	破壊
+T2595	Machining 13 16	破壊面
+T3764	Trigger 6 8	破壊
+T3765	Trigger 47 49	摩耗

@@ -1,0 +1,18 @@
+T359	Machining 6 10	切削温度
+T360	Machining 6 8	切削
+T361	Machining 8 10	温度
+T362	Machining 20 24	切削抵抗
+R58	Linear Arg1:T362 Arg2:T523
+R68	Relation Arg1:T362 Arg2:T359
+T363	Machining 20 22	切削
+T364	Machining 25 29	切削速度
+R59	Linear Arg1:T364 Arg2:T523
+R69	Relation Arg1:T364 Arg2:T359
+T365	Machining 25 27	切削
+T366	Machining 43 47	切削抵抗
+T367	Machining 43 45	切削
+T523	Machining 14 19	入力パワー
+R57	Relation Arg1:T523 Arg2:T359
+T226	Machining 22 24	抵抗
+T78	Machining 45 47	抵抗
+T659	Machining 27 29	速度

@@ -1,0 +1,12 @@
+T635	Machining 4 7	切削熱
+T636	Machining 25 28	切削熱
+R843	Relation Arg1:T636 Arg2:T637
+T637	Machining 35 39	切りくず
+T2577	Machining 4 6	切削
+T2578	Machining 6 7	熱
+T2579	Machining 15 17	高速
+T2580	Machining 17 19	回転
+T2581	Machining 15 19	高速回転
+T2582	Machining 25 27	切削
+T2583	Machining 27 28	熱
+T2585	Machining 40 42	流入

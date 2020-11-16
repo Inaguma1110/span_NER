@@ -1,0 +1,12 @@
+T1622	Machining 0 4	すくい面
+T1623	Machining 26 27	溝
+T1624	Machining 73 77	仕上げ面
+T3939	Machining 5 8	再研削
+T3940	Machining 41 43	砥石
+T3941	Machining 47 49	砥石
+T3942	Machining 59 63	研削抵抗
+R810	DownUp Arg1:T3942 Arg2:T1624
+T3944	Machining 59 61	研削
+T3945	Machining 61 63	抵抗
+T4347	Machining 73 76	仕上げ
+T4352	Machining 28 31	ねじれ

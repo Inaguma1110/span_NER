@@ -1,0 +1,12 @@
+T1202	Machining 0 4	熱伝導率
+R365	Negative Arg1:T1202 Arg2:T1203
+T1203	Machining 7 9	比熱
+R412	Relation Arg1:T1203 Arg2:T1205
+T1204	Machining 16 18	切削
+T1205	Machining 24 25	熱
+R807	Relation Arg1:T1205 Arg2:T3348
+T1206	Machining 27 32	エンドミル
+T3348	Machining 33 35	刃先
+T3349	Machining 36 38	流入
+T4752	Trigger 5 7	悪く
+T4753	Trigger 10 12	大き

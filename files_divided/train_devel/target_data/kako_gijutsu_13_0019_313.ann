@@ -1,0 +1,16 @@
+T1149	Machining 2 6	フライス
+T1150	Machining 6 8	切削
+T1151	Machining 10 14	切削温度
+T1152	Machining 10 12	切削
+T1153	Machining 12 14	温度
+T1154	Machining 25 28	熱亀裂
+R157	Relation Arg1:T1154 Arg2:T1157
+T1157	Machining 32 36	工具損傷
+T1158	Machining 32 34	工具
+T1421	Machining 10 18	切削温度の上下幅
+R156	Relation Arg1:T1421 Arg2:T1157
+R158	Relation Arg1:T1421 Arg2:T1154
+T528	Machining 34 36	損傷
+T805	Machining 0 8	正面フライス切削
+T1578	Machining 25 26	熱
+T1579	Machining 26 28	亀裂

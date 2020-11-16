@@ -1,0 +1,12 @@
+T2	Machining 0 4	切削条件
+R1	Relation Arg1:T2 Arg2:T4
+R2	Relation Arg1:T2 Arg2:T6
+T3	Machining 0 2	切削
+T4	Machining 5 9	加工能率
+T5	Machining 5 7	加工
+T6	Machining 10 14	工具寿命
+T7	Machining 10 12	工具
+T8	Machining 28 31	被削材
+T9	Machining 34 36	工具
+T81	Machining 34 38	工具形状
+T95	Machining 12 14	寿命

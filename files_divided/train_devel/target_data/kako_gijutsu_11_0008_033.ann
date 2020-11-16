@@ -1,0 +1,18 @@
+T150	Machining 0 4	構成刃先
+T151	Machining 9 11	黄銅
+R76	Sub Arg1:T151 Arg2:T153
+T153	Machining 15 18	被削材
+T154	Machining 21 25	切削速度
+R12	Negative Arg1:T154 Arg2:T156
+T155	Machining 21 23	切削
+T156	Machining 37 41	切削抵抗
+T157	Machining 37 39	切削
+T391	Unit 29 34	m/min
+T393	Unit 57 62	m/min
+T253	Machining 39 41	抵抗
+T111	Quantity 27 29	80
+T112	Quantity 54 57	200
+T594	Machining 2 4	刃先
+T607	Machining 23 25	速度
+T643	Trigger 45 47	減少
+T663	Trigger 26 36	約80m/minまで

@@ -1,0 +1,19 @@
+T1703	Machining 0 2	工具
+T1704	Machining 21 23	工具
+T1705	Machining 33 38	びびり振動
+T1706	Machining 45 49	加工精度
+T4083	Machining 2 7	突き出し量
+T4084	Machining 0 7	工具突き出し量
+R813	Positive Arg1:T4084 Arg2:T4362
+R814	Positive Arg1:T4084 Arg2:T1705
+R815	Negative Arg1:T4084 Arg2:T1706
+T4085	Machining 2 6	突き出し
+T4086	Machining 33 36	びびり
+T4087	Machining 36 38	振動
+T4088	Machining 45 47	加工
+T4089	Machining 47 49	精度
+T4362	Machining 24 27	たわみ
+T4838	Trigger 8 13	大きくなれ
+T4839	Trigger 24 32	たわみやすくなり
+T4840	Trigger 39 41	誘発
+T4841	Trigger 50 52	悪化

@@ -1,0 +1,15 @@
+T351	Machining 0 4	切削温度
+R66	Negative Arg1:T351 Arg2:T355
+R67	Positive Arg1:T351 Arg2:T357
+T352	Machining 0 2	切削
+T353	Machining 2 4	温度
+T354	Machining 13 15	温度
+T355	Machining 31 35	工具寿命
+T356	Machining 31 33	工具
+T357	Machining 39 42	熱膨張
+T358	Machining 39 40	熱
+T607	Machining 40 42	膨張
+T627	Machining 33 35	寿命
+T532	Trigger 5 7	過大
+T536	Trigger 36 38	短い
+T568	Trigger 43 46	著しい

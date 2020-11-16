@@ -1,0 +1,6 @@
+T151	Machining 0 3	付着物
+R204	Relation Arg1:T151 Arg2:T272
+R205	Relation Arg1:T151 Arg2:T627
+R250	Relation Arg1:T151 Arg2:T369
+T272	Machining 21 23	付着
+T627	Machining 24 26	剥離

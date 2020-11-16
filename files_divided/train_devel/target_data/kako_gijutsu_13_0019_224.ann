@@ -1,0 +1,7 @@
+T801	Machining 18 24	クレータ摩耗
+R149	Negative Arg1:T801 Arg2:T1841
+T802	Machining 22 24	摩耗
+T886	Machining 9 10	鋼
+T1841	Machining 29 31	寿命
+T1996	Trigger 25 27	発生
+T1997	Trigger 32 34	短い

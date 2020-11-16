@@ -1,0 +1,19 @@
+T81	Machining 0 5	エンドミル
+T82	Machining 6 10	加工能率
+T83	Machining 6 8	加工
+T84	Machining 22 24	送り
+T85	Machining 22 26	送り速度
+T86	Machining 38 41	切削量
+T87	Machining 38 40	切削
+T88	Machining 58 60	送り
+T89	Machining 58 62	送り速度
+T90	Machining 76 78	送り
+T91	Machining 76 80	送り速度
+T166	Machining 17 26	テーブルの送り速度
+R19	Relation Arg1:T166 Arg2:T82
+T167	Machining 72 80	テーブル送り速度
+T168	Variable 80 81	F
+T209	Machining 54 62	テーブル送り速度
+T252	Machining 60 62	速度
+T253	Machining 24 26	速度
+T254	Machining 78 80	速度

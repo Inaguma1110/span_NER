@@ -1,0 +1,20 @@
+T103	Machining 11 13	切削
+T104	Machining 17 20	切込み
+T105	Machining 24 27	切削幅
+T107	Machining 30 34	せん断角
+T109	Machining 39 42	被削材
+T110	Machining 43 50	降伏せん断応力
+T379	Variable 21 22	b
+R66	Relation Arg1:T379 Arg2:T105
+T380	Variable 4 7	t_1
+R65	Relation Arg1:T380 Arg2:T104
+T381	Variable 28 29	φ
+R67	Relation Arg1:T381 Arg2:T107
+T382	Variable 35 38	τ_0
+R68	Relation Arg1:T382 Arg2:T110
+T492	Machining 8 13	2次元切削
+T26	Machining 45 48	せん断
+T33	Machining 48 50	応力
+T404	Machining 30 33	せん断
+T515	Machining 24 26	切削
+T629	Machining 26 27	幅

@@ -1,0 +1,3 @@
+T154	Machining 5 8	チップ
+T688	Machining 3 8	三角チップ
+R77	Sub Arg1:T688 Arg2:T751

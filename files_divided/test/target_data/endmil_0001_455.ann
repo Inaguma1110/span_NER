@@ -1,0 +1,9 @@
+T1403	Machining 7 11	工具摩耗
+R410	Positive Arg1:T1403 Arg2:T1404
+R411	Positive Arg1:T1403 Arg2:T1405
+T1404	Machining 13 15	バリ
+T1405	Machining 16 19	むしれ
+T4325	Machining 7 9	工具
+T4326	Machining 9 11	摩耗
+T4800	Trigger 9 11	摩耗
+T4801	Trigger 20 28	発生しやすくなり

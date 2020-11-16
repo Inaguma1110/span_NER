@@ -1,0 +1,9 @@
+T26	Machining 8 12	切削条件
+T27	Machining 8 10	切削
+T28	Machining 13 15	加工
+T29	Machining 15 17	環境
+T684	Machining 22 29	刃先交換バイト
+T759	Machining 2 4	旋盤
+T760	Machining 0 2	ＮＣ
+T814	Machining 22 24	刃先
+T815	Machining 26 29	バイト

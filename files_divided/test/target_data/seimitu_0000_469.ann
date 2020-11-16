@@ -1,0 +1,18 @@
+T1666	Machining 6 12	フライス切削
+T1667	Machining 14 17	切れ刃
+T1668	Machining 20 23	逃げ面
+T1669	Machining 24 26	摩耗
+T1670	Machining 38 43	逃げ面摩耗
+R477	Negative Arg1:T1670 Arg2:T1671
+T1671	Machining 49 55	仕上げ面粗さ
+T3119	Machining 6 10	フライス
+T3120	Machining 10 12	切削
+T3121	Machining 17 19	外周
+T3122	Machining 14 19	切れ刃外周
+T3123	Machining 38 41	逃げ面
+T3124	Machining 41 43	摩耗
+T3125	Machining 49 53	仕上げ面
+T3126	Machining 53 55	粗さ
+T3128	Machining 49 52	仕上げ
+T3793	Trigger 44 46	増大
+T3794	Trigger 56 58	減少

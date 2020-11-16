@@ -1,0 +1,6 @@
+T208	Machining 6 9	送り量
+R44	Relation Arg1:T208 Arg2:T209
+T209	Machining 10 14	切削温度
+T210	Machining 10 12	切削
+T211	Machining 12 14	温度
+T412	Machining 6 8	送り

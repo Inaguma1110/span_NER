@@ -1,0 +1,6 @@
+T15	Machining 15 18	切込み
+T16	Machining 19 21	送り
+T57	Machining 8 10	動力
+R3	Relation Arg1:T57 Arg2:T15
+R4	Relation Arg1:T57 Arg2:T16
+T10	Machining 3 7	工作機械

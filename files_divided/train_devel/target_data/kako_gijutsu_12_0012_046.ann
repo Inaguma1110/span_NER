@@ -1,0 +1,11 @@
+T177	Machining 5 8	被削材
+T178	Machining 9 11	工具
+T179	Machining 33 36	熱電能
+T180	Machining 59 62	熱電対
+T181	Machining 69 71	温度
+T449	Machining 25 32	ゼーペック係数
+T548	Machining 49 51	切刃
+T549	Machining 52 56	高温接点
+T588	Machining 63 66	起電力
+T631	Machining 15 17	材料
+T500	Machining 52 54	高温

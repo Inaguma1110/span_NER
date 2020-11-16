@@ -1,0 +1,15 @@
+T546	Machining 0 7	チップブレーカ
+T547	Machining 0 3	チップ
+T548	Machining 3 7	ブレーカ
+T549	Machining 16 19	切れ刃
+T550	Machining 27 31	ブレーカ
+T551	Machining 43 47	すくい角
+T949	Machining 0 10	チップブレーカの形状
+R93	Relation Arg1:T949 Arg2:T950
+R94	Relation Arg1:T949 Arg2:T951
+R95	Relation Arg1:T949 Arg2:T551
+T950	Machining 27 32	ブレーカ幅
+T951	Machining 34 38	壁の高さ
+T972	Machining 31 32	幅
+T973	Variable 32 33	W
+T974	Variable 38 39	h

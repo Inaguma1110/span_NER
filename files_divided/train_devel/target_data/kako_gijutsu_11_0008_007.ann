@@ -1,0 +1,11 @@
+T32	Machining 0 6	単位切削面積
+T34	Machining 2 6	切削面積
+T35	Machining 2 4	切削
+T36	Machining 9 13	切削抵抗
+T37	Machining 9 11	切削
+T38	Machining 14 19	比切削抵抗
+T39	Machining 15 19	切削抵抗
+T40	Machining 15 17	切削
+T371	Variable 20 23	k_v
+T565	Machining 11 13	抵抗
+T566	Machining 17 19	抵抗

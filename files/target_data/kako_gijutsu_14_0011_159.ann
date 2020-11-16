@@ -1,0 +1,6 @@
+T1123	Machining 13 16	切込み
+R196	Relation Arg1:T1123 Arg2:T1186
+T1124	Machining 21 23	応力
+T1185	Machining 19 23	残留応力
+T1186	Machining 17 23	表層残留応力
+T1594	Machining 19 21	残留

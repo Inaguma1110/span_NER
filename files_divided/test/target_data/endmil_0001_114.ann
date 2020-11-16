@@ -1,0 +1,21 @@
+T274	Machining 0 7	エンドミル加工
+T275	Machining 11 15	切削抵抗
+T276	Machining 30 32	送り
+T277	Machining 42 46	送り分力
+R47	Sub Arg1:T277 Arg2:T275
+T278	Machining 64 67	主分力
+R48	Sub Arg1:T278 Arg2:T275
+T279	Machining 78 81	背分力
+R49	Sub Arg1:T279 Arg2:T275
+T2162	Machining 11 13	切削
+T2163	Machining 37 41	水平分力
+T2164	Machining 0 5	エンドミル
+T2165	Machining 5 7	加工
+T2166	Machining 13 15	抵抗
+T2167	Machining 39 41	分力
+T2168	Machining 42 44	送り
+T2169	Machining 44 46	分力
+T2170	Machining 59 63	垂直分力
+T2171	Machining 72 77	軸方向分力
+T2172	Machining 61 63	分力
+T2173	Machining 75 77	分力

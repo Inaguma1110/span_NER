@@ -1,0 +1,11 @@
+T1478	Machining 0 2	切削
+T1479	Machining 10 12	切削
+T1480	Machining 17 22	上向き削り
+R416	Sub Arg1:T1480 Arg2:T1478
+T1481	Machining 42 44	切削
+T1482	Machining 49 54	下向き削り
+R417	Sub Arg1:T1482 Arg2:T1478
+T2944	Machining 20 22	削り
+T2945	Machining 23 33	ｕｐーｍｉｌｌｉｎｇ
+T2946	Machining 55 67	ｄｏｗｎーｍｉｌｌｉｎｇ
+T2947	Machining 52 54	削り

@@ -1,0 +1,12 @@
+T1260	Machining 0 2	硬さ
+R397	Positive Arg1:T1260 Arg2:T1263
+T1261	Machining 18 20	切削
+T1262	Machining 24 26	工具
+T1263	Machining 32 34	摩耗
+T3416	Quantity 3 5	45
+T3417	Unit 5 8	ＨＲＣ
+T3418	Machining 12 17	焼き入れ鋼
+T3419	Machining 21 24	ＨＳＳ
+T3420	Machining 21 26	ＨＳＳ工具
+T4758	Trigger 38 42	早くなり
+T4759	Trigger 3 12	45ＨＲＣを超える

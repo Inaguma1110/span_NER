@@ -1,0 +1,7 @@
+T549	Machining 2 5	送り量
+R79	Negative Arg1:T549 Arg2:T550
+T550	Machining 20 24	仕上げ面
+T1294	Machining 2 4	送り
+T1430	Machining 20 23	仕上げ
+T1634	Trigger 6 13	小さくし過ぎる
+T1635	Trigger 25 30	得られない

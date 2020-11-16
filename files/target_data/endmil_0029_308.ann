@@ -1,0 +1,15 @@
+T922	Machining 3 7	せん断角
+R302	Positive Arg1:T922 Arg2:T925
+T923	Machining 12 18	切りくず厚さ
+R303	Positive Arg1:T923 Arg2:T925
+T924	Machining 26 34	切りくずの連続性
+R304	Positive Arg1:T924 Arg2:T925
+T3051	Machining 41 43	振動
+T3052	Machining 3 6	せん断
+T3053	Machining 16 18	厚さ
+T4435	Machining 26 30	切りくず
+T4439	Machining 12 16	切りくず
+T4689	Trigger 19 21	減少
+T4690	Trigger 8 10	増加
+T4691	Trigger 35 38	高める
+T4692	Trigger 44 46	軽減

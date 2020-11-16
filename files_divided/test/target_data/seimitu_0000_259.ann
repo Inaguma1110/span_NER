@@ -1,0 +1,9 @@
+T944	Machining 0 4	切削工具
+R556	Relation Arg1:T944 Arg2:T945
+R557	Relation Arg1:T944 Arg2:T946
+R558	Relation Arg1:T944 Arg2:T2364
+T945	Machining 16 18	硬さ
+T946	Machining 19 21	靭性
+T2362	Machining 0 2	切削
+T2363	Machining 2 4	工具
+T2364	Machining 22 28	化学的安定性

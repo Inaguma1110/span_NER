@@ -1,0 +1,7 @@
+T12	Machining 2 4	精度
+T13	Machining 9 13	刃先摩耗
+R1	Relation Arg1:T13 Arg2:T73
+T14	Machining 11 13	摩耗
+T73	Machining 16 22	幅寸法の変動
+T93	Machining 9 11	刃先
+T113	Machining 32 34	刃幅

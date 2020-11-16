@@ -1,0 +1,16 @@
+T254	Machining 20 22	超硬
+T255	Machining 20 24	超硬工具
+T256	Machining 22 24	工具
+T257	Machining 30 34	長手旋削
+T258	Machining 32 34	旋削
+T260	Machining 39 46	主逃げ面摩耗幅
+R28	Positive Arg1:T260 Arg2:T264
+T261	Machining 40 43	逃げ面
+T262	Machining 43 46	摩耗幅
+T264	Machining 53 56	背分力
+T509	Machining 16 19	合金鋼
+T510	Machining 8 19	Ni-Cr-Mo合金鋼
+T511	Quantity 25 28	P10
+T512	Machining 20 29	超硬工具(P10)
+T661	Trigger 47 49	増加
+T662	Trigger 57 59	増加

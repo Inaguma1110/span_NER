@@ -1,0 +1,23 @@
+T629	Machining 8 12	すくい面
+T630	Machining 14 16	摩擦
+T631	Machining 16 17	熱
+T632	Machining 20 23	被削材
+T633	Machining 24 27	せん断
+T634	Machining 33 36	せん断
+T635	Machining 36 37	熱
+T636	Machining 47 51	切削温度
+R109	Positive Arg1:T636 Arg2:T639
+T637	Machining 47 49	切削
+T638	Machining 49 51	温度
+T639	Machining 63 67	加工精度
+T640	Machining 63 65	加工
+T641	Machining 65 67	精度
+T881	Machining 33 37	せん断熱
+R108	Negative Arg1:T881 Arg2:T636
+T882	Machining 14 17	摩擦熱
+R107	Negative Arg1:T882 Arg2:T636
+T1116	Machining 24 28	せん断面
+T1359	Trigger 38 40	減少
+T1360	Trigger 52 54	低下
+T1361	Trigger 70 75	高められる
+T1350	Trigger 29 31	発生

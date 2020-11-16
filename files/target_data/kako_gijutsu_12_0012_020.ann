@@ -1,0 +1,7 @@
+T96	Machining 0 4	切削温度
+T97	Machining 0 2	切削
+T98	Machining 2 4	温度
+T99	Machining 45 49	切削温度
+T100	Machining 45 47	切削
+T101	Machining 47 49	温度
+T434	Variable 49 50	θ

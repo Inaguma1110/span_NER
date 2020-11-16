@@ -1,0 +1,18 @@
+T1039	Machining 15 18	送り量
+T1040	Machining 35 39	工具寿命
+R227	Relation Arg1:T1040 Arg2:T1042
+T1041	Machining 35 37	工具
+T1042	Machining 50 54	切削温度
+T1043	Machining 50 52	切削
+T1044	Machining 52 54	温度
+T1045	Machining 74 78	切削温度
+R135	Relation Arg1:T1045 Arg2:T1048
+T1046	Machining 74 76	切削
+T1047	Machining 76 78	温度
+T1048	Machining 79 83	工具寿命
+T1049	Machining 79 81	工具
+T1038	Quantity 19 22	0.1
+T1155	Unit 22 28	mm/rev
+T1568	Machining 15 17	送り
+T1782	Machining 81 83	寿命
+T1806	Machining 37 39	寿命

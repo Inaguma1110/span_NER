@@ -1,0 +1,12 @@
+T98	Machining 0 2	環境
+T99	Machining 10 12	温度
+T100	Machining 40 43	工作物
+T101	Machining 46 48	切削
+T102	Machining 54 58	加工精度
+T103	Machining 54 56	加工
+T104	Machining 56 58	精度
+T920	Machining 8 12	主軸温度
+R150	Relation Arg1:T920 Arg2:T921
+T921	Machining 30 35	ならし運転
+T1211	Machining 27 29	主軸
+T1212	Machining 8 10	主軸

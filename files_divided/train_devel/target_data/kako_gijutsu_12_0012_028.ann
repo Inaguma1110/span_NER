@@ -1,0 +1,8 @@
+T125	Machining 3 7	切削速度
+R112	Relation Arg1:T125 Arg2:T128
+T126	Machining 3 5	切削
+T128	Machining 9 12	送り量
+T545	Variable 7 8	V
+T546	Variable 12 13	f
+T114	Machining 9 11	送り
+T651	Machining 5 7	速度

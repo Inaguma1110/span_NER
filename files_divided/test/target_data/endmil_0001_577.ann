@@ -1,0 +1,9 @@
+T1662	Machining 2 4	摩耗
+T1663	Machining 23 25	切削
+R479	Relation Arg1:T1663 Arg2:T1664
+T1664	Machining 32 34	応力
+T4035	Machining 10 12	研削
+T4036	Machining 42 44	疲労
+T4037	Machining 40 42	金属
+T4039	Machining 40 44	金属疲労
+T4040	Machining 15 17	除去

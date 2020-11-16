@@ -1,0 +1,19 @@
+T42	Machining 4 8	断続切削
+R16	Relation Arg1:T42 Arg2:T45
+T43	Machining 6 8	切削
+T44	Machining 10 12	切削
+T45	Machining 14 18	切削温度
+T46	Machining 14 16	切削
+T47	Machining 16 18	温度
+T48	Machining 23 25	切削
+T49	Machining 27 31	切削温度
+T50	Machining 27 29	切削
+T51	Machining 29 31	温度
+T52	Machining 46 49	切れ刃
+T53	Machining 50 53	熱亀裂
+R17	Positive Arg1:T53 Arg2:T52
+R18	Relation Arg1:T53 Arg2:T42
+T54	Machining 50 51	熱
+T55	Machining 51 53	亀裂
+T100	Machining 54 62	サーマルクラック
+T113	Trigger 64 71	生じやすくなる

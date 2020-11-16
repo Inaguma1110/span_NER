@@ -1,0 +1,15 @@
+T2	Machining 9 13	切削条件
+T3	Machining 9 11	切削
+T4	Machining 20 22	旋削
+T5	Machining 39 41	工具
+T6	Machining 53 59	仕上げ面粗さ
+R1	Relation Arg1:T6 Arg2:T32
+T7	Machining 53 57	仕上げ面
+T8	Machining 53 56	仕上げ
+T9	Machining 60 64	寸法精度
+R2	Relation Arg1:T9 Arg2:T32
+T10	Machining 62 64	精度
+T11	Machining 82 84	送り
+T12	Machining 85 88	切込み
+T32	Machining 71 74	びびり
+T39	Machining 57 59	粗さ

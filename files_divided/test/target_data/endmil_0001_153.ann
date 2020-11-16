@@ -1,0 +1,9 @@
+T413	Machining 0 4	すくい面
+R842	Positive Arg1:T413 Arg2:T2282
+T414	Machining 5 8	被削材
+T415	Machining 12 14	凝着
+R574	Sub Arg1:T415 Arg2:T2284
+T2282	Machining 9 11	溶着
+T2283	Machining 15 17	圧着
+R575	Sub Arg1:T2283 Arg2:T2284
+T2284	Machining 29 31	溶着

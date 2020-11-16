@@ -1,0 +1,9 @@
+T11	Machining 29 34	びびり振動
+T230	Machining 54 58	強制振動
+R56	Sub Arg1:T230 Arg2:T11
+T231	Machining 59 63	自動振動
+R57	Sub Arg1:T231 Arg2:T11
+T356	Machining 56 58	振動
+T357	Machining 61 63	振動
+T358	Machining 29 32	びびり
+T359	Machining 32 34	振動

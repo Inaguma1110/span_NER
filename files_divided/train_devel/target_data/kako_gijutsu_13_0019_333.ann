@@ -1,0 +1,13 @@
+T1247	Machining 0 3	逃げ角
+R167	Negative Arg1:T1247 Arg2:T1248
+R168	Relation Arg1:T1247 Arg2:T1251
+T1248	Machining 10 15	逃げ面摩耗
+T1249	Machining 10 13	逃げ面
+T1250	Machining 13 15	摩耗
+T1251	Machining 28 33	チッピング
+T994	Quantity 21 23	10
+T1190	Unit 23 24	°
+T1197	Quantity 41 42	6
+T1213	Unit 42 43	°
+T1977	Trigger 4 9	大きくする
+T1978	Trigger 16 18	減少

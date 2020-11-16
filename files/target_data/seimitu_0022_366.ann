@@ -1,0 +1,11 @@
+T1305	Machining 5 7	工具
+T2758	Machining 2 5	焼結系
+T2759	Machining 2 7	焼結系工具
+T2760	Machining 32 34	硬脆
+T2761	Machining 34 36	材料
+T2763	Machining 32 36	硬脆材料
+T2764	Machining 25 29	微小欠陥
+T2766	Machining 39 44	脆性的破壊
+T2767	Machining 27 29	欠陥
+T2768	Machining 39 42	脆性的
+T2769	Machining 42 44	破壊

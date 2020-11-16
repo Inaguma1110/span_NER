@@ -1,0 +1,8 @@
+T1854	Machining 5 8	溶解度
+R943	Positive Arg1:T1854 Arg2:T4886
+T1867	Machining 0 2	Ｃｒ
+R527	Relation Arg1:T1867 Arg2:T1854
+T1870	Machining 3 4	Ｗ
+T4469	Trigger 9 11	増し
+T4470	Trigger 15 18	安定化
+T4886	Machining 12 14	組織

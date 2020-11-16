@@ -1,0 +1,21 @@
+T56	Machining 43 51	切削仕上げ面粗さ
+T58	Machining 43 45	切削
+T60	Machining 45 49	仕上げ面
+T61	Machining 45 48	仕上げ
+T62	Machining 68 70	送り
+T63	Machining 68 71	送り量
+T64	Machining 87 91	切削速度
+T65	Machining 87 89	切削
+T83	Variable 13 14	f
+R9	Negative Arg1:T83 Arg2:T84
+T84	Machining 24 27	コスト
+T85	Variable 27 28	c
+T86	Variable 71 76	f_max
+T87	Machining 65 71	最大の送り量
+R10	Relation Arg1:T87 Arg2:T64
+T88	Machining 52 54	動力
+T89	Machining 55 58	トルク
+T139	Machining 49 51	粗さ
+T169	Machining 89 91	速度
+T172	Trigger 15 17	増大
+T173	Trigger 29 31	減少

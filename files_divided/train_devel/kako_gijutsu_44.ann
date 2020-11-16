@@ -1,0 +1,129 @@
+T0	Machining 4 8	切削条件
+T1	Machining 4 6	切削
+T2	Machining 13 17	切削条件
+T3	Machining 13 15	切削
+T4	Machining 18 22	加工能率
+T5	Machining 18 20	加工
+T6	Machining 23 27	工具寿命
+T7	Machining 23 25	工具
+T8	Machining 41 44	被削材
+T9	Machining 47 49	工具
+T10	Machining 135 139	切削速度
+T11	Machining 135 137	切削
+T12	Machining 166 171	逃げ面摩耗
+T13	Machining 166 169	逃げ面
+T14	Machining 169 171	摩耗
+T15	Machining 172 181	１刃当たりの送り量
+T16	Machining 178 180	送り
+T17	Machining 178 181	送り量
+T18	Machining 209 212	仕上げ
+T19	Machining 209 214	仕上げ切削
+T20	Machining 212 214	切削
+T21	Machining 220 222	切削
+T22	Machining 238 240	送り
+T23	Machining 247 249	摩耗
+T24	Machining 256 258	送り
+T25	Machining 264 266	摩耗
+T26	Machining 301 303	送り
+T27	Machining 307 309	切削
+T28	Machining 333 335	送り
+T29	Machining 341 344	チップ
+T30	Machining 350 352	欠損
+T31	Machining 382 384	送り
+T32	Machining 392 398	仕上げ面粗さ
+T33	Machining 392 396	仕上げ面
+T34	Machining 392 395	仕上げ
+T35	Machining 402 406	切りくず
+T36	Machining 402 408	切りくず排出
+T37	Machining 409 412	被削材
+T38	Machining 412 414	精度
+T39	Machining 433 437	切削速度
+T40	Machining 433 435	切削
+T41	Machining 438 440	送り
+T42	Machining 458 460	工具
+T43	Machining 501 504	チップ
+T44	Machining 523 527	すくい角
+T45	Machining 528 531	チップ
+T46	Machining 545 548	チップ
+T47	Machining 586 589	被削材
+T48	Machining 590 594	切削条件
+T49	Machining 590 592	切削
+T50	Machining 612 614	鋳鉄
+T51	Machining 614 620	フライス切削
+T52	Machining 614 618	フライス
+T53	Machining 618 620	切削
+T54	Machining 637 643	フライス切削
+T55	Machining 637 641	フライス
+T56	Machining 641 643	切削
+T57	Machining 658 664	正面フライス
+T58	Machining 660 664	フライス
+T59	Machining 667 671	切削条件
+T60	Machining 667 669	切削
+T61	Machining 681 687	正面フライス
+T62	Machining 683 687	フライス
+T63	Machining 690 694	切削条件
+T64	Machining 690 692	切削
+T65	Machining 705 708	仕上げ
+T66	Machining 705 710	仕上げ切削
+T67	Machining 708 710	切削
+T68	Machining 716 718	摩耗
+T69	Machining 719 721	送り
+T70	Machining 731 733	切削
+T71	Machining 739 741	摩耗
+T72	Machining 742 744	送り
+R1	Relation Arg1:T2 Arg2:T4	
+R2	Relation Arg1:T2 Arg2:T6	
+T73	Machining 146 148	寿命
+R3	Negative Arg1:T10 Arg2:T73	
+R4	Relation Arg1:T12 Arg2:T15	
+R5	Positive Arg1:T22 Arg2:T75	
+T74	Machining 264 267	摩耗量
+R6	Relation Arg1:T24 Arg2:T74	
+T75	Machining 247 250	摩耗量
+T76	Machining 345 352	機械的衝撃欠損
+R7	Relation Arg1:T28 Arg2:T76	
+T77	Machining 399 401	寿命
+T78	Machining 409 414	被削材精度
+R8	Relation Arg1:T31 Arg2:T32	
+R9	Relation Arg1:T31 Arg2:T77	
+R10	Relation Arg1:T31 Arg2:T36	
+R11	Relation Arg1:T31 Arg2:T78	
+R12	Relation Arg1:T47 Arg2:T48	
+T79	Machining 714 718	二番摩耗
+T80	Machining 737 741	二番摩耗
+R13	Relation Arg1:T79 Arg2:T69	
+R14	Relation Arg1:T80 Arg2:T72	
+#1	AnnotatorNotes R13	キャプション（図4-23）
+#2	AnnotatorNotes R14	キャプション（図4-24）
+T81	Machining 47 51	工具形状
+#3	AnnotatorNotes T81	Y・M
+T82	Machining 219 222	粗切削
+#4	AnnotatorNotes T82	Y・M
+T83	Machining 289 291	能率
+#5	AnnotatorNotes T83	Y・M
+R15	Relation Arg1:T26 Arg2:T83	
+#6	AnnotatorNotes R15	Y・M
+T84	Machining 491 499	刃先交換式カッタ
+#7	AnnotatorNotes T84	Y・M
+T85	Machining 528 533	チップ形状
+#8	AnnotatorNotes T85	Y・M
+T86	Machining 545 550	チップ材質
+#9	AnnotatorNotes T86	Y・M
+T87	Machining 337 339	刃先
+T88	Machining 337 344	刃先交換チップ
+T89	Machining 491 493	刃先
+T90	Machining 496 499	カッタ
+T91	Machining 105 106	鋼
+T92	Machining 107 109	鋳物
+T93	Machining 348 350	衝撃
+T94	Machining 396 398	粗さ
+T95	Machining 25 27	寿命
+T96	Machining 534 536	刃先
+T97	Machining 534 538	刃先処理
+T98	Machining 435 437	速度
+T99	Machining 406 408	排出
+T100	Machining 636 637	鋼
+T101	Trigger 140 144	速くなる
+T102	Trigger 149 151	低下
+T103	Trigger 241 246	大きくなれ
+T104	Trigger 251 254	増える

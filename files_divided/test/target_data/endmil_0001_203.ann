@@ -1,0 +1,20 @@
+T589	Machining 0 4	切削速度
+R145	Positive Arg1:T589 Arg2:T593
+R146	Positive Arg1:T589 Arg2:T590
+R148	Positive Arg1:T589 Arg2:T591
+T590	Machining 12 14	摩擦
+R147	Positive Arg1:T590 Arg2:T593
+R596	Relation Arg1:T590 Arg2:T2523
+T591	Machining 15 18	せん断
+R149	Positive Arg1:T591 Arg2:T593
+T592	Machining 31 33	工具
+T593	Machining 34 36	摩耗
+T2517	Machining 0 2	切削
+T2518	Machining 2 4	速度
+T2521	Machining 18 20	変形
+T2522	Machining 15 20	せん断変形
+T2523	Machining 23 26	発熱量
+T4376	Machining 23 25	発熱
+T4576	Trigger 5 10	大きくなれ
+T4577	Trigger 27 31	多くなり
+T4578	Trigger 37 39	進行

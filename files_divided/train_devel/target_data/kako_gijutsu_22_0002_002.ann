@@ -1,0 +1,16 @@
+T6	Machining 3 7	切削条件
+T7	Machining 3 5	切削
+T8	Machining 11 17	仕上げ面粗さ
+T9	Machining 11 15	仕上げ面
+T10	Machining 11 14	仕上げ
+T11	Machining 23 25	送り
+R1	Relation Arg1:T11 Arg2:T167
+T12	Machining 27 30	チップ
+T13	Machining 30 33	コーナ
+T14	Machining 30 35	コーナ半径
+T164	Variable 17 22	R_max
+T165	Variable 25 26	f
+T166	Machining 27 35	チップコーナ半径
+R2	Relation Arg1:T166 Arg2:T167
+T167	Machining 9 17	理論仕上げ面粗さ
+T222	Machining 15 17	粗さ

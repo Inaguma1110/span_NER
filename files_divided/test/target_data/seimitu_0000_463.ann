@@ -1,0 +1,34 @@
+T1628	Machining 2 8	仕上げ面粗さ
+R644	Relation Arg1:T1628 Arg2:T3071
+R645	Relation Arg1:T1628 Arg2:T3074
+T1629	Machining 9 11	工具
+T1630	Machining 11 14	切れ刃
+R488	Part Arg1:T1630 Arg2:T1629
+T1631	Machining 17 20	切れ刃
+T1632	Machining 44 46	工具
+T1633	Machining 46 49	切れ刃
+R490	Part Arg1:T1633 Arg2:T1632
+T1634	Machining 89 91	工具
+T1635	Machining 97 99	工具
+T1636	Machining 99 102	切れ刃
+R489	Part Arg1:T1636 Arg2:T1635
+T1637	Machining 103 105	摩耗
+R468	Relation Arg1:T1637 Arg2:T3076
+T1638	Machining 118 121	切れ刃
+T1639	Machining 136 142	仕上げ面粗さ
+T1640	Machining 145 151	仕上げ面粗さ
+T3067	Machining 2 5	仕上げ
+T3068	Machining 2 6	仕上げ面
+T3069	Machining 6 8	粗さ
+T3070	Machining 9 14	工具切れ刃
+T3071	Machining 9 16	工具切れ刃形状
+T3072	Machining 44 49	工具切れ刃
+T3073	Machining 21 23	運動
+T3074	Machining 21 25	運動軌跡
+T3075	Machining 97 102	工具切れ刃
+T3076	Machining 118 123	切れ刃形状
+T3077	Machining 136 140	仕上げ面
+T3078	Machining 140 142	粗さ
+T3081	Machining 145 149	仕上げ面
+T3082	Machining 145 148	仕上げ
+T3083	Machining 149 151	粗さ

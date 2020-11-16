@@ -1,0 +1,21 @@
+T1356	Machining 0 6	グラファイト
+R685	Relation Arg1:T1356 Arg2:T1358
+R686	Relation Arg1:T1356 Arg2:T3529
+R687	Linear Arg1:T1356 Arg2:T3530
+T1357	Machining 10 12	加工
+T1358	Machining 31 33	振動
+T1359	Machining 48 53	エンドミル
+T1360	Machining 53 56	逃げ面
+R423	Part Arg1:T1360 Arg2:T1359
+T1361	Machining 60 62	摩耗
+T1362	Machining 77 79	加工
+T1363	Machining 83 89	ダイヤモンド
+T1364	Machining 89 95	コーティング
+T1365	Machining 95 100	エンドミル
+T3526	Machining 8 14	放電加工電極
+T3527	Machining 8 12	放電加工
+T3528	Machining 8 10	放電
+T3529	Machining 34 37	びびり
+T3530	Machining 57 62	こすり摩耗
+T3532	Machining 75 79	電極加工
+T3533	Machining 83 100	ダイヤモンドコーティングエンドミル

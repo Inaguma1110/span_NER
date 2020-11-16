@@ -1,0 +1,10 @@
+T476	Machining 11 14	せん断
+R103	Positive Arg1:T476 Arg2:T478
+T477	Machining 22 26	切りくず
+T478	Machining 44 48	構成刃先
+T471	Machining 0 2	溶着
+T2361	Machining 32 34	溶着
+T2362	Machining 46 48	刃先
+T2363	Machining 49 51	生成
+T4543	Trigger 29 32	留まり
+T4544	Trigger 49 51	生成

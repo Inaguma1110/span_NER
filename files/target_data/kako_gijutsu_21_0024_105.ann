@@ -1,0 +1,23 @@
+T420	Machining 0 4	切りくず
+T421	Machining 5 8	切れ刃
+T422	Machining 8 12	すくい面
+T423	Machining 16 20	切削温度
+T424	Machining 16 18	切削
+T425	Machining 18 20	温度
+T426	Machining 23 25	温度
+T427	Machining 26 30	すくい面
+T428	Machining 39 43	切りくず
+T429	Machining 44 48	すくい面
+T430	Machining 51 53	擦過
+T431	Machining 60 62	温度
+T432	Machining 68 72	切削温度
+R36	Relation Arg1:T432 Arg2:T438
+T433	Machining 68 70	切削
+T434	Machining 70 72	温度
+T435	Machining 73 76	切削熱
+R37	Relation Arg1:T435 Arg2:T438
+T436	Machining 73 75	切削
+T437	Machining 75 76	熱
+T438	Machining 79 85	クレータ摩耗
+T439	Machining 83 85	摩耗
+T844	Machining 31 33	刃先

@@ -1,0 +1,26 @@
+[entities]
+Trigger
+Machining
+Variable
+Unit
+Quantity
+
+[relations]
+Activate Arg1:<ANY>, Arg2:<ANY>
+Linear Arg1:<ANY>, Arg2:<ANY>
+NegativeLinear Arg1:<ANY>, Arg2:<ANY>
+Quadratic Arg1:<ANY>, Arg2:<ANY>
+Square Arg1:<ANY>, Arg2:<ANY>
+Exponential Arg1:<ANY>, Arg2:<ANY>
+Log Arg1:<ANY>, Arg2:<ANY>
+Positive Arg1:<ANY>, Arg2:<ANY>
+Negative Arg1:<ANY>, Arg2:<ANY>
+UpDown Arg1:<ANY>, Arg2:<ANY>
+DownUp Arg1:<ANY>, Arg2:<ANY>
+Phenomena Arg1:<ANY>, Arg2:<ANY>
+Relation Arg1:<ANY>, Arg2:<ANY>
+Part Arg1:<ANY>, Arg2:<ANY>
+Sub Arg1:<ANY>, Arg2:<ANY>
+ENTITY-NESTING Arg1:<ANY>, Arg2:<ANY>
+[events]
+[attributes]

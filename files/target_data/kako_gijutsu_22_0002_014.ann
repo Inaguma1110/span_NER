@@ -1,0 +1,6 @@
+T93	Machining 3 5	加工
+T94	Machining 11 13	応力
+T181	Machining 9 13	残留応力
+R26	Relation Arg1:T181 Arg2:T182
+T182	Machining 3 8	加工変質層
+T230	Machining 9 11	残留

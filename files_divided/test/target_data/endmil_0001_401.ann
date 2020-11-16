@@ -1,0 +1,20 @@
+T1213	Machining 0 5	被削性指数
+T1214	Machining 39 43	被削材質
+T1215	Machining 44 46	旋削
+T1216	Machining 46 48	加工
+T1217	Machining 50 54	工具寿命
+R366	Relation Arg1:T1217 Arg2:T1218
+R388	Relation Arg1:T1217 Arg2:T1213
+T1218	Machining 61 65	切削速度
+R389	Relation Arg1:T1218 Arg2:T1213
+T1219	Machining 69 72	快削鋼
+R390	Relation Arg1:T1219 Arg2:T1213
+T3354	Machining 5 7	ＭＲ
+T3355	Machining 8 26	ＭａｃｈｉｎａｂｉｌｉｔｙＲａｉｔｏ
+T3356	Machining 39 41	被削
+T3357	Machining 44 48	旋削加工
+T3358	Machining 50 52	工具
+T3359	Machining 52 54	寿命
+T3360	Machining 61 63	切削
+T3361	Machining 63 65	速度
+T4323	Machining 0 3	被削性

@@ -1,0 +1,11 @@
+T717	Machining 25 27	工具
+T718	Machining 54 56	熱源
+T719	Machining 61 63	熱源
+T2181	Machining 52 56	矩形熱源
+T3513	Machining 66 68	表面
+T3514	Machining 16 24	1／４無限体表面
+T3515	Machining 30 36	1／４無限体
+T3516	Machining 42 46	物体表面
+R209	Relation Arg1:T3516 Arg2:T2181
+T3517	Machining 44 46	表面
+T3518	Machining 22 24	表面

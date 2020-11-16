@@ -1,0 +1,12 @@
+T929	Machining 8 14	構造用炭素鋼
+T930	Machining 15 19	引張強さ
+R112	Relation Arg1:T930 Arg2:T1400
+T931	Machining 28 32	切削速度
+T932	Machining 28 30	切削
+T1400	Machining 23 32	60分寿命切削速度
+T1506	Variable 19 22	σ_B
+T1692	Machining 11 14	炭素鋼
+T1743	Machining 15 17	引張
+T1744	Machining 17 19	強さ
+T1775	Machining 26 28	寿命
+T1882	Machining 30 32	速度

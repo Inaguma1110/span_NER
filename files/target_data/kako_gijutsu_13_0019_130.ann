@@ -1,0 +1,25 @@
+T477	Machining 3 7	断続切削
+R80	Relation Arg1:T477 Arg2:T1433
+T478	Machining 5 7	切削
+T479	Machining 10 12	温度
+T480	Machining 18 21	熱膨張
+T481	Machining 18 19	熱
+T482	Machining 30 32	温度
+T483	Machining 53 55	亀裂
+R85	Relation Arg1:T483 Arg2:T487
+T484	Machining 56 59	熱亀裂
+T487	Machining 68 73	チッピング
+T1380	Machining 22 24	収縮
+T1381	Machining 30 38	温度変化の上下幅
+R83	Relation Arg1:T1381 Arg2:T483
+R84	Relation Arg1:T1381 Arg2:T484
+R87	Relation Arg1:T1381 Arg2:T487
+T1433	Machining 10 14	温度変化
+R81	Positive Arg1:T1433 Arg2:T480
+R82	Positive Arg1:T1433 Arg2:T1380
+T1544	Machining 57 59	亀裂
+T1545	Machining 56 57	熱
+T1605	Machining 19 21	膨張
+T1826	Machining 49 51	収縮
+T1990	Trigger 25 28	起こる
+T2001	Trigger 12 14	変化

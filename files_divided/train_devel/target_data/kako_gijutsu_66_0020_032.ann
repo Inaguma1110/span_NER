@@ -1,0 +1,16 @@
+T138	Machining 2 4	工具
+T139	Machining 10 14	正常摩耗
+T140	Machining 12 14	摩耗
+T141	Machining 19 23	異常摩耗
+T142	Machining 21 23	摩耗
+T143	Machining 26 31	チッピング
+T144	Machining 39 41	送り
+T145	Machining 39 42	送り量
+R24	Relation Arg1:T145 Arg2:T143
+R25	Relation Arg1:T145 Arg2:T141
+T146	Machining 48 51	切込み
+T179	Machining 48 52	切込み量
+R23	Relation Arg1:T179 Arg2:T143
+R26	Relation Arg1:T179 Arg2:T141
+T203	Machining 16 18	刃先
+T215	Machining 5 7	損傷

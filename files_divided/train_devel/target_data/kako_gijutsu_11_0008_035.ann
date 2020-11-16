@@ -1,0 +1,28 @@
+T162	Machining 0 4	切削速度
+R15	Negative Arg1:T162 Arg2:T463
+R44	Negative Arg1:T162 Arg2:T170
+R77	Relation Arg1:T162 Arg2:T497
+R14	Relation Arg1:T162 Arg2:T533
+T163	Machining 0 2	切削
+T165	Machining 15 18	せん断
+T167	Machining 39 40	熱
+R46	Negative Arg1:T167 Arg2:T463
+R47	Relation Arg1:T167 Arg2:T476
+T168	Machining 69 71	工具
+T169	Machining 72 76	切りくず
+T463	Machining 69 80	工具-切りくず接触長さ
+R45	Positive Arg1:T463 Arg2:T170
+T476	Machining 59 61	辷り
+R48	Relation Arg1:T476 Arg2:T463
+T497	Machining 10 18	断熱的高速せん断
+T498	Machining 34 38	せん断面
+T533	Machining 45 49	高温軟化
+T392	Machining 34 37	せん断
+T596	Machining 47 49	軟化
+T609	Machining 2 4	速度
+T624	Machining 13 15	高速
+T630	Machining 45 47	高温
+T633	Machining 78 80	長さ
+T648	Trigger 81 85	短くなる
+T649	Trigger 41 43	集中
+T646	Trigger 5 9	速くなる

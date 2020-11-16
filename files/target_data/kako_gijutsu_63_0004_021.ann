@@ -1,0 +1,25 @@
+T133	Machining 3 11	ボールエンドミル
+T134	Machining 6 11	エンドミル
+T135	Machining 12 14	加工
+T136	Machining 17 19	送り
+T137	Machining 25 31	仕上げ面粗さ
+T138	Machining 25 29	仕上げ面
+T139	Machining 25 28	仕上げ
+T140	Machining 52 60	ボールエンドミル
+T141	Machining 55 60	エンドミル
+T142	Machining 65 67	送り
+T143	Machining 123 125	工具
+T144	Machining 129 131	摩耗
+T233	Machining 32 38	カプスハイト
+T234	Variable 40 41	H
+T235	Machining 52 63	ボールエンドミルの半径
+R12	Relation Arg1:T235 Arg2:T137
+R33	Relation Arg1:T235 Arg2:T233
+T236	Variable 63 64	R
+T237	Machining 65 70	送りピッチ
+R13	Relation Arg1:T237 Arg2:T137
+R34	Relation Arg1:T237 Arg2:T233
+T238	Machining 71 78	ピックフィード
+T239	Variable 79 80	P
+T266	Machining 29 31	粗さ
+T105	Machining 17 22	送りピッチ

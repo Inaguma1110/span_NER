@@ -1,0 +1,17 @@
+T37	Machining 0 4	切りくず
+T38	Machining 21 25	切りくず
+T39	Machining 28 31	焼入れ
+T40	Machining 40 44	切りくず
+T41	Machining 47 51	快削黄銅
+T42	Machining 49 51	黄銅
+T44	Machining 69 74	固有振動数
+T235	Machining 61 64	周波数
+R5	Relation Arg1:T235 Arg2:T256
+T256	Machining 15 17	振動
+T298	Machining 0 10	切りくず生成の周期性
+R46	Relation Arg1:T298 Arg2:T256
+T319	Machining 37 44	不連続切りくず
+T323	Machining 18 25	鋸歯状切りくず
+T324	Machining 28 32	焼入れ鋼
+T43	Machining 47 49	快削
+T601	Machining 0 6	切りくず生成

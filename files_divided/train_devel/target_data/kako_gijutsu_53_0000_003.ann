@@ -1,0 +1,20 @@
+T15	Machining 0 4	仕上げ面
+T16	Machining 0 3	仕上げ
+T18	Machining 16 21	上向き削り
+T19	Machining 19 21	削り
+R8	Relation Arg1:T19 Arg2:T34
+T20	Machining 30 33	切れ刃
+T21	Machining 55 58	切れ刃
+T22	Machining 62 64	摩耗
+T23	Machining 68 73	下向き削り
+T24	Machining 71 73	削り
+T25	Machining 80 84	工具寿命
+T26	Machining 80 82	工具
+T29	Machining 40 44	切り込み
+R3	Relation Arg1:T29 Arg2:T30
+R4	Relation Arg1:T29 Arg2:T25
+T30	Machining 59 64	こすり摩耗
+R1	Relation Arg1:T30 Arg2:T25
+T34	Machining 0 6	仕上げ面粗度
+T7	Machining 4 6	粗度
+T36	Machining 82 84	寿命

@@ -1,0 +1,8 @@
+T743	Machining 10 11	熱
+T744	Machining 14 16	温度
+R250	Relation Arg1:T744 Arg2:T780
+T745	Machining 50 54	すくい面
+T746	Machining 55 57	温度
+T780	Machining 10 13	熱定数
+R253	Relation Arg1:T780 Arg2:T746
+T2184	Machining 6 8	材料

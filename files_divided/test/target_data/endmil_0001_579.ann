@@ -1,0 +1,9 @@
+T1668	Machining 15 17	精度
+T1669	Machining 18 23	エンドミル
+T1670	Machining 52 56	工具寿命
+T4041	Machining 0 3	再研削
+R732	Negative Arg1:T4041 Arg2:T1670
+T4042	Machining 52 54	工具
+T4043	Machining 54 56	寿命
+T4884	Trigger 57 60	落ちる
+T4885	Trigger 24 38	復元することはなかなか難しく

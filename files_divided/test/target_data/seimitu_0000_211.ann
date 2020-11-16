@@ -1,0 +1,6 @@
+T755	Machining 9 11	温度
+R229	Relation Arg1:T755 Arg2:T756
+T756	Machining 12 16	切削速度
+T757	Machining 28 33	熱配分割合
+T2186	Machining 12 14	切削
+T2187	Machining 14 16	速度

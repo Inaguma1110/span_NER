@@ -1,0 +1,9 @@
+T283	Machining 0 5	逃げ面摩耗
+R108	Relation Arg1:T283 Arg2:T286
+T284	Machining 0 3	逃げ面
+T285	Machining 3 5	摩耗
+T286	Machining 6 10	工具寿命
+T287	Machining 6 8	工具
+T685	Machining 8 10	寿命
+T699	Machining 47 51	寿命判定
+T700	Machining 47 49	寿命

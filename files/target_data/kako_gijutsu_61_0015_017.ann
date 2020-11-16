@@ -1,0 +1,7 @@
+T74	Machining 0 4	シャンク
+R107	Part Arg1:T74 Arg2:T67
+T75	Machining 6 10	ソリッド
+T76	Machining 13 15	摩擦
+T77	Machining 15 17	溶接
+T504	Machining 20 23	ろう付
+T505	Machining 26 29	先ムク

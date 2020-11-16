@@ -1,0 +1,7 @@
+T1511	Machining 0 2	工具
+T3709	Machining 4 8	接合方法
+T3710	Machining 13 23	コレットチャック方式
+R710	Sub Arg1:T3710 Arg2:T3709
+T3711	Machining 37 43	焼きばめ方式
+R711	Sub Arg1:T3711 Arg2:T3709
+T3720	Machining 37 41	焼きばめ

@@ -1,0 +1,7 @@
+T281	Machining 4 6	摩耗
+R21	Relation Arg1:T281 Arg2:T557
+R23	Relation Arg1:T281 Arg2:T561
+T557	Machining 24 29	性能の復元
+T558	Machining 18 21	再研削
+R20	Relation Arg1:T558 Arg2:T557
+T561	Machining 37 39	廃棄

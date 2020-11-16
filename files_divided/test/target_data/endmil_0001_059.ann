@@ -1,0 +1,10 @@
+T126	Machining 6 10	切削加工
+R831	Relation Arg1:T126 Arg2:T1928
+T127	Machining 12 14	工具
+T128	Machining 24 36	極小径ソリッドエンドミル
+R38	Sub Arg1:T128 Arg2:T127
+T1922	Machining 6 8	切削
+T1923	Machining 8 10	加工
+T1928	Machining 15 18	たわみ
+T4202	Machining 27 36	ソリッドエンドミル
+T4203	Machining 31 36	エンドミル

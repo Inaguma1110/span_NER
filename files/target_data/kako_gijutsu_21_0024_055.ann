@@ -1,0 +1,13 @@
+T191	Machining 0 4	刃先強度
+T192	Machining 11 14	切れ刃
+T193	Machining 20 24	切りくず
+T194	Machining 31 35	切りくず
+T717	Machining 11 15	切れ刃長
+R24	Positive Arg1:T717 Arg2:T718
+T718	Machining 20 25	切りくず幅
+T792	Machining 0 2	刃先
+T885	Machining 2 4	強度
+T944	Machining 24 25	幅
+T979	Machining 36 38	分断
+T1027	Trigger 16 18	長い
+T1028	Trigger 26 30	広くなり

@@ -1,0 +1,7 @@
+T48	Machining 0 4	構成刃先
+R9	Relation Arg1:T48 Arg2:T49
+T49	Machining 10 16	仕上げ面粗さ
+T50	Machining 10 14	仕上げ面
+T51	Machining 10 13	仕上げ
+T198	Machining 2 4	刃先
+T216	Machining 14 16	粗さ

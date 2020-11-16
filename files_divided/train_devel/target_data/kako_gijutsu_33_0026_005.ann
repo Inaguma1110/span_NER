@@ -1,0 +1,10 @@
+T9	Machining 6 8	工具
+T10	Machining 31 35	仕上げ面
+T11	Machining 31 34	仕上げ
+T12	Machining 36 38	工具
+T43	Machining 2 5	びびり
+T61	Machining 58 62	自励振動
+R25	Relation Arg1:T61 Arg2:T43
+T88	Machining 60 62	振動
+T102	Machining 21 23	振動
+T104	Machining 51 53	振動

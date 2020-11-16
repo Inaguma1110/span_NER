@@ -1,0 +1,24 @@
+T551	Machining 9 14	エネルギー
+R168	Sub Arg1:T551 Arg2:T560
+T552	Machining 16 18	切削
+T553	Machining 30 35	エネルギー
+T554	Machining 36 40	仕上げ面
+T555	Machining 46 49	ひずみ
+T556	Machining 49 54	エネルギー
+T557	Machining 55 59	切りくず
+T558	Machining 62 67	エネルギー
+T559	Machining 89 94	エネルギー
+R164	Sub Arg1:T559 Arg2:T560
+T560	Machining 96 103	切削エネルギー
+T2096	Machining 28 30	表面
+T2097	Machining 28 35	表面エネルギー
+R149	Sub Arg1:T2097 Arg2:T551
+T2098	Machining 36 39	仕上げ
+T2099	Machining 44 46	残留
+T2100	Machining 44 54	残留ひずみエネルギー
+R152	Sub Arg1:T2100 Arg2:T551
+T2102	Machining 96 98	切削
+T2103	Machining 98 103	エネルギー
+T2104	Machining 60 62	運動
+T2105	Machining 60 67	運動エネルギー
+R153	Sub Arg1:T2105 Arg2:T551

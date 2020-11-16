@@ -1,0 +1,3 @@
+T383	Machining 1 7	横向きカール
+R4	Relation Arg1:T383 Arg2:T381
+T624	Machining 4 7	カール

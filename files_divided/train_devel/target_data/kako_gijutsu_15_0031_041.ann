@@ -1,0 +1,10 @@
+T797	Variable 5 6	L
+R15	Negative Arg1:T797 Arg2:T800
+T798	Variable 7 8	a
+R16	Negative Arg1:T798 Arg2:T800
+T799	Variable 15 16	D
+R17	Positive Arg1:T799 Arg2:T800
+T800	Machining 22 25	円筒度
+T838	Trigger 9 12	大きい
+T983	Trigger 17 20	小さい
+T1045	Trigger 26 31	わるくなる

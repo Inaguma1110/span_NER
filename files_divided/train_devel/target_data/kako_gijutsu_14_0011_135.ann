@@ -1,0 +1,15 @@
+T941	Machining 3 11	切削仕上げ面粗さ
+T942	Machining 3 9	切削仕上げ面
+T943	Machining 3 5	切削
+T945	Machining 5 9	仕上げ面
+T947	Machining 19 23	潤滑作用
+R128	Relation Arg1:T947 Arg2:T941
+R89	Relation Arg1:T947 Arg2:T1337
+T948	Machining 30 32	切削
+T1221	Machining 16 18	油剤
+R129	Relation Arg1:T1221 Arg2:T941
+T1337	Machining 28 32	低速切削
+T944	Machining 5 8	仕上げ
+T1451	Machining 19 21	潤滑
+T1487	Machining 9 11	粗さ
+T1562	Machining 28 30	低速

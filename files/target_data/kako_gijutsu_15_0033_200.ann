@@ -1,0 +1,25 @@
+T717	Machining 25 28	切込み
+R117	Positive Arg1:T717 Arg2:T887
+R123	Negative Arg1:T717 Arg2:T721
+R124	Negative Arg1:T717 Arg2:T723
+T718	Machining 46 48	工具
+T719	Machining 51 54	工作物
+T721	Machining 75 79	寸法精度
+T722	Machining 77 79	精度
+T723	Machining 82 86	形状精度
+T724	Machining 84 86	精度
+T886	Machining 7 11	取りしろ
+R116	Positive Arg1:T886 Arg2:T717
+R119	Positive Arg1:T886 Arg2:T887
+R121	Negative Arg1:T886 Arg2:T721
+R122	Negative Arg1:T886 Arg2:T723
+T887	Machining 55 68	力学的および熱的変異と変形
+R118	Relation Arg1:T887 Arg2:T721
+R120	Relation Arg1:T887 Arg2:T723
+T1138	Machining 61 65	熱的変異
+T1139	Machining 66 68	変形
+T1202	Machining 63 65	変異
+T1362	Trigger 12 15	大きい
+T1363	Trigger 29 34	大きくなり
+T1364	Trigger 69 75	大きくなって
+T1365	Trigger 87 89	低下

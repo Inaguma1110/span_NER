@@ -1,0 +1,26 @@
+T1229	Machining 0 2	切削
+T1230	Machining 6 10	超硬合金
+T1231	Machining 10 12	工具
+T1232	Machining 13 20	セラミック工具
+R362	Sub Arg1:T1232 Arg2:T1233
+T1233	Machining 22 28	硬脆材料工具
+T1234	Machining 31 35	断続切削
+R363	Sub Arg1:T1234 Arg2:T1229
+T1235	Machining 50 53	切れ刃
+R386	Part Arg1:T1235 Arg2:T1233
+R364	Relation Arg1:T1235 Arg2:T2701
+T1236	Machining 66 69	切れ刃
+R596	Relation Arg1:T1236 Arg2:T2706
+T1307	Machining 6 12	超硬合金工具
+R377	Sub Arg1:T1307 Arg2:T1233
+T2696	Machining 6 8	超硬
+T2697	Machining 8 10	合金
+T2698	Machining 13 18	セラミック
+T2699	Machining 33 35	切削
+T2700	Machining 18 20	工具
+T2701	Machining 59 61	欠け
+T2702	Machining 26 28	工具
+T2703	Machining 24 26	材料
+T2704	Machining 22 24	硬脆
+T2705	Machining 22 26	硬脆材料
+T2706	Machining 77 79	脱落

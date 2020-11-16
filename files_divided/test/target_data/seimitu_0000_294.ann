@@ -1,0 +1,9 @@
+T1083	Machining 4 8	工具寿命
+T1084	Machining 40 44	切削条件
+T2507	Machining 4 6	工具
+T2508	Machining 6 8	寿命
+T2509	Machining 18 24	寿命判定基準
+T2510	Machining 40 42	切削
+T3580	Machining 18 20	寿命
+T3710	Variable 10 12	ＫＴ
+T3711	Variable 15 17	ＶＢ

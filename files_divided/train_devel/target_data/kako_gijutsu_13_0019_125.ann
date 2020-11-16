@@ -1,0 +1,12 @@
+T442	Machining 0 6	フライス切削
+R206	Relation Arg1:T442 Arg2:T447
+R207	Relation Arg1:T442 Arg2:T449
+T443	Machining 0 4	フライス
+T444	Machining 4 6	切削
+T445	Machining 11 15	断続切削
+T446	Machining 13 15	切削
+T447	Machining 19 22	切削力
+T449	Machining 23 27	切削温度
+T450	Machining 23 25	切削
+T451	Machining 25 27	温度
+T1604	Machining 19 21	切削

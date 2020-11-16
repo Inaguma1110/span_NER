@@ -1,0 +1,5 @@
+T1109	Machining 0 5	エンドミル
+T1110	Machining 23 26	外周刃
+T3210	Machining 33 43	ラフィングエンドミル
+R649	Sub Arg1:T3210 Arg2:T1109
+T3212	Machining 38 43	エンドミル

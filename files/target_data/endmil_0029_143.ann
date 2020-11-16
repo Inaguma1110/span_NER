@@ -1,0 +1,9 @@
+T382	Machining 0 2	切削
+R82	Positive Arg1:T382 Arg2:T384
+T383	Machining 10 15	エンドミル
+T384	Machining 19 21	摩耗
+T2253	Machining 16 18	刃先
+R786	Part Arg1:T2253 Arg2:T383
+T2257	Machining 22 24	損耗
+T4519	Trigger 7 9	行う
+T4520	Trigger 26 28	生じ

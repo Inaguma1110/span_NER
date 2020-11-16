@@ -1,0 +1,14 @@
+T771	Machining 0 7	エンドミル加工
+T772	Machining 10 15	切込み深さ
+R204	Positive Arg1:T772 Arg2:T770
+T773	Machining 16 20	送り速度
+R205	Positive Arg1:T773 Arg2:T770
+T2817	Machining 0 5	エンドミル
+T2818	Machining 5 7	加工
+T2819	Machining 10 13	切込み
+T2820	Machining 13 15	深さ
+T2821	Machining 16 18	送り
+T2822	Machining 18 20	速度
+T2823	Machining 31 35	除去体積
+T4269	Machining 31 33	除去
+T4633	Trigger 21 22	積

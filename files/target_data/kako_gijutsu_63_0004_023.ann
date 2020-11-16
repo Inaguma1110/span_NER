@@ -1,0 +1,9 @@
+T147	Machining 7 9	送り
+T148	Machining 23 29	仕上げ面粗さ
+T149	Machining 23 27	仕上げ面
+T150	Machining 23 26	仕上げ
+T244	Machining 7 12	送りピッチ
+R16	Square Arg1:T244 Arg2:T148
+T269	Machining 27 29	粗さ
+T319	Quantity 13 16	1/2
+T320	Quantity 30 33	1/4

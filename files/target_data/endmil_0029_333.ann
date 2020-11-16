@@ -1,0 +1,4 @@
+T1012	Machining 3 4	溝
+T3112	Machining 0 3	ねじれ
+T3116	Machining 0 4	ねじれ溝
+R46	Relation Arg1:T3116 Arg2:T1011

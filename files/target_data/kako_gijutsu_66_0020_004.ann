@@ -1,0 +1,22 @@
+T18	Machining 13 18	エンドミル
+T19	Machining 19 23	切削条件
+T20	Machining 19 21	切削
+T21	Machining 25 29	切削速度
+R13	Relation Arg1:T21 Arg2:T19
+T22	Machining 25 27	切削
+T23	Machining 44 46	送り
+T24	Machining 44 48	送り速度
+R14	Relation Arg1:T24 Arg2:T19
+T25	Machining 63 66	切削量
+T26	Machining 63 65	切削
+T27	Machining 73 76	切込み
+T160	Machining 73 77	切込み幅
+R15	Relation Arg1:T160 Arg2:T19
+T192	Unit 30 35	m/min
+T193	Unit 49 55	mm/min
+T194	Unit 67 71	mm/刃
+T225	Machining 38 42	回転速数
+T227	Machining 27 29	速度
+T228	Machining 38 40	回転
+T229	Machining 46 48	速度
+T263	Machining 76 77	幅

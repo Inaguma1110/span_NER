@@ -1,0 +1,10 @@
+T68	Machining 5 10	逃げ面摩耗
+R20	Relation Arg1:T68 Arg2:T59
+T69	Machining 5 8	逃げ面
+T70	Machining 8 10	摩耗
+T71	Machining 16 19	逃げ面
+T72	Machining 20 24	摩擦仕事
+R60	Relation Arg1:T72 Arg2:T59
+T73	Machining 20 22	摩擦
+T74	Machining 22 24	仕事
+T76	Machining 25 27	熱源

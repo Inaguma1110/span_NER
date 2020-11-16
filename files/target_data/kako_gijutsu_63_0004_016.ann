@@ -1,0 +1,25 @@
+T91	Machining 0 8	ボールエンドミル
+T92	Machining 3 8	エンドミル
+T93	Machining 12 14	加工
+T94	Machining 26 29	切削量
+T95	Machining 26 28	切削
+T96	Machining 53 57	加工条件
+T97	Machining 53 55	加工
+T98	Machining 62 66	仕上げ面
+T99	Machining 62 65	仕上げ
+T100	Machining 90 93	切削量
+T101	Machining 90 92	切削
+T222	Machining 30 41	ピックフィードの大きさ
+R8	Relation Arg1:T222 Arg2:T226
+T226	Machining 17 20	面粗さ
+T227	Machining 21 29	１刃当りの切削量
+R7	Relation Arg1:T227 Arg2:T226
+T228	Machining 72 83	ピックフィードの大きさ
+R9	Relation Arg1:T228 Arg2:T98
+T229	Variable 84 85	P
+T230	Machining 87 93	１刃の切削量
+R10	Relation Arg1:T230 Arg2:T98
+T231	Variable 94 95	f
+T278	Machining 18 20	粗さ
+T304	Machining 30 37	ピックフィード
+T305	Machining 72 79	ピックフィード

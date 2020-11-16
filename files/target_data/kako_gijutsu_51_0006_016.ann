@@ -1,0 +1,4 @@
+T49	Machining 6 11	側フライス
+T50	Machining 7 11	フライス
+T148	Machining 1 11	組み合わせ側フライス
+R15	Sub Arg1:T148 Arg2:T25

@@ -1,0 +1,12 @@
+T73	Machining 11 13	加工
+T74	Machining 19 21	加工
+T75	Machining 25 31	コンタリング
+T76	Machining 31 33	加工
+T77	Machining 39 43	加工時間
+T78	Machining 39 41	加工
+T79	Machining 49 51	工具
+T116	Machining 25 33	コンタリング加工
+R9	Relation Arg1:T116 Arg2:T121
+R10	Relation Arg1:T116 Arg2:T122
+T121	Machining 39 46	加工時間の短縮
+T122	Machining 47 53	使用工具本数

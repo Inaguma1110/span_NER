@@ -1,0 +1,7 @@
+T4	Machining 0 4	構成刃先
+T5	Machining 33 37	切削速度
+R2	Relation Arg1:T5 Arg2:T4
+T6	Machining 33 35	切削
+T10	Machining 2 4	刃先
+T25	Machining 12 15	びびり
+T26	Machining 16 18	振動

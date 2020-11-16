@@ -1,0 +1,9 @@
+T317	Machining 9 13	せん断面
+R135	Relation Arg1:T317 Arg2:T319
+T318	Machining 16 20	せん断角
+R125	Relation Arg1:T318 Arg2:T319
+T319	Machining 28 31	切削力
+T3347	Machining 9 12	せん断
+T3348	Variable 21 22	φ
+T3350	Machining 16 19	せん断
+T3714	Variable 31 32	Ｒ

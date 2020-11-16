@@ -1,0 +1,14 @@
+T229	Machining 3 5	外径
+T230	Machining 3 9	外径倣い加工
+T231	Machining 7 9	加工
+T232	Machining 11 14	加工物
+T233	Machining 11 13	加工
+T235	Machining 29 32	加工物
+T236	Machining 29 31	加工
+T238	Machining 55 58	チップ
+T239	Machining 64 67	チップ
+T692	Machining 50 58	55°菱形チップ
+T693	Machining 59 67	35°菱形チップ
+T61	Machining 41 45	前切れ刃
+T80	Machining 24 28	前切れ刃
+T484	Machining 41 46	前切れ刃角

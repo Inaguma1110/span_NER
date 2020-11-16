@@ -1,0 +1,9 @@
+T1722	Machining 5 8	工作物
+T1723	Machining 21 27	仕上げ面粗さ
+T3175	Machining 8 10	材料
+T3176	Machining 5 10	工作物材料
+T3177	Machining 21 25	仕上げ面
+T3178	Machining 25 27	粗さ
+T3179	Machining 21 24	仕上げ
+T3648	Machining 11 16	機械的特性
+R653	Relation Arg1:T3648 Arg2:T1723

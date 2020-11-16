@@ -1,0 +1,9 @@
+T152	Machining 1 4	切込み
+R20	Relation Arg1:T152 Arg2:T241
+T241	Machining 27 31	形状誤差
+T280	Machining 12 18	中くぼみ形状
+R44	Sub Arg1:T280 Arg2:T241
+T281	Machining 7 11	中高形状
+R43	Sub Arg1:T281 Arg2:T241
+T282	Machining 19 24	テーパ形状
+R45	Sub Arg1:T282 Arg2:T241

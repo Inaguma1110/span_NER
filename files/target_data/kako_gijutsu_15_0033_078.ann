@@ -1,0 +1,5 @@
+T251	Machining 1 4	せん断
+T252	Machining 10 13	せん断
+T253	Machining 13 15	仕事
+T1259	Machining 10 15	せん断仕事
+R179	Sub Arg1:T1259 Arg2:T965

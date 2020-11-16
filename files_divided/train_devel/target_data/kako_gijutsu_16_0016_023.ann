@@ -1,0 +1,10 @@
+T64	Machining 2 6	切りくず
+T65	Machining 6 8	温度
+T461	Quantity 9 12	400
+T462	Unit 12 13	℃
+T463	Quantity 36 38	80
+T464	Unit 38 39	％
+T621	Machining 26 30	被削材種
+T66	Machining 26 28	被削
+T672	Machining 19 21	流入
+T697	Machining 2 8	切りくず温度

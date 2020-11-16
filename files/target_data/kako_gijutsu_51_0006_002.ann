@@ -1,0 +1,19 @@
+T11	Machining 0 3	切れ刃
+T12	Machining 3 5	外径
+T13	Machining 52 58	正面フライス
+T14	Machining 54 58	フライス
+T15	Machining 62 64	剛性
+R5	Relation Arg1:T15 Arg2:T137
+T139	Machining 8 13	本体の厚み
+R2	Positive Arg1:T139 Arg2:T15
+T140	Machining 25 29	保持穴径
+R3	Positive Arg1:T140 Arg2:T15
+T141	Machining 33 37	保持面積
+R4	Positive Arg1:T141 Arg2:T15
+T196	Machining 17 20	カッタ
+T197	Machining 17 21	カッタ径
+T215	Machining 11 13	厚み
+T217	Trigger 14 16	薄い
+T218	Trigger 30 33	小さく
+T219	Trigger 65 67	低い
+T220	Trigger 38 41	小さい

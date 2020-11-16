@@ -1,0 +1,10 @@
+T634	Machining 3 5	切削
+T635	Machining 15 18	せん断
+T636	Machining 30 32	熱源
+R163	Relation Arg1:T636 Arg2:T785
+R165	Relation Arg1:T636 Arg2:T638
+T637	Machining 42 45	せん断
+T638	Machining 49 53	すくい面
+T785	Machining 42 46	せん断面
+T2152	Machining 0 5	二次元切削
+T2153	Machining 15 19	せん断面

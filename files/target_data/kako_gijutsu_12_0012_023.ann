@@ -1,0 +1,12 @@
+T111	Machining 12 15	被削材
+T112	Machining 16 17	熱
+T113	Machining 16 19	熱特性
+T115	Machining 27 31	熱伝導率
+T116	Machining 35 37	比熱
+T542	Machining 32 34	密度
+T580	Variable 6 7	k
+R88	Relation Arg1:T580 Arg2:T115
+T581	Variable 8 9	ρ
+R89	Relation Arg1:T581 Arg2:T542
+T582	Variable 10 11	c
+R90	Relation Arg1:T582 Arg2:T116

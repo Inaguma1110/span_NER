@@ -1,0 +1,9 @@
+T125	Machining 18 20	亀裂
+R32	Relation Arg1:T125 Arg2:T1357
+T126	Machining 25 27	応力
+T1357	Machining 55 57	欠け
+T1358	Machining 3 5	剥離
+R30	Relation Arg1:T1358 Arg2:T1357
+T1429	Machining 21 27	繰り返し応力
+R31	Relation Arg1:T1429 Arg2:T125
+T1532	Machining 37 41	ひび割れ

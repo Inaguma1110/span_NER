@@ -1,0 +1,18 @@
+T80	Machining 20 25	極圧添加剤
+T81	Machining 33 38	極圧添加剤
+T82	Machining 46 50	構成刃先
+T83	Machining 61 64	高精度
+T84	Machining 64 68	仕上げ面
+T85	Machining 64 67	仕上げ
+T86	Machining 79 82	合金鋼
+T87	Machining 87 89	加工
+T251	Machining 7 12	活性極圧油
+R37	Sub Arg1:T251 Arg2:T248
+R38	Relation Arg1:T251 Arg2:T82
+T271	Machining 22 25	添加剤
+T272	Machining 35 38	添加剤
+T273	Machining 48 50	刃先
+T64	Machining 17 25	塩素系極圧添加剤
+T67	Machining 28 38	活性硫黄系極圧添加剤
+T98	Machining 9 12	極圧油
+T347	Machining 77 78	鋼

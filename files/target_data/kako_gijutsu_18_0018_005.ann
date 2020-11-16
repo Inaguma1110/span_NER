@@ -1,0 +1,4 @@
+T3	Machining 2 4	切削
+T73	Machining 0 7	正味切削コスト
+R2	Relation Arg1:T73 Arg2:T70
+T152	Machining 4 7	コスト

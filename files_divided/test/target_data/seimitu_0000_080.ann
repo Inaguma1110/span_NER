@@ -1,0 +1,15 @@
+T260	Machining 0 4	すくい面
+R100	Positive Arg1:T260 Arg2:T261
+R101	Positive Arg1:T260 Arg2:T390
+T262	Machining 40 42	摩擦
+T263	Machining 53 55	摩擦
+T264	Machining 61 63	摩擦
+T390	Machining 23 26	摩擦力
+T391	Machining 53 57	摩擦係数
+T392	Machining 61 64	摩擦角
+T261	Machining 18 21	垂直力
+T3294	Variable 21 22	Ｎ
+T3295	Variable 26 27	Ｆ
+T3296	Variable 57 58	μ
+T3297	Machining 36 42	クーロン摩擦
+T3299	Variable 64 65	β

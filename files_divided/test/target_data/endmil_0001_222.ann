@@ -1,0 +1,10 @@
+T670	Machining 0 7	エンドミル加工
+R219	Sub Arg1:T670 Arg2:T671
+T671	Machining 8 12	断続切削
+T672	Machining 16 20	切削抵抗
+T2624	Machining 0 5	エンドミル
+T2625	Machining 5 7	加工
+T2626	Machining 10 12	切削
+T2627	Machining 16 18	切削
+T2628	Machining 18 20	抵抗
+T2630	Machining 25 27	変動

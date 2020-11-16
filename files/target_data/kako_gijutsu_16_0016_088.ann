@@ -1,0 +1,6 @@
+T158	Machining 4 8	すくい角
+T412	Machining 1 8	サイドすくい角
+R28	Negative Arg1:T412 Arg2:T159
+R29	Relation Arg1:T412 Arg2:T413
+R30	Positive Arg1:T412 Arg2:T414
+T719	Trigger 9 12	小さく

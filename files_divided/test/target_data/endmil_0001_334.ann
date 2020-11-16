@@ -1,0 +1,16 @@
+T1013	Machining 16 17	溝
+T1014	Machining 17 22	エンドミル
+T1015	Machining 25 29	切削抵抗
+T1016	Machining 30 35	エンドミル
+T1017	Machining 40 44	送り方向
+R359	Relation Arg1:T1017 Arg2:T1015
+T3117	Machining 13 16	ねじれ
+T3118	Machining 36 39	軸方向
+R642	Relation Arg1:T3118 Arg2:T1015
+T3119	Machining 25 27	切削
+T3120	Machining 27 29	抵抗
+T3121	Machining 36 37	軸
+T3122	Machining 40 42	送り
+T3129	Machining 45 47	分力
+T4309	Machining 13 17	ねじれ溝
+T4387	Machining 13 22	ねじれ溝エンドミル

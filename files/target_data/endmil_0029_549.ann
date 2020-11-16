@@ -1,0 +1,11 @@
+T1611	Machining 45 49	シャンク
+R476	Part Arg1:T1611 Arg2:T1613
+T1612	Machining 52 54	底刃
+R477	Part Arg1:T1612 Arg2:T1613
+T3912	Machining 5 7	研削
+T3913	Machining 12 14	砥石
+T3914	Machining 3 4	刃
+T3915	Machining 21 22	刃
+T3916	Machining 23 26	支持刃
+T3917	Machining 27 30	刃受け
+T3918	Machining 60 62	研削

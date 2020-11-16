@@ -1,0 +1,4 @@
+T195	Machining 3 6	背分力
+R25	Relation Arg1:T195 Arg2:T719
+T196	Machining 26 28	加工
+T719	Machining 30 33	ビビリ

@@ -1,0 +1,17 @@
+T387	Machining 0 2	摩耗
+T388	Machining 9 15	すくい面摩耗
+R53	Sub Arg1:T388 Arg2:T387
+T389	Machining 16 21	逃げ面摩耗
+R54	Sub Arg1:T389 Arg2:T387
+T390	Machining 22 26	境界摩耗
+R55	Sub Arg1:T390 Arg2:T387
+T391	Machining 27 32	コーナ摩耗
+R56	Sub Arg1:T391 Arg2:T387
+T2258	Machining 13 15	摩耗
+T2259	Machining 9 13	すくい面
+T2260	Machining 16 19	逃げ面
+T2261	Machining 19 21	摩耗
+T400	Machining 24 26	摩耗
+T2262	Machining 22 24	境界
+T2263	Machining 27 30	コーナ
+T2264	Machining 30 32	摩耗

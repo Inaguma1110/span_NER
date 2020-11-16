@@ -1,0 +1,8 @@
+T1135	Machining 5 7	摩耗
+T1136	Machining 15 19	摩擦距離
+T1313	Machining 5 8	摩耗量
+R384	Linear Arg1:T1313 Arg2:T2587
+R588	Linear Arg1:T1313 Arg2:T1136
+T2584	Machining 15 17	摩擦
+T2586	Machining 17 19	距離
+T2587	Machining 9 12	硬粒子

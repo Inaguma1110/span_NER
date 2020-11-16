@@ -1,0 +1,10 @@
+T216	Machining 6 8	黄銅
+T218	Machining 12 14	切削
+T219	Machining 18 22	切削速度
+R52	Relation Arg1:T219 Arg2:T221
+T220	Machining 18 20	切削
+T221	Machining 23 27	切削抵抗
+T222	Machining 23 25	切削
+T504	Machining 9 14	2次元切削
+T561	Machining 25 27	抵抗
+T611	Machining 20 22	速度

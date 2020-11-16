@@ -1,0 +1,8 @@
+T2897	Machining 3 10	エマルジョン形
+T2903	Machining 44 49	乳化促進剤
+T2904	Machining 50 53	安定剤
+T3607	Machining 14 17	液体状
+R628	Sub Arg1:T3607 Arg2:T2897
+T3608	Machining 21 23	糊状
+R629	Sub Arg1:T3608 Arg2:T2897
+T3609	Machining 33 35	油脂

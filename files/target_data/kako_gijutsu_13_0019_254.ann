@@ -1,0 +1,6 @@
+T912	Machining 0 4	工具寿命
+T913	Machining 0 2	工具
+T914	Machining 5 8	被削材
+T1428	Machining 5 11	被削材の種類
+R174	Relation Arg1:T1428 Arg2:T912
+T1772	Machining 2 4	寿命

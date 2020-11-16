@@ -1,0 +1,13 @@
+T1203	Machining 0 4	高速切削
+T1204	Machining 6 8	摩耗
+T1205	Machining 11 17	すくい面摩耗
+R356	Sub Arg1:T1205 Arg2:T1204
+R594	Relation Arg1:T1205 Arg2:T1206
+R595	Relation Arg1:T1205 Arg2:T2676
+T1206	Machining 21 23	凝着
+T1207	Machining 28 30	機構
+T2672	Machining 0 2	高速
+T2673	Machining 2 4	切削
+T2674	Machining 11 15	すくい面
+T2675	Machining 15 17	摩耗
+T2676	Machining 24 26	拡散

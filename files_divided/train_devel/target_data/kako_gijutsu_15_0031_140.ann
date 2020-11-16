@@ -1,0 +1,19 @@
+T458	Machining 3 8	逃げ面摩耗
+R1	Positive Arg1:T458 Arg2:T461
+R2	Relation Arg1:T458 Arg2:T464
+T459	Machining 3 6	逃げ面
+T460	Machining 6 8	摩耗
+T461	Machining 12 16	切削抵抗
+T462	Machining 12 14	切削
+T463	Machining 24 26	工具
+T464	Machining 32 36	加工精度
+T465	Machining 32 34	加工
+T466	Machining 34 36	精度
+T467	Machining 43 47	工具摩耗
+T468	Machining 43 45	工具
+T469	Machining 45 47	摩耗
+T850	Machining 27 29	撓み
+R57	Relation Arg1:T850 Arg2:T464
+T21	Machining 14 16	抵抗
+T833	Trigger 9 11	増加
+T1201	Trigger 17 19	増大

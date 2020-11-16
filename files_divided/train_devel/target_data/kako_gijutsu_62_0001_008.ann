@@ -1,0 +1,4 @@
+T61	Machining 1 3	工具
+T62	Machining 6 9	工作物
+T237	Machining 11 14	転写性
+R15	Relation Arg1:T237 Arg2:T55

@@ -1,0 +1,9 @@
+T43	Machining 0 2	加工
+T44	Machining 2 6	寸法精度
+T45	Machining 4 6	精度
+T906	Machining 42 44	公差
+T46	Machining 13 17	呼び寸法
+T481	Machining 30 33	寸法差
+T1146	Machining 0 6	加工寸法精度
+R148	Relation Arg1:T1146 Arg2:T906
+R171	Relation Arg1:T1146 Arg2:T481

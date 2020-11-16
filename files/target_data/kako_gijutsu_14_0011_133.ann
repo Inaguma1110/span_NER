@@ -1,0 +1,11 @@
+T921	Machining 0 6	切削仕上げ面
+T922	Machining 0 2	切削
+T923	Machining 2 6	仕上げ面
+T925	Machining 17 21	構成刃先
+R122	Relation Arg1:T925 Arg2:T921
+T926	Machining 23 28	切れ刃凝着
+R123	Relation Arg1:T926 Arg2:T921
+T927	Machining 23 26	切れ刃
+T928	Machining 26 28	凝着
+T904	Machining 2 5	仕上げ
+T908	Machining 19 21	刃先

@@ -1,0 +1,21 @@
+T1159	Machining 8 10	切削
+T1160	Machining 8 12	切削油剤
+R159	Relation Arg1:T1160 Arg2:T1422
+T1161	Machining 20 24	切削温度
+T1162	Machining 20 22	切削
+T1163	Machining 22 24	温度
+T1164	Machining 45 49	冷却温度
+R160	Relation Arg1:T1164 Arg2:T1169
+T1165	Machining 47 49	温度
+T1166	Machining 53 58	引張り応力
+R161	Relation Arg1:T1166 Arg2:T1169
+T1167	Machining 53 56	引張り
+T1168	Machining 56 58	応力
+T1169	Machining 65 68	熱亀裂
+T1170	Machining 65 66	熱
+T1171	Machining 66 68	亀裂
+T1422	Machining 17 24	平均的切削温度
+T571	Machining 45 47	冷却
+T1580	Machining 10 12	油剤
+T1640	Machining 40 42	切刃
+T1641	Machining 33 36	切り刃

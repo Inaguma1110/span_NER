@@ -1,0 +1,9 @@
+T1600	Machining 2 8	仕上げ面粗さ
+T1601	Machining 9 13	理論粗さ
+R466	Sub Arg1:T1601 Arg2:T1600
+T3035	Machining 2 6	仕上げ面
+T3036	Machining 2 5	仕上げ
+T3039	Machining 6 8	粗さ
+T3040	Machining 11 13	粗さ
+T3041	Machining 16 20	理想粗さ
+T3042	Machining 18 20	粗さ

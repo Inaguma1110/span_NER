@@ -1,0 +1,10 @@
+T53	Machining 10 12	摩擦
+T54	Machining 10 14	摩擦距離
+R17	Linear Arg1:T54 Arg2:T57
+T55	Machining 21 25	切削時間
+R18	Linear Arg1:T55 Arg2:T57
+T56	Machining 21 23	切削
+T57	Machining 31 33	摩耗
+R19	Relation Arg1:T57 Arg2:T51
+T58	Machining 38 43	チッピング
+R20	Relation Arg1:T58 Arg2:T51

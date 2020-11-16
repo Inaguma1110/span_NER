@@ -1,0 +1,10 @@
+T721	Machining 6 9	送り量
+R182	Positive Arg1:T721 Arg2:T2730
+T722	Machining 17 20	加工面
+T2721	Machining 6 8	送り
+T2729	Machining 17 19	加工
+T2730	Machining 21 24	倒れ量
+T2731	Machining 21 23	倒れ
+T2733	Machining 1 2	刃
+T4617	Trigger 10 12	増加
+T4618	Trigger 25 27	増加

@@ -1,0 +1,8 @@
+T274	Machining 8 10	摩耗
+T275	Machining 18 20	摩耗
+T276	Machining 33 37	工具摩耗
+R219	Relation Arg1:T276 Arg2:T281
+T277	Machining 33 35	工具
+T278	Machining 35 37	摩耗
+T279	Machining 39 41	温度
+T281	Machining 46 49	熱拡散

@@ -1,0 +1,9 @@
+T1303	Variable 27 31	VB_B
+T1304	Variable 32 37	VBmax
+T1305	Variable 38 42	VB_N
+T1306	Variable 43 46	VBc
+T1448	Variable 20 22	VB
+T724	Machining 0 4	均一部分
+T725	Machining 5 9	最大部分
+T728	Machining 10 13	境界部
+T106	Machining 14 18	コーナ部

@@ -1,0 +1,7 @@
+T1007	Machining 14 19	引張り強さ
+R128	Relation Arg1:T1007 Arg2:T1415
+T1008	Machining 14 17	引張り
+T1414	Variable 19 22	σ_B
+T1415	Variable 23 27	V_60
+T777	Machining 10 13	炭素鋼
+T1778	Machining 17 19	強さ

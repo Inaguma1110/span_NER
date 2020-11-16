@@ -1,0 +1,8 @@
+T601	Machining 0 3	切削熱
+R213	Relation Arg1:T601 Arg2:T602
+T602	Machining 6 8	温度
+T603	Machining 19 21	温度
+R214	Relation Arg1:T603 Arg2:T604
+T604	Machining 22 24	切削
+T3447	Machining 0 2	切削
+T3448	Machining 2 3	熱

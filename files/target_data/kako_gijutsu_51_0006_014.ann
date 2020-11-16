@@ -1,0 +1,5 @@
+T42	Machining 1 8	片刃側フライス
+R13	Sub Arg1:T42 Arg2:T25
+T43	Machining 3 8	側フライス
+T44	Machining 4 8	フライス
+T194	Machining 1 3	片刃

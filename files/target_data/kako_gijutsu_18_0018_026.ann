@@ -1,0 +1,11 @@
+T41	Machining 0 4	切削速度
+T42	Machining 0 2	切削
+T43	Machining 6 8	送り
+T44	Machining 6 9	送り量
+T45	Machining 21 25	工具寿命
+T46	Machining 21 28	工具寿命方程式
+T47	Machining 21 23	工具
+T132	Variable 4 5	V
+T133	Variable 9 10	f
+T144	Machining 23 25	寿命
+T165	Machining 2 4	速度

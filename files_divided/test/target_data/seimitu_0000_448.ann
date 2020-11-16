@@ -1,0 +1,8 @@
+T1770	Machining 17 22	スラスト力
+R639	Positive Arg1:T1770 Arg2:T3014
+T3010	Machining 23 25	推力
+T3011	Machining 29 31	工具
+T3013	Machining 5 7	刃先
+T3014	Machining 32 34	寿命
+T3785	Trigger 27 29	減り
+T3786	Trigger 35 38	延びる

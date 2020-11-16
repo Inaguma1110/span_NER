@@ -1,0 +1,19 @@
+T555	Machining 5 7	精度
+T556	Machining 19 22	切込み
+T557	Machining 19 24	切込み深さ
+R76	Negative Arg1:T557 Arg2:T863
+R77	Negative Arg1:T557 Arg2:T559
+R78	Positive Arg1:T557 Arg2:T864
+T558	Machining 30 33	工作物
+T559	Machining 38 41	真円度
+T863	Machining 34 37	円筒度
+T864	Machining 45 47	粗さ
+T865	Machining 10 12	振動
+R75	Relation Arg1:T865 Arg2:T557
+T1014	Machining 0 4	工作機械
+T1015	Machining 5 9	精度不良
+R74	Relation Arg1:T1015 Arg2:T557
+T1297	Machining 22 24	深さ
+T1338	Trigger 25 27	変動
+T1339	Trigger 42 44	低下
+T1340	Trigger 48 50	増大

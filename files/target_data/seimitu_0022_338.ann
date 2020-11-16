@@ -1,0 +1,13 @@
+T1199	Machining 4 7	熱亀裂
+T1200	Machining 12 14	工具
+T1201	Machining 17 23	断続切削加工
+T1202	Machining 21 23	加工
+T2663	Machining 1 3	疲労
+T2664	Machining 0 3	熱疲労
+T2665	Machining 4 5	熱
+T2666	Machining 5 7	亀裂
+T2667	Machining 8 14	硬脆材料工具
+T2668	Machining 10 12	材料
+T2669	Machining 8 10	硬脆
+T2670	Machining 8 12	硬脆材料
+T2671	Machining 19 21	切削

@@ -1,0 +1,7 @@
+T212	Machining 6 9	切込み
+T213	Machining 6 11	切込み深さ
+R45	Relation Arg1:T213 Arg2:T214
+T214	Machining 12 16	切削温度
+T215	Machining 12 14	切削
+T216	Machining 14 16	温度
+T671	Machining 9 11	深さ

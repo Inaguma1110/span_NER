@@ -1,0 +1,14 @@
+T22	Machining 0 4	加工硬化
+T23	Machining 0 2	加工
+T24	Machining 8 12	切りくず
+T25	Machining 17 21	ひずみ量
+R1	Relation Arg1:T25 Arg2:T22
+T26	Machining 27 31	加工硬化
+T27	Machining 27 33	加工硬化指数
+R2	Relation Arg1:T27 Arg2:T22
+T28	Machining 27 29	加工
+T544	Machining 2 4	硬化
+T545	Machining 8 14	切りくず生成
+T483	Machining 17 20	ひずみ
+T577	Machining 29 31	硬化
+T629	Machining 22 24	材料

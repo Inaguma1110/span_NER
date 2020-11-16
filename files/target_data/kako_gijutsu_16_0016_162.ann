@@ -1,0 +1,7 @@
+T349	Machining 2 4	加工
+T350	Machining 7 11	切りくず
+T351	Machining 14 17	ひずみ
+T433	Machining 0 4	冷間加工
+R48	Relation Arg1:T433 Arg2:T434
+R49	Relation Arg1:T433 Arg2:T353
+T434	Machining 12 17	限界ひずみ

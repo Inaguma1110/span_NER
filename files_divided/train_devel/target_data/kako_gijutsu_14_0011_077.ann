@@ -1,0 +1,24 @@
+T491	Machining 0 4	構成刃先
+T492	Machining 5 10	切れ刃凝着
+T493	Machining 5 8	切れ刃
+T494	Machining 8 10	凝着
+T495	Machining 16 19	被削材
+T496	Machining 22 26	切削速度
+R68	Relation Arg1:T496 Arg2:T498
+T497	Machining 22 24	切削
+T498	Machining 27 35	切削仕上げ面粗さ
+T499	Machining 27 33	切削仕上げ面
+T500	Machining 27 29	切削
+T502	Machining 29 33	仕上げ面
+T504	Machining 57 61	切削速度
+R69	Relation Arg1:T504 Arg2:T506
+T505	Machining 57 59	切削
+T506	Machining 118 122	仕上げ面
+T1164	Unit 74 79	m/min
+T187	Quantity 71 74	120
+T604	Machining 2 4	刃先
+T611	Machining 29 32	仕上げ
+T613	Machining 118 121	仕上げ
+T1496	Machining 33 35	粗さ
+T1550	Machining 59 61	速度
+T1577	Machining 24 26	速度

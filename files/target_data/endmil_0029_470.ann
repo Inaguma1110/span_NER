@@ -1,0 +1,11 @@
+T1452	Machining 5 13	マグネシウム合金
+R700	Positive Arg1:T1452 Arg2:T1454
+R701	Positive Arg1:T1452 Arg2:T1455
+T1453	Machining 14 16	切削
+T1454	Machining 31 35	熱伝導率
+T1455	Machining 38 41	被削性
+T3601	Machining 5 11	マグネシウム
+T3602	Machining 11 13	合金
+T4806	Trigger 14 16	切削
+T4807	Trigger 36 38	良く
+T4808	Trigger 46 48	良好

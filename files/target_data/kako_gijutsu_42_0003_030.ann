@@ -1,0 +1,8 @@
+T63	Machining 14 20	エンゲージ角
+R10	Relation Arg1:T63 Arg2:T65
+T64	Machining 14 19	エンゲージ
+T65	Machining 26 30	工具寿命
+T66	Machining 26 28	工具
+T138	Machining 28 30	寿命
+T147	Machining 9 10	鋼
+T148	Machining 11 13	鋳物

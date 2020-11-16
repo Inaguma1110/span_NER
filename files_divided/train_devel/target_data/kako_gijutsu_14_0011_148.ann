@@ -1,0 +1,14 @@
+T1054	Machining 7 12	リーマ加工
+T1055	Machining 7 10	リーマ
+T1056	Machining 10 12	加工
+T1057	Machining 16 18	切削
+T1058	Machining 16 20	切削油剤
+R148	Relation Arg1:T1058 Arg2:T1059
+T1059	Machining 21 29	切削仕上げ面粗さ
+T1060	Machining 21 27	切削仕上げ面
+T1061	Machining 21 23	切削
+T1063	Machining 23 27	仕上げ面
+T1225	Variable 29 31	Ry
+T1165	Machining 18 20	油剤
+T1322	Machining 23 26	仕上げ
+T1490	Machining 27 29	粗さ

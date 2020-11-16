@@ -1,0 +1,4 @@
+T106	Machining 16 20	仕上げ面
+T107	Machining 16 19	仕上げ
+T190	Machining 6 10	さらい刃
+R15	Relation Arg1:T190 Arg2:T106

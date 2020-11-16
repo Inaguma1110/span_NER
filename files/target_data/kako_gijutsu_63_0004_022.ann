@@ -1,0 +1,9 @@
+T145	Machining 10 12	工具
+T146	Machining 16 18	送り
+T240	Machining 10 14	工具半径
+R14	Relation Arg1:T240 Arg2:T243
+T241	Variable 14 15	R
+T242	Machining 16 21	送りピッチ
+R15	Relation Arg1:T242 Arg2:T243
+T243	Machining 27 37	カプスハイトの大きさ
+T307	Machining 27 33	カプスハイト

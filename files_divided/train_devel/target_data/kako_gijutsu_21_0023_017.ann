@@ -1,0 +1,7 @@
+T76	Machining 0 4	すくい角
+R13	Positive Arg1:T76 Arg2:T77
+T77	Machining 12 16	工具寿命
+T78	Machining 12 14	工具
+T911	Machining 14 16	寿命
+T1003	Trigger 7 10	大きい
+T1004	Trigger 17 19	向上

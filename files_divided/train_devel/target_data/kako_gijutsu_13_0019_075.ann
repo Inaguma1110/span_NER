@@ -1,0 +1,20 @@
+T230	Machining 0 3	切込み
+T231	Machining 12 15	被削材
+T232	Machining 45 47	旋削
+T233	Machining 48 52	連続切削
+T234	Machining 50 52	切削
+T235	Machining 59 66	衝撃的な切削力
+T236	Machining 63 66	切削力
+T1365	Machining 16 18	偏心
+T1366	Machining 19 22	異型材
+R58	Relation Arg1:T1366 Arg2:T235
+T1367	Machining 23 26	鋳物巣
+R59	Relation Arg1:T1367 Arg2:T235
+T1368	Machining 27 30	砂かみ
+R60	Relation Arg1:T1368 Arg2:T235
+T1369	Machining 33 35	異物
+R61	Relation Arg1:T1369 Arg2:T235
+T1370	Machining 36 38	振動
+R62	Relation Arg1:T1370 Arg2:T235
+T1430	Machining 12 18	被削材の偏心
+R57	Relation Arg1:T1430 Arg2:T235

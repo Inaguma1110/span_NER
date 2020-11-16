@@ -1,0 +1,25 @@
+T20	Machining 10 14	ソリッド
+T21	Machining 30 33	チップ
+T22	Machining 34 44	スローアウェイチップ
+R73	Part Arg1:T22 Arg2:T745
+R83	Relation Arg1:T22 Arg2:T749
+T23	Machining 34 41	スローアウェイ
+T24	Machining 41 44	チップ
+T25	Machining 57 64	スローアウェイ
+T743	Machining 10 17	ソリッドバイト
+R70	Sub Arg1:T743 Arg2:T746
+T744	Machining 18 24	ろう付バイト
+R71	Sub Arg1:T744 Arg2:T746
+T745	Machining 57 67	スローアウェイバイト
+R72	Sub Arg1:T745 Arg2:T746
+T746	Machining 0 3	バイト
+T748	Machining 49 56	刃先交換バイト
+R74	Sub Arg1:T748 Arg2:T746
+T749	Machining 26 33	刃先交換チップ
+R75	Part Arg1:T749 Arg2:T748
+T799	Machining 14 17	バイト
+T800	Machining 21 24	バイト
+T801	Machining 53 56	バイト
+T802	Machining 64 67	バイト
+T803	Machining 49 51	刃先
+T813	Machining 26 28	刃先

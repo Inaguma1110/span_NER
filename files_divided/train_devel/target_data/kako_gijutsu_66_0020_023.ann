@@ -1,0 +1,10 @@
+T92	Machining 7 9	外径
+T93	Machining 17 22	エンドミル
+T94	Machining 33 36	切削量
+T95	Machining 33 35	切削
+T96	Machining 61 63	送り
+T97	Machining 61 65	送り速度
+T188	Quantity 37 41	0.05
+T189	Unit 41 45	mm/刃
+T210	Machining 57 65	テーブル送り速度
+T255	Machining 63 65	速度

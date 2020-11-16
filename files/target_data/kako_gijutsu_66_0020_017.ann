@@ -1,0 +1,17 @@
+T69	Machining 0 5	エンドミル
+T70	Machining 13 15	刃数
+T71	Machining 36 38	送り
+T72	Machining 36 40	送り速度
+T73	Machining 46 49	切削量
+T74	Machining 46 48	切削
+T75	Machining 50 52	刃数
+R21	Relation Arg1:T75 Arg2:T172
+T172	Machining 26 40	１分間当りのテーブル送り速度
+T173	Machining 41 49	１刃当りの切削量
+R20	Relation Arg1:T173 Arg2:T172
+T174	Machining 53 57	回転速度
+R22	Relation Arg1:T174 Arg2:T172
+T211	Machining 32 40	テーブル送り速度
+T245	Machining 53 55	回転
+T246	Machining 55 57	速度
+T260	Machining 38 40	速度

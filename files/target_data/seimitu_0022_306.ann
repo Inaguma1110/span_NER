@@ -1,0 +1,12 @@
+T1124	Machining 17 19	摩耗
+T1125	Machining 43 45	凝着
+R580	Sub Arg1:T1125 Arg2:T1123
+T1126	Machining 48 50	摩耗
+T2570	Machining 6 9	硬粒子
+T2571	Machining 36 39	接触面
+T2572	Machining 20 32	ａｂｒａｓｉｖｅｗｅａｒ
+R691	Sub Arg1:T2572 Arg2:T1122
+T2573	Machining 51 63	ａｄｈｅｓｉｖｅｗｅａｒ
+R485	Sub Arg1:T2573 Arg2:T1122
+T2574	Machining 10 14	引っ掻き
+R385	Sub Arg1:T2574 Arg2:T1123

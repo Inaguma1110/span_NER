@@ -1,0 +1,6 @@
+T1475	Machining 5 7	切削
+T1476	Machining 26 28	切削
+T1477	Machining 35 38	切削力
+T1554	Machining 5 9	切削厚さ
+R442	Relation Arg1:T1554 Arg2:T1477
+T2942	Machining 7 9	厚さ

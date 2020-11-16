@@ -1,0 +1,8 @@
+T28	Machining 4 6	送り
+R7	Relation Arg1:T28 Arg2:T76
+T29	Machining 12 15	チップ
+T30	Machining 21 23	欠損
+T76	Machining 16 23	機械的衝撃欠損
+T87	Machining 8 10	刃先
+T88	Machining 8 15	刃先交換チップ
+T93	Machining 19 21	衝撃

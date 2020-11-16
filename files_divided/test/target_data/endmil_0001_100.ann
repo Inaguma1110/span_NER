@@ -1,0 +1,12 @@
+T228	Machining 0 6	ダイヤモンド
+T229	Machining 0 14	ダイヤモンドコーティング被膜
+R564	Relation Arg1:T229 Arg2:T231
+R565	Relation Arg1:T229 Arg2:T232
+T230	Machining 25 31	ダイヤモンド
+T231	Machining 41 43	硬さ
+T232	Machining 54 58	耐溶着性
+T2094	Machining 12 14	被膜
+T2097	Machining 44 48	非鉄金属
+T2099	Machining 0 12	ダイヤモンドコーティング
+T2101	Machining 6 12	コーティング
+T4225	Machining 46 48	金属

@@ -1,0 +1,11 @@
+T85	Machining 6 11	エンドミル
+T86	Machining 12 15	工作物
+T87	Machining 22 25	切削力
+R17	Relation Arg1:T87 Arg2:T89
+T89	Machining 28 32	加工精度
+T90	Machining 28 30	加工
+T91	Machining 30 32	精度
+T92	Machining 46 51	エンドミル
+T93	Machining 56 60	加工精度
+T94	Machining 56 58	加工
+T95	Machining 58 60	精度

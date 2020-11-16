@@ -1,0 +1,11 @@
+T541	Machining 9 15	コーティング
+T542	Machining 15 22	超硬エンドミル
+T543	Machining 30 34	切削速度
+R116	Relation Arg1:T543 Arg2:T4412
+T544	Machining 35 39	切りくず
+T2442	Machining 15 17	超硬
+T2444	Machining 17 22	エンドミル
+T2445	Machining 30 32	切削
+T2446	Machining 32 34	速度
+T2447	Machining 39 41	厚さ
+T4412	Machining 35 41	切りくず厚さ

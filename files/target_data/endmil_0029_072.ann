@@ -1,0 +1,24 @@
+T156	Machining 0 4	切削工具
+T157	Machining 9 13	アルミナ
+T158	Machining 21 26	窒化ケイ素
+T159	Machining 34 36	旋削
+T160	Machining 38 44	正面フライス
+R45	Sub Arg1:T160 Arg2:T156
+T161	Machining 45 55	スローアウェイチップ
+R32	Part Arg1:T161 Arg2:T160
+T162	Machining 72 77	エンドミル
+T163	Machining 83 85	刃部
+R33	Part Arg1:T163 Arg2:T162
+T164	Machining 109 115	コーティング
+T1972	Machining 83 87	刃部材料
+T1973	Machining 85 87	材料
+T1974	Machining 88 90	母材
+T1975	Machining 0 2	切削
+T1976	Machining 2 4	工具
+T1980	Machining 40 44	フライス
+T1981	Machining 52 55	チップ
+T4205	Machining 116 120	被膜材料
+T4206	Machining 116 118	被膜
+T4207	Machining 118 120	材料
+T4417	Machining 14 19	Ａｌ2Ｏ3
+T4418	Machining 27 32	Ｓｉ3Ｎ4

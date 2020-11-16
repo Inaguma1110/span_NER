@@ -1,0 +1,11 @@
+T718	Machining 15 18	送り量
+R181	Relation Arg1:T718 Arg2:T719
+T719	Machining 19 23	加工精度
+T720	Machining 24 27	加工面
+T2722	Machining 15 17	送り
+T2723	Machining 19 21	加工
+T2724	Machining 21 23	精度
+T2725	Machining 24 26	加工
+T2726	Machining 28 31	倒れ量
+T2727	Machining 28 30	倒れ
+T2732	Machining 10 11	刃

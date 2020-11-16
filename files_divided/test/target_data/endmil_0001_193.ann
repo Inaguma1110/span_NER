@@ -1,0 +1,9 @@
+T547	Machining 2 6	切りくず
+R118	Positive Arg1:T547 Arg2:T548
+T548	Machining 11 16	加工面品位
+T2452	Machining 7 9	生成
+T2453	Machining 11 14	加工面
+T2454	Machining 14 16	品位
+T4249	Machining 11 13	加工
+T4559	Trigger 17 19	向上
+T4560	Trigger 7 9	生成

@@ -1,0 +1,13 @@
+T1573	Machining 2 5	穴あけ
+T1574	Machining 5 7	加工
+T1575	Machining 9 11	工具
+T1576	Machining 12 15	工作物
+T1577	Machining 38 41	高温度
+R463	Positive Arg1:T1577 Arg2:T1578
+T1578	Machining 47 51	工具損傷
+T2994	Machining 2 7	穴あけ加工
+T2996	Machining 27 29	冷却
+T2997	Machining 47 49	工具
+T2998	Machining 49 51	損傷
+T3781	Trigger 42 47	なりやすく
+T3782	Trigger 52 54	促進

@@ -1,0 +1,6 @@
+T308	Machining 25 29	切りくず
+T440	Machining 25 32	切りくずの延性
+T442	Machining 19 23	分散析出
+R57	Relation Arg1:T442 Arg2:T440
+T640	Quantity 4 7	2～3
+T641	Unit 7 9	μm

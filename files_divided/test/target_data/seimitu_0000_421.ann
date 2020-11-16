@@ -1,0 +1,3 @@
+T1465	Machining 8 11	切れ刃
+R456	Part Arg1:T1465 Arg2:T1462
+T1466	Machining 12 14	切削

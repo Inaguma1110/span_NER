@@ -1,0 +1,8 @@
+T32	Machining 0 6	エンゲージ角
+T33	Machining 0 5	エンゲージ
+T34	Machining 17 21	切りくず
+T35	Machining 30 32	切削
+T140	Machining 17 23	切りくず厚み
+T141	Machining 21 23	厚み
+T144	Quantity 7 10	＋90
+T145	Unit 10 11	゜

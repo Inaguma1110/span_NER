@@ -1,0 +1,15 @@
+T1376	Machining 0 4	切削加工
+T1377	Machining 17 19	工具
+T1378	Machining 19 23	すくい面
+T1379	Machining 25 29	切りくず
+R632	Relation Arg1:T1379 Arg2:T2851
+R633	Relation Arg1:T1379 Arg2:T1380
+R634	Relation Arg1:T1379 Arg2:T2852
+T1380	Machining 33 36	高応力
+T1381	Machining 42 44	擦過
+T1382	Machining 49 51	工具
+T2849	Machining 0 2	切削
+T2850	Machining 2 4	加工
+T2851	Machining 30 32	高温
+T2852	Machining 39 41	高速
+T3602	Machining 17 23	工具すくい面

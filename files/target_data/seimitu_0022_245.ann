@@ -1,0 +1,18 @@
+T898	Machining 4 10	ダイヤモンド
+T899	Machining 13 15	硬さ
+T900	Machining 16 20	熱伝導度
+T901	Machining 50 52	切削
+T902	Machining 64 67	耐熱性
+T2288	Machining 0 3	ｃＢＮ
+R534	Relation Arg1:T2288 Arg2:T899
+R535	Relation Arg1:T2288 Arg2:T900
+R288	Relation Arg1:T2288 Arg2:T2290
+R536	Relation Arg1:T2288 Arg2:T902
+R537	Relation Arg1:T2288 Arg2:T906
+R542	Relation Arg1:T2288 Arg2:T3563
+R543	Relation Arg1:T2288 Arg2:T904
+R686	Relation Arg1:T2288 Arg2:T2289
+T2289	Machining 26 30	鉄系金属
+T2290	Machining 59 63	耐磨耗性
+T2291	Machining 47 49	金属
+T2292	Machining 28 30	金属

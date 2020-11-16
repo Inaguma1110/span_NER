@@ -1,0 +1,9 @@
+T66	Machining 0 5	エンドミル
+T67	Machining 6 8	刃数
+R23	Part Arg1:T67 Arg2:T66
+T68	Machining 46 48	刃数
+R90	Negative Arg1:T68 Arg2:T4887
+T69	Machining 54 58	切りくず
+T4454	Trigger 49 53	多くなる
+T4455	Trigger 67 72	小さくなり
+T4887	Machining 64 66	空間

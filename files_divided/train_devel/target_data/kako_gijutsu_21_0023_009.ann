@@ -1,0 +1,7 @@
+T38	Machining 10 13	切れ刃
+T39	Machining 14 18	すくい角
+T41	Machining 47 51	すくい角
+T765	Machining 35 43	ネガティブレーキ
+R89	Relation Arg1:T765 Arg2:T39
+T766	Machining 67 75	ポジティブレーキ
+R88	Relation Arg1:T766 Arg2:T41

@@ -1,0 +1,14 @@
+T244	Machining 1 5	工具損傷
+R178	Relation Arg1:T244 Arg2:T706
+R179	Relation Arg1:T244 Arg2:T249
+R180	Relation Arg1:T244 Arg2:T251
+T245	Machining 1 3	工具
+T246	Machining 6 11	逃げ面摩耗
+T247	Machining 6 9	逃げ面
+T248	Machining 9 11	摩耗
+T249	Machining 20 24	切削動力
+T250	Machining 20 22	切削
+T251	Machining 30 32	工具
+T646	Machining 3 5	損傷
+T647	Machining 22 24	動力
+T706	Machining 13 16	切れ味

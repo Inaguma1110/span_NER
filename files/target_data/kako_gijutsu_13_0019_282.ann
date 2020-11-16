@@ -1,0 +1,4 @@
+T999	Machining 8 10	Ca
+T1409	Machining 8 13	Ca含有量
+R124	Relation Arg1:T1409 Arg2:T1410
+T1410	Machining 15 17	寿命

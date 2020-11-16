@@ -1,0 +1,10 @@
+T92	Machining 23 25	送り
+T93	Machining 34 36	精度
+R8	Relation Arg1:T93 Arg2:T143
+T94	Machining 40 41	溝
+T142	Machining 17 25	１刃当たりの送り
+R7	Negative Arg1:T142 Arg2:T93
+T143	Machining 43 47	寸法管理
+T188	Machining 5 7	多刃
+T221	Trigger 26 31	小さくなり
+T222	Trigger 37 39	向上

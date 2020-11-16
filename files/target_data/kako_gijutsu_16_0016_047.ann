@@ -1,0 +1,4 @@
+T90	Machining 7 9	旋削
+T91	Machining 9 13	切りくず
+T571	Machining 14 16	折断
+T705	Machining 7 23	旋削切りくずが折断するメカニズム

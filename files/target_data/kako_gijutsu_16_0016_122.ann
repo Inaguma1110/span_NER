@@ -1,0 +1,17 @@
+T252	Machining 0 4	切削速度
+R37	Negative Arg1:T252 Arg2:T254
+R38	Positive Arg1:T252 Arg2:T420
+R39	Negative Arg1:T252 Arg2:T422
+R40	Positive Arg1:T252 Arg2:T423
+T253	Machining 0 2	切削
+T254	Machining 11 15	切りくず
+T255	Machining 25 28	ひずみ
+T420	Machining 23 28	限界ひずみ
+T421	Variable 28 31	ε’B
+T422	Machining 51 55	折断領域
+T597	Machining 51 53	折断
+T707	Machining 2 4	速度
+T726	Trigger 5 7	増大
+T727	Trigger 16 20	薄くなる
+T728	Trigger 32 37	大きくなる
+T729	Trigger 56 60	狭くなる

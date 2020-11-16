@@ -1,0 +1,9 @@
+T193	Machining 8 13	中ぐり加工
+T194	Machining 11 13	加工
+T526	Machining 23 26	バイト
+T1183	Machining 27 30	突出し
+T1184	Machining 23 32	バイトの突出し長さ
+T1185	Variable 32 33	L
+T1200	Machining 8 11	中ぐり
+T1234	Machining 30 32	長さ
+T1288	Machining 6 7	穴

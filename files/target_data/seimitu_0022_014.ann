@@ -1,0 +1,24 @@
+T29	Machining 5 9	仕上げ面
+T30	Machining 19 21	工具
+T31	Machining 21 24	逃げ面
+T32	Machining 44 48	仕上げ面
+R512	Relation Arg1:T32 Arg2:T33
+T33	Machining 56 59	逃げ角
+T34	Machining 88 92	切りくず
+R513	Relation Arg1:T34 Arg2:T35
+T35	Machining 105 109	すくい面
+T36	Machining 120 122	工具
+T37	Machining 142 146	すくい角
+T1792	Machining 5 8	仕上げ
+T1796	Machining 44 47	仕上げ
+T1797	Machining 19 24	工具逃げ面
+R511	Relation Arg1:T1797 Arg2:T33
+T1798	Machining 16 18	楔面
+T1799	Machining 25 38	ｃｌｅａｒａｎｃｅｆａｃｅ
+T1800	Machining 60 74	ｃｌｅａｒａｎｃｅａｎｇｌｅ
+T1801	Machining 75 86	ｒｅｌｉｅｆａｎｇｌｅ
+T1802	Machining 93 97	ｃｈｉｐ
+T1803	Machining 110 118	ｒａｋｅｆａｃｅ
+T1804	Machining 147 156	ｒａｋｅａｎｇｌｅ
+T3671	Machining 0 4	素材表面
+T3672	Machining 2 4	表面

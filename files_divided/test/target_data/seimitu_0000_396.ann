@@ -1,0 +1,11 @@
+T1402	Machining 0 4	切削油剤
+T1403	Machining 9 13	不水溶性
+R620	Sub Arg1:T1403 Arg2:T1402
+T1404	Machining 14 17	水溶性
+R621	Sub Arg1:T1404 Arg2:T1402
+T1405	Machining 29 33	冷却効果
+T1406	Machining 34 36	環境
+T1407	Machining 55 58	切削剤
+T2867	Machining 0 2	切削
+T2868	Machining 2 4	油剤
+T2869	Machining 29 31	冷却

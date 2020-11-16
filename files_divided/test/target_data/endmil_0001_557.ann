@@ -1,0 +1,10 @@
+T1630	Machining 0 2	底刃
+R455	Part Arg1:T1630 Arg2:T1631
+T3952	Quantity 16 17	2
+T3953	Quantity 19 20	3
+T3954	Unit 17 18	°
+T3955	Unit 20 21	°
+T3956	Machining 22 26	すかし角
+T3957	Machining 27 29	中低
+T3959	Machining 6 8	研削
+T3979	Machining 0 5	底刃2番面

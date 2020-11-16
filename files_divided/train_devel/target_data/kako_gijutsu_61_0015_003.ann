@@ -1,0 +1,41 @@
+T10	Machining 0 7	エンドミル加工
+R104	Sub Arg1:T10 Arg2:T13
+R105	Sub Arg1:T10 Arg2:T35
+T11	Machining 0 5	エンドミル
+T12	Machining 5 7	加工
+T13	Machining 8 14	フライス加工
+T14	Machining 8 12	フライス
+T15	Machining 12 14	加工
+T16	Machining 25 28	切れ刃
+R103	Part Arg1:T16 Arg2:T19
+R119	Relation Arg1:T16 Arg2:T618
+R120	Relation Arg1:T16 Arg2:T617
+T17	Machining 29 31	底刃
+T18	Machining 32 35	外周刃
+T19	Machining 40 45	エンドミル
+R121	Relation Arg1:T19 Arg2:T20
+T20	Machining 48 50	工具
+T21	Machining 56 59	加工物
+T22	Machining 56 58	加工
+T23	Machining 69 71	工具
+T24	Machining 77 79	工具
+T25	Machining 83 86	加工物
+T26	Machining 83 85	加工
+T27	Machining 94 96	削り
+T28	Machining 99 101	削り
+T29	Machining 106 108	削り
+T30	Machining 109 110	溝
+T31	Machining 109 112	溝削り
+R112	Sub Arg1:T31 Arg2:T33
+T32	Machining 110 112	削り
+T33	Machining 115 117	削り
+T34	Machining 117 119	加工
+T35	Machining 124 126	加工
+T609	Machining 92 96	底面削り
+R109	Sub Arg1:T609 Arg2:T33
+T610	Machining 97 101	側面削り
+R110	Sub Arg1:T610 Arg2:T33
+T611	Machining 102 108	輪郭倣い削り
+R111	Sub Arg1:T611 Arg2:T33
+T617	Machining 18 20	端面
+T618	Machining 22 24	外周

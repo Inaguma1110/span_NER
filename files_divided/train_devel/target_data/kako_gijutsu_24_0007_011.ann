@@ -1,0 +1,12 @@
+T34	Machining 4 8	寸法精度
+T35	Machining 6 8	精度
+T36	Machining 16 20	切削速度
+R5	Relation Arg1:T36 Arg2:T34
+T37	Machining 16 18	切削
+T38	Machining 28 34	仕上げ面粗さ
+T39	Machining 28 32	仕上げ面
+T40	Machining 28 31	仕上げ
+T41	Machining 39 41	送り
+R6	Relation Arg1:T41 Arg2:T38
+T64	Machining 32 34	粗さ
+T66	Machining 18 20	速度

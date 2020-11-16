@@ -1,0 +1,11 @@
+T302	Machining 2 4	加工
+T303	Machining 5 7	工具
+T304	Machining 8 11	加工物
+T305	Machining 8 10	加工
+T306	Machining 22 24	工具
+T307	Machining 25 28	加工物
+T308	Machining 25 27	加工
+T876	Machining 0 7	内径加工用工具
+T881	Machining 0 4	内径加工
+T889	Machining 0 2	内径
+T924	Machining 35 40	丸シャンク

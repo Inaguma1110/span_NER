@@ -1,0 +1,8 @@
+T883	Machining 16 19	送り量
+R289	Relation Arg1:T883 Arg2:T884
+T884	Machining 38 41	加工面
+T3006	Machining 10 12	回転
+T3007	Machining 16 18	送り
+T3008	Machining 38 40	加工
+T4277	Machining 20 27	ピックフィード
+R798	Relation Arg1:T4277 Arg2:T884

@@ -1,0 +1,6 @@
+T2	Machining 0 2	切削
+T3	Machining 0 4	切削油剤
+R1	Relation Arg1:T3 Arg2:T93
+R2	Relation Arg1:T3 Arg2:T94
+R3	Relation Arg1:T3 Arg2:T6
+T109	Machining 2 4	油剤

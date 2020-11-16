@@ -1,0 +1,21 @@
+T1593	Machining 47 49	送り
+T1594	Machining 89 93	シャンク
+T1595	Machining 95 96	溝
+T1596	Machining 106 108	底刃
+T3864	Machining 0 9	エキセントリック法
+R929	Positive Arg1:T3864 Arg2:T3879
+T3865	Machining 12 14	砥石
+T3866	Machining 18 24	プランジ研削
+T3867	Machining 18 22	プランジ
+T3868	Machining 22 24	研削
+T3869	Machining 30 32	砥石
+T3870	Machining 53 60	トラバース研削
+T3871	Machining 53 58	トラバース
+T3872	Machining 58 60	研削
+T3873	Machining 40 43	研削面
+T3874	Machining 40 42	研削
+T3875	Machining 86 88	研削
+T3876	Machining 97 102	切りあがり
+T3892	Machining 67 75	エキセントリック
+T3893	Machining 75 77	研削
+T3894	Machining 67 77	エキセントリック研削

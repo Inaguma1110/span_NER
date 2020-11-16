@@ -1,0 +1,14 @@
+T482	Machining 0 4	構成刃先
+R97	Relation Arg1:T482 Arg2:T483
+R104	Positive Arg1:T482 Arg2:T484
+T483	Machining 19 22	被削面
+T484	Machining 39 44	チッピング
+T2364	Machining 2 4	刃先
+T2366	Machining 6 8	成長
+T2367	Machining 9 11	脱落
+T2368	Machining 19 24	被削面粗さ
+T2369	Machining 22 24	粗さ
+T2370	Machining 32 34	脱落
+T2371	Machining 36 38	刃先
+T4545	Trigger 45 47	誘発
+T4546	Trigger 32 34	脱落

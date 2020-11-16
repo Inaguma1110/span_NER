@@ -1,0 +1,6 @@
+T613	Machining 4 6	工具
+T614	Machining 7 10	耐熱性
+R153	Relation Arg1:T614 Arg2:T615
+T615	Machining 11 15	切削速度
+T2555	Machining 11 13	切削
+T2560	Machining 13 15	速度

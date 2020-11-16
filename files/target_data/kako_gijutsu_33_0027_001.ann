@@ -1,0 +1,23 @@
+T0	Machining 32 34	剛性
+R30	Relation Arg1:T0 Arg2:T38
+T1	Machining 42 44	工具
+T2	Machining 48 52	支持方法
+R32	Relation Arg1:T2 Arg2:T38
+T3	Machining 53 57	切削条件
+R9	Relation Arg1:T3 Arg2:T38
+T4	Machining 53 55	切削
+T38	Machining 0 3	びびり
+T39	Machining 15 17	隙間
+R5	Relation Arg1:T39 Arg2:T38
+T40	Machining 22 24	がた
+R6	Relation Arg1:T40 Arg2:T38
+T41	Machining 25 31	被削物の形状
+R7	Relation Arg1:T41 Arg2:T38
+T42	Machining 45 47	剛性
+R8	Relation Arg1:T42 Arg2:T38
+T129	Machining 8 10	主軸
+T130	Machining 11 14	軸受け
+T150	Machining 25 28	被削物
+T7	Machining 18 21	摺動部
+T13	Machining 35 41	取りつけ方法
+R31	Relation Arg1:T13 Arg2:T38

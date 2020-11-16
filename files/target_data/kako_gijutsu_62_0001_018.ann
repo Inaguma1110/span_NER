@@ -1,0 +1,5 @@
+T111	Machining 7 9	削り
+T112	Machining 11 13	加工
+T113	Machining 17 20	切込み
+R18	Relation Arg1:T113 Arg2:T239
+T239	Machining 11 15	加工誤差

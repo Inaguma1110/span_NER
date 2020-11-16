@@ -1,0 +1,13 @@
+T956	Machining 15 19	冷却効果
+T957	Machining 23 27	潤滑効果
+R921	Positive Arg1:T957 Arg2:T3083
+T958	Machining 73 77	切削油剤
+T959	Machining 84 87	ミスト
+T3079	Machining 15 17	冷却
+T3080	Machining 23 25	潤滑
+T3081	Machining 73 75	切削
+T3082	Machining 75 77	油剤
+T3083	Machining 33 36	ＭＱＬ
+T3084	Machining 37 63	ＭｉｎｉｍｕｍＱｕａｎｔｉｔｙＬｕｂｒｉｃａｔｉｏｎ
+T3091	Machining 78 80	エア
+T4704	Trigger 30 33	高める

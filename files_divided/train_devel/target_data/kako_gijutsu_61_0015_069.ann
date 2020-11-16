@@ -1,0 +1,5 @@
+T311	Machining 0 4	境界摩耗
+T312	Machining 2 4	摩耗
+T313	Machining 10 13	切込み
+R28	Relation Arg1:T313 Arg2:T311
+T689	Machining 0 2	境界

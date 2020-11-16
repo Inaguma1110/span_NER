@@ -1,0 +1,18 @@
+T93	Machining 0 4	切りくず
+T95	Machining 17 20	せん断
+T100	Machining 43 45	切削
+T101	Machining 51 55	切削抵抗
+T102	Machining 51 53	切削
+T378	Variable 55 56	F
+T490	Machining 9 13	せん断面
+T96	Machining 24 31	最大せん断応力
+T97	Machining 40 45	2次元切削
+R37	Relation Arg1:T97 Arg2:T491
+T491	Machining 49 55	合成切削抵抗
+T527	Machining 0 6	切りくず生成
+T530	Machining 17 23	せん断モード
+T274	Machining 53 55	抵抗
+T334	Machining 26 31	せん断応力
+T338	Machining 26 29	せん断
+T390	Machining 29 31	応力
+T493	Machining 9 12	せん断

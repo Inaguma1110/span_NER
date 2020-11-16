@@ -1,0 +1,17 @@
+T202	Machining 0 5	エンドミル
+T203	Machining 11 15	表面処理
+T204	Machining 57 60	耐熱性
+R759	Relation Arg1:T204 Arg2:T2071
+T205	Machining 71 77	コーティング
+R42	Sub Arg1:T205 Arg2:T203
+T2037	Machining 25 28	酸化膜
+R558	Relation Arg1:T2037 Arg2:T2041
+T2038	Machining 30 33	窒化層
+R757	Relation Arg1:T2038 Arg2:T2041
+T2039	Machining 61 64	潤滑性
+R887	Relation Arg1:T2039 Arg2:T2071
+T2040	Machining 11 13	表面
+T2041	Machining 22 24	表面
+T2071	Machining 68 70	被膜
+T4210	Machining 54 56	硬質
+R758	Relation Arg1:T4210 Arg2:T2071

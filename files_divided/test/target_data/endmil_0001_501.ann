@@ -1,0 +1,10 @@
+T1521	Machining 2 4	摩耗
+T1522	Machining 25 29	初期摩耗
+R436	Sub Arg1:T1522 Arg2:T1521
+T1523	Machining 44 48	定常摩耗
+R435	Sub Arg1:T1523 Arg2:T1521
+T1524	Machining 64 68	加速摩耗
+R437	Sub Arg1:T1524 Arg2:T1521
+T3726	Machining 46 48	摩耗
+T3727	Machining 66 68	摩耗
+T4336	Machining 27 29	摩耗

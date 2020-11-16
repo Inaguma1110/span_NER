@@ -1,0 +1,14 @@
+T121	Machining 23 25	切削
+T122	Machining 41 46	中ぐり加工
+T123	Machining 44 46	加工
+T124	Machining 47 50	突切り
+T125	Machining 47 52	突切り加工
+T126	Machining 50 52	加工
+T274	Machining 21 25	変速切削
+R26	Relation Arg1:T274 Arg2:T275
+T275	Machining 26 30	再生効果
+T543	Machining 16 18	変動
+T394	Machining 3 5	主軸
+T406	Machining 3 7	主軸速度
+T580	Machining 41 44	中ぐり
+T586	Machining 5 7	速度

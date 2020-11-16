@@ -1,0 +1,6 @@
+T129	Machining 3 5	切削
+T130	Machining 8 10	切削
+T131	Machining 15 17	切削
+T132	Machining 38 42	切りくず
+T206	Machining 0 5	2次元切削
+R55	Sub Arg1:T206 Arg2:T130

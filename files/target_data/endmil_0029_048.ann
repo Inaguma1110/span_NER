@@ -1,0 +1,6 @@
+T111	Machining 3 7	高温硬さ
+T1869	Machining 0 2	Ｃｏ
+R529	Relation Arg1:T1869 Arg2:T111
+T1872	Machining 5 7	硬さ
+T1873	Machining 3 5	高温
+T4473	Trigger 8 10	向上

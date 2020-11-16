@@ -1,0 +1,6 @@
+T7	Machining 4 6	工具
+T1337	Machining 8 10	寿命
+R2	Relation Arg1:T1337 Arg2:T11
+R3	Relation Arg1:T1337 Arg2:T12
+R4	Relation Arg1:T1337 Arg2:T15
+R5	Relation Arg1:T1337 Arg2:T17

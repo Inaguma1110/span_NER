@@ -1,0 +1,6 @@
+T933	Machining 5 9	切りくず
+R853	Relation Arg1:T933 Arg2:T936
+T934	Machining 10 12	摩擦
+T935	Machining 15 20	エンドミル
+T936	Machining 21 25	すくい面
+R307	Part Arg1:T936 Arg2:T935

@@ -1,0 +1,8 @@
+T155	Machining 5 8	変態点
+R35	Relation Arg1:T155 Arg2:T153
+T156	Machining 13 17	構成刃先
+R36	Relation Arg1:T156 Arg2:T153
+T157	Machining 24 28	切りくず
+R37	Relation Arg1:T157 Arg2:T153
+T337	Machining 15 17	刃先
+T630	Machining 24 30	切りくず生成

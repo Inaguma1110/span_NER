@@ -1,0 +1,13 @@
+T941	Machining 8 12	切削速度
+T942	Machining 8 10	切削
+T943	Machining 14 17	被削材
+T944	Machining 18 20	硬さ
+T945	Machining 32 35	延伸性
+R115	Relation Arg1:T945 Arg2:T1401
+T1401	Machining 4 12	1分寿命切削速度
+T1402	Variable 12 13	C
+T1435	Machining 14 20	被削材の硬さ
+R114	Relation Arg1:T1435 Arg2:T1401
+R116	Relation Arg1:T1435 Arg2:T1436
+T1794	Machining 6 8	寿命
+T1883	Machining 10 12	速度

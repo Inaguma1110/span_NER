@@ -1,0 +1,5 @@
+T99	Machining 3 5	切削
+T100	Machining 3 7	切削油剤
+T252	Machining 0 7	水溶性切削油剤
+T275	Machining 5 7	油剤
+T334	Machining 0 3	水溶性

@@ -1,0 +1,7 @@
+T202	Machining 6 10	切削速度
+R43	Relation Arg1:T202 Arg2:T204
+T203	Machining 6 8	切削
+T204	Machining 11 15	切削温度
+T205	Machining 11 13	切削
+T206	Machining 13 15	温度
+T655	Machining 8 10	速度

@@ -1,0 +1,12 @@
+T354	Machining 18 22	切削温度
+T355	Machining 18 20	切削
+T356	Machining 20 22	温度
+T357	Machining 30 36	ステンレス鋼
+T358	Machining 58 62	仕上げ面
+T1204	Variable 7 13	kwρwcw
+R38	Negative Arg1:T1204 Arg2:T354
+R39	Relation Arg1:T1204 Arg2:T358
+T1383	Variable 42 44	Vf
+T517	Machining 58 61	仕上げ
+T1428	Trigger 14 17	小さく
+T1429	Trigger 23 27	高くなり

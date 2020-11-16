@@ -1,0 +1,10 @@
+T687	Machining 5 8	せん断
+T689	Machining 17 20	工作物
+T690	Machining 25 27	熱源
+R51	Positive Arg1:T690 Arg2:T688
+T3499	Machining 12 14	温度
+T3500	Machining 5 9	せん断面
+T3809	Machining 10 12	平均
+T688	Machining 10 14	平均温度
+T3810	Trigger 14 16	上昇
+T3811	Trigger 21 23	流入

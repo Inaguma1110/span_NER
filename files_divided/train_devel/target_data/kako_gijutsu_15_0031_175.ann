@@ -1,0 +1,14 @@
+T590	Machining 18 20	工具
+T591	Machining 21 25	すくい角
+T592	Machining 45 49	切削抵抗
+R94	Positive Arg1:T592 Arg2:T876
+T593	Machining 45 47	切削
+T594	Machining 56 60	切削条件
+T595	Machining 56 58	切削
+T876	Machining 2 9	盛り上がり変形
+R93	Relation Arg1:T876 Arg2:T1119
+T347	Machining 47 49	抵抗
+T1119	Machining 18 25	工具のすくい角
+T1198	Machining 7 9	変形
+T1351	Trigger 50 53	下げる
+T1371	Trigger 10 13	減らす

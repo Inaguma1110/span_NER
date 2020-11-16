@@ -1,0 +1,16 @@
+T841	Machining 0 6	セラミックス
+T843	Machining 12 18	純アルミナ系
+R246	Sub Arg1:T843 Arg2:T841
+T845	Machining 19 21	Al
+T846	Machining 33 36	TiC
+T847	Machining 40 43	TiC
+T848	Machining 70 72	硬さ
+T1331	Machining 23 24	O
+T310	Machining 67 69	靱性
+T1076	Quantity 46 51	20~40
+T1117	Unit 51 52	%
+T1637	Machining 36 39	添加剤
+T1638	Machining 43 45	添加
+T1639	Machining 43 46	添加量
+T1431	Machining 33 39	TiC添加剤
+R247	Sub Arg1:T1431 Arg2:T841

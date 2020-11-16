@@ -1,0 +1,27 @@
+T538	Machining 0 2	切削
+R151	Positive Arg1:T538 Arg2:T539
+T539	Machining 9 14	エネルギー
+R156	Relation Arg1:T539 Arg2:T549
+T540	Machining 15 19	切りくず
+T541	Machining 27 32	エネルギー
+T542	Machining 33 35	工具
+T543	Machining 35 39	すくい面
+T544	Machining 40 44	切りくず
+T545	Machining 46 48	摩擦
+T546	Machining 48 53	エネルギー
+T547	Machining 59 63	切りくず
+T548	Machining 69 74	エネルギー
+T549	Machining 95 96	熱
+T599	Machining 25 32	変形エネルギー
+R207	Sub Arg1:T599 Arg2:T539
+R208	Relation Arg1:T599 Arg2:T549
+T2090	Machining 15 21	切りくず生成
+T2091	Machining 25 27	変形
+T2092	Machining 33 39	工具すくい面
+T2093	Machining 46 53	摩擦エネルギー
+R144	Relation Arg1:T2093 Arg2:T549
+R146	Sub Arg1:T2093 Arg2:T539
+T2094	Machining 67 69	変形
+T2095	Machining 65 74	二次変形エネルギー
+R145	Relation Arg1:T2095 Arg2:T549
+R147	Sub Arg1:T2095 Arg2:T539

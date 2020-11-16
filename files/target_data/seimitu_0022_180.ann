@@ -1,0 +1,24 @@
+T649	Machining 6 9	せん断
+T650	Machining 10 14	せん断力
+T651	Machining 18 21	せん断
+T652	Machining 27 29	切削
+T653	Machining 34 37	切削幅
+R222	Relation Arg1:T653 Arg2:T648
+T654	Machining 40 44	せん断角
+R223	Relation Arg1:T654 Arg2:T648
+T772	Machining 27 31	切削厚さ
+R242	Relation Arg1:T772 Arg2:T648
+T773	Machining 18 23	せん断速度
+R241	Relation Arg1:T773 Arg2:T648
+T774	Machining 6 14	せん断面せん断力
+R240	Relation Arg1:T774 Arg2:T648
+T2156	Machining 21 23	速度
+T2157	Machining 29 31	厚さ
+T3465	Variable 3 5	Ｆｓ
+T3466	Variable 15 17	Ｖｓ
+T3467	Variable 24 26	ｔ１
+T3468	Variable 32 33	ｂ
+T3469	Variable 38 39	φ
+T3472	Machining 40 43	せん断
+T3473	Machining 6 10	せん断面
+T3476	Machining 34 36	切削

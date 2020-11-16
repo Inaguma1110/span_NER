@@ -1,0 +1,7 @@
+T1167	Machining 5 9	摩耗体積
+T1168	Machining 24 28	摩擦距離
+R351	Linear Arg1:T1168 Arg2:T1167
+T2621	Machining 5 7	摩耗
+T2622	Machining 24 26	摩擦
+T3583	Machining 21 23	荷重
+R589	Linear Arg1:T3583 Arg2:T1167

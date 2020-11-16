@@ -1,0 +1,6 @@
+T47	Machining 23 25	加工
+T48	Machining 25 29	寸法精度
+T49	Machining 27 29	精度
+T907	Machining 0 2	公差
+R149	Relation Arg1:T907 Arg2:T1147
+T1147	Machining 23 29	加工寸法精度

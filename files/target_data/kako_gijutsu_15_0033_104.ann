@@ -1,0 +1,11 @@
+T323	Machining 7 9	工具
+T324	Machining 20 23	切込み
+T325	Machining 27 29	切削
+T326	Machining 34 36	工具
+T327	Machining 37 40	逃げ面
+T328	Machining 42 44	温度
+T1052	Quantity 23 24	1
+T1053	Unit 24 26	mm
+T1084	Machining 10 13	突出し
+T1207	Machining 10 15	突出し長さ
+T1235	Machining 13 15	長さ

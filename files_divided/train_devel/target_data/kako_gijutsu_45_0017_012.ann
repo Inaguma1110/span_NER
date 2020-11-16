@@ -1,0 +1,6 @@
+T31	Machining 3 9	アルミニウム
+T32	Machining 9 11	切削
+T33	Machining 32 38	ステンレス鋼
+T72	Machining 0 2	溶着
+T80	Machining 30 31	鋼
+T27	Trigger 13 15	発生

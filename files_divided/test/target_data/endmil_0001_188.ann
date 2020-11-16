@@ -1,0 +1,17 @@
+T532	Machining 0 7	エンドミル加工
+T533	Machining 26 30	切りくず
+R590	Positive Arg1:T533 Arg2:T534
+R592	Positive Arg1:T533 Arg2:T2434
+T534	Machining 40 44	塑性変形
+R591	Positive Arg1:T534 Arg2:T2434
+T535	Machining 45 48	せん断
+T2430	Machining 31 33	生成
+T2431	Machining 0 5	エンドミル
+T2432	Machining 5 7	加工
+T2433	Machining 40 42	塑性
+T2434	Machining 60 62	発熱
+T2435	Machining 48 50	変形
+T2436	Machining 45 50	せん断変形
+T2443	Machining 42 44	変形
+T4554	Trigger 63 65	伴う
+T4555	Trigger 31 33	生成

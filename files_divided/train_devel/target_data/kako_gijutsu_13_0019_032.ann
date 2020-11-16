@@ -1,0 +1,16 @@
+T77	Machining 2 4	温度
+T78	Machining 5 8	被削材
+T79	Machining 5 10	被削材強度
+R21	Relation Arg1:T79 Arg2:T77
+T80	Machining 11 15	切削速度
+R22	Relation Arg1:T80 Arg2:T77
+T81	Machining 11 13	切削
+T82	Machining 37 39	切削
+T83	Machining 62 66	すくい面
+T84	Machining 77 79	温度
+T1279	Quantity 40 43	300
+T1280	Unit 43 45	°C
+T1281	Quantity 46 50	1000
+T1282	Unit 50 52	°C
+T1698	Machining 8 10	強度
+T1855	Machining 13 15	速度

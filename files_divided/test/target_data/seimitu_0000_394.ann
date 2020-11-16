@@ -1,0 +1,8 @@
+T1399	Machining 8 10	工具
+T1400	Machining 10 14	すくい面
+T2861	Machining 15 17	潤滑
+T2862	Machining 21 23	極圧
+T2863	Machining 23 26	潤滑剤
+T2864	Machining 21 26	極圧潤滑剤
+T3605	Machining 8 14	工具すくい面
+R405	Relation Arg1:T3605 Arg2:T2864

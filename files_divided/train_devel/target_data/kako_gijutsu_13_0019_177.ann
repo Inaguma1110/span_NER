@@ -1,0 +1,7 @@
+T635	Machining 0 3	送り量
+T637	Machining 27 30	送り量
+R202	Relation Arg1:T637 Arg2:T836
+T836	Machining 43 47	寿命曲線
+T1559	Machining 0 2	送り
+T1560	Machining 27 29	送り
+T469	Machining 43 45	寿命

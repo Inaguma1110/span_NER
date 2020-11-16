@@ -1,0 +1,18 @@
+T123	Machining 0 3	外周刃
+T124	Machining 6 8	切削
+T125	Machining 10 13	逃げ面
+T126	Machining 17 21	境界摩耗
+R99	Sub Arg1:T126 Arg2:T134
+T127	Machining 19 21	摩耗
+T128	Machining 22 26	定常摩耗
+R100	Sub Arg1:T128 Arg2:T134
+T129	Machining 24 26	摩耗
+T130	Machining 27 31	正常摩耗
+R101	Sub Arg1:T130 Arg2:T134
+T131	Machining 29 31	摩耗
+T132	Machining 33 37	刃先摩耗
+R102	Sub Arg1:T132 Arg2:T134
+T133	Machining 35 37	摩耗
+T134	Machining 43 45	摩耗
+T85	Machining 33 35	刃先
+T683	Machining 17 19	境界

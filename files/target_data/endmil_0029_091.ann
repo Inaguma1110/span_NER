@@ -1,0 +1,13 @@
+T212	Machining 13 15	溶融
+T2056	Machining 0 3	ＰＶＤ
+R768	Relation Arg1:T2056 Arg2:T2075
+T2064	Machining 10 12	金属
+R764	Relation Arg1:T2064 Arg2:T212
+R766	Relation Arg1:T2064 Arg2:T2065
+R769	Relation Arg1:T2064 Arg2:T4211
+T2065	Machining 16 18	蒸発
+T2066	Machining 33 38	硬質化合物
+T2067	Machining 35 38	化合物
+T2068	Machining 41 43	蒸着
+T4211	Machining 24 28	反応ガス
+T4212	Machining 33 35	硬質

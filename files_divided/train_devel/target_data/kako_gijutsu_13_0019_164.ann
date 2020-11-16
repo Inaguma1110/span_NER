@@ -1,0 +1,13 @@
+T597	Machining 5 8	被削材
+T598	Machining 9 11	工具
+T599	Machining 12 16	切削速度
+T600	Machining 12 14	切削
+T601	Machining 19 23	切削条件
+R92	Relation Arg1:T601 Arg2:T1320
+T602	Machining 19 21	切削
+T603	Machining 37 39	工具
+T604	Machining 40 43	耐熱性
+R93	Relation Arg1:T604 Arg2:T1385
+T1320	Variable 3 4	C
+T1385	Variable 31 32	n
+T1869	Machining 14 16	速度

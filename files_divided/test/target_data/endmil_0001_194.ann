@@ -1,0 +1,20 @@
+T549	Machining 8 14	コーティング
+T550	Machining 14 21	超硬エンドミル
+T551	Machining 29 33	側面切削
+T552	Machining 37 41	切削速度
+R119	Relation Arg1:T552 Arg2:T554
+R120	Relation Arg1:T552 Arg2:T555
+T553	Machining 42 45	加工面
+T554	Machining 42 47	加工面精度
+T555	Machining 48 53	加工面粗さ
+T2455	Machining 14 16	超硬
+T2456	Machining 16 21	エンドミル
+T2457	Machining 25 28	炭素鋼
+T2458	Machining 31 33	切削
+T2459	Machining 45 47	精度
+T2460	Machining 37 39	切削
+T2461	Machining 39 41	速度
+T2462	Machining 48 51	加工面
+T2463	Machining 51 53	粗さ
+T4250	Machining 42 44	加工
+T4251	Machining 48 50	加工

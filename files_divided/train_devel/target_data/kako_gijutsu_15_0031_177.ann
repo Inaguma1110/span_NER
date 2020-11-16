@@ -1,0 +1,6 @@
+T601	Machining 7 9	工具
+T602	Machining 9 12	切れ刃
+T603	Machining 13 15	摩耗
+T896	Machining 7 15	工具切れ刃の摩耗
+R132	Relation Arg1:T896 Arg2:T897
+T897	Machining 18 20	粗さ

@@ -1,0 +1,8 @@
+T392	Machining 5 7	加工
+T393	Machining 11 13	加工
+T394	Machining 20 23	加工物
+T396	Machining 24 28	加工精度
+T397	Machining 24 26	加工
+T398	Machining 26 28	精度
+T843	Machining 2 4	変形
+R50	Relation Arg1:T843 Arg2:T396

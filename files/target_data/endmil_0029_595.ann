@@ -1,0 +1,9 @@
+T1707	Machining 5 7	加工
+T1708	Machining 7 11	コーナ部
+T1709	Machining 22 24	首部
+R486	Part Arg1:T1709 Arg2:T1710
+T1710	Machining 33 38	エンドミル
+T4090	Machining 16 20	びびり面
+T4091	Machining 16 19	びびり
+T4092	Machining 19 20	面
+T4093	Machining 25 30	テーパ形状

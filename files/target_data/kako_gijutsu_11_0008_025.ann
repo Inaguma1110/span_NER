@@ -1,0 +1,9 @@
+T114	Machining 0 3	被削材
+T115	Machining 26 29	被削材
+R75	Relation Arg1:T115 Arg2:T116
+T116	Machining 37 41	せん断角
+T383	Variable 4 7	τ_0
+R10	Relation Arg1:T383 Arg2:T384
+T384	Variable 8 9	F
+T385	Variable 41 42	φ
+T394	Machining 37 40	せん断

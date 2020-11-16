@@ -1,0 +1,9 @@
+T363	Machining 4 7	加工物
+T365	Machining 23 26	加工物
+T723	Machining 12 16	さらい刃
+R28	Positive Arg1:T723 Arg2:T724
+T724	Machining 27 32	ねじ山品位
+T929	Machining 8 11	ねじ山
+T993	Machining 30 32	品位
+T1014	Trigger 17 20	さらう
+T1015	Trigger 33 35	向上

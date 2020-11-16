@@ -1,0 +1,14 @@
+T1239	Machining 13 18	エンドミル
+T1240	Machining 31 33	摩耗
+T1241	Machining 40 44	工具寿命
+T1242	Machining 59 65	コーティング
+T3382	Machining 10 13	ＨＳＳ
+T3383	Machining 10 18	ＨＳＳエンドミル
+T3384	Machining 40 42	工具
+T3385	Machining 42 44	寿命
+T3386	Machining 65 68	ＨＳＳ
+T3389	Machining 55 58	ＨＳＳ
+T3392	Machining 28 31	こすり
+T3398	Machining 0 4	Ｓ45Ｃ
+T3399	Machining 5 9	ＳＣＭ材
+T3400	Machining 53 58	粉末ＨＳＳ

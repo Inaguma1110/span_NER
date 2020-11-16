@@ -1,0 +1,14 @@
+T37	Machining 9 13	構成刃先
+T39	Machining 21 25	工具材質
+T40	Machining 21 23	工具
+T41	Machining 26 29	被削材
+T42	Machining 30 33	親和性
+T43	Machining 34 38	切削温度
+R7	Relation Arg1:T43 Arg2:T37
+T44	Machining 34 36	切削
+T45	Machining 36 38	温度
+T188	Machining 21 33	工具材質と被削材の親和性
+R6	Relation Arg1:T188 Arg2:T37
+T236	Machining 11 13	刃先
+T314	Machining 0 3	溶着物
+T315	Machining 0 2	溶着

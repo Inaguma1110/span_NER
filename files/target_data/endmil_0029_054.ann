@@ -1,0 +1,14 @@
+T117	Machining 24 28	超硬合金
+T118	Machining 29 31	硬さ
+T119	Machining 32 35	じん性
+T1902	Machining 0 8	炭化タングステン
+R536	Relation Arg1:T1902 Arg2:T117
+R539	Relation Arg1:T1902 Arg2:T118
+R540	Relation Arg1:T1902 Arg2:T119
+T1903	Machining 12 16	コバルト
+R537	Relation Arg1:T1903 Arg2:T117
+R538	Relation Arg1:T1903 Arg2:T118
+R541	Relation Arg1:T1903 Arg2:T119
+T1908	Machining 26 28	合金
+T2050	Machining 9 11	粒径
+T2299	Machining 24 26	超硬

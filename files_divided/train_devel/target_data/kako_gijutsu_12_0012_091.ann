@@ -1,0 +1,16 @@
+T321	Machining 8 14	すくい面温度
+T322	Machining 8 12	すくい面
+T323	Machining 12 14	温度
+T486	Variable 14 17	θ_2
+T487	Variable 22 23	τ
+R54	Relation Arg1:T487 Arg2:T486
+T488	Variable 23 25	γu
+R61	Relation Arg1:T488 Arg2:T486
+T489	Variable 26 28	cρ
+R62	Relation Arg1:T489 Arg2:T486
+T490	Variable 40 42	Vc
+R63	Relation Arg1:T490 Arg2:T486
+T491	Variable 43 46	τ_2
+R64	Relation Arg1:T491 Arg2:T486
+T492	Variable 47 50	k_t
+R65	Relation Arg1:T492 Arg2:T486

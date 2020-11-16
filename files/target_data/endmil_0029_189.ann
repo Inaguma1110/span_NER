@@ -1,0 +1,16 @@
+T536	Machining 4 7	合金鋼
+T537	Machining 8 10	切削
+T538	Machining 16 20	切削速度
+R113	Positive Arg1:T538 Arg2:T539
+R114	Negative Arg1:T538 Arg2:T540
+T539	Machining 28 32	せん断角
+R115	Negative Arg1:T539 Arg2:T540
+T540	Machining 50 54	切りくず
+T2437	Machining 0 3	炭素鋼
+T2438	Machining 16 18	切削
+T2439	Machining 18 20	速度
+T2440	Machining 28 31	せん断
+T2441	Machining 45 47	生成
+T4556	Trigger 21 23	増加
+T4557	Trigger 33 38	大きくなり
+T4558	Trigger 55 59	薄くなる

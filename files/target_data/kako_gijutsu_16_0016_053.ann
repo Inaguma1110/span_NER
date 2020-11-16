@@ -1,0 +1,5 @@
+T95	Machining 0 4	切りくず
+T96	Machining 10 14	切りくず
+T97	Machining 19 22	ひずみ
+T476	Variable 22 26	ε’_B
+T600	Machining 17 22	限界ひずみ

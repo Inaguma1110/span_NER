@@ -1,0 +1,9 @@
+T431	Machining 0 4	工具材料
+R83	Positive Arg1:T431 Arg2:T2322
+R94	Relation Arg1:T431 Arg2:T4374
+R823	Relation Arg1:T431 Arg2:T2323
+T432	Machining 31 33	摩耗
+T2316	Machining 0 2	工具
+T2317	Machining 2 4	材料
+T2322	Machining 10 13	化合物
+T4526	Trigger 14 16	作り

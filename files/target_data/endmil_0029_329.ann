@@ -1,0 +1,10 @@
+T993	Machining 4 6	底刃
+R357	Part Arg1:T993 Arg2:T995
+T994	Machining 12 14	加工
+T995	Machining 19 24	エンドミル
+T996	Machining 38 40	バリ
+T997	Machining 41 44	加工物
+T998	Machining 62 65	切れ刃
+R358	Part Arg1:T998 Arg2:T999
+T999	Machining 73 78	エンドミル
+T3100	Machining 66 69	ねじれ

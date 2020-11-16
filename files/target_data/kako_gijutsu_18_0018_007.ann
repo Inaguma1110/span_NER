@@ -1,0 +1,4 @@
+T4	Machining 1 3	工具
+T74	Machining 1 8	工具交換コスト
+R3	Relation Arg1:T74 Arg2:T70
+T153	Machining 5 8	コスト

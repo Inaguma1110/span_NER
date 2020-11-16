@@ -1,0 +1,11 @@
+T426	Machining 4 9	チッピング
+T427	Machining 11 13	切削
+T428	Machining 23 28	チッピング
+T429	Machining 41 43	摩耗
+T430	Machining 41 45	摩耗速度
+T131	Machining 31 34	切り刃
+R86	Positive Arg1:T131 Arg2:T430
+T1863	Machining 43 45	速度
+T1905	Machining 35 37	鈍化
+T1951	Trigger 49 51	増加
+T1950	Trigger 35 37	鈍化

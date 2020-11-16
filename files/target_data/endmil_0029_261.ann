@@ -1,0 +1,14 @@
+T774	Machining 0 5	エンドミル
+T775	Machining 6 11	切込み深さ
+R206	Relation Arg1:T775 Arg2:T776
+R207	Relation Arg1:T775 Arg2:T777
+T776	Machining 19 24	切込み深さ
+T777	Machining 33 38	切込み深さ
+T2824	Machining 6 9	切込み
+T2825	Machining 9 11	深さ
+T2826	Machining 19 22	切込み
+T2827	Machining 33 36	切込み
+T2828	Machining 36 38	深さ
+T2829	Machining 22 24	深さ
+T2830	Machining 25 27	ａｐ
+T2831	Machining 39 41	ａｅ

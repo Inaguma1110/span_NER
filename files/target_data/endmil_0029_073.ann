@@ -1,0 +1,15 @@
+T165	Machining 10 16	セラミックス
+R34	Positive Arg1:T165 Arg2:T169
+R35	Positive Arg1:T165 Arg2:T170
+R36	Positive Arg1:T165 Arg2:T171
+R37	Relation Arg1:T165 Arg2:T168
+T166	Machining 19 25	コーティング
+T167	Machining 31 33	刃部
+T168	Machining 40 43	じん性
+T169	Machining 54 58	耐摩耗性
+T170	Machining 59 62	耐熱性
+T171	Machining 63 67	耐酸化性
+T1977	Machining 33 35	材料
+T1978	Machining 31 35	刃部材料
+T1979	Machining 36 38	母材
+T4864	Trigger 68 70	向上

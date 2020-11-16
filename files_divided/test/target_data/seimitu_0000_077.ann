@@ -1,0 +1,9 @@
+T252	Machining 7 11	切りくず
+T253	Machining 23 26	せん断
+T254	Machining 35 38	せん断
+T387	Machining 35 40	せん断変形
+R96	Relation Arg1:T387 Arg2:T252
+T1947	Machining 38 40	変形
+T1948	Machining 7 13	切りくず生成
+T3286	Machining 11 13	生成
+T3651	Machining 23 27	せん断面

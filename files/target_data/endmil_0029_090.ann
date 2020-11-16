@@ -1,0 +1,9 @@
+T209	Machining 13 19	コーティング
+T210	Machining 39 41	温度
+T211	Machining 61 63	工具
+T2058	Machining 37 41	処理温度
+T2059	Quantity 42 45	900
+T2060	Quantity 46 50	1100
+T2061	Unit 50 52	°Ｃ
+T2062	Machining 58 61	ＨＳＳ
+T2063	Machining 58 63	ＨＳＳ工具

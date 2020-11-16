@@ -1,0 +1,4 @@
+T522	Machining 6 10	切りくず
+T733	Machining 6 12	切りくず処理
+R49	Relation Arg1:T733 Arg2:T734
+T734	Machining 13 16	生産性

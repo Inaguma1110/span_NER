@@ -1,0 +1,16 @@
+T88	Machining 13 16	切れ刃
+T89	Machining 19 22	切込み
+T90	Machining 24 27	切削力
+T91	Machining 24 26	切削
+T92	Machining 30 33	切れ刃
+T93	Machining 42 46	横切れ刃
+T94	Machining 51 54	切れ刃
+T95	Machining 56 60	工具寿命
+T96	Machining 56 58	工具
+T783	Machining 4 9	横切れ刃角
+R92	Relation Arg1:T783 Arg2:T95
+T832	Quantity 48 49	0
+T833	Unit 49 50	°
+T847	Machining 4 8	横切れ刃
+T862	Machining 42 48	横切れ刃角度
+T912	Machining 58 60	寿命

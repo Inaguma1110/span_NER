@@ -1,0 +1,7 @@
+T100	Machining 5 8	溝加工
+T101	Machining 5 6	溝
+T102	Machining 6 8	加工
+T170	Machining 3 8	深い溝加工
+T172	Machining 13 17	千鳥刃型
+R28	Relation Arg1:T172 Arg2:T170
+T189	Machining 13 16	千鳥刃

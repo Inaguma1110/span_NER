@@ -1,0 +1,24 @@
+T275	Machining 10 13	切込み
+T277	Machining 22 28	逃げ面摩耗幅
+T278	Machining 22 25	逃げ面
+T279	Machining 25 27	摩耗
+T280	Machining 25 28	摩耗幅
+T281	Machining 40 43	背分力
+T282	Machining 56 62	ブリネル硬さ
+T395	Variable 4 5	a
+R51	Relation Arg1:T395 Arg2:T275
+T396	Unit 6 8	mm
+T397	Variable 14 17	ΔVB
+R80	Relation Arg1:T397 Arg2:T277
+T398	Unit 18 20	mm
+T399	Variable 32 36	ΔF_p
+R81	Relation Arg1:T399 Arg2:T281
+T400	Unit 37 38	N
+T401	Variable 47 50	H_B
+R82	Relation Arg1:T401 Arg2:T282
+T402	Unit 51 54	HBW
+T403	Variable 63 64	k
+R83	Relation Arg1:T403 Arg2:T468
+T468	Machining 65 69	比例常数
+T598	Machining 60 62	硬さ
+T615	Machining 27 28	幅

@@ -1,0 +1,6 @@
+T116	Machining 9 12	工具材
+R178	Relation Arg1:T116 Arg2:T118
+T118	Machining 16 22	切削仕上げ面
+T119	Machining 16 18	切削
+T120	Machining 18 22	仕上げ面
+T290	Machining 18 21	仕上げ

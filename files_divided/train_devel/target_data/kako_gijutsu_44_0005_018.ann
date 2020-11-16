@@ -1,0 +1,5 @@
+T70	Machining 6 8	切削
+T71	Machining 14 16	摩耗
+T72	Machining 17 19	送り
+T80	Machining 12 16	二番摩耗
+R14	Relation Arg1:T80 Arg2:T72

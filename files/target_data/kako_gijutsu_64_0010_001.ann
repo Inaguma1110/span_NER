@@ -1,0 +1,10 @@
+T2	Machining 23 25	加工
+T3	Machining 26 32	コンタリング
+R1	Sub Arg1:T3 Arg2:T2
+T4	Machining 46 49	内外径
+T5	Machining 49 51	加工
+T6	Machining 57 63	コンタリング
+T7	Machining 63 65	加工
+T103	Machining 13 17	コンター
+T104	Machining 57 65	コンタリング加工
+R2	Sub Arg1:T104 Arg2:T2

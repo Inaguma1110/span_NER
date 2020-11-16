@@ -1,0 +1,25 @@
+T176	Machining 0 4	高速切削
+R25	Relation Arg1:T176 Arg2:T178
+R26	Relation Arg1:T176 Arg2:T180
+R27	Relation Arg1:T176 Arg2:T184
+R28	Relation Arg1:T176 Arg2:T248
+R29	Relation Arg1:T176 Arg2:T185
+R30	Relation Arg1:T176 Arg2:T249
+T177	Machining 2 4	切削
+T178	Machining 5 9	加工能率
+T179	Machining 5 7	加工
+T180	Machining 13 19	仕上げ面粗さ
+T181	Machining 13 17	仕上げ面
+T182	Machining 13 16	仕上げ
+T183	Machining 23 25	工具
+T184	Machining 27 29	寿命
+T185	Machining 35 38	高精度
+T186	Machining 38 40	加工
+T187	Machining 57 59	加工
+T188	Machining 81 84	仕上げ
+T189	Machining 81 86	仕上げ加工
+T190	Machining 84 86	加工
+T248	Machining 32 34	品質
+T249	Machining 63 66	コスト
+T270	Machining 17 19	粗さ
+T311	Machining 0 2	高速

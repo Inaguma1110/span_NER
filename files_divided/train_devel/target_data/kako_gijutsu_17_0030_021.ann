@@ -1,0 +1,10 @@
+T51	Machining 10 14	切削速度
+T52	Machining 10 12	切削
+T325	Machining 42 47	再生びびり
+R63	Relation Arg1:T325 Arg2:T326
+T326	Machining 31 35	自励振動
+T365	Machining 33 35	振動
+T374	Machining 44 47	びびり
+T539	Machining 0 2	振動
+T540	Machining 19 22	周波数
+T593	Machining 12 14	速度

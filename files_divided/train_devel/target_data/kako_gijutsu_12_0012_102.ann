@@ -1,0 +1,13 @@
+T368	Machining 8 12	すくい角
+R33	Relation Arg1:T368 Arg2:T366
+T369	Machining 25 29	振動切削
+R73	Relation Arg1:T369 Arg2:T366
+T370	Machining 27 29	切削
+T371	Machining 30 33	親和性
+R56	Relation Arg1:T371 Arg2:T366
+T372	Machining 37 39	工具
+T528	Machining 16 18	刃先
+R34	Relation Arg1:T528 Arg2:T366
+T529	Machining 22 24	潤滑
+R72	Relation Arg1:T529 Arg2:T366
+T164	Machining 25 27	振動

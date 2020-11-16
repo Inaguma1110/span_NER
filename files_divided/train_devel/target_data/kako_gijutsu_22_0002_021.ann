@@ -1,0 +1,8 @@
+T126	Machining 4 6	応力
+T127	Machining 15 17	加工
+T128	Machining 27 31	寸法精度
+T129	Machining 29 31	精度
+T171	Machining 2 6	残留応力
+R18	Relation Arg1:T171 Arg2:T172
+R19	Relation Arg1:T171 Arg2:T128
+T172	Machining 19 21	変形

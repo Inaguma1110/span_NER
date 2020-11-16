@@ -1,0 +1,14 @@
+T39	Machining 2 4	温度
+R10	Relation Arg1:T39 Arg2:T393
+R11	Relation Arg1:T39 Arg2:T394
+R12	Relation Arg1:T39 Arg2:T395
+R90	Relation Arg1:T39 Arg2:T457
+T40	Machining 5 9	切りくず
+T41	Machining 23 25	切削
+T43	Machining 28 30	温度
+T393	Machining 10 15	折れやすさ
+T394	Machining 16 17	色
+T457	Machining 18 22	工作機械
+T458	Machining 28 32	温度上昇
+T395	Machining 23 27	切削油剤
+T546	Machining 25 27	油剤

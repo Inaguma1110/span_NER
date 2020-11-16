@@ -1,0 +1,15 @@
+T298	Machining 10 12	切削
+T299	Machining 16 18	切削
+T300	Machining 21 23	工具
+T301	Machining 24 28	すくい角
+T302	Machining 31 35	切削条件
+R71	Relation Arg1:T302 Arg2:T301
+R83	Relation Arg1:T302 Arg2:T410
+R110	Relation Arg1:T302 Arg2:T401
+T401	Machining 10 15	切削時の幅
+T410	Machining 16 20	切削厚さ
+T1963	Machining 18 20	厚さ
+T1966	Machining 31 33	切削
+T3333	Variable 3 4	ｂ
+T3334	Variable 5 7	ｔ１
+T3335	Variable 8 9	α

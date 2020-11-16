@@ -1,0 +1,18 @@
+T1106	Machining 5 9	切削速度
+R153	Negative Arg1:T1106 Arg2:T1108
+T1107	Machining 5 7	切削
+T1108	Machining 21 25	圧縮応力
+T1109	Machining 23 25	応力
+T1110	Machining 29 33	切削速度
+R154	Positive Arg1:T1110 Arg2:T1236
+T1111	Machining 29 31	切削
+T1112	Machining 52 54	応力
+T1236	Machining 50 54	引張応力
+T1360	Machining 50 52	引張
+T1569	Machining 31 33	速度
+T1583	Machining 7 9	速度
+T924	Machining 21 23	圧縮
+T1658	Trigger 10 12	遅い
+T1659	Trigger 26 28	残り
+T1660	Trigger 34 38	速くなる
+T1661	Trigger 55 57	残る

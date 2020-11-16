@@ -1,0 +1,20 @@
+T66	Machining 0 4	切削速度
+R12	Relation Arg1:T66 Arg2:T69
+T67	Machining 0 2	切削
+T68	Machining 21 25	構成刃先
+R11	Relation Arg1:T68 Arg2:T69
+T69	Machining 31 37	仕上げ面粗さ
+T70	Machining 31 35	仕上げ面
+T71	Machining 31 34	仕上げ
+T72	Machining 69 75	仕上げ面粗さ
+T73	Machining 69 73	仕上げ面
+T74	Machining 69 72	仕上げ
+T241	Quantity 4 7	100
+T242	Unit 7 12	m/min
+T244	Machining 23 25	刃先
+T291	Quantity 44 47	200
+T292	Unit 47 52	m/min
+T330	Machining 35 37	粗さ
+T331	Machining 73 75	粗さ
+T346	Machining 2 4	速度
+T352	Machining 55 58	高速域

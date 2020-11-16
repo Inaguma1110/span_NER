@@ -1,0 +1,8 @@
+T112	Machining 0 4	右ねじれ
+T113	Machining 5 9	左ねじれ
+T114	Machining 39 42	切削力
+T115	Machining 39 41	切削
+T116	Machining 67 69	切削
+T82	Machining 57 59	振動
+T184	Machining 10 13	カッタ
+T212	Machining 34 38	軸方向力

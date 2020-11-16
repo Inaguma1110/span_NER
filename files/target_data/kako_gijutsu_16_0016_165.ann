@@ -1,0 +1,6 @@
+T359	Machining 6 7	熱
+T360	Machining 6 9	熱処理
+R51	Relation Arg1:T360 Arg2:T437
+T361	Machining 12 15	ひずみ
+T362	Machining 20 23	SCM
+T437	Machining 10 15	限界ひずみ

@@ -1,0 +1,11 @@
+T1216	Machining 6 10	超硬合金
+T1217	Machining 10 12	工具
+T1218	Machining 15 17	切削
+R391	Relation Arg1:T1218 Arg2:T1219
+T1219	Machining 22 28	すくい面摩耗
+T2684	Machining 6 8	超硬
+T2686	Machining 8 10	合金
+T2687	Machining 6 12	超硬合金工具
+T2688	Machining 13 14	鋼
+T2689	Machining 22 26	すくい面
+T2690	Machining 26 28	摩耗

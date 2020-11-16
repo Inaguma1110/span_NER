@@ -1,0 +1,8 @@
+T207	Machining 6 11	熱化学反応
+R763	Relation Arg1:T207 Arg2:T2054
+T208	Machining 26 32	コーティング
+T2054	Machining 15 18	化合物
+R765	Relation Arg1:T2054 Arg2:T208
+T2055	Machining 0 3	ＣＶＤ
+R767	Relation Arg1:T2055 Arg2:T2058
+T2057	Machining 19 21	合成

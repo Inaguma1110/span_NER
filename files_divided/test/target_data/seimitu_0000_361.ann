@@ -1,0 +1,19 @@
+T1290	Machining 6 8	工具
+R605	Relation Arg1:T1290 Arg2:T2740
+T1291	Machining 14 16	応力
+T1292	Machining 34 36	工具
+T1293	Machining 47 51	送り速度
+R390	Relation Arg1:T1293 Arg2:T1315
+T1294	Machining 58 60	切削
+T1295	Machining 60 62	応力
+T1296	Machining 63 65	工具
+T1315	Machining 58 62	切削応力
+T2739	Machining 12 14	破壊
+T2740	Machining 12 16	破壊応力
+T2741	Machining 26 29	衝撃力
+R604	Relation Arg1:T2741 Arg2:T3021
+T2742	Machining 42 46	切り込み
+R603	Relation Arg1:T2742 Arg2:T1315
+T2743	Machining 47 49	送り
+T2744	Machining 49 51	速度
+T3021	Machining 34 38	工具形状

@@ -1,0 +1,8 @@
+T107	Machining 10 13	溝加工
+T108	Machining 10 11	溝
+T109	Machining 11 13	加工
+T110	Machining 24 29	側フライス
+T111	Machining 25 29	フライス
+T213	Machining 19 29	組み合わせ側フライス
+T214	Machining 3 13	広い底面を持つ溝加工
+R30	Relation Arg1:T214 Arg2:T213

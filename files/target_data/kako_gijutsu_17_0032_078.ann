@@ -1,0 +1,6 @@
+T205	Machining 16 18	曲げ
+T427	Machining 23 27	固有振動
+T507	Machining 18 20	変形
+T508	Machining 16 20	曲げ変形
+R70	Relation Arg1:T508 Arg2:T427
+T416	Machining 13 15	主軸

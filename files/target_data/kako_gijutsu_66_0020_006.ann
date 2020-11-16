@@ -1,0 +1,12 @@
+T43	Machining 0 4	切削速度
+T44	Machining 0 2	切削
+T45	Machining 5 7	工具
+T46	Machining 7 9	外径
+T157	Machining 5 9	工具外径
+R6	Relation Arg1:T157 Arg2:T43
+T158	Machining 11 21	主軸の毎分の回転速数
+R7	Relation Arg1:T158 Arg2:T43
+T206	Machining 17 21	回転速数
+T216	Machining 11 13	主軸
+T232	Machining 2 4	速度
+T261	Machining 17 19	回転

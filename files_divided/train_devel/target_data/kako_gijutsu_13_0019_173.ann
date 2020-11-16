@@ -1,0 +1,12 @@
+T626	Machining 55 58	工具材
+T628	Machining 86 88	摩耗
+T1387	Machining 42 44	高速
+R97	Relation Arg1:T1387 Arg2:T1389
+T1388	Machining 50 52	高温
+R98	Relation Arg1:T1388 Arg2:T1389
+T1389	Machining 59 61	軟化
+T1390	Machining 77 79	低速
+R99	Relation Arg1:T1390 Arg2:T628
+T1391	Machining 17 19	速度
+T1658	Machining 55 57	工具
+T1696	Machining 81 83	付着

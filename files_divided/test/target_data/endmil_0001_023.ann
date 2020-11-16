@@ -1,0 +1,5 @@
+T70	Machining 0 2	刃数
+R13	Negative Arg1:T70 Arg2:T71
+T71	Machining 10 14	切りくず
+T4456	Trigger 3 6	少ない
+T4457	Trigger 23 28	大きくする

@@ -1,0 +1,9 @@
+T1671	Machining 0 6	コーティング
+T1672	Machining 6 11	エンドミル
+T1673	Machining 13 19	コーティング
+T1674	Machining 27 31	すくい面
+R469	Part Arg1:T1674 Arg2:T1672
+T1675	Machining 32 35	逃げ面
+R470	Part Arg1:T1675 Arg2:T1672
+T1676	Machining 39 45	コーティング
+R485	Part Arg1:T1676 Arg2:T1672

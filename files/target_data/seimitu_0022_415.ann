@@ -1,0 +1,11 @@
+T1453	Machining 0 6	フライス加工
+T1454	Machining 10 12	工具
+R123	Relation Arg1:T1454 Arg2:T2936
+T1455	Machining 22 25	工作物
+R700	Relation Arg1:T1455 Arg2:T3610
+T2934	Machining 0 4	フライス
+T2935	Machining 4 6	加工
+T2936	Machining 18 20	回転
+T2937	Machining 15 17	速度
+T2938	Machining 28 30	速度
+T3610	Machining 31 33	移動

@@ -1,0 +1,8 @@
+T62	Machining 0 2	切削
+T63	Machining 0 4	切削油剤
+T65	Machining 17 19	油性
+T66	Machining 21 24	水溶性
+R42	Sub Arg1:T66 Arg2:T63
+T255	Machining 12 16	不水溶性
+R41	Sub Arg1:T255 Arg2:T63
+T268	Machining 2 4	油剤

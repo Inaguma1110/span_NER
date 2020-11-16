@@ -1,0 +1,14 @@
+T185	Machining 0 4	切りくず
+R44	Relation Arg1:T185 Arg2:T1894
+T186	Machining 5 7	工具
+T187	Machining 21 24	せん断
+T188	Machining 29 32	せん断
+T189	Machining 57 60	せん断
+T1889	Machining 7 9	刃先
+T1890	Machining 5 9	工具刃先
+T1893	Machining 32 34	変形
+T1894	Machining 29 34	せん断変形
+T3258	Machining 57 61	せん断面
+T3259	Machining 61 71	ｓｈｅａｒｐｌａｎｅ
+T3677	Machining 11 15	素材表面
+T3678	Machining 13 15	表面

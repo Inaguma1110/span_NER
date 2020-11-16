@@ -1,0 +1,15 @@
+T511	Machining 9 11	切削
+R170	Sub Arg1:T511 Arg2:T515
+T512	Machining 14 21	総形エンドミル
+R128	Sub Arg1:T512 Arg2:T504
+T513	Machining 22 28	Ｔ溝フライス
+R129	Sub Arg1:T513 Arg2:T504
+T514	Machining 30 34	Ｔ溝切削
+R169	Sub Arg1:T514 Arg2:T511
+R171	Sub Arg1:T514 Arg2:T515
+T515	Machining 35 37	加工
+T2392	Machining 16 21	エンドミル
+T2393	Machining 30 32	Ｔ溝
+T2394	Machining 32 34	切削
+T2395	Machining 22 24	Ｔ溝
+T2396	Machining 24 28	フライス

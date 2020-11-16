@@ -1,0 +1,14 @@
+T1709	Machining 12 14	亀裂
+T1710	Machining 42 44	切削
+T1711	Machining 50 54	仕上げ面
+R501	Relation Arg1:T1711 Arg2:T3644
+T3159	Machining 2 4	脆性
+T3160	Machining 8 10	材料
+T3161	Machining 15 17	成長
+T3162	Machining 17 19	速度
+T3163	Machining 15 19	成長速度
+R650	Positive Arg1:T3163 Arg2:T3644
+T3164	Machining 50 53	仕上げ
+T3644	Machining 59 61	凹凸
+T3795	Trigger 20 23	大きく
+T3796	Trigger 62 67	生じやすい

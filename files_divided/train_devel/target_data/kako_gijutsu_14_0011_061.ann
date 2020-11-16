@@ -1,0 +1,23 @@
+T381	Machining 4 7	被削材
+T382	Machining 23 28	比切削抵抗
+R43	Negative Arg1:T382 Arg2:T388
+T383	Machining 24 28	切削抵抗
+T384	Machining 24 26	切削
+T385	Machining 33 37	切削温度
+R46	Relation Arg1:T385 Arg2:T388
+T386	Machining 33 35	切削
+T387	Machining 35 37	温度
+T388	Machining 44 46	鋳鉄
+R44	Relation Arg1:T388 Arg2:T390
+R45	Relation Arg1:T388 Arg2:T391
+T389	Machining 46 48	FC
+T390	Machining 71 75	構成刃先
+R54	Relation Arg1:T390 Arg2:T391
+T391	Machining 95 99	仕上げ面
+T1289	Machining 46 51	FC300
+T1384	Variable 56 58	Vf
+T27	Machining 26 28	抵抗
+T525	Machining 73 75	刃先
+T547	Machining 95 98	仕上げ
+T1455	Trigger 29 32	小さく
+T1617	Trigger 38 44	上がりにくい

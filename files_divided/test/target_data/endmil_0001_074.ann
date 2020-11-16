@@ -1,0 +1,5 @@
+T172	Machining 0 6	ダイヤモンド
+R750	Relation Arg1:T172 Arg2:T1982
+R820	Relation Arg1:T172 Arg2:T173
+T173	Machining 22 26	熱伝導性
+T1982	Machining 44 47	透光性

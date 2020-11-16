@@ -1,0 +1,9 @@
+T13	Machining 2 6	フライス
+T14	Machining 6 8	削り
+T15	Machining 25 27	削り
+T16	Machining 28 31	肩削り
+T17	Machining 29 31	削り
+T73	Machining 23 27	平面削り
+T12	Machining 0 8	正面フライス削り
+R10	Sub Arg1:T12 Arg2:T73
+R11	Sub Arg1:T12 Arg2:T16

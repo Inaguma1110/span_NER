@@ -1,0 +1,22 @@
+T199	Machining 8 10	工具
+T200	Machining 11 14	工作物
+T201	Machining 34 38	断続切削
+T202	Machining 36 38	切削
+T203	Machining 74 76	加工
+T204	Machining 86 91	固有振動数
+R35	Relation Arg1:T204 Arg2:T285
+R36	Relation Arg1:T204 Arg2:T286
+R54	Relation Arg1:T204 Arg2:T305
+T285	Machining 74 78	加工性能
+T286	Machining 117 119	変形
+T305	Machining 16 18	振動
+T306	Machining 57 59	振動
+R55	Relation Arg1:T306 Arg2:T285
+T423	Machining 88 90	振動
+T424	Machining 43 45	振動
+T425	Machining 41 45	強制振動
+T474	Machining 124 126	振動
+T494	Machining 30 33	びびり
+T495	Machining 28 33	再生びびり
+T516	Machining 1 4	周波数
+T517	Machining 69 73	工作機械

@@ -1,0 +1,19 @@
+T1245	Machining 0 2	工具
+T1246	Machining 2 5	切れ刃
+R388	Part Arg1:T1246 Arg2:T1245
+T1247	Machining 6 8	欠損
+T1248	Machining 9 14	チッピング
+R365	Sub Arg1:T1248 Arg2:T1247
+R392	Relation Arg1:T1248 Arg2:T1250
+T1249	Machining 30 33	切れ刃
+R393	Relation Arg1:T1249 Arg2:T3596
+T1250	Machining 44 46	切削
+T1251	Machining 59 62	切れ刃
+T1252	Machining 62 64	欠損
+T1308	Machining 59 64	切れ刃欠損
+R378	Sub Arg1:T1308 Arg2:T1247
+T3594	Machining 0 5	工具切れ刃
+T3595	Machining 19 21	刃先
+R600	Relation Arg1:T3595 Arg2:T3600
+T3596	Machining 41 43	脱落
+T3600	Machining 27 29	欠け

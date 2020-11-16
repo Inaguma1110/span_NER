@@ -1,0 +1,18 @@
+T46	Machining 0 3	親和性
+R8	Relation Arg1:T46 Arg2:T47
+T47	Machining 13 17	構成刃先
+T48	Machining 35 41	仕上げ面粗さ
+T49	Machining 35 39	仕上げ面
+T50	Machining 35 38	仕上げ
+T51	Machining 51 54	親和性
+R9	Relation Arg1:T51 Arg2:T48
+R36	Relation Arg1:T51 Arg2:T53
+T53	Machining 57 61	工具材種
+T55	Machining 62 66	高速切削
+R5	Relation Arg1:T55 Arg2:T48
+T56	Machining 64 66	切削
+T54	Machining 15 17	刃先
+T316	Machining 18 20	付着
+T320	Machining 57 59	工具
+T30	Machining 39 41	粗さ
+T38	Machining 62 64	高速

@@ -1,0 +1,7 @@
+T1329	Machining 0 4	切削油剤
+R379	Relation Arg1:T1329 Arg2:T1330
+R681	Relation Arg1:T1329 Arg2:T3503
+T1330	Machining 13 17	耐溶着性
+T3503	Machining 9 12	冷却性
+T3555	Machining 0 2	切削
+T3556	Machining 2 4	油剤

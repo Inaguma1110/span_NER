@@ -1,0 +1,22 @@
+T1524	Machining 2 8	フライス加工
+R459	Sub Arg1:T1524 Arg2:T1559
+R460	Sub Arg1:T1524 Arg2:T1527
+T1525	Machining 10 13	切削力
+T1526	Machining 25 27	切削
+T1527	Machining 30 34	断続切削
+T1528	Machining 38 40	工具
+T1529	Machining 40 43	切れ刃
+R447	Part Arg1:T1529 Arg2:T1528
+T1530	Machining 56 58	応力
+R422	Positive Arg1:T1530 Arg2:T1533
+T1531	Machining 59 61	温度
+R421	Positive Arg1:T1531 Arg2:T1533
+T1532	Machining 65 68	切れ刃
+T1533	Machining 69 73	疲労破壊
+T1559	Machining 22 27	非定常切削
+T2977	Machining 69 71	疲労
+T2978	Machining 71 73	破壊
+T2979	Machining 32 34	切削
+T2980	Machining 38 43	工具切れ刃
+T3779	Trigger 62 64	働き
+T3780	Trigger 74 79	生じやすい

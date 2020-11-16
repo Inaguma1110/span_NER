@@ -1,0 +1,14 @@
+T1505	Machining 7 11	切削油剤
+T1506	Machining 17 20	加工物
+T1507	Machining 32 37	エンドミル
+T1508	Machining 59 66	エンドミル加工
+T3687	Machining 7 9	切削
+T3688	Machining 9 11	油剤
+T3689	Machining 42 45	保持具
+R874	Relation Arg1:T3689 Arg2:T1508
+T3690	Machining 27 31	工作機械
+T3700	Machining 21 25	保持技術
+R873	Relation Arg1:T3700 Arg2:T1508
+T3701	Machining 38 40	接合
+T3702	Machining 59 64	エンドミル
+T3703	Machining 64 66	加工

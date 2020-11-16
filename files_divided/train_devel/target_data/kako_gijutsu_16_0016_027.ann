@@ -1,0 +1,5 @@
+T69	Machining 3 5	温度
+T402	Machining 1 5	加熱温度
+R19	Positive Arg1:T402 Arg2:T401
+T68	Machining 1 3	加熱
+T714	Trigger 6 8	高い

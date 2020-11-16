@@ -1,0 +1,9 @@
+T1319	Machining 3 5	亀裂
+T1320	Machining 18 20	応力
+T1321	Machining 34 36	亀裂
+T1322	Machining 45 47	応力
+T1323	Machining 49 53	切削条件
+R458	Relation Arg1:T1323 Arg2:T1324
+T1324	Machining 59 62	切削力
+R397	Relation Arg1:T1324 Arg2:T1322
+T2773	Machining 49 51	切削

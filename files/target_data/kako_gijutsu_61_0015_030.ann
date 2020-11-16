@@ -1,0 +1,13 @@
+T523	Machining 9 12	スタブ
+R123	Sub Arg1:T523 Arg2:T623
+T524	Machining 13 17	ショート
+R124	Sub Arg1:T524 Arg2:T623
+T525	Machining 18 23	レギュラー
+R125	Sub Arg1:T525 Arg2:T623
+T526	Machining 24 29	ミディアム
+R126	Sub Arg1:T526 Arg2:T623
+T527	Machining 30 33	ロング
+R127	Sub Arg1:T527 Arg2:T623
+T528	Machining 34 42	エキストラロング
+R128	Sub Arg1:T528 Arg2:T623
+T623	Machining 0 2	刃長

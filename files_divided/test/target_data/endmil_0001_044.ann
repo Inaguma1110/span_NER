@@ -1,0 +1,7 @@
+T108	Machining 13 17	耐摩耗性
+T1852	Machining 5 8	炭化物
+T2295	Machining 9 11	生成
+T4465	Trigger 9 11	生成
+T4466	Trigger 18 20	向上
+T4891	Machining 4 8	複炭化物
+R906	Positive Arg1:T4891 Arg2:T108

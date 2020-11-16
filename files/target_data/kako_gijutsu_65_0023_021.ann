@@ -1,0 +1,10 @@
+T135	Machining 0 2	工具
+T136	Machining 10 14	高速切削
+T137	Machining 12 14	切削
+T138	Machining 26 28	切削
+T139	Machining 33 38	クーラント
+T303	Machining 18 24	外部給油方式
+T349	Machining 10 12	高速
+T350	Machining 3 7	高速回転
+T351	Machining 3 5	高速
+T352	Machining 5 7	回転

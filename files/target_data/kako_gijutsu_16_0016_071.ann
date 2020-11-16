@@ -1,0 +1,8 @@
+T132	Machining 15 19	すくい角
+T133	Machining 23 27	すくい角
+T386	Machining 12 19	バックすくい角
+R25	Relation Arg1:T386 Arg2:T410
+T387	Machining 20 27	サイドすくい角
+R26	Relation Arg1:T387 Arg2:T410
+T410	Machining 1 11	上向きカール数巻き形
+T630	Machining 4 7	カール

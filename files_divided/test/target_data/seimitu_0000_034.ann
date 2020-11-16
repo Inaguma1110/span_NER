@@ -1,0 +1,16 @@
+T109	Machining 0 3	切削幅
+R32	Relation Arg1:T109 Arg2:T111
+T110	Machining 17 19	切削
+T111	Machining 36 40	切りくず
+T112	Machining 54 58	切りくず
+T113	Machining 65 68	切れ刃
+T114	Machining 83 86	切れ刃
+T115	Machining 105 107	切削
+T1839	Machining 0 2	切削
+T1840	Machining 19 21	厚さ
+T1841	Machining 17 21	切削厚さ
+T3228	Machining 102 107	２次元切削
+T3235	Machining 110 127	ｏｒｔｈｏｇｏｎａｌｃｕｔｔｉｎｇ
+T3236	Machining 128 150	ｔｗｏーｄｉｍｅｎｓｉｏｎａｌｃｕｔｔｉｎｇ
+T3674	Variable 21 23	ｔ１
+T3676	Variable 3 4	ｂ

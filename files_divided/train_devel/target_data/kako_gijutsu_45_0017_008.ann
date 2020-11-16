@@ -1,0 +1,5 @@
+T24	Machining 2 4	切削
+T25	Machining 4 6	刃数
+T26	Machining 13 16	切削力
+T68	Machining 0 6	同時切削刃数
+R10	Relation Arg1:T68 Arg2:T26

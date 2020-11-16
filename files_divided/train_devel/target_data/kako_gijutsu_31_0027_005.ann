@@ -1,0 +1,5 @@
+T13	Machining 19 20	溝
+T14	Machining 24 26	加工
+T18	Machining 1 10	リセッシングツール
+R3	Sub Arg1:T18 Arg2:T24
+T39	Machining 11 12	穴

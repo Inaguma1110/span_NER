@@ -1,0 +1,13 @@
+T3	Machining 0 6	正面フライス
+T4	Machining 2 6	フライス
+T5	Machining 18 20	工具
+T6	Machining 36 42	仕上げ面粗さ
+T7	Machining 36 40	仕上げ面
+T8	Machining 36 39	仕上げ
+T198	Machining 18 25	工具刃先突出量
+R26	Relation Arg1:T198 Arg2:T6
+T210	Machining 12 14	多刃
+R35	Relation Arg1:T210 Arg2:T3
+T237	Machining 20 22	刃先
+T301	Machining 22 25	突出量
+T323	Machining 40 42	粗さ

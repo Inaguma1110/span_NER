@@ -1,0 +1,8 @@
+T887	Machining 0 5	エンドミル
+T888	Machining 12 14	送り
+T3013	Machining 6 8	回転
+T3014	Machining 20 26	アップカット
+T3015	Machining 27 33	ダウンカット
+T4278	Machining 12 16	送り方向
+R800	Relation Arg1:T4278 Arg2:T3014
+R801	Relation Arg1:T4278 Arg2:T3015

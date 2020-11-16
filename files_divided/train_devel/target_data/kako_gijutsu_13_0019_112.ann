@@ -1,0 +1,26 @@
+T390	Machining 5 9	切削条件
+T391	Machining 5 7	切削
+T393	Machining 12 18	工具摩耗速度
+T394	Machining 12 14	工具
+T395	Machining 14 16	摩耗
+T396	Machining 14 18	摩耗速度
+T397	Machining 19 23	切削温度
+R74	Positive Arg1:T397 Arg2:T393
+T398	Machining 19 21	切削
+T399	Machining 21 23	温度
+T400	Machining 24 28	切削速度
+T401	Machining 24 26	切削
+T402	Machining 49 53	凝着摩耗
+T403	Machining 49 51	凝着
+T404	Machining 51 53	摩耗
+T405	Machining 57 59	温度
+T406	Machining 71 73	摩耗
+T407	Machining 74 78	切削温度
+T408	Machining 74 76	切削
+T409	Machining 76 78	温度
+T410	Machining 79 83	切削速度
+T411	Machining 79 81	切削
+T1852	Machining 26 28	速度
+T1912	Machining 16 18	速度
+T1948	Trigger 34 39	大きくなる
+T1982	Trigger 30 32	高い

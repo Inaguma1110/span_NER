@@ -1,0 +1,10 @@
+T422	Machining 25 27	応力
+T423	Machining 49 51	応力
+T1376	Machining 45 51	繰り返し応力
+R77	Positive Arg1:T1376 Arg2:T1377
+T1377	Machining 74 76	欠け
+T638	Machining 3 6	切り刃
+T640	Machining 7 9	欠け
+T642	Machining 3 9	切り刃の欠け
+T1983	Trigger 77 79	発生
+T2000	Trigger 41 44	多数回

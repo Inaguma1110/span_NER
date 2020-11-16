@@ -1,0 +1,11 @@
+T954	Machining 0 3	被削材
+T955	Machining 9 14	快削添加物
+R119	Relation Arg1:T955 Arg2:T958
+T956	Machining 11 14	添加物
+T957	Machining 18 22	すくい面
+T958	Machining 30 36	内部潤滑効果
+T959	Machining 32 36	潤滑効果
+T1515	Machining 5 7	Pb
+T935	Machining 23 25	付着
+T1397	Machining 9 11	快削
+T1611	Machining 32 34	潤滑

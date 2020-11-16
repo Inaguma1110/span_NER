@@ -1,0 +1,16 @@
+T957	Machining 39 43	耐剥離性
+T2379	Machining 0 6	コーテング法
+T2380	Machining 8 12	化学蒸着
+R283	Sub Arg1:T2380 Arg2:T2379
+R567	Relation Arg1:T2380 Arg2:T2384
+R568	Relation Arg1:T2380 Arg2:T957
+R569	Relation Arg1:T2380 Arg2:T2385
+T2381	Machining 13 16	ＣＶＤ
+T2382	Machining 19 23	物理蒸着
+R333	Sub Arg1:T2382 Arg2:T2379
+R570	Relation Arg1:T2382 Arg2:T2384
+R571	Relation Arg1:T2382 Arg2:T957
+R572	Relation Arg1:T2382 Arg2:T2385
+T2383	Machining 24 27	ＰＶＤ
+T2384	Machining 35 38	安定性
+T2385	Machining 44 46	母材

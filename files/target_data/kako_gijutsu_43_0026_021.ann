@@ -1,0 +1,11 @@
+T104	Machining 33 36	チップ
+T105	Machining 55 58	切れ刃
+T250	Machining 53 59	正面切れ刃角
+T251	Machining 29 31	刃先
+T252	Quantity 13 16	１～３
+T253	Unit 16 18	mm
+T254	Machining 21 25	さらい刃
+T294	Machining 0 2	刃先
+T295	Machining 5 8	カッタ
+T296	Machining 0 8	刃先交換式カッタ
+T298	Machining 29 36	刃先交換チップ

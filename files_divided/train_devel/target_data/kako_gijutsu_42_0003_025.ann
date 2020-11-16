@@ -1,0 +1,15 @@
+T49	Machining 3 9	エンゲージ角
+R1	Relation Arg1:T49 Arg2:T102
+R2	Relation Arg1:T49 Arg2:T103
+T50	Machining 3 8	エンゲージ
+T51	Machining 31 34	被削材
+T52	Machining 42 48	エンゲージ角
+T53	Machining 42 47	エンゲージ
+T54	Machining 55 57	加工
+T102	Machining 13 19	切り刃接触長
+R12	Negative Arg1:T102 Arg2:T103
+T103	Machining 64 66	寿命
+T113	Machining 13 16	切り刃
+T149	Machining 38 41	カッタ
+T151	Trigger 67 74	悪影響を及ぼす
+T152	Trigger 20 24	長くなる

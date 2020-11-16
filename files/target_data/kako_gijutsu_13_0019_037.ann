@@ -1,0 +1,10 @@
+T102	Machining 10 12	摩耗
+R23	Positive Arg1:T102 Arg2:T1351
+T105	Machining 44 46	摩耗
+T1351	Machining 30 33	摩擦熱
+R24	Positive Arg1:T1351 Arg2:T105
+T1591	Machining 30 32	摩擦
+T1595	Machining 32 33	熱
+T1935	Trigger 34 38	多くなる
+T1934	Trigger 19 23	多くなる
+T1936	Trigger 47 52	大きくなる

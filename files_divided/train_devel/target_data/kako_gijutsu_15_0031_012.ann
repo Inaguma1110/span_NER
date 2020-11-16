@@ -1,0 +1,24 @@
+T55	Machining 0 4	切削加工
+T56	Machining 0 2	切削
+T57	Machining 2 4	加工
+T58	Machining 8 12	切削抵抗
+T59	Machining 8 10	切削
+T60	Machining 38 40	加工
+T61	Machining 42 44	工具
+T62	Machining 45 48	工作物
+T63	Machining 52 55	切削力
+R4	Relation Arg1:T63 Arg2:T66
+R5	Positive Arg1:T63 Arg2:T803
+R6	Positive Arg1:T63 Arg2:T804
+R7	Relation Arg1:T63 Arg2:T61
+R8	Relation Arg1:T63 Arg2:T62
+T65	Machining 77 80	工作物
+T66	Machining 81 85	加工精度
+T67	Machining 81 83	加工
+T68	Machining 83 85	精度
+T803	Machining 63 65	変形
+T804	Machining 66 68	変位
+T18	Machining 10 12	抵抗
+T1148	Machining 52 54	切削
+T298	Trigger 69 71	生じ
+T355	Trigger 56 58	より

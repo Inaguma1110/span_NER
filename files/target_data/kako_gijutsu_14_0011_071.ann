@@ -1,0 +1,11 @@
+T447	Machining 6 14	切削仕上げ面粗さ
+R64	Relation Arg1:T447 Arg2:T454
+T448	Machining 6 12	切削仕上げ面
+T449	Machining 6 8	切削
+T451	Machining 8 12	仕上げ面
+T453	Machining 15 19	加工硬化
+T454	Machining 15 21	加工硬化指数
+T455	Machining 15 17	加工
+T572	Machining 8 11	仕上げ
+T577	Machining 17 19	硬化
+T1468	Machining 12 14	粗さ

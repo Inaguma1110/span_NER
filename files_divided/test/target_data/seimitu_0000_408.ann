@@ -1,0 +1,13 @@
+T1429	Machining 9 11	工具
+T1430	Machining 21 23	加工
+T1431	Machining 24 27	ドリル
+R430	Sub Arg1:T1431 Arg2:T1429
+T1432	Machining 30 33	穴あけ
+T1433	Machining 33 35	加工
+T1434	Machining 44 46	加工
+T1435	Machining 46 48	機構
+T1552	Machining 17 23	ミリング加工
+R440	Sub Arg1:T1552 Arg2:T1434
+T1553	Machining 30 35	穴あけ加工
+R441	Sub Arg1:T1553 Arg2:T1434
+T2923	Machining 17 21	ミリング

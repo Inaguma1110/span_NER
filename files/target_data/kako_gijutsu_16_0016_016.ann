@@ -1,0 +1,8 @@
+T34	Machining 0 4	切りくず
+T35	Machining 5 7	工具
+T36	Machining 7 11	すくい面
+T37	Machining 37 41	すくい面
+T38	Machining 52 54	温度
+T454	Quantity 23 27	1000
+T455	Unit 27 28	℃
+T456	Machining 30 32	高温

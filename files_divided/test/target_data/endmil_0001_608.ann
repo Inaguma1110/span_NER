@@ -1,0 +1,13 @@
+T1757	Machining 0 3	水溶性
+T1758	Machining 0 7	水溶性切削油剤
+R514	Positive Arg1:T1758 Arg2:T1760
+R501	Relation Arg1:T1758 Arg2:T1761
+T1759	Machining 16 24	ボールエンドミル
+T1760	Machining 31 33	摩耗
+R493	Relation Arg1:T1760 Arg2:T1761
+T1761	Machining 43 46	加工面
+T4134	Machining 3 5	切削
+T4135	Machining 5 7	油剤
+T4451	Machining 3 7	切削油剤
+T4855	Trigger 34 38	早期進行
+T4856	Trigger 8 10	使用

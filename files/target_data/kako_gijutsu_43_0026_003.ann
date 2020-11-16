@@ -1,0 +1,8 @@
+T9	Machining 13 19	仕上げ面粗さ
+T10	Machining 13 17	仕上げ面
+T11	Machining 13 16	仕上げ
+T184	Machining 7 12	正面刃振れ
+R1	Relation Arg1:T184 Arg2:T9
+T303	Machining 9 12	刃振れ
+T324	Machining 17 19	粗さ
+T302	Machining 3 6	軸方向

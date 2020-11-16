@@ -1,0 +1,26 @@
+T625	Machining 22 24	熱源
+T626	Machining 48 50	応力
+T627	Machining 74 78	摩擦応力
+R217	Relation Arg1:T627 Arg2:T2138
+T628	Machining 79 81	擦過
+T770	Machining 79 83	擦過速度
+R238	Relation Arg1:T770 Arg2:T2138
+T771	Machining 46 50	変形応力
+R161	Relation Arg1:T771 Arg2:T2138
+T2134	Machining 3 5	質点
+T2135	Machining 5 7	速度
+T2136	Machining 3 7	質点速度
+T2137	Machining 8 10	変形
+T2138	Machining 25 28	発熱率
+T2139	Machining 37 41	変形速度
+R162	Relation Arg1:T2139 Arg2:T2138
+T2140	Machining 29 32	変形域
+T2141	Machining 37 39	変形
+T2142	Machining 39 41	速度
+T2143	Machining 46 48	変形
+T2144	Machining 69 72	接触域
+T2145	Machining 74 76	摩擦
+T2146	Machining 76 78	応力
+T2147	Machining 81 83	速度
+T3656	Variable 51 55	τｓγ’
+T3657	Variable 84 88	τｔＶｃ

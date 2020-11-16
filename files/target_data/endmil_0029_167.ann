@@ -1,0 +1,12 @@
+T462	Machining 4 7	切削熱
+R95	Positive Arg1:T462 Arg2:T464
+R788	Relation Arg1:T462 Arg2:T2340
+T463	Machining 10 12	工具
+T464	Machining 20 24	塑性変形
+T2338	Machining 4 6	切削
+T2339	Machining 6 7	熱
+T2340	Machining 13 15	軟化
+T2343	Machining 20 22	塑性
+T2344	Machining 22 24	変形
+T4530	Trigger 13 15	軟化
+T4531	Trigger 25 27	発生

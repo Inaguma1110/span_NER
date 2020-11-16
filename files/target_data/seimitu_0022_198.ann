@@ -1,0 +1,8 @@
+T713	Machining 2 4	摩擦
+T714	Machining 4 6	熱源
+T715	Machining 9 11	工具
+T716	Machining 18 20	熱源
+T779	Machining 16 20	固定熱源
+R249	Sub Arg1:T779 Arg2:T2180
+T2180	Machining 2 6	摩擦熱源
+T3725	Variable 6 8	ｑｆ

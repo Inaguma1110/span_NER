@@ -1,0 +1,16 @@
+T469	Machining 8 11	合金鋼
+T470	Machining 12 16	連続切削
+T471	Machining 14 16	切削
+T472	Machining 20 26	コーティング
+T473	Machining 40 42	超硬
+T474	Machining 40 44	超硬合金
+T475	Machining 64 66	超硬
+T476	Machining 64 68	超硬合金
+T779	Machining 4 7	炭素鋼
+T234	Machining 42 44	合金
+T485	Machining 66 68	合金
+T903	Machining 34 44	コーティッド超硬合金
+T904	Machining 58 68	コーティッド超硬合金
+T948	Machining 20 28	コーティング膜厚
+T990	Machining 31 34	CVD
+T991	Machining 55 58	PVD

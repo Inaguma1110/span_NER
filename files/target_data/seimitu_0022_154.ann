@@ -1,0 +1,13 @@
+T530	Machining 10 12	工具
+T531	Machining 12 16	すくい面
+T532	Machining 23 27	切りくず
+T533	Machining 34 37	摩擦力
+R138	Relation Arg1:T533 Arg2:T3441
+T534	Machining 44 48	すくい面
+T2086	Machining 27 29	流出
+T2087	Machining 23 31	切りくず流出方向
+T3438	Variable 37 39	Ｆｔ
+T3439	Machining 49 53	垂直な力
+R140	Relation Arg1:T3439 Arg2:T3441
+T3440	Variable 53 55	Ｎｔ
+T3441	Machining 10 16	工具すくい面

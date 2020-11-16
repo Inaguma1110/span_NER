@@ -1,0 +1,7 @@
+T1278	Machining 33 35	摩耗
+T3431	Machining 30 33	こすり
+T3432	Machining 13 19	セメンタイト
+R868	Positive Arg1:T3432 Arg2:T4390
+T4390	Machining 30 35	こすり摩耗
+T4760	Trigger 20 22	点在
+T4761	Trigger 36 40	早めます

@@ -1,0 +1,5 @@
+T80	Machining 8 10	刃数
+T169	Machining 2 6	回転速度
+T171	Variable 6 7	z
+T248	Machining 2 4	回転
+T249	Machining 4 6	速度

@@ -1,0 +1,5 @@
+T647	Machining 23 27	潤滑効果
+T1123	Machining 12 14	油剤
+R172	Relation Arg1:T1123 Arg2:T647
+T1176	Machining 23 25	潤滑
+T1281	Machining 5 7	高速

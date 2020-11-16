@@ -1,0 +1,39 @@
+T0	Machining 4 8	切削条件
+T1	Machining 4 6	切削
+T2	Machining 37 39	剛性
+T3	Machining 49 53	構成刃先
+T4	Machining 75 79	構成刃先
+T5	Machining 108 112	切削速度
+T6	Machining 108 110	切削
+T7	Machining 133 136	チップ
+T8	Machining 145 151	コーティング
+T9	Machining 152 157	サーメット
+T11	Machining 162 164	工具
+T12	Machining 181 184	被削材
+T13	Machining 208 210	剛性
+T14	Machining 338 344	フライス加工
+T15	Machining 338 342	フライス
+T16	Machining 342 344	加工
+T17	Machining 59 61	低速
+R1	Relation Arg1:T17 Arg2:T3	
+R2	Relation Arg1:T5 Arg2:T4	
+T18	Machining 33 36	アーバ
+#1	AnnotatorNotes T18	Y・M
+T19	Machining 27 30	カッタ
+#2	AnnotatorNotes T19	Y・M
+R3	Relation Arg1:T2 Arg2:T18	
+R4	Relation Arg1:T2 Arg2:T19	
+R5	Relation Arg1:T2 Arg2:T3	
+#3	AnnotatorNotes R5	Y・M
+#4	AnnotatorNotes R4	Y・M
+#5	AnnotatorNotes R3	Y・M
+T20	Machining 162 166	工具材料
+#6	AnnotatorNotes T20	Y・M
+T10	Machining 77 79	刃先
+T21	Machining 124 126	刃先
+T22	Machining 51 53	刃先
+T23	Machining 124 129	刃先交換式
+T24	Machining 133 138	チップ材種
+T25	Machining 87 90	びびり
+T26	Machining 91 93	振動
+T27	Machining 164 166	材料

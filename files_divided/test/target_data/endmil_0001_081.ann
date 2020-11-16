@@ -1,0 +1,19 @@
+T188	Machining 0 6	ダイヤモンド
+T189	Machining 9 11	硬さ
+R755	Relation Arg1:T189 Arg2:T1997
+T190	Machining 12 16	熱伝導率
+R756	Relation Arg1:T190 Arg2:T1997
+T191	Machining 66 72	ダイヤモンド
+T192	Machining 75 83	熱的化学的安定性
+T1997	Machining 19 27	立方晶窒化ホウ素
+R553	Negative Arg1:T1997 Arg2:T4208
+R554	Positive Arg1:T1997 Arg2:T192
+R555	Relation Arg1:T1997 Arg2:T2024
+T1998	Machining 28 45	ｃｕｂｉｃＢｏｒｏｎＮｉｔｒｉｄｅ
+T2002	Machining 46 49	ｃＢＮ
+T2016	Machining 52 56	鉄系材料
+T2017	Machining 54 56	材料
+T4208	Machining 58 61	反応性
+T4422	Machining 80 83	安定性
+T4490	Trigger 62 65	小さく
+T4491	Trigger 84 90	優れています

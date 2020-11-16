@@ -1,0 +1,10 @@
+T223	Machining 13 15	切削
+T224	Machining 19 23	切削抵抗
+R54	Relation Arg1:T224 Arg2:T226
+T225	Machining 19 21	切削
+T226	Machining 24 28	切削速度
+T227	Machining 24 26	切削
+T505	Machining 10 15	2次元切削
+T507	Machining 6 9	炭素鋼
+T560	Machining 21 23	抵抗
+T612	Machining 26 28	速度

@@ -1,0 +1,16 @@
+T879	Machining 12 15	送り量
+T880	Machining 39 41	送り
+T881	Machining 71 77	仕上げ面粗さ
+T882	Machining 90 93	送り量
+R290	Relation Arg1:T882 Arg2:T881
+T2997	Machining 6 8	回転
+T2998	Machining 12 14	送り
+T2999	Machining 24 31	ピックフィード
+R799	Relation Arg1:T2999 Arg2:T3000
+T3000	Machining 44 47	面粗さ
+T3001	Machining 56 63	ピックフィード
+T3002	Machining 71 74	仕上げ
+T3003	Machining 71 75	仕上げ面
+T3004	Machining 75 77	粗さ
+T3005	Machining 84 86	回転
+T4276	Machining 90 92	送り

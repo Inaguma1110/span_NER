@@ -1,0 +1,8 @@
+T268	Machining 0 2	工具
+T269	Machining 3 6	被削材
+T270	Machining 7 11	切りくず
+T1373	Machining 28 31	熱振動
+R66	Relation Arg1:T1373 Arg2:T273
+T1599	Machining 28 29	熱
+T1600	Machining 29 31	振動
+T1910	Machining 13 15	高温

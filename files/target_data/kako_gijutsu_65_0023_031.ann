@@ -1,0 +1,14 @@
+T213	Machining 8 10	超硬
+T214	Machining 8 12	超硬合金
+T215	Machining 22 27	エンドミル
+T217	Machining 30 34	工具材種
+R31	Relation Arg1:T217 Arg2:T219
+T218	Machining 30 32	工具
+T219	Machining 43 47	耐摩耗性
+T222	Machining 15 21	cBN焼結体
+R30	Positive Arg1:T222 Arg2:T219
+T245	Machining 3 12	コーテッド超硬合金
+R29	Positive Arg1:T245 Arg2:T219
+T206	Machining 10 12	合金
+T371	Trigger 35 37	適用
+T372	Trigger 48 51	高める

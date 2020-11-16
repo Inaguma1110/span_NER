@@ -1,0 +1,16 @@
+T2	Machining 0 5	側フライス
+T3	Machining 1 5	フライス
+T4	Machining 7 10	外周刃
+R10	Part Arg1:T4 Arg2:T2
+T5	Machining 11 13	側刃
+R11	Part Arg1:T5 Arg2:T2
+T6	Machining 31 33	切削
+T8	Machining 49 50	溝
+T9	Machining 50 52	加工
+T10	Machining 59 61	加工
+T153	Machining 49 52	溝加工
+R19	Relation Arg1:T153 Arg2:T2
+T154	Machining 53 56	幅決め
+R20	Relation Arg1:T154 Arg2:T2
+T155	Machining 57 61	段差加工
+R21	Relation Arg1:T155 Arg2:T2

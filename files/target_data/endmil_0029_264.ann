@@ -1,0 +1,13 @@
+T780	Machining 2 6	切りくず
+T781	Machining 28 32	切りくず
+R212	Negative Arg1:T781 Arg2:T782
+T782	Machining 34 35	熱
+T783	Machining 45 50	エンドミル
+T784	Machining 55 56	熱
+T2839	Machining 51 53	刃先
+R790	Positive Arg1:T2839 Arg2:T784
+R791	Part Arg1:T2839 Arg2:T783
+T2840	Machining 57 59	流入
+T2842	Machining 36 38	流入
+T4638	Trigger 41 44	下がり
+T4639	Trigger 60 62	増加

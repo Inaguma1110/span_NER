@@ -1,0 +1,9 @@
+T1323	Machining 3 7	切りくず
+R406	Positive Arg1:T1323 Arg2:T1325
+T1324	Machining 16 20	すくい面
+T1325	Machining 21 27	クレータ摩耗
+T3497	Machining 21 25	クレータ
+T3498	Machining 25 27	摩耗
+T3554	Machining 11 14	カール
+T4784	Trigger 28 30	発生
+T4785	Trigger 11 15	カールし

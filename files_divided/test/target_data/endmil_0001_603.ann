@@ -1,0 +1,13 @@
+T1737	Machining 16 18	工具
+T1738	Machining 49 51	加工
+T1739	Machining 65 67	刃数
+R490	Positive Arg1:T1739 Arg2:T1741
+R513	Part Arg1:T1739 Arg2:T1740
+T1740	Machining 71 76	エンドミル
+T1741	Machining 96 101	びびり振動
+T4115	Machining 77 80	2枚刃
+T4116	Machining 96 99	びびり
+T4117	Machining 99 101	振動
+T4118	Machining 83 86	3枚刃
+T4850	Trigger 68 71	少ない
+T4851	Trigger 101 103	防止

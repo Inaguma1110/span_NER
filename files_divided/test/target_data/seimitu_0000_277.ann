@@ -1,0 +1,18 @@
+T1019	Machining 0 6	逃げ面摩耗幅
+R308	Relation Arg1:T1019 Arg2:T1020
+T1020	Machining 11 15	切削時間
+T1021	Machining 19 23	工具材料
+T1022	Machining 43 46	工具材
+T1023	Machining 62 64	切削
+T2447	Machining 0 3	逃げ面
+T2448	Machining 3 6	摩耗幅
+T2449	Machining 11 13	切削
+T2450	Machining 19 21	工具
+T2451	Machining 21 23	材料
+T2452	Machining 39 43	焼結合金
+T2453	Machining 39 41	焼結
+T2454	Machining 41 43	合金
+T2455	Machining 39 46	焼結合金工具材
+T3695	Variable 7 9	ＶＡ
+T3701	Machining 3 5	摩耗
+T3703	Machining 5 6	幅

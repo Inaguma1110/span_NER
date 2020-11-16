@@ -1,0 +1,9 @@
+T379	Machining 6 9	熱処理
+T380	Machining 11 13	加工
+T381	Machining 19 21	応力
+T839	Machining 17 21	残留応力
+T840	Machining 27 29	変形
+T895	Machining 17 24	残留応力の解放
+R48	Relation Arg1:T895 Arg2:T840
+T1168	Machining 6 7	熱
+T1291	Machining 17 19	残留

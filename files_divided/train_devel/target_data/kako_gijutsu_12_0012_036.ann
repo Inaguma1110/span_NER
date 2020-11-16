@@ -1,0 +1,11 @@
+T144	Machining 3 6	熱伝導
+R32	Negative Arg1:T144 Arg2:T148
+R21	Positive Arg1:T144 Arg2:T524
+T145	Machining 12 15	切削点
+T146	Machining 12 14	切削
+T148	Machining 38 40	温度
+T524	Machining 27 29	熱量
+R22	Negative Arg1:T524 Arg2:T148
+T639	Machining 9 11	材料
+T514	Trigger 41 43	低下
+T520	Trigger 34 36	多い

@@ -1,0 +1,36 @@
+T224	Machining 0 5	エンドミル
+T225	Machining 15 17	工具
+T226	Machining 22 28	仕上げ面粗さ
+R10	Relation Arg1:T226 Arg2:T550
+T227	Machining 22 26	仕上げ面
+T228	Machining 22 25	仕上げ
+T229	Machining 29 31	加工
+T230	Machining 37 41	工具摩耗
+T231	Machining 37 39	工具
+T232	Machining 39 41	摩耗
+T233	Machining 43 46	加工物
+T235	Machining 50 53	加工物
+T237	Machining 54 56	バリ
+R14	Relation Arg1:T237 Arg2:T550
+T238	Machining 59 62	加工物
+T239	Machining 59 61	加工
+T240	Machining 63 66	コーナ
+T241	Machining 63 68	コーナ欠け
+R15	Relation Arg1:T241 Arg2:T550
+T242	Machining 72 75	切削長
+R17	Relation Arg1:T242 Arg2:T550
+T243	Machining 72 74	切削
+T550	Machining 6 8	寿命
+T551	Machining 29 36	加工寸法の変化
+R11	Relation Arg1:T551 Arg2:T550
+T552	Machining 37 42	工具摩耗量
+R12	Relation Arg1:T552 Arg2:T550
+T553	Machining 43 49	加工物の数量
+R13	Relation Arg1:T553 Arg2:T550
+T554	Machining 69 71	火花
+R16	Relation Arg1:T554 Arg2:T550
+T555	Machining 76 80	作業時間
+R18	Relation Arg1:T555 Arg2:T550
+T89	Machining 26 28	粗さ
+T686	Machining 6 12	寿命判定基準
+T78	Machining 66 68	欠け

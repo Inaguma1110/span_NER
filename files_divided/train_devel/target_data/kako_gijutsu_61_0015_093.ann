@@ -1,0 +1,45 @@
+T409	Machining 3 5	切削
+T410	Machining 3 7	切削工具
+T411	Machining 5 7	工具
+T412	Machining 13 17	工具材料
+T413	Machining 13 15	工具
+T414	Machining 19 21	硬さ
+T415	Machining 28 34	ダイヤモンド
+T416	Machining 38 44	ダイヤモンド
+T418	Machining 49 55	セラミックス
+R164	Sub Arg1:T418 Arg2:T412
+T419	Machining 56 61	サーメット
+R165	Sub Arg1:T419 Arg2:T412
+T420	Machining 64 66	超硬
+T421	Machining 62 68	WC超硬合金
+R166	Sub Arg1:T421 Arg2:T412
+T423	Machining 73 75	超硬
+T424	Machining 73 77	超硬合金
+T425	Machining 78 83	粉末ハイス
+R169	Sub Arg1:T425 Arg2:T412
+T426	Machining 80 83	ハイス
+T427	Machining 87 89	靭性
+T428	Machining 97 100	ハイス
+T430	Machining 112 118	セラミックス
+R170	Relation Arg1:T430 Arg2:T429
+T431	Machining 120 122	旋削
+T432	Machining 123 125	工具
+T433	Machining 132 135	チップ
+T434	Machining 148 153	エンドミル
+T435	Machining 155 157	靭性
+T536	Machining 26 34	天然ダイヤモンド
+R161	Sub Arg1:T536 Arg2:T412
+T537	Machining 36 44	焼結ダイヤモンド
+R162	Sub Arg1:T537 Arg2:T412
+T635	Machining 45 48	cBN
+R163	Sub Arg1:T635 Arg2:T412
+T636	Machining 95 100	溶製ハイス
+R168	Sub Arg1:T636 Arg2:T412
+T637	Machining 120 125	旋削用工具
+T422	Machining 69 77	超微粒子超硬合金
+R167	Sub Arg1:T422 Arg2:T412
+T661	Machining 66 68	合金
+T662	Machining 75 77	合金
+T406	Machining 128 130	刃先
+T429	Machining 128 135	刃先交換チップ
+T669	Machining 15 17	材料

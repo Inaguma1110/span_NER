@@ -1,0 +1,6 @@
+T480	Machining 11 15	所要動力
+R56	NegativeLinear Arg1:T480 Arg2:T481
+T481	Machining 29 33	機械効率
+T482	Variable 33 34	η
+T204	Quantity 38 47	0.70~0.90
+T593	Machining 13 15	動力

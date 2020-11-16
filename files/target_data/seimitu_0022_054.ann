@@ -1,0 +1,12 @@
+T171	Machining 10 14	せん断型
+T172	Machining 14 18	切りくず
+T173	Machining 22 26	切りくず
+T174	Machining 52 56	切りくず
+T209	Machining 10 18	せん断型切りくず
+T210	Machining 19 26	連続型切りくず
+R42	Sub Arg1:T210 Arg2:T209
+T71	Machining 27 41	ｃｏｎｔｉｎｕｏｕｓｔｙｐｅ
+T1969	Machining 57 78	ｄｉｓｃｏｎｔｉｎｕｏｕｓｔｙｐｅｃｈｉｐ
+T3253	Machining 48 56	不連続型切りくず
+R664	Sub Arg1:T3253 Arg2:T209
+T3254	Machining 2 5	流れ型

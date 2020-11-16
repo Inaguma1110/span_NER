@@ -1,0 +1,5 @@
+T2655	Machining 8 12	回転速度
+R611	Relation Arg1:T2655 Arg2:T2658
+T2656	Machining 8 10	回転
+T2657	Machining 10 12	速度
+T2658	Machining 13 15	振れ

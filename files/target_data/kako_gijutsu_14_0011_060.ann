@@ -1,0 +1,18 @@
+T368	Machining 16 20	S45C
+T369	Machining 21 25	焼ならし
+T370	Machining 27 29	鋳鉄
+T371	Machining 29 31	FC
+T372	Machining 35 37	旋削
+T373	Machining 41 45	切削速度
+R42	Relation Arg1:T373 Arg2:T375
+T374	Machining 41 43	切削
+T375	Machining 46 54	切削仕上げ面粗さ
+T376	Machining 46 52	切削仕上げ面
+T377	Machining 46 48	切削
+T379	Machining 48 52	仕上げ面
+T1287	Machining 8 16	機械構造用炭素鋼
+T1288	Machining 29 34	FC300
+T524	Machining 48 51	仕上げ
+T347	Machining 13 16	炭素鋼
+T1467	Machining 52 54	粗さ
+T1547	Machining 43 45	速度

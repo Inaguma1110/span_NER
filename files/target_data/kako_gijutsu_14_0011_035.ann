@@ -1,0 +1,19 @@
+T201	Machining 0 5	工具面温度
+T202	Machining 0 2	工具
+T203	Machining 3 5	温度
+T204	Machining 9 12	工具材
+R162	Relation Arg1:T204 Arg2:T201
+T206	Machining 27 30	工具材
+R163	Relation Arg1:T206 Arg2:T208
+T208	Machining 31 39	切削仕上げ面粗さ
+T209	Machining 31 37	切削仕上げ面
+T210	Machining 31 33	切削
+T212	Machining 33 37	仕上げ面
+T214	Machining 50 54	構成刃先
+T215	Machining 73 75	切削
+T1365	Machining 71 75	低速切削
+T331	Machining 33 36	仕上げ
+T340	Machining 52 54	刃先
+T1448	Machining 37 39	粗さ
+T1544	Machining 71 73	低速
+T1545	Machining 62 64	速度

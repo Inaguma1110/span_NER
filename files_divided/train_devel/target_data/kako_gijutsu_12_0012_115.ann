@@ -1,0 +1,6 @@
+T411	Machining 8 11	切削点
+T413	Machining 14 16	温度
+T496	Machining 12 14	切刃
+T497	Machining 12 16	切刃温度
+R119	Relation Arg1:T497 Arg2:T282
+T610	Machining 8 10	切削

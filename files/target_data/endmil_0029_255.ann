@@ -1,0 +1,26 @@
+T758	Machining 6 9	送り量
+R199	Negative Arg1:T758 Arg2:T759
+R200	Negative Arg1:T758 Arg2:T760
+R201	Positive Arg1:T758 Arg2:T763
+R202	Positive Arg1:T758 Arg2:T764
+T759	Machining 11 15	加工能率
+T760	Machining 23 27	工具寿命
+T761	Machining 35 38	切れ刃
+R630	Relation Arg1:T761 Arg2:T2792
+T762	Machining 39 42	被削面
+T763	Machining 62 66	加工硬化
+T764	Machining 67 72	びびり振動
+T2787	Machining 6 8	送り
+T2788	Machining 11 13	加工
+T2789	Machining 23 25	工具
+T2792	Machining 51 55	上すべり
+T2793	Machining 62 64	加工
+T2794	Machining 64 66	硬化
+T2795	Machining 67 70	びびり
+T2796	Machining 70 72	振動
+T2797	Machining 73 75	誘発
+T2803	Machining 25 27	寿命
+T4627	Trigger 3 5	過少
+T4628	Trigger 16 19	下げる
+T4629	Trigger 28 30	低下
+T4630	Trigger 73 75	誘発

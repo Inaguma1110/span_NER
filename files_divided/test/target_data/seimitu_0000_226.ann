@@ -1,0 +1,10 @@
+T833	Machining 15 18	耐熱性
+T834	Machining 19 22	切れ刃
+T835	Machining 29 32	加工性
+T836	Machining 33 37	被研削性
+T837	Machining 44 46	靭性
+T2223	Machining 0 2	Ｗ系
+T2224	Machining 3 6	Ｍｏ系
+T3537	Machining 12 14	Ｗ系
+R220	Relation Arg1:T3537 Arg2:T835
+R221	Relation Arg1:T3537 Arg2:T837

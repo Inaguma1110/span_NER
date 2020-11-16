@@ -1,0 +1,13 @@
+T58	Machining 4 6	工具
+T59	Machining 7 9	外径
+T60	Machining 17 22	エンドミル
+T61	Machining 27 31	切削速度
+T62	Machining 27 29	切削
+T63	Machining 40 42	切削
+T190	Quantity 32 34	50
+T191	Unit 34 39	m/min
+T207	Machining 50 54	回転速度
+T226	Variable 54 55	n
+T242	Machining 29 31	速度
+T243	Machining 50 52	回転
+T244	Machining 52 54	速度

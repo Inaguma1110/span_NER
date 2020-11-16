@@ -1,0 +1,14 @@
+T143	Machining 8 10	黄銅
+T145	Machining 14 16	切削
+T146	Machining 20 24	切削速度
+R43	Relation Arg1:T146 Arg2:T148
+T147	Machining 20 22	切削
+T148	Machining 25 29	切削抵抗
+T149	Machining 25 27	切削
+T386	Variable 33 34	T
+T387	Variable 38 39	N
+T388	Machining 30 33	接線力
+T389	Machining 35 38	法線力
+T495	Machining 11 16	2次元切削
+T549	Machining 27 29	抵抗
+T606	Machining 22 24	速度

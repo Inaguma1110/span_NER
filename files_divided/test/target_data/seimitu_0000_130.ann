@@ -1,0 +1,9 @@
+T453	Machining 12 15	せん断
+T454	Machining 15 17	仕事
+T455	Machining 21 26	せん断応力
+R197	Relation Arg1:T455 Arg2:T592
+T592	Machining 12 17	せん断仕事
+T2022	Machining 21 24	せん断
+T2023	Machining 24 26	応力
+T3385	Variable 17 19	Ｕｓ
+T3386	Variable 27 29	τｓ

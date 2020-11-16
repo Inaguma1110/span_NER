@@ -1,0 +1,14 @@
+T761	Machining 20 26	高速度工具鋼
+R195	Positive Arg1:T761 Arg2:T764
+R196	Positive Arg1:T761 Arg2:T1434
+R197	Positive Arg1:T761 Arg2:T766
+T763	Machining 23 26	工具鋼
+T764	Machining 53 57	高温硬さ
+T765	Machining 55 57	硬さ
+T766	Machining 61 65	被研削性
+T1434	Machining 58 60	靱性
+T1478	Machining 11 15	粉末冶金
+T1877	Machining 20 23	高速度
+T1878	Machining 53 55	高温
+T1994	Trigger 67 69	改善
+T1995	Trigger 49 51	実現

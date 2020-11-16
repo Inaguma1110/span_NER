@@ -1,0 +1,13 @@
+T109	Machining 6 9	ひずみ
+T110	Machining 10 13	被削材
+T111	Machining 18 21	ひずみ
+T112	Machining 42 45	ひずみ
+T113	Machining 59 63	切りくず
+T479	Machining 4 9	限界ひずみ
+T482	Unit 51 52	％
+T485	Unit 71 72	％
+T550	Machining 40 45	限界ひずみ
+T480	Quantity 46 51	20～40
+T481	Quantity 67 71	2～10
+T613	Machining 16 21	限界ひずみ
+T659	Machining 37 39	母材

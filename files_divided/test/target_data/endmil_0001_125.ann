@@ -1,0 +1,7 @@
+T321	Machining 0 3	穴加工
+T322	Machining 6 13	エンドミル加工
+T323	Machining 25 29	切りくず
+T2212	Machining 1 3	加工
+T2213	Machining 6 11	エンドミル
+T2214	Machining 11 13	加工
+T2224	Machining 25 31	切りくず形状

@@ -1,0 +1,11 @@
+T37	Machining 0 6	アルミニウム
+T38	Machining 17 19	刃形
+T39	Machining 23 26	逃げ角
+R17	Relation Arg1:T39 Arg2:T72
+T40	Machining 33 37	切りくず
+T41	Machining 47 51	すくい面
+T42	Machining 54 57	仕上げ
+T73	Machining 12 19	ハイレーキ刃形
+R16	Relation Arg1:T73 Arg2:T72
+T74	Machining 52 57	鏡面仕上げ
+R18	Relation Arg1:T74 Arg2:T72

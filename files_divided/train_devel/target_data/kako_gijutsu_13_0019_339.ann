@@ -1,0 +1,7 @@
+T1264	Machining 3 7	断続切削
+R185	Sub Arg1:T1264 Arg2:T1443
+T1265	Machining 5 7	切削
+T1266	Machining 17 19	超硬
+T1267	Machining 17 21	超硬工具
+T1268	Machining 19 21	工具
+T1443	Machining 10 12	条件

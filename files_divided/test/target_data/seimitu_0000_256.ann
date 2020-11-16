@@ -1,0 +1,16 @@
+T930	Machining 2 10	ダイヤモンド工具
+T931	Machining 14 22	ダイヤモンド工具
+T932	Machining 56 59	切れ刃
+T2339	Machining 0 2	焼結
+T2344	Machining 2 8	ダイヤモンド
+T2345	Machining 8 10	工具
+T2346	Machining 0 10	焼結ダイヤモンド工具
+R546	Relation Arg1:T2346 Arg2:T2351
+R555	Relation Arg1:T2346 Arg2:T932
+T2347	Machining 11 14	単結晶
+T2348	Machining 11 22	単結晶ダイヤモンド工具
+T2349	Machining 14 20	ダイヤモンド
+T2350	Machining 20 22	工具
+T2351	Machining 49 51	強度
+T2352	Machining 64 67	単結晶
+T3726	Machining 26 28	結晶

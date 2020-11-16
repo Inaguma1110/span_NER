@@ -1,0 +1,9 @@
+T62	Machining 0 5	アルミ合金
+T63	Machining 6 14	マグネシウム合金
+T64	Machining 24 26	加工
+T65	Machining 32 34	加工
+T66	Machining 36 40	すくい角
+T67	Machining 43 47	すくい角
+R91	Relation Arg1:T67 Arg2:T68
+T68	Machining 51 54	切れ刃
+T831	Machining 17 23	非鉄軟質合金

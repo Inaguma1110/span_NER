@@ -1,0 +1,7 @@
+T54	Machining 0 5	エンドミル
+T55	Machining 8 12	加工精度
+T56	Machining 8 10	加工
+T57	Machining 10 12	精度
+T58	Machining 22 24	精度
+T238	Machining 13 24	工作機械の幾何学的精度
+R16	Relation Arg1:T238 Arg2:T55

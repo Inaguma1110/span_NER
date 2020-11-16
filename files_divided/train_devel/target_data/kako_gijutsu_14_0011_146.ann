@@ -1,0 +1,24 @@
+T1038	Machining 3 7	切削速度
+R143	Relation Arg1:T1038 Arg2:T1040
+T1039	Machining 3 5	切削
+T1040	Machining 17 21	構成刃先
+T1041	Machining 39 43	冷却作用
+R144	Positive Arg1:T1041 Arg2:T1044
+R146	Relation Arg1:T1041 Arg2:T1045
+R158	Negative Arg1:T1041 Arg2:T1352
+T1043	Machining 57 59	温度
+T1044	Machining 64 68	構成刃先
+R145	Relation Arg1:T1044 Arg2:T1045
+T1045	Machining 75 79	仕上げ面
+T1351	Machining 46 49	切削剤
+T1352	Machining 55 59	刃面温度
+T1114	Machining 19 21	刃先
+T1116	Machining 39 41	冷却
+T1125	Machining 55 57	刃面
+T1136	Machining 66 68	刃先
+T1140	Machining 75 78	仕上げ
+T1456	Machining 46 48	切削
+T1568	Machining 5 7	速度
+T1656	Trigger 60 63	下がり
+T1657	Trigger 69 75	大きくなって
+T1652	Trigger 44 46	強い

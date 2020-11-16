@@ -1,0 +1,18 @@
+T242	Machining 35 39	構成刃先
+T243	Machining 45 47	凝着
+T244	Machining 50 54	仕上げ面
+T1366	Machining 7 9	Sn
+R202	Sub Arg1:T1366 Arg2:T1532
+T1367	Machining 10 12	Zn
+R203	Sub Arg1:T1367 Arg2:T1532
+T1368	Machining 13 15	Ag
+R204	Sub Arg1:T1368 Arg2:T1532
+T1369	Machining 18 20	Pb
+R205	Sub Arg1:T1369 Arg2:T1532
+T25	Machining 43 45	刃先
+T392	Machining 37 39	刃先
+T403	Machining 43 47	刃先凝着
+T420	Machining 50 53	仕上げ
+T1532	Machining 24 33	周期律B準属の金属
+R206	Relation Arg1:T1532 Arg2:T242
+R207	Relation Arg1:T1532 Arg2:T244

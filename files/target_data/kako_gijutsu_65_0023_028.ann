@@ -1,0 +1,13 @@
+T180	Machining 3 10	エンドミル切削
+T181	Machining 3 8	エンドミル
+T182	Machining 8 10	切削
+T183	Machining 12 14	旋削
+T184	Machining 15 20	ドリル加工
+T185	Machining 15 18	ドリル
+T186	Machining 18 20	加工
+T187	Machining 31 34	被削材
+T188	Machining 53 55	切削
+R25	Relation Arg1:T188 Arg2:T189
+T189	Machining 61 62	熱
+T243	Machining 43 47	断続接触
+T317	Machining 24 26	刃先

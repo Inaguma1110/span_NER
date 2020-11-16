@@ -1,0 +1,4 @@
+T856	Machining 39 43	表面粗さ
+R66	Relation Arg1:T856 Arg2:T857
+T857	Machining 44 51	図面指定寸法差
+T1226	Machining 41 43	粗さ

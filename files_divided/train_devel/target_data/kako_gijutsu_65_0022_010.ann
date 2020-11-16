@@ -1,0 +1,13 @@
+T77	Machining 38 43	極圧添加剤
+T78	Machining 68 71	合金鋼
+T79	Machining 72 74	加工
+T250	Machining 24 30	不活性極圧油
+R36	Sub Arg1:T250 Arg2:T248
+T270	Machining 40 43	添加剤
+T216	Machining 46 49	極圧剤
+T220	Machining 52 54	油剤
+T290	Machining 61 63	油剤
+T291	Machining 58 63	汎用性油剤
+T331	Machining 66 67	鋼
+T348	Machining 35 43	塩素系極圧添加剤
+T226	Machining 27 30	極圧油

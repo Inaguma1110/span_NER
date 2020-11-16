@@ -1,0 +1,5 @@
+T37	Machining 3 7	すくい角
+T763	Machining 8 16	ネガティブレーキ
+R86	Relation Arg1:T763 Arg2:T37
+T764	Machining 17 25	ポジティブレーキ
+R87	Relation Arg1:T764 Arg2:T37

@@ -1,0 +1,17 @@
+T12	Machining 0 3	真円度
+T14	Machining 21 23	剛性
+R23	Relation Arg1:T14 Arg2:T12
+T66	Machining 18 20	精度
+R4	Relation Arg1:T66 Arg2:T12
+T68	Machining 33 37	主軸歯車
+T70	Machining 38 43	かみ合い率
+R5	Relation Arg1:T70 Arg2:T66
+R24	Relation Arg1:T70 Arg2:T14
+T71	Machining 63 72	フローティング構造
+R20	Relation Arg1:T71 Arg2:T66
+R25	Relation Arg1:T71 Arg2:T14
+T88	Machining 12 14	主軸
+T89	Machining 33 35	主軸
+T90	Machining 35 37	歯車
+T92	Machining 14 17	軸受け
+T99	Machining 53 56	トルク

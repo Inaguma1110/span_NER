@@ -1,0 +1,3 @@
+T76	Machining 4 7	被削材
+R16	Relation Arg1:T76 Arg2:T97
+T97	Machining 8 11	カッタ

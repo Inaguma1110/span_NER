@@ -1,0 +1,6 @@
+T3705	Machining 0 3	保持具
+T3706	Machining 8 12	接合方式
+T3707	Machining 17 33	ＢＴテーパ（7／24テーパ）方式
+R708	Sub Arg1:T3707 Arg2:T3706
+T3708	Machining 56 59	ＨＳＫ
+R709	Sub Arg1:T3708 Arg2:T3706

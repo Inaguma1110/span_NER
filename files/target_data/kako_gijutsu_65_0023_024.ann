@@ -1,0 +1,26 @@
+T151	Machining 3 5	切削
+T152	Machining 3 7	切削油剤
+T153	Machining 12 14	環境
+T154	Machining 37 39	環境
+T155	Machining 57 59	切削
+T156	Machining 57 61	切削油剤
+R22	Relation Arg1:T156 Arg2:T240
+R23	Relation Arg1:T156 Arg2:T154
+R24	Relation Arg1:T156 Arg2:T242
+T157	Machining 67 72	ドライ切削
+T158	Machining 70 72	切削
+T159	Machining 88 93	ドライ切削
+T160	Machining 91 93	切削
+T161	Machining 105 111	コーティング
+T162	Machining 130 132	精度
+T163	Machining 133 137	工具寿命
+T164	Machining 133 135	工具
+T165	Machining 142 147	ドライ切削
+T166	Machining 145 147	切削
+T240	Machining 26 28	公害
+T242	Machining 46 49	コスト
+T287	Machining 5 7	油剤
+T288	Machining 59 61	油剤
+T304	Machining 16 18	油剤
+T323	Machining 135 137	寿命
+T364	Machining 98 101	潤滑性

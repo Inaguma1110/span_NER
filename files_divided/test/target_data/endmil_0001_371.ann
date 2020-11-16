@@ -1,0 +1,11 @@
+T1140	Machining 3 6	外周刃
+R353	Relation Arg1:T1140 Arg2:T1141
+T1141	Machining 22 25	加工面
+T1142	Machining 63 66	外周刃
+R354	Relation Arg1:T1142 Arg2:T1141
+T3248	Machining 26 28	粗さ
+T3250	Machining 22 24	加工
+T3251	Quantity 32 35	100
+T3252	Unit 35 39	μｍＲｚ
+T3253	Quantity 73 78	20～50
+T3254	Unit 78 82	μｍＲｚ

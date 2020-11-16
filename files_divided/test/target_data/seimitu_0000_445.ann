@@ -1,0 +1,12 @@
+T1579	Machining 2 6	切削速度
+R464	Positive Arg1:T1579 Arg2:T1581
+T1580	Machining 17 19	工具
+T1581	Machining 20 25	逃げ面摩耗
+T2999	Machining 2 4	切削
+T3000	Machining 4 6	速度
+T3001	Machining 20 23	逃げ面
+T3002	Machining 7 10	外周部
+T3003	Machining 35 38	外周部
+T3004	Machining 23 25	摩耗
+T3783	Trigger 12 14	高い
+T3784	Trigger 39 44	大きく成る

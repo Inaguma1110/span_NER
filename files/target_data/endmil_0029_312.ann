@@ -1,0 +1,5 @@
+T937	Machining 5 9	切りくず
+R804	Relation Arg1:T937 Arg2:T939
+T938	Machining 10 14	すくい面
+R805	Relation Arg1:T938 Arg2:T939
+T939	Machining 16 18	凝着

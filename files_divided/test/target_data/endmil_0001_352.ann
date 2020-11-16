@@ -1,0 +1,9 @@
+T1083	Machining 8 12	側面切削
+T1084	Machining 16 21	エンドミル
+T1085	Machining 22 26	ねじれ角
+R313	Relation Arg1:T1085 Arg2:T1087
+T1086	Machining 27 30	加工面
+T1087	Machining 27 32	加工面精度
+T3183	Machining 10 12	切削
+T3187	Machining 30 32	精度
+T4320	Machining 27 29	加工

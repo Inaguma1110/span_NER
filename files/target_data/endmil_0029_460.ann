@@ -1,0 +1,12 @@
+T1421	Machining 0 6	アルミニウム
+T1422	Machining 7 15	アルミニウム合金
+T1423	Machining 16 18	切削
+T1424	Machining 23 27	切りくず
+T1425	Machining 40 44	すくい角
+R441	Relation Arg1:T1425 Arg2:T1424
+T1426	Machining 49 56	チップポケット
+R433	Part Arg1:T1426 Arg2:T1427
+T1427	Machining 63 68	エンドミル
+T4327	Machining 7 13	アルミニウム
+T4330	Machining 13 15	合金
+T4393	Machining 49 52	チップ

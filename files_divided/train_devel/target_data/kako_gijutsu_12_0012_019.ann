@@ -1,0 +1,17 @@
+T87	Machining 0 4	切削温度
+R17	Relation Arg1:T87 Arg2:T636
+R18	Relation Arg1:T87 Arg2:T512
+R19	Relation Arg1:T87 Arg2:T109
+T88	Machining 0 2	切削
+T89	Machining 2 4	温度
+T91	Machining 6 8	熱源
+T92	Machining 12 14	工具
+T93	Machining 15 18	被削材
+T94	Machining 20 21	熱
+T512	Machining 20 23	熱抵抗
+T541	Variable 4 5	θ
+T80	Machining 21 23	抵抗
+T82	Machining 24 26	冷却
+T90	Machining 26 28	放熱
+T636	Machining 9 11	強さ
+T109	Machining 24 30	冷却放熱状況

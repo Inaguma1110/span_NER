@@ -1,0 +1,9 @@
+T311	Machining 0 4	せん断角
+T312	Machining 18 20	切削
+T313	Machining 22 28	切りくず厚さ
+R73	Relation Arg1:T313 Arg2:T311
+T1967	Machining 26 28	厚さ
+T3339	Machining 0 3	せん断
+T3340	Variable 5 6	φ
+T3341	Machining 22 26	切りくず
+T3342	Variable 28 30	ｔ2

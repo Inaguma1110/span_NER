@@ -1,0 +1,5 @@
+T318	Machining 8 11	合金鋼
+T319	Machining 23 27	焼ならし
+T320	Machining 34 37	ひずみ
+T627	Machining 32 37	限界ひずみ
+T661	Machining 12 19	球状化焼鈍し材

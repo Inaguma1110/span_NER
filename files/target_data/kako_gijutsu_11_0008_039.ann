@@ -1,0 +1,13 @@
+T178	Machining 0 4	切削速度
+R18	Relation Arg1:T178 Arg2:T534
+T179	Machining 0 2	切削
+T180	Machining 10 14	構成刃先
+T181	Machining 46 50	切削抵抗
+T182	Machining 46 48	切削
+T534	Machining 15 19	高温軟化
+T556	Machining 48 50	抵抗
+T588	Machining 12 14	刃先
+T589	Machining 17 19	軟化
+T610	Machining 2 4	速度
+T627	Machining 33 35	高速
+T631	Machining 15 17	高温

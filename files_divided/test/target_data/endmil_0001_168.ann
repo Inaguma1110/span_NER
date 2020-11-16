@@ -1,0 +1,30 @@
+T465	Machining 0 7	超硬エンドミル
+T466	Machining 11 16	エンドミル
+T467	Machining 17 21	高速切削
+T468	Machining 27 31	冷却効果
+T469	Machining 35 39	切削油剤
+R98	Positive Arg1:T469 Arg2:T472
+R162	Relation Arg1:T469 Arg2:T468
+T472	Machining 64 70	熱応力ひずみ
+R96	Positive Arg1:T472 Arg2:T473
+T473	Machining 73 76	熱亀裂
+T2345	Machining 0 2	超硬
+T2346	Machining 2 7	エンドミル
+T2347	Machining 8 11	ｃＢＮ
+T2348	Machining 64 67	熱応力
+T2349	Machining 8 16	ｃＢＮエンドミル
+T2350	Machining 17 19	高速
+T2351	Machining 19 21	切削
+T2352	Machining 46 48	発熱
+R582	Positive Arg1:T2352 Arg2:T472
+T2353	Machining 49 52	急冷却
+R583	Relation Arg1:T2353 Arg2:T472
+T2354	Machining 27 29	冷却
+T2355	Machining 35 37	切削
+T2356	Machining 37 39	油剤
+T2357	Machining 77 85	サーマルクラック
+T470	Machining 67 70	ひずみ
+T4532	Trigger 40 42	使用
+T4533	Trigger 53 59	繰り返される
+T4534	Trigger 71 73	生じ
+T4535	Trigger 87 89	発生

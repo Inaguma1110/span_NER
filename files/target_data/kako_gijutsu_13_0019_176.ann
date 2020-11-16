@@ -1,0 +1,5 @@
+T633	Machining 35 38	被削性
+R101	Relation Arg1:T633 Arg2:T1697
+T1328	Machining 14 18	ベラーグ
+T1697	Machining 45 49	寿命曲線
+T1759	Machining 45 47	寿命

@@ -1,0 +1,10 @@
+T1033	Machining 0 4	工具寿命
+T1034	Machining 0 2	工具
+T1035	Machining 5 9	工具摩耗
+R133	NegativeLinear Arg1:T1035 Arg2:T1033
+T1036	Machining 5 7	工具
+T1037	Machining 7 9	摩耗
+T1416	Machining 20 22	寿命
+T1417	Variable 23 32	exp(E/Rθ)
+R134	Linear Arg1:T1417 Arg2:T1416
+T1781	Machining 2 4	寿命

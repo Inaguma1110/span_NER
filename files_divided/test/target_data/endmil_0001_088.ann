@@ -1,0 +1,11 @@
+T206	Machining 0 6	コーティング
+T2042	Machining 13 16	ＣＶＤ
+R761	Sub Arg1:T2042 Arg2:T206
+T2043	Machining 17 40	ＣｈｅｍｉｃａｌＶａｐｅｒＤｅｐｏｓｉｔｉｏｎ
+T2044	Machining 41 45	化学蒸着
+T2045	Machining 48 51	ＰＶＤ
+R762	Sub Arg1:T2045 Arg2:T206
+T2046	Machining 52 75	ＰｈｙｓｉｃａｌＶａｐｅｒＤｅｐｏｓｉｔｉｏｎ
+T2047	Machining 76 80	物理蒸着
+T2069	Machining 43 45	蒸着
+T2070	Machining 78 80	蒸着

@@ -1,0 +1,21 @@
+T207	Machining 0 6	ステンレス鋼
+R68	Relation Arg1:T207 Arg2:T347
+T209	Machining 28 32	旋盤加工
+T210	Machining 30 32	加工
+T211	Machining 59 61	送り
+T212	Machining 61 63	加工
+T213	Machining 67 72	セラミック
+T214	Machining 67 74	セラミック工具
+T215	Machining 72 74	工具
+T289	Machining 42 47	高周波振動
+R38	Relation Arg1:T289 Arg2:T290
+T290	Machining 67 77	セラミック工具の寿命
+T345	Machining 7 13	高マンガン鋼
+R67	Relation Arg1:T345 Arg2:T347
+T346	Machining 14 21	ニッケル基合金
+R66	Relation Arg1:T346 Arg2:T347
+T347	Machining 24 27	難削材
+T430	Machining 45 47	振動
+T531	Machining 28 30	旋盤
+T481	Machining 75 77	寿命
+T604	Machining 55 57	高速

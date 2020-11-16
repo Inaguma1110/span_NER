@@ -1,0 +1,10 @@
+T303	Machining 0 4	工具寿命
+T304	Machining 0 2	工具
+T305	Machining 15 21	境界部の摩耗
+R25	Negative Arg1:T305 Arg2:T303
+T306	Machining 19 21	摩耗
+T290	Machining 12 14	刃先
+T688	Machining 2 4	寿命
+T701	Machining 15 18	境界部
+T599	Trigger 5 8	長める
+T608	Trigger 22 28	小さく抑える

@@ -1,0 +1,7 @@
+T101	Machining 0 4	切りくず
+T102	Machining 5 9	曲げ試験
+T103	Machining 5 7	曲げ
+T104	Machining 14 18	切りくず
+T105	Machining 23 26	ひずみ
+T385	Machining 21 26	限界ひずみ
+T477	Variable 27 31	ε’_B

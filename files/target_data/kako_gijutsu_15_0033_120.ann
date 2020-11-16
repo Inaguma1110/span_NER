@@ -1,0 +1,11 @@
+T386	Machining 5 9	切削加工
+T387	Machining 5 7	切削
+T388	Machining 7 9	加工
+T389	Machining 23 25	応力
+T390	Machining 32 35	工作物
+T391	Machining 37 39	応力
+T841	Machining 21 25	残留応力
+R49	Relation Arg1:T841 Arg2:T842
+T842	Machining 48 50	変形
+T1293	Machining 21 23	残留
+T1327	Machining 12 14	除去

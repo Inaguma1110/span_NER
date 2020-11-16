@@ -1,0 +1,10 @@
+T22	Machining 7 9	送り
+R5	Positive Arg1:T22 Arg2:T75
+T23	Machining 16 18	摩耗
+T24	Machining 25 27	送り
+R6	Relation Arg1:T24 Arg2:T74
+T25	Machining 33 35	摩耗
+T74	Machining 33 36	摩耗量
+T75	Machining 16 19	摩耗量
+T103	Trigger 10 15	大きくなれ
+T104	Trigger 20 23	増える

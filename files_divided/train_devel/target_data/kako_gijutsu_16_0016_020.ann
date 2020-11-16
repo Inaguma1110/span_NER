@@ -1,0 +1,8 @@
+T45	Machining 2 6	切りくず
+T46	Machining 6 8	温度
+T47	Machining 9 13	切削速度
+T48	Machining 9 11	切削
+T459	Quantity 14 16	50
+T460	Unit 16 21	m/min
+T690	Machining 11 13	速度
+T696	Machining 2 8	切りくず温度

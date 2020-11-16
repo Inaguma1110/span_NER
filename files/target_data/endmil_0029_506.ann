@@ -1,0 +1,10 @@
+T1534	Machining 0 7	総形エンドミル
+R925	Relation Arg1:T1534 Arg2:T4448
+T1535	Machining 19 20	溝
+T1536	Machining 20 24	すくい面
+T3744	Machining 25 28	再研削
+T3745	Machining 8 18	ラフィングエンドミル
+R926	Relation Arg1:T3745 Arg2:T4448
+T3746	Machining 2 7	エンドミル
+T3747	Machining 13 18	エンドミル
+T4448	Machining 19 24	溝すくい面

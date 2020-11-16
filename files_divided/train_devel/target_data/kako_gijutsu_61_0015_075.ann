@@ -1,0 +1,10 @@
+T336	Machining 10 16	切削仕上げ面
+T337	Machining 10 12	切削
+T338	Machining 12 16	仕上げ面
+T339	Machining 12 15	仕上げ
+T543	Machining 17 20	面粗さ
+T573	Machining 0 3	切れ味
+R40	Negative Arg1:T573 Arg2:T543
+T502	Machining 18 20	粗さ
+T712	Trigger 4 6	低下
+T713	Trigger 21 25	悪くなる

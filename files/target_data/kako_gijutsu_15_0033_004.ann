@@ -1,0 +1,9 @@
+T29	Machining 0 4	加工精度
+T30	Machining 0 2	加工
+T31	Machining 2 4	精度
+T32	Machining 8 12	寸法精度
+R137	Sub Arg1:T32 Arg2:T29
+T33	Machining 10 12	精度
+T34	Machining 13 17	形状精度
+R138	Sub Arg1:T34 Arg2:T29
+T35	Machining 15 17	精度

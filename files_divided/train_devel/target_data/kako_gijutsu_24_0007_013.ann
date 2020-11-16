@@ -1,0 +1,15 @@
+T44	Machining 5 7	加工
+T45	Machining 16 21	インコネル
+R8	Relation Arg1:T45 Arg2:T61
+T46	Machining 28 30	加工
+T47	Machining 41 45	切削条件
+T48	Machining 41 43	切削
+T49	Machining 48 52	切削速度
+T50	Machining 48 50	切削
+T51	Machining 56 58	加工
+T52	Machining 12 15	チタン
+R9	Relation Arg1:T52 Arg2:T61
+T53	Machining 39 40	鋼
+T60	Machining 0 4	高硬度鋼
+T61	Machining 24 27	難削材
+T67	Machining 50 52	速度

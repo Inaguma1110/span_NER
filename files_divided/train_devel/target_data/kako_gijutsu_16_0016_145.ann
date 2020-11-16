@@ -1,0 +1,17 @@
+T310	Machining 17 21	快削黄銅
+R75	Relation Arg1:T310 Arg2:T515
+T311	Machining 19 21	黄銅
+T313	Machining 47 50	アルミ
+T514	Machining 1 5	鉄系材料
+T515	Machining 0 5	非鉄系材料
+T516	Machining 7 8	鉛
+T517	Quantity 9 10	3
+T518	Unit 10 11	％
+T519	Machining 22 28	ジュラルミン
+T520	Machining 29 30	鉛
+T523	Unit 38 39	％
+T524	Machining 45 50	快削アルミ
+R76	Relation Arg1:T524 Arg2:T515
+T582	Machining 17 19	快削
+T583	Machining 45 47	快削
+T660	Quantity 31 38	0.2～0.6

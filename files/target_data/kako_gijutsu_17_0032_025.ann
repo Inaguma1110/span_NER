@@ -1,0 +1,14 @@
+T55	Machining 33 38	固有振動数
+R10	Relation Arg1:T55 Arg2:T259
+T56	Machining 52 57	固有振動数
+R11	Relation Arg1:T56 Arg2:T261
+T259	Machining 23 29	空転時の振動
+T260	Machining 12 17	強制振動源
+R9	Relation Arg1:T260 Arg2:T259
+T261	Machining 43 48	再生びびり
+T299	Machining 0 10	空転時そのままの振動
+R49	Relation Arg1:T299 Arg2:T61
+T375	Machining 8 10	振動
+T390	Machining 45 48	びびり
+T391	Machining 14 16	振動
+T392	Machining 27 29	振動

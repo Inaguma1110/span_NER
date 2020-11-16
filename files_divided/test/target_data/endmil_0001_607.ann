@@ -1,0 +1,17 @@
+T1751	Machining 6 10	切削条件
+T1752	Machining 15 18	水溶性
+T1753	Machining 15 22	水溶性切削油剤
+R499	Relation Arg1:T1753 Arg2:T1756
+T1754	Machining 37 43	オイルミスト
+R500	Relation Arg1:T1754 Arg2:T1756
+T1755	Machining 57 59	加工
+T1756	Machining 67 70	加工面
+T4128	Machining 6 8	切削
+T4129	Machining 18 20	切削
+T4130	Machining 20 22	油剤
+T4131	Machining 23 29	エマルション
+T4132	Machining 31 36	エアブロー
+R733	Relation Arg1:T4132 Arg2:T1756
+T4133	Machining 44 47	ＭＱＬ
+T1192	Machining 67 69	加工
+T4442	Machining 18 22	切削油剤

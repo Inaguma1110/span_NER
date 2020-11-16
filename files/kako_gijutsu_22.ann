@@ -1,0 +1,289 @@
+T0	Machining 9 13	加工精度
+T1	Machining 9 11	加工
+T2	Machining 11 13	精度
+T3	Machining 17 23	仕上げ面粗さ
+T4	Machining 17 21	仕上げ面
+T5	Machining 17 20	仕上げ
+T6	Machining 27 31	切削条件
+T7	Machining 27 29	切削
+T8	Machining 35 41	仕上げ面粗さ
+T9	Machining 35 39	仕上げ面
+T10	Machining 35 38	仕上げ
+T11	Machining 47 49	送り
+T12	Machining 51 54	チップ
+T13	Machining 54 57	コーナ
+T14	Machining 54 59	コーナ半径
+T15	Machining 102 106	工具摩耗
+T16	Machining 102 104	工具
+T17	Machining 104 106	摩耗
+T18	Machining 107 111	構成刃先
+T19	Machining 115 117	切削
+T20	Machining 115 119	切削油剤
+T21	Machining 133 141	前切れ刃境界摩耗
+T22	Machining 133 137	前切れ刃
+T23	Machining 137 141	境界摩耗
+T24	Machining 139 141	摩耗
+T25	Machining 152 158	仕上げ面粗さ
+T26	Machining 152 156	仕上げ面
+T27	Machining 152 155	仕上げ
+T28	Machining 161 167	仕上げ面粗さ
+T29	Machining 161 165	仕上げ面
+T30	Machining 161 164	仕上げ
+T31	Machining 197 201	構成刃先
+T32	Machining 206 210	構成刃先
+T33	Machining 211 214	被削材
+T34	Machining 218 220	工具
+T35	Machining 221 224	切れ刃
+T36	Machining 225 227	凝着
+T38	Machining 231 234	凝着物
+T39	Machining 239 241	工具
+T40	Machining 248 250	切削
+T41	Machining 267 270	被削材
+T42	Machining 271 275	切削速度
+T43	Machining 271 273	切削
+T44	Machining 292 296	構成刃先
+T45	Machining 299 302	切れ刃
+T46	Machining 302 306	すくい面
+T47	Machining 323 327	構成刃先
+T48	Machining 344 348	構成刃先
+T49	Machining 354 360	仕上げ面粗さ
+T50	Machining 354 358	仕上げ面
+T51	Machining 354 357	仕上げ
+T53	Machining 370 374	工具材種
+T55	Machining 379 382	切れ刃
+T56	Machining 383 387	構成刃先
+T57	Machining 400 406	仕上げ面粗さ
+T58	Machining 400 404	仕上げ面
+T59	Machining 400 403	仕上げ
+T60	Machining 427 431	端面切削
+T61	Machining 429 431	切削
+T62	Machining 434 438	切削条件
+T63	Machining 434 436	切削
+T65	Machining 447 451	工具材種
+T67	Machining 457 463	仕上げ面粗さ
+T68	Machining 457 461	仕上げ面
+T69	Machining 457 460	仕上げ
+T71	Machining 471 475	工具材種
+T73	Machining 478 483	サーメット
+T74	Machining 486 492	仕上げ面粗さ
+T75	Machining 486 490	仕上げ面
+T76	Machining 486 489	仕上げ
+T77	Machining 493 497	切削速度
+T78	Machining 493 495	切削
+T80	Machining 505 509	工具材種
+T82	Machining 531 534	コーナ
+T83	Machining 531 536	コーナ半径
+T84	Machining 539 545	仕上げ面粗さ
+T85	Machining 539 543	仕上げ面
+T86	Machining 539 542	仕上げ
+T87	Machining 555 558	被削材
+T88	Machining 569 572	コーナ
+T89	Machining 569 574	コーナ半径
+T90	Machining 575 581	仕上げ面粗さ
+T91	Machining 575 579	仕上げ面
+T92	Machining 575 578	仕上げ
+T93	Machining 592 594	加工
+T94	Machining 600 602	応力
+T95	Machining 603 607	切削加工
+T96	Machining 603 605	切削
+T97	Machining 605 607	加工
+T98	Machining 609 611	切削
+T99	Machining 613 617	塑性変形
+T100	Machining 618 622	切削温度
+T101	Machining 618 620	切削
+T102	Machining 620 622	温度
+T103	Machining 628 630	切削
+T104	Machining 653 655	加工
+T105	Machining 671 673	加工
+T106	Machining 681 683	加工
+T107	Machining 709 713	加工硬化
+T108	Machining 709 711	加工
+T109	Machining 721 725	加工硬化
+T110	Machining 721 723	加工
+T111	Machining 732 734	硬さ
+T112	Machining 738 740	硬さ
+T113	Machining 757 761	S45C
+T114	Machining 764 770	ステンレス鋼
+T115	Machining 770 776	SUS304
+T116	Machining 777 779	切削
+T117	Machining 781 785	加工硬化
+T118	Machining 781 783	加工
+T119	Machining 792 794	切削
+T120	Machining 796 799	加工物
+T121	Machining 796 798	加工
+T122	Machining 811 815	加工硬化
+T123	Machining 811 813	加工
+T124	Machining 830 832	加工
+T125	Machining 841 843	応力
+T126	Machining 854 856	応力
+T127	Machining 865 867	加工
+T128	Machining 877 881	寸法精度
+T129	Machining 879 881	精度
+T130	Machining 891 893	加工
+T131	Machining 901 903	応力
+T132	Machining 912 915	切れ刃
+T133	Machining 916 920	すくい角
+T134	Machining 932 934	工具
+T135	Machining 935 937	切削
+T136	Machining 935 939	切削油剤
+T137	Machining 962 970	前切れ刃境界摩耗
+T138	Machining 962 966	前切れ刃
+T139	Machining 966 970	境界摩耗
+T140	Machining 968 970	摩耗
+T141	Machining 971 977	仕上げ面粗さ
+T142	Machining 971 975	仕上げ面
+T143	Machining 971 974	仕上げ
+T144	Machining 983 987	構成刃先
+T146	Machining 995 999	工具材種
+T148	Machining 1000 1006	仕上げ面粗さ
+T149	Machining 1000 1004	仕上げ面
+T150	Machining 1000 1003	仕上げ
+T151	Machining 1012 1015	コーナ
+T152	Machining 1012 1017	コーナ半径
+T153	Machining 1018 1022	仕上げ面
+T154	Machining 1018 1021	仕上げ
+T155	Machining 1023 1027	理論粗さ
+T156	Machining 1033 1036	コーナ
+T157	Machining 1033 1038	コーナ半径
+T158	Machining 1053 1059	切削仕上げ面
+T159	Machining 1053 1055	切削
+T160	Machining 1055 1059	仕上げ面
+T161	Machining 1055 1058	仕上げ
+T162	Machining 1060 1064	加工硬化
+T163	Machining 1060 1062	加工
+T164	Variable 41 46	R_max
+T165	Variable 49 50	f
+T166	Machining 51 59	チップコーナ半径
+T167	Machining 33 41	理論仕上げ面粗さ
+R1	Relation Arg1:T11 Arg2:T167	
+R2	Relation Arg1:T166 Arg2:T167	
+#1	AnnotatorNotes R1	fの二乗に比例
+#2	AnnotatorNotes R2	Rに反比例
+R3	Relation Arg1:T15 Arg2:T8	
+R4	Relation Arg1:T18 Arg2:T8	
+R5	Relation Arg1:T20 Arg2:T8	
+R6	Relation Arg1:T21 Arg2:T25	
+R7	Relation Arg1:T42 Arg2:T32	
+T168	Machining 261 263	延性
+R8	Relation Arg1:T168 Arg2:T32	
+#3	AnnotatorNotes T168	被削材の延性
+R9	Relation Arg1:T48 Arg2:T49	
+R10	Relation Arg1:T177 Arg2:T57	
+R11	Relation Arg1:T53 Arg2:T57	
+R12	Relation Arg1:T53 Arg2:T177	
+R13	Relation Arg1:T65 Arg2:T67	
+R14	Relation Arg1:T77 Arg2:T74	
+T169	Machining 632 635	表面層
+R15	Relation Arg1:T99 Arg2:T169	
+R16	Relation Arg1:T100 Arg2:T169	
+T170	Machining 659 661	材質
+R17	Relation Arg1:T104 Arg2:T170	
+T171	Machining 852 856	残留応力
+T172	Machining 869 871	変形
+R18	Relation Arg1:T171 Arg2:T172	
+R19	Relation Arg1:T171 Arg2:T128	
+T173	Machining 891 896	加工変質層
+T174	Machining 899 903	残留応力
+R20	Negative Arg1:T133 Arg2:T173	
+R21	Negative Arg1:T133 Arg2:T174	
+T175	Machining 943 945	冷却
+R22	Relation Arg1:T136 Arg2:T175	
+T176	Machining 926 929	切れ味
+R23	Relation Arg1:T176 Arg2:T175	
+R24	Relation Arg1:T175 Arg2:T173	
+R25	Relation Arg1:T175 Arg2:T174	
+#6	AnnotatorNotes R9	仕上げ面粗さが劣化＝面粗度が上昇
+T177	Machining 383 393	構成刃先の発生度合い
+#5	AnnotatorNotes T169	切削後の表面層の組成変化（加工変質層）
+T178	Machining 4 8	表面粗さ
+#4	AnnotatorNotes T178	Y・M
+T179	Machining 242 244	刃先
+#7	AnnotatorNotes T179	Y・M
+T180	Machining 423 426	炭素鋼
+#8	AnnotatorNotes T180	Y・M
+T181	Machining 598 602	残留応力
+#9	AnnotatorNotes T181	Y・M
+T182	Machining 592 597	加工変質層
+#10	AnnotatorNotes T182	Y・M
+R26	Relation Arg1:T181 Arg2:T182	
+#11	AnnotatorNotes R26	Y・M
+T183	Machining 671 676	加工変質層
+#12	AnnotatorNotes T183	Y・M
+T184	Machining 681 686	加工変質層
+#13	AnnotatorNotes T184	Y・M
+T185	Machining 687 694	結晶組織が変形
+#14	AnnotatorNotes T185	Y・M
+T186	Machining 698 701	微細化
+#15	AnnotatorNotes T186	Y・M
+R27	Relation Arg1:T107 Arg2:T184	
+R28	Relation Arg1:T185 Arg2:T184	
+T187	Machining 687 691	結晶組織
+#16	AnnotatorNotes T187	Y・M
+#17	AnnotatorNotes R27	Y・M
+#18	AnnotatorNotes R28	Y・M
+T188	Machining 754 757	炭素鋼
+#19	AnnotatorNotes T188	Y・M
+T189	Quantity 804 807	0.1
+#20	AnnotatorNotes T189	Y・M
+T190	Unit 807 809	mm
+#21	AnnotatorNotes T190	Y・M
+T191	Machining 839 843	残留応力
+#22	AnnotatorNotes T191	Y・M
+T192	Machining 830 835	加工変質層
+#23	AnnotatorNotes T192	Y・M
+R29	Relation Arg1:T191 Arg2:T192	
+#24	AnnotatorNotes R29	Y・M
+T193	Machining 1039 1043	表面粗さ
+#25	AnnotatorNotes T193	Y・M
+T194	Machining 109 111	刃先
+T195	Machining 117 119	油剤
+T196	Machining 294 296	刃先
+T197	Machining 325 327	刃先
+T198	Machining 346 348	刃先
+T199	Machining 385 387	刃先
+T200	Machining 937 939	油剤
+T201	Machining 985 987	刃先
+T202	Machining 208 210	刃先
+T54	Machining 711 713	硬化
+T66	Machining 723 725	硬化
+T203	Machining 783 785	硬化
+T204	Machining 1062 1064	硬化
+T205	Machining 813 815	硬化
+T72	Machining 199 201	刃先
+T81	Machining 613 615	塑性
+T147	Machining 615 617	変形
+T206	Machining 692 694	変形
+T207	Machining 370 372	工具
+T208	Machining 447 449	工具
+T209	Machining 471 473	工具
+T210	Machining 505 507	工具
+T211	Machining 995 997	工具
+T212	Machining 975 977	粗さ
+T213	Machining 1004 1006	粗さ
+T145	Machining 1025 1027	粗さ
+T214	Machining 1041 1043	粗さ
+T215	Machining 404 406	粗さ
+T216	Machining 358 360	粗さ
+T217	Machining 461 463	粗さ
+T79	Machining 490 492	粗さ
+T70	Machining 543 545	粗さ
+T52	Machining 165 167	粗さ
+T218	Machining 156 158	粗さ
+T219	Machining 21 23	粗さ
+T220	Machining 6 8	粗さ
+T64	Machining 579 581	粗さ
+T221	Machining 966 968	境界
+T222	Machining 39 41	粗さ
+T223	Machining 137 139	境界
+T224	Machining 478 485	サーメット材種
+T225	Machining 332 334	成長
+T226	Machining 335 337	脱落
+T227	Machining 173 175	劣化
+T228	Machining 495 497	速度
+T229	Machining 273 275	速度
+T230	Machining 598 600	残留
+T231	Machining 717 719	材料
+T232	Machining 839 841	残留
+T233	Machining 899 901	残留
+T37	Trigger 904 909	少なくする
+T234	Trigger 921 925	大きくし

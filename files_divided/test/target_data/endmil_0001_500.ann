@@ -1,0 +1,3 @@
+T1520	Machining 18 20	摩耗
+T3724	Machining 5 7	刃先
+R809	Positive Arg1:T3724 Arg2:T1520

@@ -1,0 +1,10 @@
+T1145	Machining 28 33	極圧添加剤
+T1146	Machining 38 41	混成油
+T1419	Machining 5 7	油剤
+R155	Relation Arg1:T1419 Arg2:T1420
+T1420	Machining 11 13	寿命
+T788	Machining 21 26	硫・塩化油
+R200	Relation Arg1:T788 Arg2:T976
+T976	Machining 48 50	寿命
+T1628	Machining 28 30	極圧
+T1629	Machining 30 33	添加剤

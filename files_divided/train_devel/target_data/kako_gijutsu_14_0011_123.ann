@@ -1,0 +1,10 @@
+T841	Machining 16 20	境界摩耗
+T842	Machining 18 20	摩耗
+T843	Machining 25 28	工具材
+T1215	Machining 25 31	工具材の酸化
+R111	Relation Arg1:T1215 Arg2:T1243
+T1243	Machining 11 20	前切れ刃の境界摩耗
+T61	Machining 11 15	前切れ刃
+T855	Machining 25 27	工具
+T1523	Machining 16 18	境界
+T1588	Machining 29 31	酸化

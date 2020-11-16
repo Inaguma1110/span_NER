@@ -1,0 +1,4 @@
+T342	Machining 1 5	切りくず
+T431	Machining 1 8	切りくずの延性
+R47	Positive Arg1:T431 Arg2:T432
+T735	Trigger 9 11	増す

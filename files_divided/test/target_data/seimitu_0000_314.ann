@@ -1,0 +1,15 @@
+T1138	Machining 0 2	切削
+T1139	Machining 4 6	工具
+T1140	Machining 4 9	工具摩擦面
+R347	Relation Arg1:T1140 Arg2:T2593
+T1141	Machining 19 24	大接触応力
+R585	Relation Arg1:T1141 Arg2:T2593
+T1142	Machining 61 63	凝着
+T1143	Machining 74 76	凝着
+T2590	Machining 6 8	摩擦
+T2592	Machining 16 18	高温
+R373	Relation Arg1:T2592 Arg2:T2593
+T2593	Machining 28 33	真実接触部
+R227	Positive Arg1:T2593 Arg2:T1143
+T3762	Trigger 34 36	増大
+T3763	Trigger 77 80	生じる

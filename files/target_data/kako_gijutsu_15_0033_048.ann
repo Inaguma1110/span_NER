@@ -1,0 +1,23 @@
+T154	Machining 4 6	工具
+T155	Machining 21 25	S50C
+T156	Machining 26 29	被削材
+T157	Machining 32 35	切込み
+T159	Machining 41 44	送り量
+T160	Machining 58 62	長手旋削
+T161	Machining 60 62	旋削
+T162	Machining 86 90	切削抵抗
+T163	Machining 86 88	切削
+T933	Machining 0 3	バイト
+T934	Machining 18 21	炭素鋼
+T935	Variable 35 36	a
+T936	Quantity 37 38	2
+T937	Unit 38 40	mm
+T938	Variable 44 45	f
+T939	Quantity 46 49	0.5
+T940	Unit 49 55	mm/rev
+T74	Machining 88 90	抵抗
+T490	Machining 69 72	バイト
+T520	Machining 72 74	刃先
+T720	Machining 41 43	送り
+T1154	Machining 69 74	バイト刃先
+R175	Relation Arg1:T1154 Arg2:T162

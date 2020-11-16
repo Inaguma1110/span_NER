@@ -1,0 +1,8 @@
+T1081	Machining 49 51	工具
+T1082	Machining 51 53	摩耗
+T2504	Machining 17 23	寿命判定基準
+T2505	Machining 49 53	工具摩耗
+T2506	Machining 49 54	工具摩耗量
+T3579	Machining 17 19	寿命
+T3706	Variable 55 57	ＫＴ
+T3707	Variable 60 62	ＶＢ

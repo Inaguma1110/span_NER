@@ -1,0 +1,14 @@
+T905	Machining 21 29	切削仕上げ面粗さ
+T906	Machining 21 27	切削仕上げ面
+T907	Machining 21 23	切削
+T909	Machining 23 27	仕上げ面
+T1334	Machining 7 12	一定送り量
+R182	Relation Arg1:T1334 Arg2:T905
+T1335	Machining 13 18	可変送り量
+R181	Relation Arg1:T1335 Arg2:T905
+T4	Machining 9 12	送り量
+T9	Machining 15 18	送り量
+T892	Machining 9 11	送り
+T898	Machining 15 17	送り
+T900	Machining 23 26	仕上げ
+T1485	Machining 27 29	粗さ

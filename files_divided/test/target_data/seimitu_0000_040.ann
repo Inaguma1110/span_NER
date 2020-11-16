@@ -1,0 +1,15 @@
+T133	Machining 22 24	切削
+T134	Machining 36 39	切削力
+T135	Machining 48 52	仕上げ面
+T136	Machining 56 60	加工精度
+T1849	Machining 48 51	仕上げ
+T1850	Machining 56 58	加工
+T1851	Machining 58 60	精度
+T3233	Machining 2 5	流れ型
+R33	Relation Arg1:T3233 Arg2:T134
+R34	Positive Arg1:T3233 Arg2:T135
+R520	Positive Arg1:T3233 Arg2:T136
+T3234	Machining 6 14	ｆｌｏｗｔｙｐｅ
+T3743	Trigger 27 29	発生
+T3744	Trigger 61 63	良好
+T3745	Trigger 46 48	良い

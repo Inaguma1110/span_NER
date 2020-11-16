@@ -1,0 +1,5 @@
+T1193	Machining 4 7	被削性
+R326	Relation Arg1:T1193 Arg2:T1194
+T1194	Machining 18 22	切削抵抗
+T3339	Machining 18 20	切削
+T3340	Machining 20 22	抵抗

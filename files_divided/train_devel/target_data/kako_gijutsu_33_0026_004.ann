@@ -1,0 +1,15 @@
+T5	Machining 11 13	工具
+T6	Machining 14 16	曲げ
+T8	Machining 52 54	加工
+T34	Machining 25 30	固有モード
+R1	Relation Arg1:T34 Arg2:T33
+T35	Machining 64 68	固有振動
+R2	Relation Arg1:T35 Arg2:T33
+R24	Relation Arg1:T35 Arg2:T60
+T36	Machining 14 18	曲げ変形
+R3	Relation Arg1:T36 Arg2:T34
+T37	Machining 59 61	変形
+R4	Relation Arg1:T37 Arg2:T35
+T60	Machining 43 51	薄肉・箱状工作物
+T111	Machining 0 2	主軸
+T143	Machining 16 18	変形

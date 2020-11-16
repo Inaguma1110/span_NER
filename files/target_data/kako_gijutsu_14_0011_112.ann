@@ -1,0 +1,17 @@
+T763	Machining 13 21	切削仕上げ面粗さ
+R104	Relation Arg1:T763 Arg2:T769
+T764	Machining 13 19	切削仕上げ面
+T765	Machining 13 15	切削
+T767	Machining 15 19	仕上げ面
+T769	Machining 25 29	工具寿命
+T770	Machining 25 31	工具寿命管理
+T771	Machining 25 27	工具
+T773	Machining 53 57	境界摩耗
+T774	Machining 55 57	摩耗
+T775	Machining 58 60	切削
+R103	UpDown Arg1:T775 Arg2:T773
+T1173	Machining 48 52	前切れ刃
+T784	Machining 15 18	仕上げ
+T1480	Machining 19 21	粗さ
+T1513	Machining 53 55	境界
+T1514	Machining 27 29	寿命

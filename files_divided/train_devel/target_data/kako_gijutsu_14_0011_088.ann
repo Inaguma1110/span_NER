@@ -1,0 +1,8 @@
+T587	Machining 2 5	切込み
+R85	Relation Arg1:T587 Arg2:T588
+T588	Machining 6 14	切削仕上げ面粗さ
+T589	Machining 6 12	切削仕上げ面
+T590	Machining 6 8	切削
+T592	Machining 8 12	仕上げ面
+T666	Machining 8 11	仕上げ
+T1471	Machining 12 14	粗さ

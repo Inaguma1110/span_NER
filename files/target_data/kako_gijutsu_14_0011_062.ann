@@ -1,0 +1,28 @@
+T393	Machining 0 2	鋳鉄
+T394	Machining 3 6	快削鋼
+T395	Machining 16 19	延伸率
+R49	Positive Arg1:T395 Arg2:T1207
+R50	Positive Arg1:T395 Arg2:T1208
+R51	Positive Arg1:T395 Arg2:T399
+R52	Negative Arg1:T395 Arg2:T402
+T396	Machining 26 30	切りくず
+T397	Machining 49 51	工具
+T398	Machining 52 56	切りくず
+T399	Machining 66 74	すくい面上摩擦角
+T400	Machining 66 70	すくい面
+T401	Machining 71 73	摩擦
+T402	Machining 85 89	せん断角
+T1207	Machining 35 38	塑性場
+T1208	Machining 49 60	工具－切りくず接触長さ
+T1209	Variable 89 90	φ
+T548	Machining 85 88	せん断
+T1505	Machining 58 60	長さ
+T1508	Machining 35 37	塑性
+T1582	Machining 23 25	材料
+T1586	Machining 11 13	破断
+T1600	Machining 26 32	切りくず生成
+T1620	Trigger 20 23	小さい
+T1621	Trigger 39 43	狭くなり
+T1622	Trigger 61 65	短くなり
+T1623	Trigger 75 80	小さくなり
+T1624	Trigger 91 96	大きくなる

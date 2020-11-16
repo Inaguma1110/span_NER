@@ -1,0 +1,18 @@
+T12	Machining 0 4	切りくず
+T13	Machining 22 24	切削
+R80	Relation Arg1:T13 Arg2:T662
+T450	Machining 8 9	幅
+T451	Machining 10 12	厚さ
+T452	Machining 13 15	長さ
+T453	Machining 0 7	切りくずの寸法
+R63	Relation Arg1:T453 Arg2:T450
+R64	Relation Arg1:T453 Arg2:T451
+R65	Relation Arg1:T453 Arg2:T452
+T585	Machining 38 40	厚さ
+T586	Machining 46 48	長さ
+T662	Machining 20 21	幅
+R36	Positive Arg1:T662 Arg2:T585
+R81	Negative Arg1:T662 Arg2:T586
+T2	Trigger 32 37	変わらない
+T8	Trigger 41 45	厚くなり
+T42	Trigger 49 53	短くなる

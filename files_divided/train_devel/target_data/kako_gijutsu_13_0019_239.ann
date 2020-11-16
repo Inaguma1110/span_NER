@@ -1,0 +1,9 @@
+T849	Machining 0 5	セラミック
+R208	Negative Arg1:T849 Arg2:T850
+R209	Negative Arg1:T849 Arg2:T306
+R210	Negative Arg1:T849 Arg2:T851
+R249	Positive Arg1:T849 Arg2:T1687
+R248	Relation Arg1:T849 Arg2:T1960
+T850	Machining 13 16	親和性
+T1998	Trigger 6 8	硬く
+T1999	Trigger 17 19	低い

@@ -1,0 +1,22 @@
+T630	Machining 0 3	コーナ
+T631	Machining 0 5	コーナ半径
+R164	Negative Arg1:T631 Arg2:T1213
+R165	Negative Arg1:T631 Arg2:T635
+T632	Machining 13 17	仕上げ面
+T634	Machining 26 30	切りくず
+T635	Machining 38 40	温度
+R91	Relation Arg1:T635 Arg2:T637
+T636	Machining 45 49	構成刃先
+R88	Relation Arg1:T636 Arg2:T637
+T637	Machining 63 67	仕上げ面
+T1213	Machining 26 32	切りくず厚さ
+R87	Positive Arg1:T1213 Arg2:T635
+R90	Relation Arg1:T1213 Arg2:T637
+R92	Relation Arg1:T1213 Arg2:T636
+T695	Machining 13 16	仕上げ
+T709	Machining 47 49	刃先
+T714	Machining 63 66	仕上げ
+T1587	Machining 30 32	厚さ
+T1636	Trigger 6 12	大きくなって
+T1637	Trigger 33 37	薄くなる
+T1638	Trigger 41 44	下がり

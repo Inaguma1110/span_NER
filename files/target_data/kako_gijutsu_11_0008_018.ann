@@ -1,0 +1,6 @@
+T78	Machining 8 12	すくい角
+T79	Machining 13 17	切削抵抗
+T80	Machining 13 15	切削
+T475	Machining 6 12	垂直すくい角
+R40	Relation Arg1:T475 Arg2:T79
+T568	Machining 15 17	抵抗

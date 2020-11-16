@@ -1,0 +1,11 @@
+T277	Machining 9 12	切削力
+R104	Relation Arg1:T277 Arg2:T395
+T278	Machining 21 23	切削
+T279	Machining 25 28	せん断
+T280	Machining 31 34	せん断
+T281	Machining 36 38	応力
+T395	Machining 31 38	せん断変形応力
+T1952	Machining 34 36	変形
+T276	Machining 25 29	せん断面
+T3315	Variable 13 15	Ｆｈ
+T3316	Variable 16 18	Ｆｖ

@@ -1,0 +1,4 @@
+T55	Machining 1 3	超硬
+T56	Machining 3 7	ろう付け
+T150	Machining 1 8	超硬ろう付け式
+R16	Sub Arg1:T150 Arg2:T149

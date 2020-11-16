@@ -1,0 +1,9 @@
+T642	Machining 6 8	切削
+T643	Machining 6 10	切削油剤
+T644	Machining 11 15	潤滑効果
+T645	Machining 17 21	切削速度
+R110	Relation Arg1:T645 Arg2:T644
+T646	Machining 17 19	切削
+T1121	Machining 8 10	油剤
+T1122	Machining 11 13	潤滑
+T1277	Machining 19 21	速度

@@ -1,0 +1,9 @@
+T903	Machining 10 13	高硬度
+R687	Relation Arg1:T903 Arg2:T2294
+R688	Relation Arg1:T903 Arg2:T2295
+T904	Machining 21 25	高速切削
+T2293	Machining 4 8	焼き入れ
+T2294	Machining 14 15	鋼
+T2295	Machining 16 20	チルド鋼
+T2296	Machining 21 23	高速
+T2297	Machining 23 25	切削

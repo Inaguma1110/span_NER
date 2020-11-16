@@ -1,0 +1,10 @@
+T307	Machining 3 8	チャンファ
+R26	Negative Arg1:T307 Arg2:T309
+T308	Machining 11 14	コーナ
+T309	Machining 23 27	刃先摩耗
+T310	Machining 25 27	摩耗
+T563	Machining 11 16	コーナ丸味
+R27	Negative Arg1:T563 Arg2:T309
+T648	Machining 23 25	刃先
+T710	Trigger 17 20	つける
+T711	Trigger 27 29	防止

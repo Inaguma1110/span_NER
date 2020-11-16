@@ -1,0 +1,13 @@
+T1065	Machining 10 15	平フライス
+T1066	Machining 11 15	フライス
+T1067	Machining 15 17	削り
+T1068	Machining 21 23	切削
+T1069	Machining 21 25	切削油剤
+R149	Relation Arg1:T1069 Arg2:T1070
+T1070	Machining 26 34	切削仕上げ面粗さ
+T1071	Machining 26 32	切削仕上げ面
+T1072	Machining 26 28	切削
+T1074	Machining 28 32	仕上げ面
+T1178	Machining 23 25	油剤
+T1295	Machining 28 31	仕上げ
+T1458	Machining 32 34	粗さ

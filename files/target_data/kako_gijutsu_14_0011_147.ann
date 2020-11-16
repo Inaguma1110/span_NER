@@ -1,0 +1,10 @@
+T1047	Machining 10 15	平フライス
+T1048	Machining 11 15	フライス
+T1049	Machining 15 17	削り
+T1050	Machining 21 23	切削
+T1051	Machining 21 25	切削油剤
+R147	Relation Arg1:T1051 Arg2:T1052
+T1052	Machining 26 30	切削抵抗
+T1053	Machining 26 28	切削
+T124	Machining 28 30	抵抗
+T1163	Machining 23 25	油剤

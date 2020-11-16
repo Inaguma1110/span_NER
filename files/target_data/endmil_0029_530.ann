@@ -1,0 +1,7 @@
+T1570	Machining 12 17	エンドミル
+T1571	Machining 30 34	シャンク
+R483	Part Arg1:T1571 Arg2:T1570
+T3814	Machining 0 3	支持刃
+T3815	Machining 4 7	刃受け
+T3816	Machining 9 11	砥石
+T3817	Machining 36 38	砥石

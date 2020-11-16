@@ -1,0 +1,23 @@
+T620	Machining 5 7	温度
+T621	Machining 18 20	熱源
+T622	Machining 27 29	温度
+T623	Machining 40 44	熱伝導率
+R215	Relation Arg1:T623 Arg2:T619
+T624	Machining 52 54	比熱
+R216	Relation Arg1:T624 Arg2:T619
+T768	Machining 27 32	温度拡散率
+R236	Relation Arg1:T768 Arg2:T619
+T769	Machining 18 24	熱源の発熱率
+R237	Relation Arg1:T769 Arg2:T619
+T2129	Machining 21 24	発熱率
+T2130	Machining 11 15	質点速度
+T2131	Machining 11 13	質点
+T2132	Machining 13 15	速度
+T2133	Machining 47 49	密度
+T3456	Variable 3 4	θ
+T3457	Variable 8 10	ｖｉ
+T3458	Variable 16 17	ｑ
+T3459	Variable 25 26	Ｋ
+T3460	Variable 38 39	κ
+T3461	Variable 45 46	ρ
+T3462	Variable 50 51	Ｃ

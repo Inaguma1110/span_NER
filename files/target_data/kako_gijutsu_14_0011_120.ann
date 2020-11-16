@@ -1,0 +1,14 @@
+T813	Machining 5 8	送り量
+R108	Relation Arg1:T813 Arg2:T814
+R109	Relation Arg1:T813 Arg2:T818
+T814	Machining 32 40	前切れ刃境界摩耗
+R110	Relation Arg1:T814 Arg2:T818
+T816	Machining 36 40	境界摩耗
+T817	Machining 38 40	摩耗
+T818	Machining 46 52	仕上げ面粗さ
+T819	Machining 46 50	仕上げ面
+T65	Machining 32 36	前切れ刃
+T822	Machining 5 7	送り
+T833	Machining 46 49	仕上げ
+T1481	Machining 50 52	粗さ
+T1520	Machining 36 38	境界

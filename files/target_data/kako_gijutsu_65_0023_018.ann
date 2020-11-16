@@ -1,0 +1,16 @@
+T112	Machining 0 3	水溶性
+T113	Machining 3 5	切削
+T114	Machining 3 7	切削油剤
+T115	Machining 26 28	加工
+T280	Machining 5 7	油剤
+T326	Machining 14 17	冷却性
+T327	Machining 58 61	潤滑性
+T339	Machining 47 50	腐食性
+T340	Machining 51 54	腐敗性
+T342	Machining 24 28	高速加工
+T360	Machining 24 26	高速
+T109	Machining 0 7	水溶性切削油剤
+R45	Relation Arg1:T109 Arg2:T326
+R46	Relation Arg1:T109 Arg2:T327
+R47	Relation Arg1:T109 Arg2:T339
+R48	Relation Arg1:T109 Arg2:T340

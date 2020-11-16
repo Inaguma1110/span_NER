@@ -1,0 +1,5 @@
+T388	Machining 5 9	切りくず
+T389	Machining 10 13	被削材
+T531	Variable 15 17	cρ
+T533	Machining 2 4	熱量
+R70	Linear Arg1:T533 Arg2:T388

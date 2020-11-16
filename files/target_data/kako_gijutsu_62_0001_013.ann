@@ -1,0 +1,8 @@
+T96	Machining 0 5	エンドミル
+T97	Machining 30 32	切削
+T98	Machining 36 41	エンドミル
+T99	Machining 48 50	切削
+T100	Machining 53 55	削り
+T101	Machining 61 63	削り
+T263	Machining 51 55	側面削り
+T264	Machining 59 63	側面削り

@@ -1,0 +1,174 @@
+T0	Machining 4 10	コンタリング
+T1	Machining 10 12	加工
+T2	Machining 43 45	加工
+T3	Machining 46 52	コンタリング
+T4	Machining 66 69	内外径
+T5	Machining 69 71	加工
+T6	Machining 77 83	コンタリング
+T7	Machining 83 85	加工
+T8	Machining 103 105	加工
+T9	Machining 119 121	超硬
+T10	Machining 121 129	コーティング工具
+T11	Machining 121 127	コーティング
+T12	Machining 127 129	工具
+T13	Machining 147 149	加工
+T14	Machining 157 159	精度
+T15	Machining 159 161	加工
+T16	Machining 177 179	加工
+T17	Machining 187 192	エンドミル
+T18	Machining 195 201	コンタリング
+T19	Machining 201 203	加工
+T20	Machining 206 211	エンドミル
+T21	Machining 217 218	溝
+T22	Machining 235 237	加工
+T23	Machining 250 257	多刃エンドミル
+T24	Machining 252 257	エンドミル
+T25	Machining 261 263	加工
+T26	Machining 276 282	コンタリング
+T27	Machining 282 284	加工
+T28	Machining 296 298	加工
+T29	Machining 306 308	精度
+T30	Machining 309 312	仕上げ
+T31	Machining 317 319	加工
+T32	Machining 320 321	溝
+T33	Machining 323 326	仕上げ
+T34	Machining 323 328	仕上げ加工
+T35	Machining 326 328	加工
+T36	Machining 336 338	加工
+T37	Machining 347 353	コンタリング
+T38	Machining 353 355	加工
+T39	Machining 369 375	コンタリング
+T40	Machining 375 377	加工
+T41	Machining 382 384	加工
+T42	Machining 390 392	加工
+T43	Machining 397 400	座ぐり
+T44	Machining 400 402	加工
+T45	Machining 403 406	穴加工
+T46	Machining 404 406	加工
+T47	Machining 412 414	工具
+T48	Machining 419 425	コンタリング
+T49	Machining 425 427	加工
+T50	Machining 431 433	切削
+T51	Machining 443 445	摩耗
+T52	Machining 450 452	刃数
+T53	Machining 460 462	工具
+T54	Machining 483 486	コーナ
+T55	Machining 487 489	摩耗
+T56	Machining 498 501	コーナ
+T57	Machining 509 517	ボールエンドミル
+T58	Machining 512 517	エンドミル
+T59	Machining 529 534	ドリル加工
+T60	Machining 529 532	ドリル
+T61	Machining 532 534	加工
+T62	Machining 535 540	中ぐり加工
+T63	Machining 538 540	加工
+T64	Machining 543 546	穴加工
+T65	Machining 544 546	加工
+T66	Machining 553 557	切りくず
+T67	Machining 564 570	コンタリング
+T68	Machining 570 572	加工
+T69	Machining 577 581	断続切削
+T70	Machining 579 581	切削
+T71	Machining 586 590	切りくず
+T72	Machining 607 611	切りくず
+T73	Machining 633 635	加工
+T74	Machining 641 643	加工
+T75	Machining 647 653	コンタリング
+T76	Machining 653 655	加工
+T77	Machining 661 665	加工時間
+T78	Machining 661 663	加工
+T79	Machining 671 673	工具
+T80	Machining 686 689	座ぐり
+T81	Machining 690 691	溝
+T82	Machining 697 699	加工
+T83	Machining 710 712	加工
+T84	Machining 715 717	加工
+T85	Machining 725 726	溝
+T86	Machining 733 735	工具
+T87	Machining 749 755	コンタリング
+T88	Machining 755 757	加工
+T89	Machining 763 766	加工物
+T90	Machining 763 765	加工
+T91	Machining 774 776	工具
+T92	Machining 803 805	工具
+T93	Machining 829 831	工具
+T94	Machining 839 841	加工
+T95	Machining 848 850	工具
+T96	Machining 875 881	コンタリング
+T97	Machining 881 883	加工
+T98	Machining 885 888	真円度
+T99	Machining 893 895	精度
+T100	Machining 923 925	精度
+T101	Machining 935 938	高剛性
+T102	Machining 952 954	加工
+T103	Machining 33 37	コンター
+T104	Machining 77 85	コンタリング加工
+T105	Machining 119 129	超硬コーティング工具
+R1	Sub Arg1:T3 Arg2:T2	
+R2	Sub Arg1:T104 Arg2:T2	
+T106	Machining 313 319	ヘリカル加工
+T107	Machining 331 338	トロコイド加工
+R3	Sub Arg1:T106 Arg2:T114	
+R4	Sub Arg1:T34 Arg2:T114	
+T108	Machining 896 899	ワーク
+R5	Relation Arg1:T109 Arg2:T108	
+T109	Machining 891 895	機械精度
+T110	Machining 292 298	くり広げ加工
+#1	AnnotatorNotes T110	Y・M
+R6	Sub Arg1:T110 Arg2:T114	
+T111	Machining 378 384	ヘリカル加工
+#2	AnnotatorNotes T111	Y・M
+T112	Machining 385 392	トロコイド加工
+#3	AnnotatorNotes T112	Y・M
+T113	Machining 369 377	コンタリング加工
+#4	AnnotatorNotes T113	Y・M
+T114	Machining 347 355	コンタリング加工
+#5	AnnotatorNotes T114	Y・M
+#6	AnnotatorNotes R4	Y・M
+T115	Machining 564 572	コンタリング加工
+#7	AnnotatorNotes T115	Y・M
+R7	Relation Arg1:T69 Arg2:T115	
+#8	AnnotatorNotes R7	Y・M
+T116	Machining 647 655	コンタリング加工
+#9	AnnotatorNotes T116	Y・M
+T117	Machining 692 693	穴
+#10	AnnotatorNotes T117	Y・M
+T118	Machining 749 757	コンタリング加工
+#11	AnnotatorNotes T118	Y・M
+T119	Machining 431 435	切削距離
+T120	Machining 419 427	コンタリング加工
+R8	Relation Arg1:T120 Arg2:T119	
+T121	Machining 661 668	加工時間の短縮
+T122	Machining 669 675	使用工具本数
+R9	Relation Arg1:T116 Arg2:T121	
+R10	Relation Arg1:T116 Arg2:T122	
+T123	Machining 875 883	コンタリング加工
+T124	Machining 276 284	コンタリング加工
+T125	Machining 4 12	コンタリング加工
+T126	Machining 479 483	エンド刃
+T127	Machining 848 854	工具の集約化
+T128	Machining 855 861	生産性の向上
+T129	Machining 535 538	中ぐり
+T130	Machining 195 203	コンタリング加工
+T131	Machining 912 914	主軸
+T132	Machining 455 457	寿命
+T133	Machining 910 914	高速主軸
+T134	Machining 925 929	輪郭制御
+T135	Machining 922 931	高精度輪郭制御機能
+T136	Machining 922 929	高精度輪郭制御
+T137	Machining 215 216	穴
+T138	Machining 290 291	穴
+T139	Machining 543 544	穴
+T140	Machining 321 322	幅
+T141	Machining 320 322	溝幅
+T142	Machining 722 724	穴径
+T143	Machining 726 727	幅
+T144	Machining 725 727	溝幅
+T145	Machining 910 912	高速
+T146	Machining 303 304	穴
+T147	Machining 378 382	ヘリカル
+T148	Machining 385 390	トロコイド
+T149	Machining 331 336	トロコイド
+T150	Machining 313 317	ヘリカル
+T151	Machining 952 955	加工径
+T152	Machining 397 402	座ぐり加工

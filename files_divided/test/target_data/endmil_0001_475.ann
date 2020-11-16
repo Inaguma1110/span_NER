@@ -1,0 +1,7 @@
+T1464	Machining 29 32	耐食性
+T3610	Machining 0 5	ＧーＦＲＰ
+R702	Relation Arg1:T3610 Arg2:T3615
+R871	Relation Arg1:T3610 Arg2:T4335
+R872	Relation Arg1:T3610 Arg2:T1464
+T3611	Machining 6 19	ガラス繊維強化プラスチック
+T4335	Machining 25 28	絶縁性

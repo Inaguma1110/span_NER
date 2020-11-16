@@ -1,0 +1,427 @@
+T0	Machining 4 6	切削
+T1	Machining 4 8	切削油剤
+T2	Machining 15 22	エンドミル加工
+T3	Machining 15 20	エンドミル
+T4	Machining 20 22	加工
+T5	Machining 24 28	乾式切削
+T6	Machining 26 28	切削
+T7	Machining 29 31	切削
+T8	Machining 29 33	切削油剤
+T9	Machining 40 42	切削
+T10	Machining 68 71	穴あけ
+T11	Machining 71 73	加工
+T12	Machining 74 78	旋削加工
+T13	Machining 74 76	旋削
+T14	Machining 76 78	加工
+T15	Machining 83 85	加工
+T17	Machining 95 99	断続切削
+T18	Machining 97 99	切削
+T19	Machining 106 108	工具
+T20	Machining 125 129	切りくず
+T21	Machining 139 141	工具
+T22	Machining 142 145	切削熱
+T23	Machining 142 144	切削
+T24	Machining 144 145	熱
+T25	Machining 179 186	エンドミル加工
+T26	Machining 179 184	エンドミル
+T27	Machining 184 186	加工
+T28	Machining 191 194	水溶性
+T29	Machining 195 197	油性
+T30	Machining 199 202	水溶性
+T31	Machining 214 217	水溶性
+T32	Machining 228 230	切削
+T33	Machining 228 232	切削油剤
+T34	Machining 236 239	切削熱
+T35	Machining 236 238	切削
+T36	Machining 238 239	熱
+T37	Machining 243 246	切削点
+T38	Machining 243 245	切削
+T39	Machining 250 254	切りくず
+T40	Machining 274 278	工具寿命
+T41	Machining 274 276	工具
+T42	Machining 285 287	摩擦
+T43	Machining 290 294	切削抵抗
+T44	Machining 290 292	切削
+T45	Machining 303 307	切りくず
+T46	Machining 315 319	寸法精度
+T47	Machining 317 319	精度
+T48	Machining 323 329	仕上げ面粗さ
+T49	Machining 323 327	仕上げ面
+T50	Machining 323 326	仕上げ
+T51	Machining 338 343	高精度加工
+T52	Machining 341 343	加工
+T53	Machining 359 361	工具
+T54	Machining 379 382	熱膨張
+T55	Machining 379 380	熱
+T56	Machining 385 390	高精度加工
+T57	Machining 388 390	加工
+T58	Machining 399 401	加工
+T59	Machining 409 411	加工
+T60	Machining 436 438	切削
+T61	Machining 436 440	切削油剤
+T62	Machining 448 450	切削
+T63	Machining 448 452	切削油剤
+T65	Machining 465 467	油性
+T66	Machining 469 472	水溶性
+T68	Machining 488 490	切削
+T69	Machining 488 492	切削油剤
+T70	Machining 498 501	油性剤
+T71	Machining 511 514	混成油
+T72	Machining 520 525	極圧添加剤
+T73	Machining 548 551	切削熱
+T74	Machining 548 550	切削
+T75	Machining 550 551	熱
+T76	Machining 562 564	加工
+T77	Machining 612 617	極圧添加剤
+T78	Machining 642 645	合金鋼
+T79	Machining 646 648	加工
+T80	Machining 676 681	極圧添加剤
+T81	Machining 689 694	極圧添加剤
+T82	Machining 702 706	構成刃先
+T83	Machining 717 720	高精度
+T84	Machining 720 724	仕上げ面
+T85	Machining 720 723	仕上げ
+T86	Machining 735 738	合金鋼
+T87	Machining 743 745	加工
+T88	Machining 759 767	不水溶性切削油剤
+T89	Machining 763 765	切削
+T90	Machining 763 767	切削油剤
+T91	Machining 768 771	水溶性
+T92	Machining 790 792	工具
+T93	Machining 793 795	摩耗
+T96	Machining 831 833	切削
+T97	Machining 831 835	切削油剤
+T99	Machining 849 851	切削
+T100	Machining 849 853	切削油剤
+T101	Machining 929 936	水溶性切削油剤
+T102	Machining 932 934	切削
+T103	Machining 932 936	切削油剤
+T104	Machining 953 955	加工
+T105	Machining 961 963	加工
+T106	Machining 980 985	極圧添加剤
+T107	Machining 993 996	合金鋼
+T108	Machining 997 1003	ステンレス鋼
+T110	Machining 1014 1016	切削
+T111	Machining 1056 1058	加工
+T112	Machining 1066 1069	水溶性
+T113	Machining 1069 1071	切削
+T114	Machining 1069 1073	切削油剤
+T115	Machining 1092 1094	加工
+T116	Machining 1141 1148	エンドミル加工
+T117	Machining 1141 1146	エンドミル
+T118	Machining 1146 1148	加工
+T119	Machining 1149 1152	切れ刃
+T120	Machining 1153 1155	切削
+T122	Machining 1173 1177	断続切削
+T123	Machining 1175 1177	切削
+T124	Machining 1183 1185	超硬
+T125	Machining 1183 1190	超硬エンドミル
+T126	Machining 1185 1190	エンドミル
+T127	Machining 1202 1205	水溶性
+T128	Machining 1205 1207	切削
+T129	Machining 1213 1214	熱
+T130	Machining 1249 1254	サーメット
+T131	Machining 1257 1262	エンドミル
+T132	Machining 1266 1269	水溶性
+T133	Machining 1269 1271	切削
+T134	Machining 1269 1273	切削油剤
+T135	Machining 1287 1289	工具
+T136	Machining 1297 1301	高速切削
+T137	Machining 1299 1301	切削
+T138	Machining 1313 1315	切削
+T139	Machining 1320 1325	クーラント
+T140	Machining 1340 1344	高速切削
+T141	Machining 1342 1344	切削
+T142	Machining 1345 1350	クーラント
+T143	Machining 1368 1373	クーラント
+T144	Machining 1390 1395	クーラント
+T145	Machining 1419 1421	工具
+T146	Machining 1437 1442	クーラント
+T147	Machining 1455 1459	切りくず
+T148	Machining 1568 1570	工具
+T149	Machining 1585 1587	工具
+T150	Machining 1632 1634	工具
+T151	Machining 1695 1697	切削
+T152	Machining 1695 1699	切削油剤
+T153	Machining 1704 1706	環境
+T154	Machining 1729 1731	環境
+T155	Machining 1749 1751	切削
+T156	Machining 1749 1753	切削油剤
+T157	Machining 1759 1764	ドライ切削
+T158	Machining 1762 1764	切削
+T159	Machining 1780 1785	ドライ切削
+T160	Machining 1783 1785	切削
+T161	Machining 1797 1803	コーティング
+T162	Machining 1822 1824	精度
+T163	Machining 1825 1829	工具寿命
+T164	Machining 1825 1827	工具
+T165	Machining 1834 1839	ドライ切削
+T166	Machining 1837 1839	切削
+T167	Machining 1854 1858	高速切削
+T168	Machining 1856 1858	切削
+T169	Machining 1862 1864	切削
+T170	Machining 1862 1866	切削油剤
+T171	Machining 1879 1882	高精度
+T172	Machining 1882 1889	エンドミル加工
+T173	Machining 1882 1887	エンドミル
+T174	Machining 1887 1889	加工
+T175	Machining 1891 1896	ドライ切削
+T176	Machining 1894 1896	切削
+T177	Machining 1903 1906	切削点
+T178	Machining 1903 1905	切削
+T179	Machining 1912 1916	切りくず
+T180	Machining 1946 1953	エンドミル切削
+T181	Machining 1946 1951	エンドミル
+T182	Machining 1951 1953	切削
+T183	Machining 1955 1957	旋削
+T184	Machining 1958 1963	ドリル加工
+T185	Machining 1958 1961	ドリル
+T186	Machining 1961 1963	加工
+T187	Machining 1974 1977	被削材
+T188	Machining 1996 1998	切削
+T189	Machining 2004 2005	熱
+T190	Machining 2029 2031	切削
+T191	Machining 2034 2036	温度
+T192	Machining 2038 2040	切削
+T193	Machining 2057 2061	工具寿命
+T194	Machining 2057 2059	工具
+T195	Machining 2082 2089	エンドミル加工
+T196	Machining 2082 2087	エンドミル
+T197	Machining 2087 2089	加工
+T198	Machining 2090 2093	切込み
+T199	Machining 2104 2106	送り
+T200	Machining 2107 2111	切削条件
+T201	Machining 2107 2109	切削
+T202	Machining 2112 2116	切りくず
+T204	Machining 2124 2126	工具
+T205	Machining 2127 2130	切れ刃
+T207	Machining 2134 2137	切削面
+T208	Machining 2134 2136	切削
+T209	Machining 2138 2140	切削
+T210	Machining 2146 2147	熱
+T211	Machining 2152 2154	切削
+T213	Machining 2169 2171	超硬
+T214	Machining 2169 2173	超硬合金
+T215	Machining 2183 2188	エンドミル
+T217	Machining 2191 2195	工具材種
+T218	Machining 2191 2193	工具
+T219	Machining 2204 2208	耐摩耗性
+T221	Machining 1363 1373	主軸スルークーラント
+T222	Machining 2176 2182	cBN焼結体
+T223	Machining 285 289	摩擦抵抗
+T224	Machining 303 310	切りくずつまり
+R1	Sub Arg1:T46 Arg2:T51	
+R2	Negative Arg1:T48 Arg2:T51	
+R3	Relation Arg1:T33 Arg2:T318	
+R4	Relation Arg1:T33 Arg2:T263	
+R5	Relation Arg1:T33 Arg2:T362	
+R6	Relation Arg1:T33 Arg2:T40	
+R7	Relation Arg1:T33 Arg2:T223	
+R8	Relation Arg1:T33 Arg2:T43	
+R9	Relation Arg1:T33 Arg2:T224	
+R10	Relation Arg1:T33 Arg2:T46	
+R11	Relation Arg1:T33 Arg2:T48	
+R12	Negative Arg1:T54 Arg2:T56	
+T227	Machining 1213 1216	熱衝撃
+T228	Machining 1219 1223	クラック
+T229	Machining 1224 1232	サーマルクラック
+R13	Relation Arg1:T227 Arg2:T228	
+R14	Relation Arg1:T227 Arg2:T229	
+T230	Machining 1551 1555	給油効果
+T231	Machining 1556 1560	吐出圧力
+T232	Machining 1566 1573	使用工具の直径
+T233	Machining 1574 1577	吐出量
+R15	Relation Arg1:T231 Arg2:T230	
+R16	Relation Arg1:T232 Arg2:T230	
+R17	Relation Arg1:T233 Arg2:T230	
+#2	AnnotatorNotes T230	高圧給油の効果
+T234	Machining 1632 1635	工具径
+T235	Machining 1652 1656	吐出圧力
+R18	Relation Arg1:T234 Arg2:T235	
+T236	Machining 1585 1588	工具径
+T237	Machining 1602 1606	吐出圧力
+T238	Machining 1612 1615	吐出量
+R19	Relation Arg1:T236 Arg2:T237	
+R20	Relation Arg1:T236 Arg2:T238	
+T239	Machining 1669 1672	吐出量
+R21	Relation Arg1:T234 Arg2:T239	
+T240	Machining 1718 1720	公害
+T242	Machining 1738 1741	コスト
+R22	Relation Arg1:T156 Arg2:T240	
+R23	Relation Arg1:T156 Arg2:T154	
+R24	Relation Arg1:T156 Arg2:T242	
+R25	Relation Arg1:T188 Arg2:T189	
+T243	Machining 1986 1990	断続接触
+R27	Positive Arg1:T190 Arg2:T191	
+R28	Relation Arg1:T209 Arg2:T210	
+T245	Machining 2164 2173	コーテッド超硬合金
+R29	Positive Arg1:T245 Arg2:T219	
+R30	Positive Arg1:T222 Arg2:T219	
+R31	Relation Arg1:T217 Arg2:T219	
+#1	AnnotatorNotes R2	仕上げ面粗さの向上（＝面粗度の低下）
+T244	Machining 68 73	穴あけ加工
+T246	Machining 79 85	ブローチ加工
+T247	Machining 88 91	加工法
+R26	Sub Arg1:T244 Arg2:T247	
+R32	Sub Arg1:T12 Arg2:T247	
+R33	Sub Arg1:T246 Arg2:T247	
+T248	Machining 532 535	極圧油
+T249	Machining 484 492	不水溶性切削油剤
+R34	Sub Arg1:T71 Arg2:T249	
+R35	Sub Arg1:T248 Arg2:T249	
+T250	Machining 598 604	不活性極圧油
+T251	Machining 663 668	活性極圧油
+R36	Sub Arg1:T250 Arg2:T248	
+R37	Sub Arg1:T251 Arg2:T248	
+R38	Relation Arg1:T251 Arg2:T82	
+T252	Machining 846 853	水溶性切削油剤
+T253	Machining 915 924	エマルジョン形油剤
+R39	Sub Arg1:T253 Arg2:T252	
+T254	Machining 1028 1047	ソリューブルおよびソリュージョン形油剤
+R40	Sub Arg1:T254 Arg2:T252	
+T255	Machining 460 464	不水溶性
+R41	Sub Arg1:T255 Arg2:T63	
+#3	AnnotatorNotes T255	不水溶性切削油剤
+#4	AnnotatorNotes T66	水溶性切削油剤
+R42	Sub Arg1:T66 Arg2:T63	
+T256	Machining 38 42	湿式切削
+T257	Machining 190 194	不水溶性
+#5	AnnotatorNotes T257	Y・M
+T258	Machining 1054 1058	研削加工
+#6	AnnotatorNotes T258	Y・M
+T259	Machining 6 8	油剤
+T260	Machining 31 33	油剤
+T261	Machining 151 153	損傷
+T262	Machining 230 232	油剤
+T263	Machining 247 249	潤滑
+T264	Machining 292 294	抵抗
+T265	Machining 287 289	抵抗
+T266	Machining 380 382	膨張
+T267	Machining 438 440	油剤
+T268	Machining 450 452	油剤
+T269	Machining 490 492	油剤
+T270	Machining 614 617	添加剤
+T271	Machining 678 681	添加剤
+T272	Machining 691 694	添加剤
+T273	Machining 704 706	刃先
+T274	Machining 765 767	油剤
+T94	Machining 833 835	油剤
+T275	Machining 851 853	油剤
+T276	Machining 922 924	油剤
+T277	Machining 934 936	油剤
+T278	Machining 982 985	添加剤
+T279	Machining 1045 1047	油剤
+T280	Machining 1071 1073	油剤
+T121	Machining 1271 1273	油剤
+T281	Quantity 1520 1523	5～7
+T282	Unit 1523 1526	MPa
+T283	Quantity 1485 1488	1.0
+T284	Unit 1488 1491	MPa
+T285	Machining 1476 1480	吐出圧力
+T286	Machining 1527 1531	吐出圧力
+T287	Machining 1697 1699	油剤
+T288	Machining 1751 1753	油剤
+T289	Machining 1864 1866	油剤
+T206	Machining 2171 2173	合金
+T212	Machining 2025 2027	刃先
+T216	Machining 620 623	極圧剤
+T220	Machining 626 628	油剤
+T290	Machining 635 637	油剤
+T291	Machining 632 637	汎用性油剤
+T292	Machining 1157 1159	加熱
+T293	Machining 1164 1166	冷却
+T294	Variable 1589 1590	φ
+T295	Quantity 1590 1592	10
+T296	Unit 1592 1594	mm
+T297	Quantity 1616 1617	5
+T298	Unit 1617 1621	/min
+T299	Variable 1641 1642	φ
+T300	Quantity 1642 1644	20
+T301	Unit 1644 1646	mm
+T303	Machining 1305 1311	外部給油方式
+T304	Machining 1708 1710	油剤
+T305	Machining 1527 1529	吐出
+T306	Machining 327 329	粗さ
+T307	Machining 1214 1216	衝撃
+T308	Machining 1476 1478	吐出
+T309	Machining 1556 1558	吐出
+T310	Machining 1574 1576	吐出
+T311	Machining 1602 1604	吐出
+T312	Machining 1612 1614	吐出
+T313	Machining 1652 1654	吐出
+T314	Machining 1669 1671	吐出
+T302	Machining 522 525	添加剤
+T315	Machining 1363 1365	主軸
+T316	Machining 1925 1927	吐出
+T317	Machining 1967 1969	刃先
+T318	Machining 240 242	冷却
+T319	Machining 1449 1451	冷却
+T320	Machining 1452 1454	潤滑
+T321	Machining 276 278	寿命
+T322	Machining 1365 1373	スルークーラント
+T323	Machining 1827 1829	寿命
+T324	Machining 2059 2061	寿命
+T325	Machining 940 943	潤滑性
+T326	Machining 1080 1083	冷却性
+T327	Machining 1124 1127	潤滑性
+T328	Machining 1196 1199	冷却性
+T329	Machining 775 778	潤滑性
+T330	Machining 369 371	冷却
+T331	Machining 640 641	鋼
+T332	Machining 827 835	不水溶性切削油剤
+T64	Machining 673 681	塩素系極圧添加剤
+T67	Machining 684 694	活性硫黄系極圧添加剤
+T95	Machining 827 831	不水溶性
+T98	Machining 665 668	極圧油
+T333	Machining 929 932	水溶性
+T334	Machining 846 849	水溶性
+T335	Machining 1395 1397	吐出
+T336	Machining 1395 1398	吐出穴
+T337	Machining 1397 1398	穴
+T338	Machining 1406 1407	穴
+T339	Machining 1113 1116	腐食性
+T340	Machining 1117 1120	腐敗性
+T341	Machining 1266 1273	水溶性切削油剤
+T342	Machining 1090 1094	高速加工
+T343	Machining 1402 1407	吹き出し穴
+T344	Machining 951 952	鋼
+T345	Machining 2042 2044	空冷
+T346	Machining 494 497	鉱物油
+T347	Machining 733 734	鋼
+T348	Machining 609 617	塩素系極圧添加剤
+T349	Machining 1297 1299	高速
+T350	Machining 1290 1294	高速回転
+T351	Machining 1290 1292	高速
+T352	Machining 1292 1294	回転
+T353	Machining 1340 1342	高速
+T354	Machining 1854 1856	高速
+T355	Machining 2098 2102	高速回転
+T356	Machining 2080 2082	高速
+T357	Machining 2098 2100	高速
+T358	Machining 2100 2102	回転
+T359	Machining 1054 1056	研削
+T360	Machining 1090 1092	高速
+T361	Machining 1876 1878	高速
+T362	Machining 255 257	排除
+T363	Machining 1010 1013	ワーク
+T109	Machining 1066 1073	水溶性切削油剤
+T364	Machining 1790 1793	潤滑性
+T365	Machining 1916 1918	除去
+T366	Machining 1912 1918	切りくず除去
+R43	Relation Arg1:T88 Arg2:T329	
+R44	Relation Arg1:T253 Arg2:T325	
+R45	Relation Arg1:T109 Arg2:T326	
+R46	Relation Arg1:T109 Arg2:T327	
+R47	Relation Arg1:T109 Arg2:T339	
+R48	Relation Arg1:T109 Arg2:T340	
+T16	Machining 338 341	高精度
+T225	Machining 385 388	高精度
+T226	Machining 601 604	極圧油
+T241	Machining 1876 1889	高速・高精度エンドミル加工
+T367	Machining 2080 2089	高速エンドミル加工
+T203	Trigger 330 332	向上
+T368	Trigger 344 346	可能
+T369	Trigger 383 385	減り
+T370	Trigger 391 393	可能
+T371	Trigger 2196 2198	適用
+T372	Trigger 2209 2212	高める

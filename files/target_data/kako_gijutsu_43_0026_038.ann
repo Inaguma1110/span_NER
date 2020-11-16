@@ -1,0 +1,11 @@
+T142	Machining 12 14	加工
+T143	Machining 22 26	フライス
+T207	Machining 0 8	マシニングセンタ
+R34	Sub Arg1:T207 Arg2:T208
+T208	Machining 17 19	設備
+T233	Machining 22 27	フライス盤
+T234	Machining 31 36	ヒーリング
+T277	Quantity 40 43	100
+T278	Unit 43 45	mm
+T279	Quantity 47 51	0.02
+T280	Unit 51 53	mm

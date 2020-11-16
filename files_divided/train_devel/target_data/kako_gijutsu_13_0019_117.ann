@@ -1,0 +1,7 @@
+T420	Machining 8 13	チッピング
+T421	Machining 15 17	切削
+T1374	Machining 6 14	累積チッピング率
+T1375	Machining 15 19	切削回数
+R76	Relation Arg1:T1375 Arg2:T1374
+T1824	Machining 23 30	ワイブル確率紙
+T1825	Machining 35 44	ワイブルパラメータ

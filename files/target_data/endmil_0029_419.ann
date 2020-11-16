@@ -1,0 +1,9 @@
+T1290	Machining 0 6	ステンレス鋼
+T3444	Machining 9 17	オーステナイト系
+R383	Sub Arg1:T3444 Arg2:T1290
+T3445	Machining 18 24	フェライト系
+R384	Sub Arg1:T3445 Arg2:T1290
+T3446	Machining 25 33	マルテンサイト系
+R393	Sub Arg1:T3446 Arg2:T1290
+T3447	Machining 36 41	析出硬化系
+R665	Sub Arg1:T3447 Arg2:T1290

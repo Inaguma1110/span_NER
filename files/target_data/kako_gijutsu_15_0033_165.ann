@@ -1,0 +1,10 @@
+T560	Machining 5 8	切込み
+T561	Machining 14 16	送り
+T562	Machining 61 65	寸法精度
+T563	Machining 63 65	精度
+T866	Machining 50 53	粗さ値
+R79	Negative Arg1:T866 Arg2:T562
+T1016	Machining 14 19	送りマーク
+T1196	Machining 50 52	粗さ
+T1341	Trigger 57 59	増加
+T1342	Trigger 66 68	低下

@@ -1,0 +1,14 @@
+T77	Machining 8 13	エンドミル
+T78	Machining 22 25	切れ刃
+T80	Machining 28 31	切削力
+T82	Machining 35 38	切れ刃
+T84	Machining 64 66	工具
+T247	Machining 22 27	切れ刃形状
+R28	Relation Arg1:T247 Arg2:T80
+R29	Relation Arg1:T247 Arg2:T248
+T248	Machining 41 44	転写性
+T249	Machining 59 63	先端形状
+R30	Relation Arg1:T249 Arg2:T250
+T250	Machining 69 72	転写性
+T279	Machining 35 40	切れ刃形状
+T287	Machining 64 68	工具形状

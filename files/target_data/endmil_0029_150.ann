@@ -1,0 +1,10 @@
+T402	Machining 5 7	工具
+T403	Machining 8 10	硬さ
+T404	Machining 32 34	切削
+R84	Relation Arg1:T404 Arg2:T406
+R839	Positive Arg1:T404 Arg2:T2273
+T405	Machining 47 49	温度
+T406	Machining 52 54	硬さ
+T2273	Machining 37 39	発熱
+T4238	Machining 2 4	粒子
+T4521	Trigger 40 42	伴う

@@ -1,0 +1,12 @@
+T1018	Machining 5 7	送り
+T1019	Machining 10 14	切削抵抗
+R308	Positive Arg1:T1019 Arg2:T1020
+T1020	Machining 32 36	送り速度
+T3123	Machining 5 9	送り方向
+T3124	Machining 10 12	切削
+T3125	Machining 12 14	抵抗
+T3126	Machining 15 17	直刃
+T3127	Machining 32 34	送り
+T3128	Machining 34 36	速度
+T4709	Trigger 22 27	小さくなり
+T4710	Trigger 37 42	上げられる

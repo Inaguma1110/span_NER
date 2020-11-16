@@ -1,0 +1,6 @@
+T357	Machining 14 16	加工
+T358	Machining 17 21	切りくず
+T435	Machining 12 16	冷間加工
+R50	Relation Arg1:T435 Arg2:T436
+T436	Machining 17 24	切りくず折断性
+T599	Machining 21 24	折断性

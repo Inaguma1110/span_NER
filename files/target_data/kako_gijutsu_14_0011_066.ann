@@ -1,0 +1,19 @@
+T414	Machining 8 11	被削材
+T415	Machining 12 19	降伏せん断応力
+T416	Machining 14 19	せん断応力
+T417	Machining 14 17	せん断
+T418	Machining 17 19	応力
+T419	Machining 22 26	せん断角
+T421	Machining 38 41	切削幅
+T1162	Variable 4 7	τ_0
+R191	Relation Arg1:T1162 Arg2:T415
+T1386	Variable 20 21	φ
+R192	Relation Arg1:T1386 Arg2:T419
+T1387	Variable 27 30	t_1
+R193	Relation Arg1:T1387 Arg2:T141
+T1389	Variable 36 37	b
+R194	Relation Arg1:T1389 Arg2:T421
+T141	Machining 31 35	切りこみ
+T551	Machining 38 40	切削
+T367	Machining 22 25	せん断
+T1548	Machining 40 41	幅

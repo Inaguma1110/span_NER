@@ -1,0 +1,6 @@
+T487	Machining 2 6	切削速度
+R67	Relation Arg1:T487 Arg2:T489
+T488	Machining 2 4	切削
+T489	Machining 27 31	仕上げ面
+T593	Machining 27 30	仕上げ
+T1576	Machining 4 6	速度

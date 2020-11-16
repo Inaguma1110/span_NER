@@ -1,0 +1,15 @@
+T1091	Machining 6 9	工作物
+T1092	Machining 15 19	疲労強度
+T1093	Machining 22 24	硬さ
+T1094	Machining 25 27	加工
+T1095	Machining 27 30	ひずみ
+T1229	Machining 10 14	破壊強度
+T1230	Machining 34 38	電気特性
+T1231	Machining 39 42	耐蝕性
+T1232	Machining 31 38	表面の電気特性
+T1233	Machining 20 24	表層硬さ
+T1246	Machining 25 30	加工ひずみ
+T1460	Machining 10 12	破壊
+T1499	Machining 12 14	強度
+T1500	Machining 15 17	疲労
+T1501	Machining 17 19	強度

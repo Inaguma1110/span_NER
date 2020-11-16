@@ -1,0 +1,8 @@
+T93	Machining 17 20	切削幅
+R51	Relation Arg1:T93 Arg2:T303
+T94	Machining 17 19	切削
+T95	Machining 25 28	切込み
+R52	Relation Arg1:T95 Arg2:T303
+T303	Machining 0 5	再生びびり
+T405	Machining 2 5	びびり
+T584	Machining 19 20	幅

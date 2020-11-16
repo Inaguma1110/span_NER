@@ -1,0 +1,10 @@
+T137	Machining 32 35	被削材
+T138	Machining 36 38	剛性
+T139	Machining 39 45	エンゲージ角
+T140	Machining 39 44	エンゲージ
+T203	Machining 3 10	ワイパ刃の数量
+R23	Linear Arg1:T203 Arg2:T204
+T204	Machining 15 21	スラスト抵抗
+T269	Machining 19 21	抵抗
+T270	Machining 15 19	スラスト
+T272	Machining 3 7	ワイパ刃

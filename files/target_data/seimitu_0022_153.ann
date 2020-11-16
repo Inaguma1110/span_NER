@@ -1,0 +1,6 @@
+T527	Machining 0 2	切削
+T528	Machining 2 5	主分力
+T529	Machining 10 13	切削力
+T590	Machining 0 5	切削主分力
+R191	Sub Arg1:T590 Arg2:T529
+T3437	Variable 5 7	Ｆｈ

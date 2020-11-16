@@ -1,0 +1,14 @@
+T4	Machining 0 8	ボールエンドミル
+R37	Sub Arg1:T4 Arg2:T10
+T5	Machining 3 8	エンドミル
+T6	Machining 11 15	フライス
+T7	Machining 19 23	フライス
+T8	Machining 32 36	形状加工
+T9	Machining 34 36	加工
+T10	Machining 42 44	工具
+T218	Machining 57 62	ダイカスト
+T219	Machining 63 69	プラスチック
+T220	Machining 54 56	鍛造
+T256	Machining 9 16	倣いフライス盤
+T257	Machining 17 24	NCフライス盤
+T258	Machining 29 36	３次元形状加工

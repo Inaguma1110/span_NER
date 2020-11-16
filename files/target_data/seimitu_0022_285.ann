@@ -1,0 +1,4 @@
+T1049	Machining 9 13	工具摩耗
+R314	Relation Arg1:T1049 Arg2:T1048
+T2482	Machining 9 11	工具
+T2483	Machining 11 13	摩耗

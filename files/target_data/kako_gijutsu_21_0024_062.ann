@@ -1,0 +1,13 @@
+T224	Machining 6 10	刃先強度
+T226	Machining 22 25	チップ
+T227	Machining 43 46	コーナ
+T228	Machining 50 53	チップ
+T720	Machining 14 18	刃先角度
+R26	Relation Arg1:T720 Arg2:T224
+T721	Machining 30 39	1刃当たりのコスト
+T722	Machining 43 47	コーナ数
+R27	Relation Arg1:T722 Arg2:T721
+T158	Machining 14 16	刃先
+T811	Machining 6 8	刃先
+T900	Machining 8 10	強度
+T945	Machining 36 39	コスト

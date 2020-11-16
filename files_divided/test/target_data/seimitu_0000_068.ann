@@ -1,0 +1,27 @@
+T231	Machining 0 4	切りくず
+T232	Machining 8 11	せん断
+T233	Machining 18 22	切りくず
+T234	Machining 37 40	せん断
+T235	Machining 48 51	せん断
+T236	Machining 86 90	切削速度
+R92	Relation Arg1:T236 Arg2:T384
+R93	Relation Arg1:T236 Arg2:T385
+T237	Machining 94 98	切りくず
+T238	Machining 105 108	せん断
+T384	Machining 94 100	切りくず速度
+R94	Relation Arg1:T384 Arg2:T385
+T385	Machining 105 110	せん断速度
+T1926	Machining 0 6	切りくず生成
+T3269	Machining 4 6	生成
+T3270	Machining 8 12	せん断面
+T3271	Machining 37 41	せん断面
+T3272	Machining 108 110	速度
+T3273	Machining 98 100	速度
+T3274	Machining 86 88	切削
+T3275	Machining 88 90	速度
+T3276	Variable 91 92	Ｖ
+T3277	Variable 101 103	Ｖｃ
+T3278	Variable 111 113	Ｖｓ
+T3279	Machining 48 52	せん断面
+T3281	Machining 43 47	垂直速度
+T3282	Machining 45 47	速度

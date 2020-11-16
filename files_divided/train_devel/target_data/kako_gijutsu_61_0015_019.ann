@@ -1,0 +1,15 @@
+T507	Machining 0 5	スクエア刃
+R84	Sub Arg1:T507 Arg2:T67
+T508	Machining 6 11	ラジアス刃
+R85	Sub Arg1:T508 Arg2:T67
+T509	Machining 12 16	ボール刃
+R86	Sub Arg1:T509 Arg2:T67
+T510	Machining 17 21	テーパ刃
+R87	Sub Arg1:T510 Arg2:T67
+T511	Machining 22 30	テーパラジアス刃
+R88	Sub Arg1:T511 Arg2:T67
+T512	Machining 31 38	テーパボール刃
+R89	Sub Arg1:T512 Arg2:T67
+T513	Machining 39 41	総形
+R90	Sub Arg1:T513 Arg2:T67
+T514	Machining 42 47	フォームド

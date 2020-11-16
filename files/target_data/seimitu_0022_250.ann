@@ -1,0 +1,12 @@
+T915	Machining 3 9	ダイヤモンド
+T916	Machining 20 23	切れ刃
+T917	Machining 30 32	切削
+T2300	Machining 0 9	単結晶ダイヤモンド
+R541	Relation Arg1:T2300 Arg2:T2302
+R544	Relation Arg1:T2300 Arg2:T919
+R545	Relation Arg1:T2300 Arg2:T2309
+R327	Relation Arg1:T2300 Arg2:T2317
+T2301	Machining 28 30	精密
+T2302	Machining 28 32	精密切削
+T2303	Machining 10 12	研磨
+T2329	Machining 0 3	単結晶

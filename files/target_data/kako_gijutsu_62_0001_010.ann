@@ -1,0 +1,23 @@
+T63	Machining 0 3	切削力
+R24	Relation Arg1:T63 Arg2:T243
+T64	Machining 0 2	切削
+T65	Machining 10 15	エンドミル
+T66	Machining 16 18	切削
+T67	Machining 24 27	工作物
+T68	Machining 48 50	工具
+T69	Machining 53 56	工作物
+T70	Machining 62 64	工具
+T71	Machining 65 68	切れ刃
+T72	Machining 69 71	摩耗
+T73	Machining 72 75	工作物
+T74	Machining 82 86	加工精度
+T75	Machining 82 84	加工
+T76	Machining 84 86	精度
+T243	Machining 6 8	変形
+T244	Machining 20 23	たわみ
+R25	Relation Arg1:T244 Arg2:T243
+T245	Machining 37 39	変位
+R26	Relation Arg1:T245 Arg2:T243
+T246	Machining 58 61	転写性
+R27	Relation Arg1:T246 Arg2:T74
+T291	Machining 48 52	工具形状

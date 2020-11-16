@@ -1,0 +1,7 @@
+T582	Machining 10 13	切込み
+R88	Relation Arg1:T582 Arg2:T579
+T584	Machining 14 17	送り量
+R89	Relation Arg1:T584 Arg2:T579
+T585	Machining 23 27	すくい角
+R90	Relation Arg1:T585 Arg2:T579
+T1113	Machining 14 16	送り

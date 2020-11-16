@@ -1,0 +1,15 @@
+T40	Machining 4 8	旋削加工
+T41	Machining 4 6	旋削
+T42	Machining 6 8	加工
+T43	Machining 11 15	連続切削
+T44	Machining 13 15	切削
+T45	Machining 21 24	切れ刃
+T46	Machining 29 31	欠損
+T47	Machining 32 33	熱
+T48	Machining 39 41	欠損
+T49	Machining 43 47	異常損傷
+T77	Machining 32 36	熱キレツ
+R2	Relation Arg1:T77 Arg2:T48
+R12	Relation Arg1:T77 Arg2:T49
+T39	Machining 45 47	損傷
+T65	Machining 33 36	キレツ

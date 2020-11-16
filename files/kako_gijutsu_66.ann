@@ -1,0 +1,312 @@
+T0	Machining 4 8	切削条件
+T1	Machining 4 6	切削
+T2	Machining 13 18	エンドミル
+T3	Machining 29 33	切削加工
+T4	Machining 29 31	切削
+T5	Machining 31 33	加工
+T6	Machining 38 42	切削条件
+T7	Machining 38 40	切削
+T8	Machining 56 60	工具寿命
+T9	Machining 56 58	工具
+T10	Machining 61 65	加工能率
+T11	Machining 61 63	加工
+T12	Machining 82 86	切削条件
+T13	Machining 82 84	切削
+T14	Machining 90 93	被削材
+T15	Machining 97 99	工具
+T16	Machining 142 146	切削条件
+T17	Machining 142 144	切削
+T18	Machining 169 174	エンドミル
+T19	Machining 175 179	切削条件
+T20	Machining 175 177	切削
+T21	Machining 181 185	切削速度
+T22	Machining 181 183	切削
+T23	Machining 200 202	送り
+T24	Machining 200 204	送り速度
+T25	Machining 219 222	切削量
+T26	Machining 219 221	切削
+T27	Machining 229 232	切込み
+T28	Machining 245 249	切削速度
+T29	Machining 245 247	切削
+T30	Machining 250 252	工具
+T31	Machining 250 255	工具の材質
+T32	Machining 256 259	被削材
+T33	Machining 264 266	硬度
+T34	Machining 276 278	送り
+T35	Machining 276 280	送り速度
+T36	Machining 281 283	工具
+T37	Machining 290 293	切込み
+T38	Machining 295 297	加工
+T39	Machining 298 301	仕上げ
+T40	Machining 298 303	仕上げ加工
+T41	Machining 301 303	加工
+T42	Machining 336 338	剛性
+T43	Machining 354 358	切削速度
+T44	Machining 354 356	切削
+T45	Machining 359 361	工具
+T46	Machining 361 363	外径
+T47	Machining 387 389	工具
+T48	Machining 390 394	切削速度
+T49	Machining 390 392	切削
+T50	Machining 421 425	切削速度
+T51	Machining 421 423	切削
+T52	Machining 435 437	工具
+T53	Machining 438 440	外径
+T54	Machining 447 449	工具
+T55	Machining 477 481	切削速度
+T56	Machining 477 479	切削
+T57	Machining 491 493	工具
+T58	Machining 555 557	工具
+T59	Machining 558 560	外径
+T60	Machining 568 573	エンドミル
+T61	Machining 578 582	切削速度
+T62	Machining 578 580	切削
+T63	Machining 591 593	切削
+T64	Machining 629 631	送り
+T65	Machining 642 647	エンドミル
+T66	Machining 663 666	ドリル
+T67	Machining 698 700	送り
+T68	Machining 698 702	送り速度
+T69	Machining 726 731	エンドミル
+T70	Machining 739 741	刃数
+T71	Machining 762 764	送り
+T72	Machining 762 766	送り速度
+T73	Machining 772 775	切削量
+T74	Machining 772 774	切削
+T75	Machining 776 778	刃数
+T76	Machining 803 806	切削量
+T77	Machining 803 805	切削
+T78	Machining 819 821	送り
+T79	Machining 819 823	送り速度
+T80	Machining 832 834	刃数
+T81	Machining 835 840	エンドミル
+T82	Machining 841 845	加工能率
+T83	Machining 841 843	加工
+T84	Machining 857 859	送り
+T85	Machining 857 861	送り速度
+T86	Machining 873 876	切削量
+T87	Machining 873 875	切削
+T88	Machining 893 895	送り
+T89	Machining 893 897	送り速度
+T90	Machining 911 913	送り
+T91	Machining 911 915	送り速度
+T92	Machining 948 950	外径
+T93	Machining 958 963	エンドミル
+T94	Machining 974 977	切削量
+T95	Machining 974 976	切削
+T96	Machining 1002 1004	送り
+T97	Machining 1002 1006	送り速度
+T98	Machining 1043 1045	送り
+T99	Machining 1071 1078	エンドミル加工
+T100	Machining 1071 1076	エンドミル
+T101	Machining 1076 1078	加工
+T102	Machining 1082 1089	エンドミル加工
+T103	Machining 1082 1087	エンドミル
+T104	Machining 1087 1089	加工
+T105	Machining 1094 1097	仕上げ
+T106	Machining 1094 1099	仕上げ加工
+T107	Machining 1097 1099	加工
+T108	Machining 1105 1107	超硬
+T109	Machining 1109 1120	コーティングエンドミル
+T110	Machining 1109 1115	コーティング
+T111	Machining 1115 1120	エンドミル
+T112	Machining 1134 1136	工具
+T113	Machining 1137 1143	ダイヤモンド
+T114	Machining 1143 1151	コーティング工具
+T115	Machining 1143 1149	コーティング
+T116	Machining 1149 1151	工具
+T117	Machining 1165 1167	工具
+T118	Machining 1177 1179	送り
+T119	Machining 1177 1181	送り速度
+T120	Machining 1204 1206	工具
+T121	Machining 1235 1237	剛性
+T122	Machining 1242 1244	工具
+T123	Machining 1266 1268	送り
+T124	Machining 1266 1270	送り速度
+T125	Machining 1272 1274	切削
+T126	Machining 1289 1293	切削条件
+T127	Machining 1289 1291	切削
+T128	Machining 1302 1306	切削条件
+T129	Machining 1302 1304	切削
+T130	Machining 1330 1334	切削条件
+T131	Machining 1330 1332	切削
+T132	Machining 1344 1346	切削
+T133	Machining 1361 1363	送り
+T134	Machining 1361 1364	送り量
+T135	Machining 1371 1373	工具
+T136	Machining 1394 1397	切削面
+T137	Machining 1394 1396	切削
+T138	Machining 1434 1436	工具
+T139	Machining 1442 1446	正常摩耗
+T140	Machining 1444 1446	摩耗
+T141	Machining 1451 1455	異常摩耗
+T142	Machining 1453 1455	摩耗
+T143	Machining 1458 1463	チッピング
+T144	Machining 1471 1473	送り
+T145	Machining 1471 1474	送り量
+T146	Machining 1480 1483	切込み
+T147	Machining 1496 1500	異常摩耗
+T148	Machining 1498 1500	摩耗
+T149	Machining 1503 1508	チッピング
+T150	Machining 1516 1520	切削速度
+T151	Machining 1516 1518	切削
+T152	Machining 1525 1528	切込み
+R1	Relation Arg1:T31 Arg2:T28	
+T153	Machining 256 266	被削材の種類及び硬度
+R2	Relation Arg1:T153 Arg2:T28	
+T154	Machining 281 288	工具の形状寸法
+R3	Relation Arg1:T154 Arg2:T35	
+T155	Machining 309 315	ワークの寸法
+R4	Relation Arg1:T155 Arg2:T37	
+T156	Machining 333 338	機械の剛性
+R5	Relation Arg1:T156 Arg2:T37	
+T157	Machining 359 363	工具外径
+T158	Machining 365 375	主軸の毎分の回転速数
+R6	Relation Arg1:T157 Arg2:T43	
+R7	Relation Arg1:T158 Arg2:T43	
+T159	Machining 94 96	機械
+R8	Relation Arg1:T6 Arg2:T8	
+R9	Relation Arg1:T6 Arg2:T10	
+R10	Relation Arg1:T14 Arg2:T12	
+R11	Relation Arg1:T159 Arg2:T12	
+R12	Relation Arg1:T15 Arg2:T12	
+R13	Relation Arg1:T21 Arg2:T19	
+R14	Relation Arg1:T24 Arg2:T19	
+T160	Machining 229 233	切込み幅
+R15	Relation Arg1:T160 Arg2:T19	
+T161	Machining 491 494	工具径
+T162	Machining 497 501	回転速度
+R16	Relation Arg1:T161 Arg2:T162	
+T163	Machining 515 519	回転速数
+R17	Relation Arg1:T163 Arg2:T55	
+#1	AnnotatorNotes R16	n = 1000V/πD　より、回転速度nは工具径Dに反比例
+#2	AnnotatorNotes T155	ワーク＝加工物（被削物）
+T164	Machining 629 633	送り速さ
+T165	Machining 693 697	移動距離
+R18	Relation Arg1:T165 Arg2:T164	
+T166	Machining 852 861	テーブルの送り速度
+R19	Relation Arg1:T166 Arg2:T82	
+T167	Machining 907 915	テーブル送り速度
+T168	Variable 915 916	F
+T169	Machining 826 830	回転速度
+T170	Variable 824 825	n
+T171	Variable 830 831	z
+T172	Machining 752 766	１分間当りのテーブル送り速度
+T173	Machining 767 775	１刃当りの切削量
+T174	Machining 779 783	回転速度
+R20	Relation Arg1:T173 Arg2:T172	
+R21	Relation Arg1:T75 Arg2:T172	
+R22	Relation Arg1:T174 Arg2:T172	
+#3	AnnotatorNotes R20	どのような関係かは次式に示される
+#4	AnnotatorNotes R21	どのような関係かは次式に示される
+#5	AnnotatorNotes R22	どのような関係かは次式に示される
+T175	Variable 796 797	f
+T176	Machining 798 806	１刃当りの切削量
+T177	Variable 807 808	F
+T178	Machining 809 823	１分間当りのテーブル送り速度
+R23	Relation Arg1:T179 Arg2:T143	
+R24	Relation Arg1:T145 Arg2:T143	
+R25	Relation Arg1:T145 Arg2:T141	
+R26	Relation Arg1:T179 Arg2:T141	
+R27	Relation Arg1:T150 Arg2:T147	
+R28	Relation Arg1:T150 Arg2:T149	
+T179	Machining 1480 1484	切込み量
+T180	Machining 1525 1529	切込み量
+R29	Relation Arg1:T180 Arg2:T147	
+R30	Relation Arg1:T180 Arg2:T149	
+#6	AnnotatorNotes R17	n = 1000V/πD　より、回転速度nは切削速度Vに比例する。
+T181	Machining 1344 1351	切削時の振動音
+T182	Machining 1371 1376	工具の振れ
+T183	Machining 1377 1381	突出し量
+R31	Relation Arg1:T134 Arg2:T181	
+R32	Relation Arg1:T182 Arg2:T181	
+R33	Relation Arg1:T183 Arg2:T181	
+T184	Machining 1402 1406	びびり面
+R34	Relation Arg1:T134 Arg2:T184	
+R35	Relation Arg1:T182 Arg2:T184	
+R36	Relation Arg1:T183 Arg2:T184	
+T185	Machining 294 297	荒加工
+#7	AnnotatorNotes T185	Y・M
+T186	Quantity 1048 1051	160
+T187	Unit 1051 1057	mm/min
+T188	Quantity 978 982	0.05
+T189	Unit 982 986	mm/刃
+T190	Quantity 583 585	50
+T191	Unit 585 590	m/min
+T192	Unit 186 191	m/min
+T193	Unit 205 211	mm/min
+T194	Unit 223 227	mm/刃
+T195	Unit 395 400	m/min
+T196	Unit 426 431	m/min
+T197	Unit 441 443	mm
+T198	Unit 455 461	min^-1
+T199	Quantity 1213 1219	50,000
+T200	Unit 1219 1225	min^-1
+T201	Quantity 1246 1259	10,000～20,000
+T202	Unit 1259 1265	mm/min
+T203	Machining 1448 1450	刃先
+T204	Machining 1348 1350	振動
+T205	Machining 450 454	回転速度
+T206	Machining 371 375	回転速数
+T207	Machining 601 605	回転速度
+T208	Machining 671 677	主軸回転速数
+T209	Machining 889 897	テーブル送り速度
+T210	Machining 998 1006	テーブル送り速度
+T211	Machining 758 766	テーブル送り速度
+T212	Machining 815 823	テーブル送り速度
+T213	Machining 1039 1045	テーブル送り
+T214	Machining 1402 1405	びびり
+T215	Machining 1437 1439	損傷
+T216	Machining 365 367	主軸
+T217	Variable 419 420	V
+T218	Variable 433 434	D
+T219	Variable 445 446	n
+T220	Machining 1377 1380	突出し
+T221	Machining 671 673	主軸
+T222	Machining 1492 1495	境界部
+T223	Machining 58 60	寿命
+T224	Machining 673 677	回転速数
+T225	Machining 194 198	回転速数
+T226	Variable 605 606	n
+T227	Machining 183 185	速度
+T228	Machining 194 196	回転
+T229	Machining 202 204	速度
+T230	Machining 247 249	速度
+T231	Machining 278 280	速度
+T232	Machining 356 358	速度
+T233	Machining 392 394	速度
+T234	Machining 423 425	速度
+T235	Machining 452 454	速度
+T236	Machining 450 452	回転
+T237	Machining 497 499	回転
+T238	Machining 499 501	速度
+T239	Machining 479 481	速度
+T240	Machining 515 517	回転
+T241	Machining 517 519	速数
+T242	Machining 580 582	速度
+T243	Machining 601 603	回転
+T244	Machining 603 605	速度
+T245	Machining 779 781	回転
+T246	Machining 781 783	速度
+T247	Machining 821 823	速度
+T248	Machining 826 828	回転
+T249	Machining 828 830	速度
+T250	Machining 673 675	回転
+T251	Machining 700 702	速度
+T252	Machining 895 897	速度
+T253	Machining 859 861	速度
+T254	Machining 913 915	速度
+T255	Machining 1004 1006	速度
+T256	Machining 1179 1181	速度
+T257	Machining 1208 1212	回転速数
+T258	Machining 1172 1176	回転速数
+T259	Machining 1172 1174	回転
+T260	Machining 764 766	速度
+T261	Machining 371 373	回転
+T262	Machining 1518 1520	速度
+T263	Machining 232 233	幅
+T264	Machining 631 633	速さ
+T265	Unit 715 721	mm/min
+T266	Machining 683 697	１分間当りのテーブル移動距離
+T267	Machining 654 657	バイト
+T268	Machining 658 662	ボール盤

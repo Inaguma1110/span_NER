@@ -1,0 +1,8 @@
+T1551	Machining 3 8	エンドミル
+T1552	Machining 12 16	外周刃先
+R466	Part Arg1:T1552 Arg2:T1551
+T3772	Machining 35 37	砥石
+T3773	Machining 46 48	研削
+T3774	Machining 14 16	刃先
+T3775	Machining 0 2	砥石
+T4339	Machining 12 14	外周

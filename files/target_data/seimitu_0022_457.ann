@@ -1,0 +1,8 @@
+T1611	Machining 0 5	平フライス
+R496	Sub Arg1:T1611 Arg2:T1612
+T1612	Machining 5 7	工具
+T1613	Machining 10 12	切削
+T1614	Machining 18 21	切れ刃
+R483	Part Arg1:T1614 Arg2:T1612
+R643	Relation Arg1:T1614 Arg2:T3638
+T3638	Machining 26 33	トロコイド曲線

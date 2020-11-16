@@ -1,0 +1,7 @@
+T661	Machining 3 7	高速切削
+R160	Relation Arg1:T661 Arg2:T663
+T662	Machining 5 7	切削
+T663	Machining 14 18	冷却効果
+T1124	Machining 14 16	冷却
+T1195	Machining 11 13	油剤
+T1284	Machining 3 5	高速

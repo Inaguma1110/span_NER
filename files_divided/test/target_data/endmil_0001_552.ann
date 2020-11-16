@@ -1,0 +1,15 @@
+T1614	Machining 11 18	総形エンドミル
+T1615	Machining 20 24	すくい面
+R451	Part Arg1:T1615 Arg2:T1614
+T1616	Machining 39 43	すくい面
+T1617	Machining 57 58	溝
+R475	Part Arg1:T1617 Arg2:T1614
+T1618	Machining 58 61	リード
+T3927	Machining 0 10	ラフィングエンドミル
+T3928	Machining 5 10	エンドミル
+T3929	Machining 13 18	エンドミル
+T3930	Machining 25 28	再研削
+T3931	Machining 49 55	ＣＮＣ研削盤
+T3932	Machining 44 47	再研削
+T3934	Machining 52 55	研削盤
+T4353	Machining 49 52	ＣＮＣ

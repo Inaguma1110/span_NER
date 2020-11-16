@@ -1,0 +1,10 @@
+T1095	Machining 5 9	切削速度
+T1096	Machining 14 18	切削速度
+T1097	Machining 20 24	工具寿命
+T2535	Machining 5 7	切削
+T2536	Machining 7 9	速度
+T2537	Machining 14 16	切削
+T2538	Machining 16 18	速度
+T2542	Machining 20 22	工具
+T2543	Machining 22 24	寿命
+T2544	Machining 20 26	工具寿命時間

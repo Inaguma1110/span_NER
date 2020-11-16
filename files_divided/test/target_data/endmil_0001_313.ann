@@ -1,0 +1,9 @@
+T940	Machining 0 4	切削油剤
+R271	Negative Arg1:T940 Arg2:T943
+T941	Machining 10 14	切りくず
+T942	Machining 15 19	すくい面
+T943	Machining 27 29	凝着
+T3057	Machining 0 2	切削
+T3058	Machining 2 4	油剤
+T4693	Trigger 30 32	防止
+T4694	Trigger 22 24	介在

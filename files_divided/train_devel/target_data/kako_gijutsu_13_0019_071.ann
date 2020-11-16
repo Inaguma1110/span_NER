@@ -1,0 +1,7 @@
+T218	Machining 9 13	工具寿命
+T219	Machining 9 15	工具寿命曲線
+R194	Relation Arg1:T219 Arg2:T866
+T220	Machining 9 11	工具
+T873	Quantity 38 39	1
+T866	Quantity 19 29	-1.2から-1.6
+T1753	Machining 11 13	寿命

@@ -1,0 +1,12 @@
+T1092	Machining 7 11	切削温度
+R145	Relation Arg1:T1092 Arg2:T1095
+T1093	Machining 7 9	切削
+T1094	Machining 9 11	温度
+T1095	Machining 12 16	工具寿命
+T1096	Machining 12 14	工具
+T1097	Machining 21 27	すくい面摩耗
+T1098	Machining 21 25	すくい面
+T1099	Machining 25 27	摩耗
+T1718	Machining 21 29	すくい面摩耗寿命
+T1783	Machining 14 16	寿命
+T1827	Machining 27 29	寿命

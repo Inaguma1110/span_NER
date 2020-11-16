@@ -1,0 +1,15 @@
+T40	Machining 0 5	エンドミル
+T41	Machining 34 37	切れ刃
+T42	Machining 51 54	切削力
+T43	Machining 51 53	切削
+T44	Machining 65 70	エンドミル
+T224	Machining 61 70	ねじれ刃エンドミル
+R35	Sub Arg1:T224 Arg2:T40
+T251	Machining 38 40	直刃
+R33	Sub Arg1:T251 Arg2:T41
+T252	Machining 41 45	ねじれ刃
+R34	Sub Arg1:T252 Arg2:T41
+T259	Machining 8 10	形状
+T260	Machining 25 30	スクエア形
+R41	Sub Arg1:T260 Arg2:T259
+T278	Machining 61 65	ねじれ刃

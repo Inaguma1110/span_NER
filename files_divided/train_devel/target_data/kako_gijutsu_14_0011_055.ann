@@ -1,0 +1,8 @@
+T332	Machining 0 4	切削温度
+T333	Machining 0 2	切削
+T334	Machining 2 4	温度
+T335	Machining 12 15	被削材
+T336	Machining 32 38	ステンレス鋼
+T337	Machining 38 44	SUS304
+T1203	Variable 19 28	k_wρ_wc_w
+R37	Relation Arg1:T1203 Arg2:T332

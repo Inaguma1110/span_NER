@@ -1,0 +1,8 @@
+T1186	Machining 0 4	工具摩耗
+R385	Relation Arg1:T1186 Arg2:T1188
+T1188	Machining 21 26	加工面粗さ
+T3331	Machining 0 2	工具
+T3332	Machining 2 4	摩耗
+T3333	Machining 24 26	粗さ
+T3336	Machining 21 24	加工面
+T3337	Machining 21 23	加工

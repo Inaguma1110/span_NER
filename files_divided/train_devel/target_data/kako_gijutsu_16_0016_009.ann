@@ -1,0 +1,9 @@
+T14	Machining 3 7	切削条件
+T15	Machining 3 5	切削
+T312	Quantity 13 14	2
+T563	Unit 14 15	倍
+T564	Quantity 19 22	1/2
+T484	Machining 10 12	厚さ
+R77	Linear Arg1:T484 Arg2:T312
+T521	Machining 16 18	長さ
+R78	Linear Arg1:T521 Arg2:T564

@@ -1,0 +1,8 @@
+T1742	Machining 0 2	刃数
+R735	Relation Arg1:T1742 Arg2:T4137
+T1743	Machining 9 12	切れ刃
+T4119	Machining 22 25	びびり
+T4124	Machining 7 9	接触
+T4125	Machining 12 14	長さ
+T4137	Machining 7 14	接触切れ刃長さ
+R491	Relation Arg1:T4137 Arg2:T4119

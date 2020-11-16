@@ -1,0 +1,7 @@
+T366	Machining 0 2	工具
+T367	Machining 2 6	すくい面
+T368	Machining 8 12	構成刃先
+T946	Machining 15 18	付着物
+T951	Machining 0 6	工具すくい面
+R203	Relation Arg1:T951 Arg2:T946
+T1552	Machining 10 12	刃先

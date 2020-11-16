@@ -1,0 +1,7 @@
+T947	Machining 6 9	送り量
+T948	Machining 32 35	延伸性
+R117	Relation Arg1:T948 Arg2:T1436
+T1403	Variable 19 20	μ
+T1436	Machining 0 19	寿命に対する送り量の影響をあらわす係数
+T1566	Machining 6 8	送り
+T1795	Machining 0 2	寿命

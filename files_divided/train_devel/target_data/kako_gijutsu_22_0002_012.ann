@@ -1,0 +1,14 @@
+T71	Machining 0 4	工具材種
+T73	Machining 7 12	サーメット
+T74	Machining 15 21	仕上げ面粗さ
+T75	Machining 15 19	仕上げ面
+T76	Machining 15 18	仕上げ
+T77	Machining 22 26	切削速度
+R14	Relation Arg1:T77 Arg2:T74
+T78	Machining 22 24	切削
+T80	Machining 34 38	工具材種
+T209	Machining 0 2	工具
+T210	Machining 34 36	工具
+T79	Machining 19 21	粗さ
+T224	Machining 7 14	サーメット材種
+T228	Machining 24 26	速度

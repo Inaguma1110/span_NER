@@ -1,0 +1,12 @@
+T1002	Machining 8 9	溝
+T1003	Machining 20 25	エンドミル
+T1004	Machining 30 31	溝
+T1005	Machining 32 37	エンドミル
+T1006	Machining 43 45	切削
+R348	Relation Arg1:T1006 Arg2:T1007
+T1007	Machining 53 57	切削抵抗
+T3101	Machining 17 19	直刃
+T3107	Machining 53 55	切削
+T3108	Machining 55 57	抵抗
+T3109	Machining 27 31	ねじれ溝
+T3111	Machining 27 30	ねじれ

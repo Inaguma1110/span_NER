@@ -1,0 +1,8 @@
+T612	Machining 3 7	切削抵抗
+T613	Machining 3 5	切削
+T614	Machining 17 22	びびり振動
+T741	Machining 3 10	切削抵抗の変動
+R63	Relation Arg1:T741 Arg2:T614
+T588	Machining 5 7	抵抗
+T788	Machining 17 20	びびり
+T789	Machining 20 22	振動

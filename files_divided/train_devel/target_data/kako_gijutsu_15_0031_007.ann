@@ -1,0 +1,14 @@
+T38	Machining 1 5	形状精度
+T39	Machining 3 5	精度
+T40	Machining 6 9	真円度
+R142	Sub Arg1:T40 Arg2:T38
+T41	Machining 14 17	真直度
+R144	Sub Arg1:T41 Arg2:T38
+T42	Machining 26 29	平面度
+R147	Sub Arg1:T42 Arg2:T38
+T888	Machining 10 13	円筒度
+R143	Sub Arg1:T888 Arg2:T38
+T899	Machining 18 21	平行度
+R145	Sub Arg1:T899 Arg2:T38
+T900	Machining 22 25	直角度
+R146	Sub Arg1:T900 Arg2:T38

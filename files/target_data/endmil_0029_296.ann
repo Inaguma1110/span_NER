@@ -1,0 +1,9 @@
+T889	Machining 4 7	溝切削
+R291	Sub Arg1:T889 Arg2:T890
+R847	Relation Arg1:T889 Arg2:T3016
+R848	Relation Arg1:T889 Arg2:T3017
+T890	Machining 21 23	切削
+T3016	Machining 13 19	アップカット
+T3017	Machining 32 38	ダウンカット
+T3018	Machining 4 5	溝
+T3019	Machining 5 7	切削

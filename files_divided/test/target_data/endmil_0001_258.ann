@@ -1,0 +1,7 @@
+T768	Machining 6 11	切込み深さ
+R203	Relation Arg1:T768 Arg2:T769
+T769	Machining 24 27	送り量
+T2811	Machining 6 9	切込み
+T2812	Machining 9 11	深さ
+T2814	Machining 19 20	刃
+T2815	Machining 24 26	送り

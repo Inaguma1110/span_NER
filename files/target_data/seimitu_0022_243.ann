@@ -1,0 +1,5 @@
+T2280	Machining 9 12	ｃＢＮ
+T2281	Machining 0 8	立方晶窒化ホウ素
+R683	Relation Arg1:T2281 Arg2:T2282
+R684	Relation Arg1:T2281 Arg2:T2283
+R685	Relation Arg1:T2281 Arg2:T896

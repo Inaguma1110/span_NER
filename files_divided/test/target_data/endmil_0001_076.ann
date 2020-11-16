@@ -1,0 +1,12 @@
+T175	Machining 0 4	切削工具
+R946	Relation Arg1:T175 Arg2:T176
+T176	Machining 21 27	ダイヤモンド
+T177	Machining 32 38	ダイヤモンド
+T178	Machining 44 50	ダイヤモンド
+T1983	Machining 0 2	切削
+T1984	Machining 2 4	工具
+T1985	Machining 44 53	ダイヤモンド焼結体
+R752	Part Arg1:T1985 Arg2:T2311
+T1986	Machining 50 53	焼結体
+T2311	Machining 29 38	粉末状ダイヤモンド
+R751	Relation Arg1:T2311 Arg2:T175

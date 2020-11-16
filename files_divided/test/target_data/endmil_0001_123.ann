@@ -1,0 +1,11 @@
+T311	Machining 5 9	切削抵抗
+R74	Positive Arg1:T311 Arg2:T314
+T312	Machining 16 20	仕上げ面
+T313	Machining 24 26	工具
+T314	Machining 27 32	チッピング
+T2201	Machining 10 12	変動
+T2203	Machining 16 19	仕上げ
+T2204	Machining 5 7	切削
+T2205	Machining 7 9	抵抗
+T4507	Trigger 33 40	発生し難くなり
+T4508	Trigger 13 15	なく

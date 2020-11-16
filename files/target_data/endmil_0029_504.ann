@@ -1,0 +1,16 @@
+T1527	Machining 3 8	エンドミル
+R442	Relation Arg1:T1527 Arg2:T3739
+T1528	Machining 16 19	逃げ面
+T1529	Machining 29 32	キー溝
+T1530	Machining 32 34	加工
+T1531	Machining 36 41	エンドミル
+T1532	Machining 51 53	底刃
+R431	Part Arg1:T1532 Arg2:T1531
+T3734	Machining 9 12	再研削
+T3735	Machining 45 47	刃長
+T3737	Machining 29 34	キー溝加工
+T3738	Machining 54 57	刃付け
+T3739	Machining 14 19	外周逃げ面
+T4397	Machining 14 16	外周
+T4447	Machining 29 41	キー溝加工用のエンドミル
+R923	Relation Arg1:T4447 Arg2:T1532

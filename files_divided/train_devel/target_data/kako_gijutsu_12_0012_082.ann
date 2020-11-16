@@ -1,0 +1,17 @@
+T286	Machining 23 27	切りくず
+T287	Machining 36 38	工具
+T288	Machining 46 50	切りくず
+T289	Machining 51 55	すくい面
+T291	Machining 67 69	熱源
+T292	Machining 72 78	すくい面温度
+T293	Machining 72 76	すくい面
+T294	Machining 76 78	温度
+T295	Machining 79 83	切りくず
+T296	Machining 83 85	温度
+T473	Variable 11 14	Q_2
+T474	Variable 31 34	R_2
+T475	Variable 17 20	R_2
+T561	Machining 5 7	加熱
+T562	Machining 5 9	加熱効果
+T583	Machining 65 69	移動熱源
+T663	Machining 65 67	移動

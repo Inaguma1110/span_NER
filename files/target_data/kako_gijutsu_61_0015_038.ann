@@ -1,0 +1,9 @@
+T135	Machining 10 14	刃先摩耗
+T136	Machining 12 14	摩耗
+T137	Machining 15 19	境界摩耗
+T138	Machining 17 19	摩耗
+T631	Machining 3 8	スクエア刃
+R171	Relation Arg1:T631 Arg2:T135
+R172	Relation Arg1:T631 Arg2:T137
+T106	Machining 10 12	刃先
+T682	Machining 15 17	境界

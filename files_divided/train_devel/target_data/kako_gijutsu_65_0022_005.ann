@@ -1,0 +1,13 @@
+T53	Machining 3 5	工具
+T54	Machining 23 26	熱膨張
+R12	Negative Arg1:T54 Arg2:T56
+T55	Machining 23 24	熱
+T56	Machining 29 34	高精度加工
+T57	Machining 32 34	加工
+T58	Machining 43 45	加工
+T59	Machining 53 55	加工
+T266	Machining 24 26	膨張
+T330	Machining 13 15	冷却
+T225	Machining 29 32	高精度
+T369	Trigger 27 29	減り
+T370	Trigger 35 37	可能

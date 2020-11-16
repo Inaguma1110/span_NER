@@ -1,0 +1,11 @@
+T425	Machining 4 6	切削
+T426	Machining 59 61	応力
+T427	Machining 65 68	ひずみ
+T428	Machining 78 81	仕上げ
+T847	Machining 57 61	残留応力
+R53	Relation Arg1:T847 Arg2:T427
+T1001	Machining 8 13	焼きなまし
+T232	Machining 78 83	仕上げ寸法
+T1296	Machining 57 59	残留
+T1318	Machining 35 39	切りこみ
+T1319	Machining 24 28	取りしろ

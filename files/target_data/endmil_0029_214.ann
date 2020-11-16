@@ -1,0 +1,7 @@
+T632	Machining 0 2	工具
+T633	Machining 11 14	切削熱
+R844	Relation Arg1:T633 Arg2:T634
+T634	Machining 16 20	切りくず
+T2575	Machining 11 13	切削
+T2576	Machining 13 14	熱
+T2584	Machining 26 28	流入

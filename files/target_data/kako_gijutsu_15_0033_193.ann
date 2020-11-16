@@ -1,0 +1,10 @@
+T681	Machining 6 10	切削加工
+R162	Relation Arg1:T681 Arg2:T687
+T682	Machining 6 8	切削
+T683	Machining 8 10	加工
+T684	Machining 14 16	精度
+T685	Machining 22 24	切削
+T686	Machining 22 26	切削油剤
+T687	Machining 22 29	切削油剤の効果
+R113	Relation Arg1:T687 Arg2:T684
+T1133	Machining 24 26	油剤

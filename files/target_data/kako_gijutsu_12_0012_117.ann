@@ -1,0 +1,9 @@
+T415	Machining 11 13	工具
+T416	Machining 14 18	シャンク
+T417	Machining 19 22	工作物
+T418	Machining 23 26	熱膨張
+T419	Machining 23 24	熱
+T559	Machining 24 26	膨張
+T611	Machining 8 10	冷却
+R120	Relation Arg1:T611 Arg2:T416
+R121	Relation Arg1:T611 Arg2:T418

@@ -1,0 +1,20 @@
+T47	Machining 0 5	エンドミル
+T48	Machining 7 9	刃部
+R2	Part Arg1:T48 Arg2:T47
+T49	Machining 10 15	シャンク部
+R3	Part Arg1:T49 Arg2:T47
+T50	Machining 24 31	ソリッドタイプ
+R4	Sub Arg1:T50 Arg2:T47
+T51	Machining 32 36	刃部材質
+R5	Part Arg1:T51 Arg2:T47
+T52	Machining 40 44	ろう付け
+T53	Machining 47 54	ろう付けタイプ
+R6	Sub Arg1:T53 Arg2:T47
+T54	Machining 61 71	スローアウェイタイプ
+R7	Sub Arg1:T54 Arg2:T47
+T1809	Machining 55 57	刃先
+T1910	Machining 32 34	刃部
+T4197	Machining 72 82	インデキサブルタイプ
+T4402	Machining 47 51	ろう付け
+T4403	Machining 72 79	インデキサブル
+T4404	Machining 61 68	スローアウェイ

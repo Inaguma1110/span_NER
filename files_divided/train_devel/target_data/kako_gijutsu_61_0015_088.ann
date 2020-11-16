@@ -1,0 +1,10 @@
+T386	Machining 0 5	エンドミル
+T387	Machining 8 10	切削
+T388	Machining 14 16	工具
+T389	Machining 20 22	外径
+T390	Machining 47 49	送り
+T391	Machining 49 51	切削
+T392	Machining 56 58	折損
+T393	Machining 59 61	破損
+T394	Machining 80 82	工具
+T633	Machining 46 51	横送り切削

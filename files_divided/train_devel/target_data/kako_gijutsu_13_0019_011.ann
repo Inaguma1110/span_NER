@@ -1,0 +1,14 @@
+T24	Machining 4 8	切削時間
+R15	Positive Arg1:T24 Arg2:T26
+T25	Machining 4 6	切削
+T26	Machining 15 19	工具損傷
+T27	Machining 15 17	工具
+T1307	Machining 28 31	損傷量
+R16	Relation Arg1:T1307 Arg2:T1309
+T1308	Machining 36 42	寿命判定基準
+T1309	Machining 51 53	寿命
+T1537	Machining 17 19	損傷
+T1586	Machining 28 30	損傷
+T1799	Machining 36 38	寿命
+T1932	Trigger 9 11	増加
+T1933	Trigger 20 22	増加

@@ -1,0 +1,5 @@
+T1525	Machining 11 15	加速摩耗
+R438	Sub Arg1:T1525 Arg2:T1521
+T3728	Machining 13 15	摩耗
+T3729	Machining 0 3	再研削
+T3973	Machining 11 13	加速

@@ -1,0 +1,8 @@
+T128	Machining 0 6	仕上げ面粗さ
+T129	Machining 0 4	仕上げ面
+T130	Machining 0 3	仕上げ
+T131	Machining 21 24	チップ
+T132	Machining 25 28	仕上げ
+T196	Machining 18 24	ワイパチップ
+R25	Relation Arg1:T196 Arg2:T128
+T335	Machining 4 6	粗さ

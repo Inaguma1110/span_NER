@@ -1,0 +1,16 @@
+T96	Machining 0 6	コンタリング
+T97	Machining 6 8	加工
+T98	Machining 10 13	真円度
+T99	Machining 18 20	精度
+T100	Machining 48 50	精度
+T101	Machining 60 63	高剛性
+T108	Machining 21 24	ワーク
+T109	Machining 16 20	機械精度
+R5	Relation Arg1:T109 Arg2:T108
+T123	Machining 0 8	コンタリング加工
+T131	Machining 37 39	主軸
+T133	Machining 35 39	高速主軸
+T134	Machining 50 54	輪郭制御
+T135	Machining 47 56	高精度輪郭制御機能
+T136	Machining 47 54	高精度輪郭制御
+T145	Machining 35 37	高速

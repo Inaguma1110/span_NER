@@ -1,0 +1,24 @@
+T49	Machining 2 6	切りくず
+T50	Machining 6 8	温度
+T51	Machining 9 14	比切削抵抗
+R13	Relation Arg1:T51 Arg2:T396
+T52	Machining 10 14	切削抵抗
+T53	Machining 10 12	切削
+T54	Machining 18 23	比切削抵抗
+R14	Positive Arg1:T54 Arg2:T396
+T55	Machining 19 23	切削抵抗
+T56	Machining 19 21	切削
+T57	Machining 30 33	被削材
+T58	Machining 37 39	比熱
+R16	Negative Arg1:T58 Arg2:T396
+T60	Machining 42 43	熱
+T396	Machining 2 8	切りくず温度
+T397	Machining 30 36	被削材の密度
+R15	Negative Arg1:T397 Arg2:T396
+T398	Machining 42 46	熱伝導度
+R17	Negative Arg1:T398 Arg2:T396
+T547	Machining 12 14	抵抗
+T548	Machining 21 23	抵抗
+T711	Trigger 24 27	大きく
+T712	Trigger 47 50	小さい
+T713	Trigger 51 55	高くなる

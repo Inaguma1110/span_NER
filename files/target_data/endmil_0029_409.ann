@@ -1,0 +1,33 @@
+T1249	Machining 50 55	エンドミル
+T1250	Machining 56 62	コーティング
+T1251	Machining 65 70	エンドミル
+T1252	Machining 72 74	硬さ
+R413	Relation Arg1:T1252 Arg2:T1253
+T1253	Machining 89 91	切削
+T1254	Machining 103 106	荒加工
+T1255	Machining 108 113	仕上げ加工
+T1256	Machining 120 124	ソリッド
+R395	Sub Arg1:T1256 Arg2:T1259
+T1257	Machining 130 137	スローアウェイ
+R396	Sub Arg1:T1257 Arg2:T1259
+T1258	Machining 141 147	コーティング
+T1259	Machining 147 154	超硬エンドミル
+T3401	Machining 0 4	Ｓ50Ｃ
+R862	Sub Arg1:T3401 Arg2:T3406
+T3402	Machining 5 9	Ｓ55Ｃ
+R863	Sub Arg1:T3402 Arg2:T3406
+T3403	Machining 10 15	ＳＫＤ61
+R864	Sub Arg1:T3403 Arg2:T3406
+T3404	Machining 16 21	ＳＫＤ11
+T3405	Machining 22 29	プリハードン鋼
+R865	Sub Arg1:T3405 Arg2:T3406
+T3406	Machining 32 35	金型材
+T3407	Machining 37 40	ＨＳＳ
+T3408	Machining 45 55	粉末ＨＳＳエンドミル
+T3409	Machining 47 50	ＨＳＳ
+T3410	Machining 62 65	ＨＳＳ
+T3411	Machining 56 70	コーティングＨＳＳエンドミル
+T3412	Quantity 75 77	40
+T3413	Unit 77 80	ＨＲＣ
+T3414	Machining 108 111	仕上げ
+T3415	Machining 111 113	加工

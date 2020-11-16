@@ -1,0 +1,9 @@
+T369	Machining 0 2	切削
+R80	Relation Arg1:T369 Arg2:T370
+T370	Machining 7 10	切削熱
+R91	Relation Arg1:T370 Arg2:T2251
+T371	Machining 14 18	切りくず
+R897	Relation Arg1:T371 Arg2:T2251
+T2249	Machining 7 9	切削
+T2250	Machining 9 10	熱
+T2251	Machining 19 21	変色

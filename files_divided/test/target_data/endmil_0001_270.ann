@@ -1,0 +1,13 @@
+T800	Machining 10 14	冷却効果
+R214	Positive Arg1:T800 Arg2:T802
+T801	Machining 21 23	工具
+R794	Positive Arg1:T801 Arg2:T802
+T802	Machining 24 27	切削熱
+R795	Relation Arg1:T802 Arg2:T803
+T2864	Machining 10 12	冷却
+T2865	Machining 24 26	切削
+T2866	Machining 26 27	熱
+T2867	Machining 28 30	流入
+T4273	Machining 5 7	空転
+T4645	Trigger 15 20	少なくなり
+T4646	Trigger 28 30	流入

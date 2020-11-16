@@ -1,0 +1,16 @@
+T609	Machining 0 3	工作物
+T610	Machining 18 22	切りくず
+T611	Machining 31 34	せん断
+T612	Machining 48 51	ひずみ
+R256	Relation Arg1:T612 Arg2:T613
+T613	Machining 78 80	熱源
+T2126	Machining 18 24	切りくず生成
+T2127	Machining 27 30	塑性域
+T2128	Machining 31 37	せん断変形域
+T3450	Machining 34 37	変形域
+T3451	Machining 22 24	生成
+T3452	Machining 14 16	移動
+T3453	Machining 5 7	要素
+R157	Positive Arg1:T3453 Arg2:T612
+T3752	Trigger 14 16	移動
+T3753	Trigger 52 54	増加

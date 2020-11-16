@@ -1,0 +1,7 @@
+T61	Machining 1 9	ボールエンドミル
+T62	Machining 4 9	エンドミル
+T63	Machining 15 19	形状削り
+T64	Machining 17 19	削り
+T590	Machining 12 19	3次元形状削り
+R71	Sub Arg1:T590 Arg2:T44
+R122	Relation Arg1:T590 Arg2:T61

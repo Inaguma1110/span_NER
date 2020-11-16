@@ -1,0 +1,17 @@
+T248	Machining 17 19	超硬
+T249	Machining 17 21	超硬合金
+T250	Machining 53 56	切れ刃
+T251	Machining 58 60	凝着
+T252	Machining 69 73	仕上げ面
+T1197	Machining 44 47	溶解度
+R25	Positive Arg1:T1197 Arg2:T251
+R26	Positive Arg1:T1197 Arg2:T1198
+T1198	Machining 69 77	仕上げ面断面曲線
+T1375	Machining 28 30	Co
+T1423	Machining 69 72	仕上げ
+T224	Machining 19 21	合金
+T1427	Machining 22 25	結合剤
+T1572	Machining 34 37	溶解度
+T812	Trigger 48 51	大きい
+T835	Trigger 63 68	大きくなり
+T1193	Trigger 81 86	大きくなる

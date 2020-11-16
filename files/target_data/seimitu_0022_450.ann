@@ -1,0 +1,26 @@
+T1587	Machining 0 6	仕上げ面粗さ
+R465	Relation Arg1:T1587 Arg2:T3038
+T1588	Machining 18 22	切削条件
+R505	Relation Arg1:T1588 Arg2:T3038
+T1589	Machining 23 25	工具
+T1590	Machining 41 43	工具
+T1591	Machining 43 46	切れ刃
+R495	Part Arg1:T1591 Arg2:T1590
+T1592	Machining 66 69	切れ刃
+R642	Relation Arg1:T1592 Arg2:T1594
+T1593	Machining 73 75	切削
+T1594	Machining 73 77	切削機構
+R506	Relation Arg1:T1594 Arg2:T1587
+T3019	Machining 0 4	仕上げ面
+T3020	Machining 4 6	粗さ
+T3024	Machining 25 27	刃先
+T3026	Machining 41 46	工具切れ刃
+T3027	Machining 18 20	切削
+T3028	Machining 23 27	工具刃先
+T3029	Machining 63 65	振動
+R641	Relation Arg1:T3029 Arg2:T1594
+T3030	Machining 0 3	仕上げ
+T3031	Machining 23 29	工具刃先形状
+R640	Relation Arg1:T3031 Arg2:T3038
+T3037	Machining 47 49	運動
+T3038	Machining 47 51	運動軌跡

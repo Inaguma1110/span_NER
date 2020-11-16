@@ -1,0 +1,6 @@
+T1	Machining 4 6	切削
+T2	Machining 4 12	切削仕上げ面品位
+T3	Machining 6 10	仕上げ面
+T109	Machining 6 9	仕上げ
+T1602	Machining 10 12	品位
+T1604	Machining 4 10	切削仕上げ面

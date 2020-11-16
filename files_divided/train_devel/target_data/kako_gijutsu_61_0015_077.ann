@@ -1,0 +1,5 @@
+T349	Machining 0 4	刃先摩耗
+R47	Relation Arg1:T349 Arg2:T575
+T350	Machining 2 4	摩耗
+T575	Machining 16 17	角
+T656	Machining 0 2	刃先

@@ -1,0 +1,7 @@
+T182	Machining 0 5	エンドミル
+T183	Machining 8 10	工具
+T184	Machining 8 12	工具剛性
+R2	Relation Arg1:T184 Arg2:T186
+R149	Relation Arg1:T184 Arg2:T182
+T185	Machining 10 12	剛性
+T186	Machining 24 29	チッピング

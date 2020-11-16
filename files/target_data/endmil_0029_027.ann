@@ -1,0 +1,7 @@
+T1818	Machining 23 27	センタ穴
+R746	Part Arg1:T1818 Arg2:T2008
+R747	Part Arg1:T1818 Arg2:T2009
+T2008	Machining 11 15	ラジアス
+R749	Sub Arg1:T2008 Arg2:T80
+T2009	Machining 3 7	スクエア
+R748	Sub Arg1:T2009 Arg2:T80

@@ -1,0 +1,18 @@
+T732	Machining 2 6	切りくず
+T733	Machining 9 11	工具
+T734	Machining 11 15	すくい面
+T735	Machining 16 18	温度
+T736	Machining 38 42	すくい面
+R218	Relation Arg1:T736 Arg2:T737
+T737	Machining 44 48	温度上昇
+R261	Relation Arg1:T737 Arg2:T740
+T738	Machining 52 55	せん断
+R219	Relation Arg1:T738 Arg2:T739
+T739	Machining 59 63	温度上昇
+R262	Relation Arg1:T739 Arg2:T740
+T740	Machining 87 92	熱配分割合
+T2183	Machining 9 15	工具すくい面
+T3522	Machining 59 61	温度
+T3523	Machining 44 46	温度
+T3524	Variable 48 50	θｆ
+T3525	Variable 64 66	θｓ

@@ -1,0 +1,19 @@
+T189	Machining 12 14	摩耗
+T190	Machining 23 27	切削速度
+R47	Relation Arg1:T190 Arg2:T192
+T191	Machining 23 25	切削
+T192	Machining 28 32	工具寿命
+T193	Machining 28 30	工具
+T194	Machining 33 37	工具摩耗
+R48	NegativeLinear Arg1:T194 Arg2:T192
+T195	Machining 33 35	工具
+T196	Machining 35 37	摩耗
+T197	Machining 50 54	工具寿命
+T198	Machining 50 56	工具寿命曲線
+T199	Machining 50 52	工具
+T1310	Quantity 79 81	-1
+T1311	Quantity 82 84	45
+T1312	Unit 84 85	°
+T1752	Machining 52 54	寿命
+T1790	Machining 30 32	寿命
+T1909	Machining 25 27	速度

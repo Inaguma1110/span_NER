@@ -1,0 +1,10 @@
+T1130	Machining 7 9	工具
+T1131	Machining 9 11	摩擦
+T1132	Machining 13 15	擦過
+R383	Relation Arg1:T1132 Arg2:T1134
+T1133	Machining 18 20	工具
+T1134	Machining 26 28	切削
+T2578	Machining 7 11	工具摩擦
+T2582	Machining 7 12	工具摩擦面
+T2583	Machining 20 22	表面
+T2585	Machining 18 22	工具表面

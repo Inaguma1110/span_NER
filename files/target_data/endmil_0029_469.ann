@@ -1,0 +1,6 @@
+T1450	Machining 45 47	比熱
+T1451	Machining 54 58	切りくず
+R699	Relation Arg1:T1451 Arg2:T3600
+T3598	Machining 23 25	加熱
+T3599	Machining 31 33	燃焼
+T3600	Machining 73 75	燃焼

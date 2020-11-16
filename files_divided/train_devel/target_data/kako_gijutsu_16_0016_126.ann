@@ -1,0 +1,16 @@
+T265	Machining 1 4	水溶性
+T266	Machining 4 6	切削
+T267	Machining 4 8	切削油剤
+T268	Machining 16 18	工具
+T269	Machining 18 22	すくい面
+T270	Machining 27 31	切りくず
+T271	Machining 39 43	切りくず
+T424	Machining 0 8	不水溶性切削油剤
+R41	Relation Arg1:T424 Arg2:T425
+T425	Machining 27 34	切りくずカール
+T439	Machining 16 24	工具すくい面潤滑
+R53	Relation Arg1:T439 Arg2:T425
+T502	Machining 0 4	不水溶性
+T559	Machining 22 24	潤滑
+T560	Machining 6 8	油剤
+T609	Machining 31 34	カール

@@ -1,0 +1,11 @@
+T594	Machining 5 9	切削速度
+R150	Relation Arg1:T594 Arg2:T595
+T595	Machining 10 14	工具寿命
+T596	Machining 28 35	工具寿命方程式
+T2524	Machining 5 7	切削
+T2525	Machining 7 9	速度
+T2526	Machining 10 12	工具
+T2527	Machining 12 14	寿命
+T2528	Machining 28 30	工具
+T2529	Machining 30 32	寿命
+T4255	Machining 28 32	工具寿命

@@ -1,0 +1,9 @@
+T298	Machining 3 5	切削
+T299	Machining 8 10	工具
+T300	Machining 16 18	摩擦
+T301	Machining 16 20	摩擦応力
+R67	Relation Arg1:T301 Arg2:T303
+T302	Machining 18 20	応力
+T303	Machining 68 70	摩耗
+T1662	Machining 8 13	工具接触面
+T1848	Machining 46 48	拡散

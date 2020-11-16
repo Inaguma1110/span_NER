@@ -1,0 +1,43 @@
+T75	Machining 3 5	工具
+T76	Machining 6 9	逃げ面
+T77	Machining 10 14	仕上げ面
+T78	Machining 55 57	工具
+T79	Machining 57 60	逃げ面
+T80	Machining 61 65	仕上げ面
+T81	Machining 80 82	切削
+T82	Machining 99 101	工具
+T83	Machining 105 109	仕上げ面
+T84	Machining 128 131	切れ刃
+R24	Part Arg1:T84 Arg2:T82
+T85	Machining 134 137	逃げ面
+T86	Machining 139 143	仕上げ面
+T87	Machining 152 154	摩擦
+R25	Positive Arg1:T87 Arg2:T90
+T88	Machining 159 161	工具
+T89	Machining 161 164	逃げ面
+T90	Machining 167 169	摩耗
+R26	Relation Arg1:T90 Arg2:T91
+R27	Relation Arg1:T90 Arg2:T92
+R28	Relation Arg1:T90 Arg2:T208
+T91	Machining 177 181	寸法精度
+T92	Machining 182 188	仕上げ面粗さ
+T93	Machining 189 191	加工
+T208	Machining 189 194	加工変質層
+T1818	Machining 61 64	仕上げ
+T1819	Machining 10 13	仕上げ
+T1820	Machining 15 30	ｆｉｎｉｓｈｅｄｓｕｒｆａｃｅ
+T1821	Machining 32 34	接触
+T1822	Machining 66 68	接触
+T1823	Machining 87 89	振動
+T1824	Machining 90 92	刃先
+T3715	Machining 3 9	工具の逃げ面
+T3716	Machining 55 60	工具逃げ面
+T3717	Machining 105 108	仕上げ
+T3718	Machining 139 142	仕上げ
+T3719	Machining 159 164	工具逃げ面
+T3720	Machining 179 181	精度
+T3721	Machining 182 185	仕上げ
+T3722	Machining 182 186	仕上げ面
+T3723	Machining 186 188	粗さ
+T3739	Trigger 155 158	行われ
+T3740	Trigger 170 172	発生

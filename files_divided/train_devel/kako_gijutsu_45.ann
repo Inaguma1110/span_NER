@@ -1,0 +1,137 @@
+T0	Machining 28 30	加工
+T2	Machining 37 43	フライス切削
+T3	Machining 37 41	フライス
+T4	Machining 41 43	切削
+T5	Machining 49 53	断続切削
+T6	Machining 51 53	切削
+T7	Machining 73 75	工具
+T8	Machining 163 168	チッピング
+T9	Machining 169 173	断続切削
+T10	Machining 171 173	切削
+T11	Machining 177 180	熱亀裂
+T12	Machining 177 178	熱
+T13	Machining 178 180	亀裂
+T14	Machining 190 194	刃先強度
+T15	Machining 205 210	チッピング
+T16	Machining 233 239	エンゲージ角
+T17	Machining 233 238	エンゲージ
+T18	Machining 254 256	刃数
+T19	Machining 281 286	チッピング
+T20	Machining 325 327	切削
+T21	Machining 327 329	刃数
+T22	Machining 330 333	切削力
+T24	Machining 349 351	切削
+T25	Machining 351 353	刃数
+T26	Machining 360 363	切削力
+T28	Machining 405 410	チッピング
+T29	Machining 426 428	刃数
+T31	Machining 456 462	アルミニウム
+T32	Machining 462 464	切削
+T33	Machining 485 491	ステンレス鋼
+T34	Machining 504 508	切削速度
+T35	Machining 504 506	切削
+T37	Machining 522 528	アルミニウム
+T38	Machining 539 541	刃形
+T39	Machining 545 548	逃げ角
+T40	Machining 555 559	切りくず
+T41	Machining 569 573	すくい面
+T42	Machining 576 579	仕上げ
+T43	Machining 603 606	親和性
+T44	Machining 609 614	サーメット
+T45	Machining 634 639	サーメット
+T46	Machining 650 653	仕上げ
+T47	Machining 650 655	仕上げ切削
+T48	Machining 653 655	切削
+T49	Machining 669 671	切削
+T50	Machining 687 690	熱亀裂
+T51	Machining 687 688	熱
+T52	Machining 688 690	亀裂
+T53	Machining 693 698	チッピング
+T54	Machining 819 824	チッピング
+T55	Machining 836 842	正面フライス
+T56	Machining 838 842	フライス
+T57	Machining 845 847	切削
+T58	Machining 847 849	刃数
+T59	Machining 850 853	切削力
+T60	Machining 850 852	切削
+T61	Machining 871 873	切削
+T62	Machining 181 187	ハイレーキ化
+T63	Machining 320 329	カッタ同時切削刃数
+T64	Machining 46 48	多刃
+T65	Machining 58 61	びびり
+R1	Relation Arg1:T64 Arg2:T65	
+R2	Relation Arg1:T5 Arg2:T65	
+R3	Relation Arg1:T62 Arg2:T14	
+T66	Machining 169 176	断続切削の衝撃
+R4	Relation Arg1:T66 Arg2:T15	
+R5	Relation Arg1:T11 Arg2:T15	
+R6	Relation Arg1:T14 Arg2:T15	
+R7	Relation Arg1:T16 Arg2:T15	
+T67	Machining 250 256	カッタの刃数
+R8	Relation Arg1:T67 Arg2:T15	
+R9	Relation Arg1:T63 Arg2:T22	
+T68	Machining 347 353	同時切削刃数
+R10	Relation Arg1:T68 Arg2:T26	
+T69	Machining 379 382	びびり
+T70	Machining 383 389	ワークの変形
+T71	Machining 398 400	負荷
+R11	Relation Arg1:T69 Arg2:T28	
+R12	Relation Arg1:T70 Arg2:T28	
+R13	Relation Arg1:T71 Arg2:T28	
+R14	Relation Arg1:T29 Arg2:T28	
+T72	Machining 453 455	溶着
+R15	Negative Arg1:T34 Arg2:T72	
+T73	Machining 534 541	ハイレーキ刃形
+R16	Relation Arg1:T73 Arg2:T72	
+R17	Relation Arg1:T39 Arg2:T72	
+T74	Machining 574 579	鏡面仕上げ
+R18	Relation Arg1:T74 Arg2:T72	
+R19	Relation Arg1:T50 Arg2:T53	
+T75	Machining 701 703	寿命
+R20	Relation Arg1:T53 Arg2:T75	
+T76	Machining 669 672	切削油
+R21	Relation Arg1:T76 Arg2:T72	
+T77	Machining 26 30	機械加工
+#1	AnnotatorNotes T77	Y・M
+T78	Machining 35 43	正面フライス切削
+#2	AnnotatorNotes T78	Y・M
+R22	Relation Arg1:T65 Arg2:T78	
+#3	AnnotatorNotes R22	Y・M
+T79	Machining 390 394	機械主軸
+#4	AnnotatorNotes T79	Y・M
+R23	Relation Arg1:T71 Arg2:T79	
+#5	AnnotatorNotes R23	Y・M
+T80	Machining 483 484	鋼
+#6	AnnotatorNotes T80	Y・M
+T81	Machining 593 594	鋼
+#7	AnnotatorNotes T81	Y・M
+T82	Machining 595 600	ステンレス
+#8	AnnotatorNotes T82	Y・M
+T83	Machining 623 625	刃先
+#9	AnnotatorNotes T83	Y・M
+T85	Machining 626 631	絶対的強度
+#11	AnnotatorNotes T85	Y・M
+R24	Relation Arg1:T45 Arg2:T85	
+#12	AnnotatorNotes R24	Y・M
+T86	Machining 641 646	ステンレス
+#13	AnnotatorNotes T86	Y・M
+R25	Relation Arg1:T50 Arg2:T76	
+#14	AnnotatorNotes R25	Y・M
+T1	Machining 137 140	びびり
+T87	Machining 190 192	刃先
+T88	Machining 320 323	カッタ
+T30	Machining 728 730	溶着
+T36	Machining 83 85	振動
+T89	Machining 19 22	びびり
+T90	Machining 250 253	カッタ
+T91	Machining 83 87	振動解析
+T92	Machining 805 808	びびり
+T93	Machining 392 394	主軸
+T94	Machining 861 863	溶着
+T95	Machining 192 194	強度
+T96	Machining 629 631	強度
+T97	Machining 174 176	衝撃
+T98	Machining 387 389	変形
+T99	Machining 506 508	速度
+T23	Trigger 509 512	上げる
+T27	Trigger 466 468	発生

@@ -1,0 +1,15 @@
+T426	Machining 2 6	切削速度
+T427	Machining 7 11	切りくず
+T428	Machining 22 24	切削
+T429	Machining 40 42	切削
+T430	Machining 51 58	切削エネルギー
+T431	Machining 67 71	切りくず
+T2002	Machining 11 13	流出
+T2004	Machining 7 15	切りくず流出方向
+T2005	Machining 2 4	切削
+T2006	Machining 4 6	速度
+T2007	Machining 19 24	２次元切削
+T2008	Machining 37 42	２次元切削
+T2009	Machining 51 53	切削
+T2010	Machining 53 58	エネルギー
+T2011	Machining 72 74	流出

@@ -1,0 +1,10 @@
+T6	Machining 0 4	切削加工
+T7	Machining 0 2	切削
+T8	Machining 2 4	加工
+T9	Machining 16 17	熱
+T10	Machining 18 21	切削熱
+T11	Machining 18 20	切削
+T12	Machining 20 21	熱
+T498	Machining 0 9	切削加工のエネルギ
+R2	Relation Arg1:T498 Arg2:T10
+T644	Machining 5 9	エネルギ

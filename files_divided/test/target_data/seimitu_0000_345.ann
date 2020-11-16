@@ -1,0 +1,12 @@
+T1224	Machining 39 43	切削条件
+T1225	Machining 54 58	すくい面
+T1226	Machining 61 63	温度
+R360	Relation Arg1:T1226 Arg2:T1228
+T1227	Machining 66 68	応力
+R361	Relation Arg1:T1227 Arg2:T1228
+T1228	Machining 75 77	摩耗
+T2693	Machining 39 41	切削
+T2694	Machining 50 53	接触面
+T2695	Machining 50 52	接触
+T3586	Variable 63 65	θｔ
+T3587	Variable 68 70	σｔ

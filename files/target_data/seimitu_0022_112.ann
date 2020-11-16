@@ -1,0 +1,16 @@
+T344	Machining 7 12	前すくい角
+R81	Relation Arg1:T344 Arg2:T346
+T345	Machining 16 18	工具
+T346	Machining 25 29	切りくず
+T347	Machining 30 33	切れ刃
+R126	Part Arg1:T347 Arg2:T345
+T348	Machining 49 51	切削
+T349	Machining 54 58	切りくず
+T350	Machining 72 74	切削
+T1985	Machining 54 62	切りくず流出方向
+R82	Relation Arg1:T1985 Arg2:T3366
+T1986	Machining 58 60	流出
+T3364	Machining 37 39	流出
+T3365	Machining 49 53	切削方向
+R75	Relation Arg1:T3365 Arg2:T3366
+T3366	Machining 69 74	2次元切削

@@ -1,0 +1,4 @@
+T330	Machining 5 8	被削材
+T331	Machining 9 13	切りくず
+T584	Machining 13 16	折断性
+T650	Machining 9 16	切りくず折断性

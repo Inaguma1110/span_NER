@@ -1,0 +1,15 @@
+T1718	Machining 15 17	加工
+T1719	Machining 20 24	右ねじれ
+T1720	Machining 25 30	エンドミル
+T1721	Machining 37 39	切削
+R510	Sub Arg1:T1721 Arg2:T1718
+T1722	Machining 41 44	加工物
+T1723	Machining 57 62	びびり振動
+R884	Relation Arg1:T1723 Arg2:T4103
+R511	Relation Arg1:T1723 Arg2:T1724
+T4100	Machining 18 20	右刃
+T4101	Machining 57 60	びびり
+T4102	Machining 60 62	振動
+T4363	Machining 18 24	右刃右ねじれ
+R816	Positive Arg1:T4363 Arg2:T1723
+T4844	Trigger 63 65	誘発

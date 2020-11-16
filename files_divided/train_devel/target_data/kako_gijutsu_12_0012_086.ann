@@ -1,0 +1,39 @@
+T306	Machining 7 9	工具
+T308	Machining 10 14	熱伝導率
+T310	Machining 24 27	送り量
+T311	Machining 69 73	すくい面
+T312	Machining 82 89	切くず接触長さ
+T313	Machining 82 85	切くず
+T314	Machining 94 98	切りくず
+T316	Machining 105 109	すくい面
+T317	Machining 105 113	すくい面摩擦応力
+T318	Machining 109 111	摩擦
+T319	Machining 109 113	摩擦応力
+T320	Machining 111 113	応力
+T476	Variable 3 6	k_t
+R99	Relation Arg1:T476 Arg2:T308
+T477	Variable 15 16	A
+R107	Relation Arg1:T477 Arg2:T585
+R108	Relation Arg1:T477 Arg2:T310
+T478	Variable 37 40	L_2
+R106	Relation Arg1:T478 Arg2:T598
+T479	Variable 58 60	Vc
+T480	Variable 61 62	l
+T481	Variable 64 65	K
+T482	Variable 67 68	l
+R100	Relation Arg1:T482 Arg2:T312
+T483	Variable 75 78	Q_2
+T484	Variable 91 93	Vc
+R101	Relation Arg1:T484 Arg2:T269
+T485	Variable 101 104	τ_2
+R102	Relation Arg1:T485 Arg2:T317
+T567	Variable 41 44	Q_2
+T585	Machining 17 23	切り込み深さ
+T269	Machining 94 100	切りくず速度
+T598	Machining 45 49	移動効果
+T272	Machining 17 21	切り込み
+T539	Machining 24 26	送り
+T664	Machining 45 47	移動
+T665	Machining 98 100	速度
+T667	Machining 21 23	深さ
+T672	Machining 87 89	長さ

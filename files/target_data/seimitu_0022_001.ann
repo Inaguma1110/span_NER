@@ -1,0 +1,15 @@
+T5	Machining 11 13	工具
+T6	Machining 20 23	高硬度
+T7	Machining 27 30	高精度
+R2	Relation Arg1:T7 Arg2:T201
+R510	Relation Arg1:T7 Arg2:T1782
+T8	Machining 37 39	切削
+T9	Machining 63 65	加工
+T10	Machining 76 80	切削加工
+T11	Machining 86 88	加工
+T201	Machining 61 65	磨き加工
+T1782	Machining 58 60	研削
+T2083	Machining 76 78	切削
+T2084	Machining 78 80	加工
+T2101	Machining 24 26	材料
+T2368	Machining 61 63	磨き

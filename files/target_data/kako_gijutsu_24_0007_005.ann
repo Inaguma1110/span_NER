@@ -1,0 +1,11 @@
+T8	Machining 16 19	加工径
+R2	Relation Arg1:T8 Arg2:T56
+T12	Machining 22 24	切削
+T13	Machining 44 47	加工物
+T54	Machining 5 11	最高回転速度
+R1	Relation Arg1:T54 Arg2:T56
+T56	Machining 22 26	切削速度
+T65	Machining 24 26	速度
+T68	Machining 7 9	回転
+T69	Machining 9 11	速度
+T9	Machining 0 4	工作機械

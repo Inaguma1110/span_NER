@@ -1,0 +1,7 @@
+T735	Machining 16 19	送り量
+R188	Relation Arg1:T735 Arg2:T736
+T736	Machining 20 24	工具摩耗
+T2758	Machining 11 12	刃
+T2759	Machining 16 18	送り
+T2760	Machining 20 22	工具
+T2761	Machining 22 24	摩耗

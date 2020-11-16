@@ -1,0 +1,8 @@
+T532	Machining 1 3	工具
+T533	Machining 6 8	摩耗
+T1009	Machining 1 5	工具切刃
+T1010	Machining 1 8	工具切刃の摩耗
+R155	Relation Arg1:T1010 Arg2:T1011
+T1011	Machining 11 15	表面粗さ
+T1110	Machining 3 5	切刃
+T1219	Machining 13 15	粗さ

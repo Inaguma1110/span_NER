@@ -1,0 +1,7 @@
+T84	Machining 14 18	切りくず
+T85	Machining 19 22	加工物
+T86	Machining 19 21	加工
+T712	Machining 3 8	横切れ刃角
+R16	Relation Arg1:T712 Arg2:T713
+T713	Machining 26 28	飛散
+T79	Machining 3 7	横切れ刃

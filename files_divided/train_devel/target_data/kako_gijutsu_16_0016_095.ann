@@ -1,0 +1,5 @@
+T167	Machining 0 4	切りくず
+T418	Machining 0 6	切りくずの幅
+T419	Machining 10 12	厚さ
+T723	Trigger 7 10	小さく
+T724	Trigger 13 17	厚くなる

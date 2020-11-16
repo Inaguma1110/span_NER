@@ -1,0 +1,7 @@
+T60	Machining 30 32	工具
+T61	Machining 35 37	剛性
+T70	Machining 42 45	アーバ
+T71	Machining 46 49	ダンパ
+T72	Machining 50 57	フライホイール
+T103	Machining 0 3	刃振れ
+T105	Machining 62 64	振動

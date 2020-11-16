@@ -1,0 +1,11 @@
+T687	Machining 52 54	切削
+T688	Machining 56 61	びびり振動
+T2661	Machining 13 16	Ｌ／Ｄ
+R612	Positive Arg1:T2661 Arg2:T2662
+R613	Positive Arg1:T2661 Arg2:T688
+T2662	Machining 23 25	振れ
+T2663	Machining 56 59	びびり
+T2664	Machining 59 61	振動
+T4599	Trigger 17 22	大きくなれ
+T4601	Trigger 26 28	増幅
+T4602	Trigger 62 69	発生要因となり

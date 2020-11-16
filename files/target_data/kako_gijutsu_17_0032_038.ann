@@ -1,0 +1,10 @@
+T71	Machining 2 4	加工
+T72	Machining 30 33	重切削
+R74	Positive Arg1:T72 Arg2:T302
+T301	Machining 8 12	再生効果
+R50	Positive Arg1:T301 Arg2:T302
+T302	Machining 46 48	振動
+T333	Machining 0 4	機械加工
+T170	Trigger 34 37	行おう
+T334	Trigger 49 52	生じる
+T614	Trigger 19 22	により

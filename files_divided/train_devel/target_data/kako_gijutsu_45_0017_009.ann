@@ -1,0 +1,11 @@
+T28	Machining 32 37	チッピング
+T69	Machining 6 9	びびり
+R11	Relation Arg1:T69 Arg2:T28
+T70	Machining 10 16	ワークの変形
+R12	Relation Arg1:T70 Arg2:T28
+T71	Machining 25 27	負荷
+R13	Relation Arg1:T71 Arg2:T28
+R23	Relation Arg1:T71 Arg2:T79
+T79	Machining 17 21	機械主軸
+T93	Machining 19 21	主軸
+T98	Machining 14 16	変形

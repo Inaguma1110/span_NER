@@ -1,0 +1,10 @@
+T1766	Machining 7 11	切りくず
+T1767	Machining 24 28	切りくず
+T1768	Machining 29 32	再切削
+T1769	Machining 49 53	潤滑効果
+T4139	Machining 12 16	強制排出
+T4140	Machining 12 14	強制
+T4141	Machining 14 16	排出
+T4142	Machining 49 51	潤滑
+T4859	Trigger 20 23	行われ
+T4860	Trigger 39 45	生じていない

@@ -1,0 +1,16 @@
+T43	Machining 0 3	座ぐり
+T44	Machining 3 5	加工
+T45	Machining 6 9	穴加工
+T46	Machining 7 9	加工
+T47	Machining 15 17	工具
+T48	Machining 22 28	コンタリング
+T49	Machining 28 30	加工
+T50	Machining 34 36	切削
+T51	Machining 46 48	摩耗
+T52	Machining 53 55	刃数
+T53	Machining 63 65	工具
+T119	Machining 34 38	切削距離
+T120	Machining 22 30	コンタリング加工
+R8	Relation Arg1:T120 Arg2:T119
+T132	Machining 58 60	寿命
+T152	Machining 0 5	座ぐり加工

@@ -1,0 +1,4 @@
+T2076	Machining 0 3	ＰＶＤ
+T2077	Machining 14 27	ＨＣＤイオンプレーティング
+R562	Sub Arg1:T2077 Arg2:T2076
+T2078	Machining 14 17	ＨＣＤ

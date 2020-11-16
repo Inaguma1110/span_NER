@@ -1,0 +1,13 @@
+T922	Machining 3 7	工具寿命
+T923	Machining 3 5	工具
+T924	Machining 15 19	切削温度
+R110	Relation Arg1:T924 Arg2:T922
+T925	Machining 15 17	切削
+T926	Machining 17 19	温度
+T927	Machining 30 34	工具寿命
+T928	Machining 30 32	工具
+T1399	Machining 50 52	強度
+R111	Relation Arg1:T1399 Arg2:T927
+T1773	Machining 32 34	寿命
+T1774	Machining 5 7	寿命
+T1822	Machining 40 42	材料

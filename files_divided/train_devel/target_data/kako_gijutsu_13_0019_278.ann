@@ -1,0 +1,16 @@
+T974	Machining 8 11	酸化物
+T975	Machining 21 23	切削
+T978	Machining 43 46	熱拡散
+T979	Machining 51 55	工具寿命
+T980	Machining 51 53	工具
+T1408	Machining 8 14	酸化物介在物
+R122	Relation Arg1:T1408 Arg2:T978
+R123	Positive Arg1:T1408 Arg2:T979
+T392	Machining 36 39	付着層
+T883	Machining 25 28	工具面
+T1619	Machining 36 38	付着
+T1669	Machining 25 27	工具
+T1805	Machining 53 55	寿命
+T1614	Machining 11 14	介在物
+T1965	Trigger 15 19	適量ある
+T1966	Trigger 56 58	延長

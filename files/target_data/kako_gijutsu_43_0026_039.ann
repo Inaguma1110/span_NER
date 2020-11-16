@@ -1,0 +1,13 @@
+T144	Machining 6 12	正面フライス
+T145	Machining 8 12	フライス
+T146	Machining 13 16	切削面
+T147	Machining 13 15	切削
+T148	Machining 63 65	切削
+T175	Machining 38 40	前刃
+T176	Machining 46 48	後刃
+T177	Machining 19 24	カッタ刃先
+T180	Machining 31 37	カッタマーク
+T348	Machining 22 24	刃先
+T349	Machining 24 26	回転
+T350	Machining 19 22	カッタ
+T351	Machining 63 67	切削条痕

@@ -1,0 +1,19 @@
+T275	Machining 6 10	加工硬化
+T276	Machining 6 12	加工硬化指数
+R29	Positive Arg1:T276 Arg2:T279
+R31	Positive Arg1:T276 Arg2:T280
+T277	Machining 6 8	加工
+T278	Machining 16 19	被削材
+T279	Machining 20 24	構成刃先
+R30	Positive Arg1:T279 Arg2:T280
+T280	Machining 36 44	切削仕上げ面粗さ
+T281	Machining 36 42	切削仕上げ面
+T282	Machining 36 38	切削
+T284	Machining 38 42	仕上げ面
+T443	Machining 8 10	硬化
+T450	Machining 22 24	刃先
+T452	Machining 38 41	仕上げ
+T1454	Machining 42 44	粗さ
+T1357	Trigger 13 16	大きい
+T1358	Trigger 25 27	成長
+T1376	Trigger 45 47	増大

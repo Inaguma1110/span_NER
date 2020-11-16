@@ -1,0 +1,18 @@
+T587	Machining 0 4	耐熱合金
+T589	Machining 11 13	加工
+T590	Machining 18 21	切込み
+T591	Machining 25 28	仕上げ
+T592	Machining 29 31	加工
+T593	Machining 42 46	切りくず
+T594	Machining 52 56	切削抵抗
+R61	Negative Arg1:T594 Arg2:T596
+T595	Machining 52 54	切削
+T596	Machining 61 65	工具寿命
+T597	Machining 61 63	工具
+T796	Machining 54 56	抵抗
+T840	Machining 2 4	合金
+T841	Machining 0 2	耐熱
+T915	Machining 63 65	寿命
+T958	Machining 7 10	難削材
+T1025	Trigger 57 59	増加
+T1026	Trigger 66 68	低下

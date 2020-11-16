@@ -1,0 +1,9 @@
+T37	Machining 6 8	刃形
+T38	Machining 9 12	外周刃
+T39	Machining 13 17	ねじれ角
+T40	Machining 29 32	外周刃
+T254	Machining 22 28	Ｓ字(ｆ)形
+R35	Sub Arg1:T254 Arg2:T37
+T255	Machining 46 53	Ｉ字(直刃)形
+R36	Sub Arg1:T255 Arg2:T37
+T268	Machining 38 42	ボール刃

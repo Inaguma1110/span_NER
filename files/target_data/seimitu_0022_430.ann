@@ -1,0 +1,6 @@
+T1496	Machining 0 3	切削部
+T1497	Machining 16 19	切れ刃
+R418	Relation Arg1:T1497 Arg2:T1496
+T1498	Machining 25 28	工作物
+T2963	Machining 20 22	回転
+T3625	Machining 29 31	移動

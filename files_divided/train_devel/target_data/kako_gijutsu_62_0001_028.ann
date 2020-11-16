@@ -1,0 +1,9 @@
+T144	Machining 1 6	下向き削り
+T145	Machining 4 6	削り
+T146	Machining 9 14	上向き削り
+T147	Machining 12 14	削り
+T148	Machining 17 20	切込み
+R19	Positive Arg1:T148 Arg2:T240
+T240	Machining 28 32	寸法誤差
+T81	Trigger 21 26	小さくなる
+T88	Trigger 33 38	小さくなる

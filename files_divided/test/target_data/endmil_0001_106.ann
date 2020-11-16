@@ -1,0 +1,9 @@
+T245	Machining 0 2	切削
+R787	Relation Arg1:T245 Arg2:T2136
+T246	Machining 4 7	加工物
+T247	Machining 11 14	切れ刃
+T248	Machining 21 24	加工物
+T249	Machining 36 39	加工物
+T2134	Machining 18 20	刃物
+T2135	Machining 31 33	刃物
+T2136	Machining 52 54	移動

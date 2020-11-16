@@ -1,0 +1,6 @@
+T1640	Machining 10 14	アルミ板
+R880	Relation Arg1:T1640 Arg2:T1641
+T1641	Machining 36 38	バリ
+T3985	Machining 0 5	アクリル板
+R879	Relation Arg1:T3985 Arg2:T1641
+T3988	Machining 17 19	刃先

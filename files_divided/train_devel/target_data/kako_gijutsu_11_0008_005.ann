@@ -1,0 +1,13 @@
+T24	Machining 0 2	送り
+T25	Machining 0 4	送り分力
+R5	Relation Arg1:T25 Arg2:T446
+R57	Sub Arg1:T25 Arg2:T445
+T27	Machining 5 9	送り運動
+T445	Machining 12 14	分力
+T446	Machining 22 26	動力消費
+T541	Machining 22 24	動力
+T542	Machining 2 4	分力
+T263	Machining 5 11	送り運動方向
+T332	Machining 5 7	送り
+T603	Machining 7 9	運動
+T628	Machining 24 26	消費

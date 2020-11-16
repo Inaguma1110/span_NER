@@ -1,0 +1,16 @@
+T874	Machining 3 5	送り
+T875	Machining 19 22	送り量
+T876	Machining 47 49	工具
+T877	Machining 77 79	工具
+T878	Machining 91 93	送り
+R639	Relation Arg1:T878 Arg2:T2995
+T2988	Machining 40 42	主軸
+T2989	Machining 8 11	面粗さ
+R638	Relation Arg1:T2989 Arg2:T875
+T2990	Machining 14 15	刃
+T2991	Machining 43 46	ホルダ
+T2992	Machining 19 21	送り
+T2993	Machining 54 56	振れ
+T2994	Machining 70 72	振れ
+T2995	Machining 94 97	面粗さ
+T2996	Machining 77 81	工具軌跡

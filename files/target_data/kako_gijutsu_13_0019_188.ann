@@ -1,0 +1,10 @@
+T687	Machining 0 2	切削
+T688	Machining 0 4	切削工具
+T689	Machining 2 4	工具
+T690	Machining 9 13	加工条件
+R104	Relation Arg1:T690 Arg2:T1395
+T691	Machining 9 11	加工
+T692	Machining 14 17	被削材
+R105	Relation Arg1:T692 Arg2:T1395
+T693	Machining 39 41	工具
+T1395	Machining 0 7	切削工具の性能

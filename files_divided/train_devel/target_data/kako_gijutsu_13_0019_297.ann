@@ -1,0 +1,14 @@
+T1082	Machining 2 4	工具
+T1083	Machining 2 6	工具剛性
+T1084	Machining 4 6	剛性
+T1085	Machining 14 17	工作物
+T1086	Machining 14 20	工作物の剛性
+R143	Relation Arg1:T1086 Arg2:T1088
+T1087	Machining 18 20	剛性
+T1088	Machining 29 34	びびり振動
+R144	Relation Arg1:T1088 Arg2:T1089
+T1089	Machining 35 39	工具寿命
+T1090	Machining 35 37	工具
+T1548	Machining 29 32	びびり
+T1549	Machining 32 34	振動
+T1796	Machining 37 39	寿命

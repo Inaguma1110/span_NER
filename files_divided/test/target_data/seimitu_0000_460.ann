@@ -1,0 +1,5 @@
+T1623	Machining 0 6	正面フライス
+T1624	Machining 6 8	加工
+T1625	Machining 27 29	旋削
+T3058	Machining 0 8	正面フライス加工
+T3059	Machining 10 13	カッタ

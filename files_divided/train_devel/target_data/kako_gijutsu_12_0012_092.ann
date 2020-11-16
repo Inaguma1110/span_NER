@@ -1,0 +1,14 @@
+T324	Machining 3 9	被削材の強度
+R48	Relation Arg1:T324 Arg2:T321
+T325	Machining 10 12	比熱
+R49	Relation Arg1:T325 Arg2:T321
+T327	Machining 28 32	すくい面
+T328	Machining 33 35	摩擦
+T329	Machining 36 38	工具
+T331	Machining 39 43	熱伝導率
+T526	Machining 28 35	すくい面の摩擦
+R50	Relation Arg1:T526 Arg2:T321
+T527	Machining 36 43	工具の熱伝導率
+R51	Relation Arg1:T527 Arg2:T321
+T628	Machining 7 9	強度
+T501	Machining 3 6	被削材

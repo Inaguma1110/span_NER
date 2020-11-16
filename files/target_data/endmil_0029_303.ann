@@ -1,0 +1,12 @@
+T904	Machining 11 14	逃げ面
+T905	Machining 15 23	機械的こすり摩耗
+R261	Positive Arg1:T905 Arg2:T906
+T906	Machining 39 43	工具寿命
+T3031	Machining 39 41	工具
+T3032	Machining 41 43	寿命
+T3033	Machining 44 50	アップカット
+T3034	Machining 3 9	ダウンカット
+T4436	Machining 18 23	こすり摩耗
+T4437	Machining 21 23	摩耗
+T4682	Trigger 53 57	長くなり
+T4683	Trigger 27 33	緩やかになる

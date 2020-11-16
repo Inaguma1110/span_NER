@@ -1,0 +1,14 @@
+T1100	Machining 17 21	切削速度
+R324	Relation Arg1:T1100 Arg2:T1101
+T1101	Machining 28 32	工具寿命
+T1102	Machining 36 40	工具寿命
+R325	Relation Arg1:T1102 Arg2:T1103
+T1103	Machining 47 51	切削速度
+T2548	Machining 17 19	切削
+T2549	Machining 19 21	速度
+T2550	Machining 28 30	工具
+T2551	Machining 30 32	寿命
+T2552	Machining 36 38	工具
+T2553	Machining 38 40	寿命
+T2554	Machining 47 49	切削
+T2555	Machining 49 51	速度

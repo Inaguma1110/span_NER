@@ -1,0 +1,26 @@
+T950	Machining 21 22	熱
+T951	Machining 21 24	熱応力
+R276	Positive Arg1:T951 Arg2:T952
+T952	Machining 37 40	熱亀裂
+T953	Machining 49 53	刃先温度
+R277	Positive Arg1:T953 Arg2:T954
+T954	Machining 60 64	構成刃先
+T955	Machining 74 79	加工面粗さ
+T3068	Machining 4 6	発熱
+R640	Relation Arg1:T3068 Arg2:T951
+T3069	Machining 7 10	急冷却
+R641	Relation Arg1:T3069 Arg2:T951
+T3070	Machining 22 24	応力
+T3071	Machining 28 36	サーマルクラック
+T3072	Machining 49 51	刃先
+T3073	Machining 37 38	熱
+T3074	Machining 38 40	亀裂
+T3075	Machining 74 77	加工面
+T3076	Machining 77 79	粗さ
+T3044	Machining 62 64	刃先
+T3078	Machining 74 76	加工
+T4441	Machining 51 53	温度
+T4700	Trigger 25 27	生じ
+T4701	Trigger 42 44	発生
+T4702	Trigger 54 57	下げた
+T4703	Trigger 65 67	発生

@@ -1,0 +1,5 @@
+T1749	Machining 2 5	加工力
+R655	Relation Arg1:T1749 Arg2:T1745
+T1750	Machining 19 23	材料力学
+T1745	Machining 6 9	変形量
+T3195	Machining 13 16	弾性学

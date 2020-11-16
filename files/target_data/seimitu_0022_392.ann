@@ -1,0 +1,7 @@
+T1391	Machining 5 9	切削油剤
+R404	Relation Arg1:T1391 Arg2:T1398
+R438	Relation Arg1:T1391 Arg2:T2858
+R618	Relation Arg1:T1391 Arg2:T2859
+R619	Relation Arg1:T1391 Arg2:T3604
+T2856	Machining 5 7	切削
+T2857	Machining 7 9	油剤

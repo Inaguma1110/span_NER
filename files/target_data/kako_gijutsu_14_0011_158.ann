@@ -1,0 +1,21 @@
+T1117	Machining 5 8	送り量
+R155	Positive Arg1:T1117 Arg2:T1237
+R175	Positive Arg1:T1117 Arg2:T1245
+R176	Positive Arg1:T1117 Arg2:T1601
+T1118	Machining 22 26	圧縮応力
+T1119	Machining 24 26	応力
+T1120	Machining 39 41	応力
+T1121	Machining 52 56	圧縮応力
+T1122	Machining 54 56	応力
+T1237	Machining 20 27	最大圧縮応力値
+T1245	Machining 37 42	引張応力値
+T101	Machining 5 7	送り
+T1388	Machining 37 39	引張
+T1592	Machining 22 24	圧縮
+T1593	Machining 52 54	圧縮
+T1596	Machining 57 59	残留
+T1601	Machining 61 63	深さ
+T1662	Trigger 9 11	増加
+T1663	Trigger 28 30	増大
+T1664	Trigger 43 45	増大
+T1665	Trigger 64 66	増す

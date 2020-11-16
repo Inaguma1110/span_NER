@@ -1,0 +1,7 @@
+T376	Machining 19 23	切削速度
+T377	Machining 19 21	切削
+T378	Machining 28 30	送り
+T344	Machining 4 7	MRR
+R103	Relation Arg1:T344 Arg2:T376
+R104	Relation Arg1:T344 Arg2:T378
+T666	Machining 21 23	速度

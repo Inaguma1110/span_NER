@@ -1,0 +1,20 @@
+T165	Machining 3 7	加工時間
+T166	Machining 3 5	加工
+T167	Machining 21 25	加工時間
+T168	Machining 21 23	加工
+T169	Machining 42 45	切込み
+T170	Machining 42 47	切込み深さ
+T172	Machining 73 75	送り
+T173	Machining 73 77	送り速度
+R24	Negative Arg1:T173 Arg2:T167
+T174	Machining 82 86	高速切削
+T175	Machining 84 86	切削
+T246	Machining 66 69	回転数
+R23	Negative Arg1:T246 Arg2:T167
+T285	Machining 63 65	主軸
+T322	Machining 45 47	深さ
+T323	Machining 49 50	幅
+T330	Trigger 51 56	小さくする
+T331	Trigger 70 72	上げ
+T332	Trigger 78 82	速くした
+T335	Trigger 28 32	短くする

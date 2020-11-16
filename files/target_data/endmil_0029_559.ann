@@ -1,0 +1,11 @@
+T1633	Machining 0 8	ボールエンドミル
+R456	Sub Arg1:T1633 Arg2:T1631
+T1634	Machining 9 18	ラジアスエンドミル
+R457	Sub Arg1:T1634 Arg2:T1631
+T3968	Machining 3 8	エンドミル
+T3969	Machining 13 18	エンドミル
+T3970	Machining 41 47	ＣＮＣ研削盤
+T3971	Machining 19 22	再研削
+T3972	Machining 49 52	再研削
+T3976	Machining 44 47	研削盤
+T4351	Machining 41 44	ＣＮＣ

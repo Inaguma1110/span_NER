@@ -1,0 +1,23 @@
+T33	Machining 11 14	逃げ角
+T34	Machining 24 27	逃げ角
+T35	Machining 32 34	底刃
+T36	Machining 38 40	底刃
+T37	Machining 62 66	すくい面
+R27	Sub Arg1:T37 Arg2:T32
+T1833	Machining 44 46	外周
+T1834	Machining 50 52	外周
+T1843	Machining 67 69	刃裏
+T4175	Machining 9 14	第1逃げ角
+R25	Sub Arg1:T4175 Arg2:T32
+T4176	Machining 18 21	2番角
+T4177	Machining 22 27	第2逃げ角
+R26	Sub Arg1:T4177 Arg2:T32
+T4178	Machining 28 31	3番角
+T4179	Machining 34 37	2番角
+T4180	Machining 40 43	3番角
+T4181	Machining 46 49	2番角
+T4182	Machining 52 55	3番角
+T4183	Machining 32 37	底刃2番角
+T4184	Machining 38 43	底刃3番角
+T4185	Machining 44 49	外周2番角
+T4186	Machining 50 55	外周3番角

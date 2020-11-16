@@ -1,0 +1,19 @@
+T688	Machining 12 15	ミスト
+T689	Machining 15 17	加工
+T690	Machining 27 29	切削
+T691	Machining 33 37	潤滑効果
+T692	Machining 43 45	切削
+T694	Machining 59 63	冷却効果
+T1034	Machining 0 3	ドライ
+T1035	Machining 49 51	熱量
+T1036	Machining 47 51	発生熱量
+T1037	Machining 24 29	低速の切削
+T1038	Machining 40 45	高速の切削
+T1039	Machining 12 17	ミスト加工
+R163	Relation Arg1:T1039 Arg2:T691
+R164	Relation Arg1:T1039 Arg2:T694
+T1134	Machining 0 4	ドライ化
+T1135	Machining 33 35	潤滑
+T1136	Machining 59 61	冷却
+T1278	Machining 24 26	低速
+T1279	Machining 40 42	高速

@@ -1,0 +1,12 @@
+T30	Machining 21 25	切削速度
+T31	Machining 21 23	切削
+T32	Machining 39 43	工具寿命
+T33	Machining 39 41	工具
+T128	Variable 25 29	V_mp
+T129	Unit 30 35	m/min
+T130	Variable 43 47	T_mp
+T131	Unit 48 51	min
+T138	Variable 58 71	t＝t_i＋t_m＋t_c
+T145	Machining 41 43	寿命
+T156	Machining 3 6	コスト
+T162	Machining 23 25	速度

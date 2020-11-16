@@ -1,0 +1,19 @@
+T117	Machining 0 4	シャンク
+T118	Machining 26 30	シャンク
+T529	Machining 13 18	ストレート
+R79	Sub Arg1:T529 Arg2:T577
+T530	Machining 19 22	テーパ
+R80	Sub Arg1:T530 Arg2:T577
+T531	Machining 23 30	ロングシャンク
+R81	Sub Arg1:T531 Arg2:T577
+T532	Machining 31 37	ロングネック
+R82	Sub Arg1:T532 Arg2:T577
+T533	Machining 38 44	テーパネック
+R83	Sub Arg1:T533 Arg2:T577
+T577	Machining 0 7	シャンクの形状
+T612	Machining 45 51	フラット付き
+R113	Sub Arg1:T612 Arg2:T577
+T613	Machining 52 58	サイドロック
+R114	Sub Arg1:T613 Arg2:T577
+T614	Machining 60 68	コンビネーション
+R115	Sub Arg1:T614 Arg2:T577

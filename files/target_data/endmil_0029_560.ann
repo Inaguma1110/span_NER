@@ -1,0 +1,11 @@
+T1635	Machining 3 8	エンドミル
+T1636	Machining 18 21	切れ刃
+R452	Part Arg1:T1636 Arg2:T1635
+R724	Positive Arg1:T1636 Arg2:T1637
+T1637	Machining 26 28	バリ
+T3981	Machining 0 3	ＨＳＳ
+T3982	Machining 0 8	ＨＳＳエンドミル
+R723	Positive Arg1:T3982 Arg2:T1637
+T4003	Machining 9 11	研削
+T4815	Trigger 9 11	研削
+T4816	Trigger 29 31	生じ

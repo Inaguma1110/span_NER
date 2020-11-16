@@ -1,0 +1,16 @@
+T31	Machining 3 5	送り
+R8	Relation Arg1:T31 Arg2:T32
+R9	Relation Arg1:T31 Arg2:T77
+R10	Relation Arg1:T31 Arg2:T36
+R11	Relation Arg1:T31 Arg2:T78
+T32	Machining 13 19	仕上げ面粗さ
+T33	Machining 13 17	仕上げ面
+T34	Machining 13 16	仕上げ
+T35	Machining 23 27	切りくず
+T36	Machining 23 29	切りくず排出
+T37	Machining 30 33	被削材
+T38	Machining 33 35	精度
+T77	Machining 20 22	寿命
+T78	Machining 30 35	被削材精度
+T94	Machining 17 19	粗さ
+T99	Machining 27 29	排出

@@ -1,0 +1,24 @@
+T86	Machining 4 6	鋳鉄
+T87	Machining 6 8	切削
+T88	Machining 24 28	仕上げ面
+R29	Relation Arg1:T88 Arg2:T201
+T89	Machining 24 27	仕上げ
+T90	Machining 37 41	構成刃先
+R30	Relation Arg1:T90 Arg2:T92
+T91	Machining 51 55	すくい面
+T92	Machining 70 74	切削温度
+R28	Relation Arg1:T92 Arg2:T201
+T93	Machining 70 72	切削
+T94	Machining 72 74	温度
+T95	Machining 88 92	構成刃先
+T189	Machining 58 64	切粉接触長さ
+R32	Positive Arg1:T189 Arg2:T92
+T201	Machining 88 97	構成刃先の影響領域
+T202	Machining 11 15	堀起こし
+R14	Relation Arg1:T202 Arg2:T88
+R38	Relation Arg1:T202 Arg2:T227
+T227	Machining 4 8	鋳鉄切削
+T246	Machining 39 41	刃先
+T247	Machining 90 92	刃先
+T358	Trigger 65 67	短い
+T359	Trigger 78 83	あがらない

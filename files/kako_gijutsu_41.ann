@@ -1,0 +1,101 @@
+T1	Machining 5 11	フライス加工
+T2	Machining 5 9	フライス
+T3	Machining 9 11	加工
+T5	Machining 20 26	フライス加工
+T6	Machining 20 24	フライス
+T7	Machining 24 26	加工
+T8	Machining 30 32	工具
+T9	Machining 50 52	工具
+T10	Machining 113 115	加工
+T11	Machining 118 120	工具
+T13	Machining 126 130	フライス
+T14	Machining 130 132	削り
+T15	Machining 149 151	削り
+T16	Machining 152 155	肩削り
+T17	Machining 153 155	削り
+T18	Machining 168 171	被削材
+T19	Machining 185 188	段削り
+T20	Machining 186 188	削り
+T21	Machining 189 192	コーナ
+T22	Machining 204 207	肩削り
+T23	Machining 205 207	削り
+T24	Machining 220 222	削り
+T25	Machining 232 234	切削
+T26	Machining 232 236	切削工具
+T27	Machining 234 236	工具
+T29	Machining 276 280	工具材種
+T32	Machining 287 293	フライス加工
+T33	Machining 287 291	フライス
+T34	Machining 291 293	加工
+T35	Machining 294 298	断続切削
+T36	Machining 296 298	切削
+T37	Machining 304 307	切れ刃
+T38	Machining 308 310	切削
+T40	Machining 333 337	旋削加工
+T41	Machining 333 335	旋削
+T42	Machining 335 337	加工
+T43	Machining 340 344	連続切削
+T44	Machining 342 344	切削
+T45	Machining 350 353	切れ刃
+T46	Machining 358 360	欠損
+T47	Machining 361 362	熱
+T48	Machining 368 370	欠損
+T49	Machining 372 376	異常損傷
+T50	Machining 393 397	工具寿命
+T51	Machining 393 395	工具
+T52	Machining 409 412	被削材
+T54	Machining 427 431	工具材種
+T56	Machining 450 452	鋳鉄
+T57	Machining 453 456	アルミ
+T58	Machining 457 459	加工
+T60	Machining 467 471	工具材種
+T62	Machining 496 498	加工
+T63	Machining 505 511	正面フライス
+T64	Machining 507 511	フライス
+T66	Machining 523 527	工具材種
+T68	Machining 76 83	ろう付式カッタ
+T69	Machining 84 86	植刃
+T70	Machining 87 91	ブレード
+T71	Machining 84 96	植刃（ブレード）式カッタ
+T72	Machining 97 105	刃先交換式カッタ
+T73	Machining 147 151	平面削り
+T74	Machining 218 222	平面削り
+T75	Machining 313 318	機械的衝撃
+T76	Machining 319 323	熱的衝撃
+R1	Relation Arg1:T54 Arg2:T50	
+T77	Machining 361 365	熱キレツ
+R2	Relation Arg1:T77 Arg2:T48	
+R3	Relation Arg1:T75 Arg2:T37	
+R4	Relation Arg1:T76 Arg2:T37	
+R5	Relation Arg1:T75 Arg2:T49	
+R6	Relation Arg1:T76 Arg2:T49	
+R7	Sub Arg1:T68 Arg2:T9	
+R8	Sub Arg1:T71 Arg2:T9	
+R9	Sub Arg1:T72 Arg2:T9	
+T80	Machining 113 117	加工方法
+#1	AnnotatorNotes T80	Y・M
+T81	Machining 168 174	被削材の形状
+#2	AnnotatorNotes T81	Y・M
+R12	Relation Arg1:T77 Arg2:T49	
+#3	AnnotatorNotes R12	Y・M
+T78	Machining 448 449	鋼
+#5	AnnotatorNotes T78	Y・M
+T4	Machining 97 99	刃先
+T12	Machining 124 132	正面フライス削り
+R10	Sub Arg1:T12 Arg2:T73	
+R11	Sub Arg1:T12 Arg2:T16	
+T30	Machining 3 11	正面フライス加工
+T31	Machining 18 26	正面フライス加工
+T83	Machining 285 293	正面フライス加工
+T39	Machining 374 376	損傷
+T55	Machining 80 83	カッタ
+T61	Machining 93 96	カッタ
+T67	Machining 102 105	カッタ
+T84	Machining 276 278	工具
+T85	Machining 427 429	工具
+T86	Machining 467 469	工具
+T87	Machining 523 525	工具
+T28	Machining 316 318	衝撃
+T53	Machining 321 323	衝撃
+T59	Machining 395 397	寿命
+T65	Machining 362 365	キレツ

@@ -1,0 +1,11 @@
+T252	Machining 1 7	仕上げ面粗さ
+R176	Relation Arg1:T252 Arg2:T258
+T253	Machining 1 5	仕上げ面
+T254	Machining 1 4	仕上げ
+T255	Machining 8 12	加工精度
+R177	Relation Arg1:T255 Arg2:T258
+T256	Machining 8 10	加工
+T257	Machining 10 12	精度
+T258	Machining 13 17	加工品質
+T259	Machining 13 15	加工
+T452	Machining 5 7	粗さ

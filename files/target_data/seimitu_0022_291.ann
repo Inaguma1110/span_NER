@@ -1,0 +1,13 @@
+T1075	Machining 0 2	切削
+R19	Positive Arg1:T1075 Arg2:T1076
+T1076	Machining 6 8	工具
+T1077	Machining 11 13	摩耗
+T1078	Machining 39 41	工具
+T1079	Machining 39 43	工具摩耗
+R320	Relation Arg1:T1079 Arg2:T1080
+T1080	Machining 47 51	工具寿命
+T2501	Machining 41 43	摩耗
+T2502	Machining 47 49	工具
+T2503	Machining 49 51	寿命
+T3819	Trigger 3 5	行え
+T3820	Trigger 11 13	摩耗

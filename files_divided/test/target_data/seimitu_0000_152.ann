@@ -1,0 +1,23 @@
+T519	Machining 5 9	切りくず
+T520	Machining 21 28	切削エネルギー
+T521	Machining 38 43	エネルギー
+T522	Machining 44 48	切削速度
+T523	Machining 51 54	切削力
+R148	Relation Arg1:T523 Arg2:T520
+T524	Machining 57 59	切削
+T525	Machining 59 62	主分力
+T526	Machining 64 68	切削速度
+R150	Relation Arg1:T526 Arg2:T520
+T2075	Machining 9 11	流出
+T2076	Machining 5 13	切りくず流出方向
+T2077	Machining 44 46	切削
+T2078	Machining 46 48	速度
+T2079	Machining 21 23	切削
+T2080	Machining 23 28	エネルギー
+T2081	Machining 64 66	切削
+T2082	Machining 66 68	速度
+T2085	Machining 57 62	切削主分力
+T3433	Variable 54 56	Ｆｈ
+T3434	Variable 68 69	Ｖ
+T3435	Variable 13 15	ηｃ
+T3436	Variable 28 29	Ｕ

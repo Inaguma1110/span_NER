@@ -1,0 +1,8 @@
+T337	Machining 0 4	切削抵抗
+T338	Machining 10 13	加工面
+T339	Machining 14 18	切りくず
+T2218	Machining 0 2	切削
+T2219	Machining 2 4	抵抗
+T2220	Machining 14 20	切りくず生成
+T2222	Machining 18 20	生成
+T4370	Machining 10 12	加工

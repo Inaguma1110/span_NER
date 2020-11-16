@@ -1,0 +1,5 @@
+T446	Machining 4 6	工具
+T447	Machining 14 19	チッピング
+R577	Sub Arg1:T447 Arg2:T2334
+T2333	Machining 7 9	損傷
+T2334	Machining 24 26	欠け

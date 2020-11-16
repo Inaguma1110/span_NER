@@ -1,0 +1,8 @@
+T213	Machining 5 7	工具
+T214	Machining 11 13	送り
+T250	Machining 5 9	工具半径
+R31	Relation Arg1:T250 Arg2:T253
+T251	Variable 9 10	R
+T252	Machining 11 16	送りピッチ
+R32	Relation Arg1:T252 Arg2:T253
+T253	Machining 22 28	カプスハイト

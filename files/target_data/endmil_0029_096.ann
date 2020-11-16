@@ -1,0 +1,8 @@
+T216	Machining 35 41	コーティング
+T2086	Machining 14 16	表面
+R778	Relation Arg1:T2086 Arg2:T4218
+T2087	Machining 18 21	ＴｉＮ
+R770	Sub Arg1:T2087 Arg2:T4218
+T2088	Machining 25 28	ＴｉＣ
+R771	Sub Arg1:T2088 Arg2:T4218
+T4218	Machining 32 34	被膜

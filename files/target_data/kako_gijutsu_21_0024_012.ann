@@ -1,0 +1,5 @@
+T51	Machining 5 9	すくい角
+R7	Relation Arg1:T51 Arg2:T700
+T52	Machining 10 14	切りくず
+T700	Machining 10 16	切りくず厚み
+T920	Machining 14 16	厚み

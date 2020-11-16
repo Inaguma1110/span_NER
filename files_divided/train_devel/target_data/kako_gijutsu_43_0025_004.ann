@@ -1,0 +1,9 @@
+T12	Machining 41 47	仕上げ面粗さ
+T13	Machining 41 45	仕上げ面
+T14	Machining 41 44	仕上げ
+T185	Machining 3 8	正面刃振れ
+T199	Machining 58 62	分布状態
+R2	Relation Arg1:T199 Arg2:T12
+T306	Machining 5 8	刃振れ
+T325	Machining 45 47	粗さ
+T52	Machining 22 25	突出量

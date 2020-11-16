@@ -1,0 +1,7 @@
+T1385	Machining 0 2	切削
+T1386	Machining 24 29	エンドミル
+T3539	Machining 5 11	アップカット
+T3540	Machining 13 19	ダウンカット
+R690	Negative Arg1:T3540 Arg2:T3541
+T3541	Machining 35 39	こば欠け
+T4795	Trigger 43 48	少なくなり

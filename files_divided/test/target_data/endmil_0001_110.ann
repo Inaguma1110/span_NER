@@ -1,0 +1,11 @@
+T263	Machining 0 3	切れ刃
+T264	Machining 4 8	すくい面
+T265	Machining 26 29	せん断
+R87	Positive Arg1:T265 Arg2:T266
+T266	Machining 34 38	切りくず
+T2154	Machining 12 14	圧力
+T2155	Machining 17 19	圧縮
+T2156	Machining 43 45	生成
+T2157	Machining 47 49	流出
+T4497	Trigger 30 32	発生
+T4498	Trigger 43 45	生成

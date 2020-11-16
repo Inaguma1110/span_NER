@@ -1,0 +1,7 @@
+T1183	Machining 5 7	工具
+T1184	Machining 48 55	熱・化学的作用
+R593	Sub Arg1:T1184 Arg2:T2645
+T2645	Machining 8 12	損傷過程
+T2646	Machining 8 10	損傷
+T2647	Machining 36 41	機械的作用
+R592	Sub Arg1:T2647 Arg2:T2645

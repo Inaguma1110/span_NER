@@ -1,0 +1,11 @@
+T790	Machining 0 7	エンドミル加工
+T791	Machining 16 21	切込み深さ
+R633	Relation Arg1:T791 Arg2:T792
+T792	Machining 29 32	溝切削
+R213	Sub Arg1:T792 Arg2:T790
+T2854	Machining 0 5	エンドミル
+T2855	Machining 5 7	加工
+T2856	Machining 16 19	切込み
+T2857	Machining 19 21	深さ
+T2858	Machining 29 30	溝
+T2859	Machining 30 32	切削

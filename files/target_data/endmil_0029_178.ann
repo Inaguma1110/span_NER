@@ -1,0 +1,8 @@
+T502	Machining 6 9	切込み
+R122	Positive Arg1:T502 Arg2:T664
+R123	Positive Arg1:T502 Arg2:T501
+T503	Machining 10 13	送り量
+R124	Positive Arg1:T503 Arg2:T664
+R125	Positive Arg1:T503 Arg2:T501
+T2386	Machining 10 12	送り
+T4551	Trigger 18 27	問題につながります

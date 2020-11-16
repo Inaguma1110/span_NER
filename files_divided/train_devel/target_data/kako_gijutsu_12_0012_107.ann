@@ -1,0 +1,5 @@
+T383	Machining 0 3	切削熱
+R109	Relation Arg1:T383 Arg2:T386
+T384	Machining 0 2	切削
+T385	Machining 2 3	熱
+T386	Machining 8 12	切りくず

@@ -1,0 +1,7 @@
+T713	Machining 8 11	送り量
+R179	Relation Arg1:T713 Arg2:T714
+T714	Machining 18 25	切りくずの厚さ
+T2713	Machining 13 15	生成
+T4259	Machining 23 25	厚さ
+T4260	Machining 8 10	送り
+T4446	Machining 18 23	切りくずの

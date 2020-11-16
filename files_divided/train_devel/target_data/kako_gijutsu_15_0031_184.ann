@@ -1,0 +1,15 @@
+T648	Machining 0 2	超硬
+T649	Machining 0 4	超硬工具
+T650	Machining 2 4	工具
+T651	Machining 5 10	セラミック
+T652	Machining 5 12	セラミック工具
+T653	Machining 10 12	工具
+T654	Machining 13 19	ダイヤモンド
+T655	Machining 13 21	ダイヤモンド工具
+T656	Machining 19 21	工具
+T657	Machining 26 30	高速切削
+T658	Machining 28 30	切削
+T659	Machining 36 38	切削
+T660	Machining 36 40	切削油剤
+T1120	Machining 38 40	油剤
+T1280	Machining 26 28	高速

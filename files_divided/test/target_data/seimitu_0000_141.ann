@@ -1,0 +1,22 @@
+T484	Machining 5 7	切削
+T485	Machining 10 14	すくい角
+T486	Machining 17 21	せん断角
+T487	Machining 22 26	すくい面
+T488	Machining 30 33	せん断
+T489	Machining 34 39	せん断応力
+T490	Machining 46 50	すくい角
+T491	Machining 57 59	切削
+T584	Machining 8 14	有効すくい角
+R182	Relation Arg1:T584 Arg2:T585
+R183	Relation Arg1:T584 Arg2:T586
+R184	Relation Arg1:T584 Arg2:T587
+T585	Machining 15 21	有効せん断角
+T586	Machining 22 29	すくい面摩擦角
+T587	Machining 30 39	せん断面せん断応力
+T2048	Machining 54 59	二次元切削
+T2050	Machining 2 7	二次元切削
+T2051	Machining 26 29	摩擦角
+T3412	Machining 30 34	せん断面
+T3413	Machining 34 37	せん断
+T3414	Machining 37 39	応力
+T3415	Machining 17 20	せん断

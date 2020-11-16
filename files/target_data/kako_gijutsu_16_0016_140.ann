@@ -1,0 +1,9 @@
+T304	Machining 5 9	切りくず
+T305	Machining 13 15	Mn
+T306	Machining 24 26	応力
+T307	Machining 32 36	切りくず
+T430	Machining 32 39	切りくずの延性
+T441	Machining 24 28	応力集中
+R54	Relation Arg1:T441 Arg2:T430
+T507	Machining 13 16	MnS
+T678	Machining 5 11	切りくず生成

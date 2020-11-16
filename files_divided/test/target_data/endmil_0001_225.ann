@@ -1,0 +1,15 @@
+T681	Machining 3 5	工具
+T682	Machining 25 27	加工
+T683	Machining 29 31	工具
+T2640	Machining 6 12	アスペクト比
+R609	Positive Arg1:T2640 Arg2:T2660
+T2641	Machining 53 59	振れ回り現象
+R602	Positive Arg1:T2641 Arg2:T2642
+T2642	Machining 78 80	振動
+T2651	Machining 13 16	Ｌ／Ｄ
+T2660	Machining 38 41	たわみ
+R610	Relation Arg1:T2660 Arg2:T2641
+T4594	Trigger 18 23	大きくなる
+T4595	Trigger 60 63	起きる
+T4596	Trigger 81 89	発生しやすくなり
+T4867	Trigger 38 46	たわみやすくなり

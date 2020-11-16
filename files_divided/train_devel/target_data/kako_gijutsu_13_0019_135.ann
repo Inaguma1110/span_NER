@@ -1,0 +1,11 @@
+T500	Machining 4 7	切込み
+T501	Machining 30 31	溝
+T502	Machining 33 35	摩耗
+T1383	Machining 22 24	酸化
+R89	Positive Arg1:T1383 Arg2:T502
+T962	Machining 4 10	切込み境界部
+T1694	Machining 7 10	境界部
+T1991	Trigger 15 17	供給
+T1992	Trigger 36 38	発生
+T1985	Machining 12 14	空気
+R78	Positive Arg1:T1985 Arg2:T502

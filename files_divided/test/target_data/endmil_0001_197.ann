@@ -1,0 +1,7 @@
+T567	Machining 9 13	切削速度
+R130	Relation Arg1:T567 Arg2:T568
+T568	Machining 14 18	切削抵抗
+T2483	Machining 9 11	切削
+T2484	Machining 11 13	速度
+T2485	Machining 14 16	切削
+T2486	Machining 16 18	抵抗

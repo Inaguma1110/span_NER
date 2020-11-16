@@ -1,0 +1,3 @@
+T172	Machining 13 16	チップ
+T690	Machining 3 16	トリゴン（偏六角形）チップ
+R79	Sub Arg1:T690 Arg2:T751

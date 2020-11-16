@@ -1,0 +1,12 @@
+T1756	Machining 13 17	切削条件
+R503	Relation Arg1:T1756 Arg2:T1757
+T1757	Machining 19 22	切削力
+T1758	Machining 41 43	工具
+T1759	Machining 56 60	形状精度
+T3197	Machining 13 15	切削
+T3198	Machining 41 45	工具軌跡
+R656	Positive Arg1:T3198 Arg2:T1759
+T3199	Machining 25 27	撓み
+T3200	Machining 58 60	精度
+T3797	Trigger 46 48	制御
+T3798	Trigger 64 66	向上

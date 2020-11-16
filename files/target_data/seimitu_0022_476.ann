@@ -1,0 +1,8 @@
+T1697	Machining 6 9	工作物
+T1698	Machining 12 14	工具
+T1699	Machining 14 17	切れ刃
+R492	Part Arg1:T1699 Arg2:T1698
+T3150	Machining 9 11	材料
+T3153	Machining 24 26	破壊
+T3154	Machining 6 11	工作物材料
+T3155	Machining 12 17	工具切れ刃

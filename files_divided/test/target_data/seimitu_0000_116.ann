@@ -1,0 +1,7 @@
+T374	Machining 5 9	主切れ刃
+R130	Part Arg1:T374 Arg2:T368
+T375	Machining 13 15	切削
+T376	Machining 24 26	切削
+T2119	Machining 15 17	厚さ
+T2120	Machining 21 26	２次元切削
+T2121	Machining 13 17	切削厚さ

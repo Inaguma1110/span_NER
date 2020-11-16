@@ -1,0 +1,4 @@
+T443	Variable 21 22	f
+R25	NegativeLinear Arg1:T443 Arg2:T516
+T516	Variable 9 11	up
+T263	Quantity 23 27	-0.2

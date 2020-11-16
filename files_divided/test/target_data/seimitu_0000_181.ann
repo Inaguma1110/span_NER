@@ -1,0 +1,9 @@
+T655	Machining 10 14	切りくず
+T656	Machining 30 33	せん断
+T657	Machining 37 40	工作物
+T658	Machining 52 54	温度
+T2158	Machining 15 17	流入
+T3470	Machining 30 34	せん断面
+T3471	Machining 41 43	流入
+T3474	Machining 52 56	温度上昇
+T3478	Variable 56 58	θｓ

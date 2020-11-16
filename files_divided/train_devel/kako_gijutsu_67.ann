@@ -1,0 +1,184 @@
+T0	Machining 4 11	エンドミル加工
+T1	Machining 4 9	エンドミル
+T2	Machining 9 11	加工
+T3	Machining 24 31	エンドミル加工
+T4	Machining 24 29	エンドミル
+T5	Machining 29 31	加工
+T6	Machining 42 46	加工精度
+T7	Machining 42 44	加工
+T8	Machining 44 46	精度
+T9	Machining 158 160	工具
+T11	Machining 167 171	工具材質
+T12	Machining 167 169	工具
+T13	Machining 175 181	コーティング
+T14	Machining 185 187	工具
+T15	Machining 192 197	切れ刃摩耗
+T16	Machining 192 195	切れ刃
+T17	Machining 195 197	摩耗
+T18	Machining 204 208	切りくず
+T19	Machining 214 217	切れ刃
+T20	Machining 220 222	精度
+T21	Machining 238 240	剛性
+T22	Machining 246 250	加工条件
+T23	Machining 246 248	加工
+T24	Machining 257 261	切削速度
+T25	Machining 257 259	切削
+T26	Machining 262 264	送り
+T27	Machining 262 266	送り速度
+T28	Machining 267 270	切込み
+T29	Machining 267 272	切込み深さ
+T30	Machining 273 276	切込み
+T31	Machining 292 294	切削
+T32	Machining 313 316	加工物
+T33	Machining 313 315	加工
+T34	Machining 324 326	加工
+T35	Machining 330 333	被削材
+T36	Machining 339 341	硬度
+T37	Machining 345 348	親和性
+T39	Machining 349 353	熱伝導率
+T40	Machining 360 362	剛性
+T41	Machining 368 370	剛性
+T42	Machining 403 405	剛性
+T43	Machining 415 417	精度
+T44	Machining 422 424	精度
+T45	Machining 451 453	精度
+T46	Machining 454 456	剛性
+T47	Machining 457 459	工具
+T48	Machining 475 482	エンドミル加工
+T49	Machining 475 480	エンドミル
+T50	Machining 480 482	加工
+T51	Machining 488 490	被削
+T52	Machining 488 492	被削材質
+T53	Machining 493 495	硬さ
+T54	Machining 512 515	加工物
+T55	Machining 512 514	加工
+T56	Machining 524 526	剛性
+T57	Machining 544 546	加工
+T58	Machining 549 552	溝加工
+T59	Machining 549 550	溝
+T60	Machining 550 552	加工
+T61	Machining 553 557	側面加工
+T62	Machining 555 557	加工
+T63	Machining 558 561	穴加工
+T64	Machining 559 561	加工
+T65	Machining 564 566	加工
+T66	Machining 629 633	工具材料
+T67	Machining 629 631	工具
+T68	Machining 634 636	工具
+T69	Machining 639 643	切削条件
+T70	Machining 639 641	切削
+T71	Machining 659 661	加工
+T72	Machining 710 717	エンドミル加工
+T73	Machining 710 715	エンドミル
+T74	Machining 715 717	加工
+T75	Machining 766 773	エンドミル加工
+T76	Machining 766 771	エンドミル
+T77	Machining 771 773	加工
+T78	Machining 312 316	被加工物
+T79	Machining 278 284	アップカット
+T80	Machining 285 291	ダウンカット
+T81	Machining 292 295	切削油
+T82	Machining 430 434	チャック
+T83	Machining 435 438	アーバ
+T84	Machining 439 443	コレット
+T85	Machining 444 447	バイス
+T86	Machining 401 405	機械剛性
+T87	Machining 406 408	馬力
+T88	Machining 409 412	主軸端
+T89	Machining 413 417	主軸精度
+T91	Machining 198 200	損傷
+T92	Machining 223 228	突出し長さ
+T93	Machining 229 234	動バランス
+T94	Machining 235 240	取付け剛性
+T95	Machining 185 189	工具形状
+T96	Machining 192 203	切れ刃摩耗・損傷の状態
+T97	Machining 204 213	切りくずの溶着状況
+T98	Machining 214 222	切れ刃の振れ精度
+R9	Part Arg1:T24 Arg2:T22	
+R10	Part Arg1:T27 Arg2:T22	
+R11	Part Arg1:T29 Arg2:T22	
+T99	Machining 273 277	切込み幅
+R12	Part Arg1:T99 Arg2:T22	
+R13	Part Arg1:T79 Arg2:T22	
+R14	Part Arg1:T80 Arg2:T22	
+T100	Machining 292 306	切削油の有無、種類、給油方法
+R15	Part Arg1:T100 Arg2:T22	
+T101	Machining 334 338	化学成分
+T102	Machining 342 344	粘さ
+T103	Machining 354 356	形状
+T104	Machining 357 362	ワーク剛性
+T105	Machining 363 379	保持方法・剛性、取り代のバラツキ
+T106	Machining 323 329	前加工の状態
+T107	Machining 385 394	工作機械・周辺機器
+T108	Machining 418 424	制御系の精度
+T109	Machining 457 465	工具の突出し長さ
+T110	Machining 562 566	曲面加工
+R32	Sub Arg1:T58 Arg2:T57	
+R33	Sub Arg1:T61 Arg2:T57	
+R34	Sub Arg1:T63 Arg2:T57	
+R35	Sub Arg1:T110 Arg2:T57	
+R1	Sub Arg1:T106 Arg2:T78	
+T111	Machining 330 338	被削材の化学成分
+#1	AnnotatorNotes T111	Y・M
+#2	AnnotatorNotes R1	Y・M
+R2	Sub Arg1:T111 Arg2:T78	
+R3	Sub Arg1:T36 Arg2:T78	
+R4	Sub Arg1:T102 Arg2:T78	
+R5	Sub Arg1:T37 Arg2:T78	
+R6	Sub Arg1:T39 Arg2:T78	
+R7	Sub Arg1:T103 Arg2:T78	
+R8	Sub Arg1:T104 Arg2:T78	
+R16	Sub Arg1:T105 Arg2:T78	
+#3	AnnotatorNotes R2	Y・M
+#4	AnnotatorNotes R3	Y・M
+#5	AnnotatorNotes R4	Y・M
+#6	AnnotatorNotes R5	Y・M
+#7	AnnotatorNotes R6	Y・M
+#8	AnnotatorNotes R7	Y・M
+#9	AnnotatorNotes R8	Y・M
+#10	AnnotatorNotes R16	Y・M
+R17	Sub Arg1:T86 Arg2:T107	
+R18	Sub Arg1:T87 Arg2:T107	
+R19	Sub Arg1:T88 Arg2:T107	
+R20	Sub Arg1:T89 Arg2:T107	
+R21	Sub Arg1:T108 Arg2:T107	
+T112	Machining 425 429	周辺機器
+#11	AnnotatorNotes T112	Y・M
+R22	Sub Arg1:T82 Arg2:T107	
+R23	Sub Arg1:T83 Arg2:T107	
+R24	Sub Arg1:T84 Arg2:T107	
+R25	Sub Arg1:T85 Arg2:T107	
+#12	AnnotatorNotes R25	Y・M
+#13	AnnotatorNotes R24	Y・M
+#14	AnnotatorNotes R23	Y・M
+#15	AnnotatorNotes R22	Y・M
+#16	AnnotatorNotes R21	Y・M
+#17	AnnotatorNotes R20	Y・M
+#18	AnnotatorNotes R19	Y・M
+#19	AnnotatorNotes R18	Y・M
+#20	AnnotatorNotes R17	Y・M
+T113	Machining 634 638	工具形状
+T10	Machining 223 226	突出し
+R26	Relation Arg1:T9 Arg2:T11	
+R27	Relation Arg1:T9 Arg2:T95	
+R28	Relation Arg1:T9 Arg2:T96	
+R29	Relation Arg1:T9 Arg2:T97	
+R30	Relation Arg1:T9 Arg2:T98	
+R31	Relation Arg1:T9 Arg2:T92	
+R36	Relation Arg1:T9 Arg2:T93	
+R37	Relation Arg1:T9 Arg2:T94	
+T114	Machining 209 211	溶着
+T90	Machining 460 463	突出し
+T115	Machining 413 415	主軸
+T38	Machining 631 633	材料
+T116	Machining 463 465	長さ
+T117	Machining 226 228	長さ
+T118	Machining 36 38	寿命
+T119	Machining 175 183	コーティング処理
+T120	Machining 218 220	振れ
+T121	Machining 270 272	深さ
+T122	Machining 276 277	幅
+T123	Machining 259 261	速度
+T124	Machining 264 266	速度
+T125	Machining 471 474	難削材
+R38	Sub Arg1:T109 Arg2:T107	

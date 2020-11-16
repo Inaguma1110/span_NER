@@ -1,0 +1,9 @@
+T172	Machining 8 12	切削抵抗
+R25	Relation Arg1:T172 Arg2:T815
+T173	Machining 8 10	切削
+T815	Machining 23 26	撓み量
+T122	Machining 10 12	抵抗
+T728	Machining 23 25	撓み
+T1178	Variable 28 30	δy
+T1191	Machining 20 22	刃先
+T1193	Machining 2 4	刃先

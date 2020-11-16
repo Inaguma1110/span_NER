@@ -1,0 +1,13 @@
+T1496	Machining 80 84	切削加工
+T1497	Machining 85 92	ＣＮＣ切削加工
+R443	Sub Arg1:T1497 Arg2:T1496
+T3654	Machining 24 27	ＣＮＣ
+T3655	Machining 28 61	ＣｏｍｐｕｔｅｒｉｚｅｄＮｕｍｅｒｉｃａｌｌｙＣｏｎｔｒｏｌｌｅｄ
+T3656	Machining 68 71	ＣＮＣ
+T3657	Machining 80 82	切削
+T3658	Machining 82 84	加工
+T3659	Machining 85 88	ＣＮＣ
+T3660	Machining 88 90	切削
+T3661	Machining 90 92	加工
+T3663	Machining 88 92	切削加工
+T3684	Machining 7 14	高性能工作機械

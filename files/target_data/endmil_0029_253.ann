@@ -1,0 +1,12 @@
+T745	Machining 13 16	送り量
+R191	Positive Arg1:T745 Arg2:T746
+T746	Machining 18 22	切削抵抗
+R192	Positive Arg1:T746 Arg2:T748
+T747	Machining 27 30	切れ刃
+T748	Machining 31 36	チッピング
+T2772	Machining 13 15	送り
+T2773	Machining 18 20	切削
+T2774	Machining 20 22	抵抗
+T4263	Machining 8 9	刃
+T4616	Trigger 23 25	増大
+T4623	Trigger 37 39	誘発

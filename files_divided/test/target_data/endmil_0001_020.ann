@@ -1,0 +1,11 @@
+T55	Machining 3 8	エンドミル
+T56	Machining 17 22	シャンク部
+R8	Part Arg1:T56 Arg2:T55
+T57	Machining 23 25	刃部
+R9	Part Arg1:T57 Arg2:T55
+T58	Machining 34 36	摩擦
+T59	Machining 36 38	溶接
+T1810	Machining 41 43	接合
+T4367	Machining 0 3	ＨＳＳ
+T4380	Machining 0 8	ＨＳＳエンドミル
+T4405	Machining 34 38	摩擦溶接

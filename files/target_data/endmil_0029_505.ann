@@ -1,0 +1,7 @@
+T1533	Machining 0 8	ボールエンドミル
+R439	Sub Arg1:T1533 Arg2:T1527
+R924	Relation Arg1:T1533 Arg2:T4337
+T3736	Machining 10 12	刃長
+T3742	Machining 21 25	再刃付け
+T3743	Machining 3 8	エンドミル
+T4337	Machining 16 19	ボール

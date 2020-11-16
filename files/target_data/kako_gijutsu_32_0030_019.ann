@@ -1,0 +1,8 @@
+T40	Machining 1 3	送り
+T42	Machining 10 12	剛性
+R27	Relation Arg1:T42 Arg2:T61
+T62	Machining 7 9	精度
+R16	Relation Arg1:T62 Arg2:T61
+T74	Machining 13 20	バックラッシュ
+R22	Relation Arg1:T74 Arg2:T62
+R26	Relation Arg1:T74 Arg2:T42

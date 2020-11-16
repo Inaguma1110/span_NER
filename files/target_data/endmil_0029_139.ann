@@ -1,0 +1,6 @@
+T366	Machining 6 10	切りくず
+T367	Machining 27 33	切りくずの色
+T368	Machining 34 38	切削条件
+R79	Relation Arg1:T368 Arg2:T367
+T2246	Machining 34 36	切削
+T4428	Machining 27 31	切りくず

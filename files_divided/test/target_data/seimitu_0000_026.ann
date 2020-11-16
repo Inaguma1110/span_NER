@@ -1,0 +1,11 @@
+T72	Machining 11 15	切削油剤
+R22	Relation Arg1:T72 Arg2:T73
+R61	Relation Arg1:T72 Arg2:T1815
+R23	Relation Arg1:T72 Arg2:T1816
+T73	Machining 20 22	摩擦
+T74	Machining 26 29	切削力
+T1812	Machining 11 13	切削
+T1813	Machining 13 15	油剤
+T1814	Machining 30 32	発熱
+T1815	Machining 41 43	潤滑
+T1816	Machining 44 46	冷却

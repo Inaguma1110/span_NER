@@ -1,0 +1,7 @@
+T67	Machining 0 4	切りくず
+T399	Machining 0 6	切りくずの色
+T400	Machining 7 13	酸化膜の厚さ
+R18	Relation Arg1:T400 Arg2:T399
+T467	Machining 5 6	色
+T59	Machining 11 13	厚さ
+T568	Machining 7 10	酸化膜

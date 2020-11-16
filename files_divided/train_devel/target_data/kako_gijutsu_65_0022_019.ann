@@ -1,0 +1,22 @@
+T116	Machining 0 7	エンドミル加工
+T117	Machining 0 5	エンドミル
+T118	Machining 5 7	加工
+T119	Machining 8 11	切れ刃
+T120	Machining 12 14	切削
+T122	Machining 32 36	断続切削
+T123	Machining 34 36	切削
+T124	Machining 42 44	超硬
+T125	Machining 42 49	超硬エンドミル
+T126	Machining 44 49	エンドミル
+T127	Machining 61 64	水溶性
+T128	Machining 64 66	切削
+T129	Machining 72 73	熱
+T227	Machining 72 75	熱衝撃
+R13	Relation Arg1:T227 Arg2:T228
+R14	Relation Arg1:T227 Arg2:T229
+T228	Machining 78 82	クラック
+T229	Machining 83 91	サーマルクラック
+T292	Machining 16 18	加熱
+T293	Machining 23 25	冷却
+T307	Machining 73 75	衝撃
+T328	Machining 55 58	冷却性

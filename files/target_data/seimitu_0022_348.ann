@@ -1,0 +1,23 @@
+T1238	Machining 3 7	工具材料
+T1239	Machining 22 24	欠損
+T1240	Machining 55 57	欠損
+T1241	Machining 62 64	工具
+T1242	Machining 64 67	切れ刃
+R387	Part Arg1:T1242 Arg2:T1241
+T1243	Machining 84 88	切削加工
+T1244	Machining 97 99	欠損
+T2707	Machining 3 5	工具
+T2708	Machining 5 7	材料
+T2709	Machining 11 15	硬脆材料
+R597	Sub Arg1:T2709 Arg2:T1238
+T2710	Machining 11 13	硬脆
+T2711	Machining 13 15	材料
+T2713	Machining 25 30	脆性的破壊
+R598	Sub Arg1:T2713 Arg2:T1239
+T2714	Machining 25 28	脆性的
+T2715	Machining 28 30	破壊
+T3593	Machining 62 67	工具切れ刃
+T3597	Machining 84 86	切削
+T3598	Machining 86 88	加工
+T3599	Machining 62 69	工具切れ刃形状
+R599	Relation Arg1:T3599 Arg2:T1243

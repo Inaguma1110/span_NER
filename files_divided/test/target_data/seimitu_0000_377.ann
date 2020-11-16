@@ -1,0 +1,15 @@
+T1343	Machining 12 16	切削条件
+T1344	Machining 25 27	工具
+T1345	Machining 29 31	応力
+T1346	Machining 46 48	工具
+T1347	Machining 60 62	工具
+T1348	Machining 63 67	破壊応力
+R693	Relation Arg1:T1348 Arg2:T2807
+T1349	Machining 68 70	切削
+R400	Relation Arg1:T1349 Arg2:T1348
+T2799	Machining 0 4	遅れ破壊
+T2801	Machining 2 4	破壊
+T2804	Machining 12 14	切削
+T2805	Machining 63 65	破壊
+T2806	Machining 65 67	応力
+T2807	Machining 79 81	劣化

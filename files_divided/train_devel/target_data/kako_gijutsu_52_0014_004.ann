@@ -1,0 +1,11 @@
+T15	Machining 0 5	側フライス
+T16	Machining 1 5	フライス
+T17	Machining 50 52	剛性
+R14	Relation Arg1:T17 Arg2:T68
+T18	Machining 66 68	送り
+T19	Machining 69 75	正面フライス
+T20	Machining 71 75	フライス
+T66	Machining 12 15	カッタ
+T67	Machining 18 21	アーバ
+T68	Machining 33 39	オーバハング
+T69	Machining 44 47	カッタ

@@ -1,0 +1,17 @@
+T742	Machining 35 40	境界摩耗幅
+T743	Machining 37 39	摩耗
+T744	Machining 37 40	摩耗幅
+T745	Machining 43 48	逃げ面摩耗
+T746	Machining 43 49	逃げ面摩耗幅
+T747	Machining 43 46	逃げ面
+T748	Machining 46 48	摩耗
+T750	Machining 55 58	逃げ角
+T1310	Machining 27 31	前切れ刃
+T1313	Variable 4 9	VB´_N
+T1314	Unit 10 12	mm
+T1315	Variable 14 17	VB´
+T1316	Unit 18 20	mm
+T1317	Variable 53 54	α
+T1512	Machining 35 37	境界
+T1606	Machining 39 40	幅
+T1607	Machining 48 49	幅

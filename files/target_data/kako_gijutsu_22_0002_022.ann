@@ -1,0 +1,21 @@
+T130	Machining 0 2	加工
+T131	Machining 10 12	応力
+T132	Machining 21 24	切れ刃
+T133	Machining 25 29	すくい角
+R20	Negative Arg1:T133 Arg2:T173
+R21	Negative Arg1:T133 Arg2:T174
+T134	Machining 41 43	工具
+T135	Machining 44 46	切削
+T136	Machining 44 48	切削油剤
+R22	Relation Arg1:T136 Arg2:T175
+T173	Machining 0 5	加工変質層
+T174	Machining 8 12	残留応力
+T175	Machining 52 54	冷却
+R24	Relation Arg1:T175 Arg2:T173
+R25	Relation Arg1:T175 Arg2:T174
+T176	Machining 35 38	切れ味
+R23	Relation Arg1:T176 Arg2:T175
+T200	Machining 46 48	油剤
+T233	Machining 8 10	残留
+T37	Trigger 13 18	少なくする
+T234	Trigger 30 34	大きくし

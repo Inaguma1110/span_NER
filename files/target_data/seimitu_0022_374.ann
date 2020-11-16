@@ -1,0 +1,15 @@
+T1339	Machining 0 4	脆性材料
+R399	Sub Arg1:T1339 Arg2:T1334
+R613	Relation Arg1:T1339 Arg2:T2787
+T1340	Machining 25 27	応力
+T1341	Machining 30 32	応力
+T2784	Machining 0 2	脆性
+T2785	Machining 2 4	材料
+T2786	Machining 5 7	破壊
+T2787	Machining 13 17	脆性破壊
+T2788	Machining 13 15	脆性
+T2789	Machining 15 17	破壊
+T2790	Machining 28 30	破壊
+T2791	Machining 28 32	破壊応力
+R614	Relation Arg1:T2791 Arg2:T2792
+T2792	Machining 41 44	全破壊

@@ -1,0 +1,15 @@
+T1727	Machining 0 2	加工
+T1728	Machining 2 5	コーナ
+T1729	Machining 9 14	エンドミル
+T1730	Machining 15 18	切れ刃
+R498	Positive Arg1:T1730 Arg2:T1731
+R512	Part Arg1:T1730 Arg2:T1729
+R495	Positive Arg1:T1730 Arg2:T4104
+T1731	Machining 28 32	切削抵抗
+T4104	Machining 19 23	接触長さ
+T4105	Machining 19 21	接触
+T4106	Machining 21 23	長さ
+T4107	Machining 28 30	切削
+T4108	Machining 30 32	抵抗
+T4845	Trigger 24 26	増加
+T4846	Trigger 33 35	増大

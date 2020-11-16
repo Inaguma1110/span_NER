@@ -1,0 +1,3 @@
+T1128	Machining 3 6	工作物
+T2591	Machining 20 24	Ｆｅ３Ｃ
+R581	Sub Arg1:T2591 Arg2:T2576

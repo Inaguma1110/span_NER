@@ -1,0 +1,28 @@
+T7	Machining 0 4	切削抵抗
+R64	Relation Arg1:T7 Arg2:T539
+T8	Machining 0 2	切削
+T9	Machining 6 10	切りくず
+T10	Machining 25 28	切削力
+T12	Machining 33 37	長手削り
+T13	Machining 35 37	削り
+T14	Machining 54 56	切削
+T15	Machining 60 63	主分力
+R1	Sub Arg1:T15 Arg2:T366
+T16	Machining 67 69	送り
+T17	Machining 67 71	送り分力
+R2	Sub Arg1:T17 Arg2:T366
+T18	Machining 77 80	背分力
+R3	Sub Arg1:T18 Arg2:T366
+R59	Relation Arg1:T18 Arg2:T485
+T366	Machining 54 58	切削合力
+T368	Variable 63 66	F_v
+T369	Variable 71 74	F_f
+T370	Variable 80 83	F_p
+T484	Variable 58 59	F
+T485	Machining 84 87	3分力
+T536	Machining 13 15	材料
+T539	Machining 29 31	反力
+T551	Machining 2 4	抵抗
+T552	Machining 56 58	合力
+T553	Machining 69 71	分力
+T638	Machining 16 18	除去

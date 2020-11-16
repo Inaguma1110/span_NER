@@ -1,0 +1,11 @@
+T926	Machining 4 6	切削
+T927	Machining 8 13	エンドミル
+T928	Machining 13 16	切れ刃
+R305	Part Arg1:T928 Arg2:T927
+T929	Machining 16 20	すくい面
+R306	Part Arg1:T929 Arg2:T928
+T930	Machining 21 23	摩擦
+T931	Machining 25 29	切りくず
+T932	Machining 38 41	酸化物
+T4279	Machining 30 32	表面
+R852	Relation Arg1:T4279 Arg2:T932

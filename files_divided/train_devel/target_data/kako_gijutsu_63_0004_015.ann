@@ -1,0 +1,25 @@
+T78	Machining 3 5	工具
+T79	Machining 6 8	加工
+T80	Machining 55 59	仕上げ面
+T81	Machining 55 58	仕上げ
+T82	Machining 76 78	送り
+T83	Machining 76 80	送り速度
+R4	Positive Arg1:T83 Arg2:T86
+R6	Negative Arg1:T83 Arg2:T87
+T84	Machining 84 87	切削量
+T85	Machining 84 86	切削
+T86	Machining 95 98	面粗度
+T87	Machining 105 109	加工時間
+T88	Machining 105 107	加工
+T89	Machining 124 126	送り
+T90	Machining 124 128	送り速度
+T225	Machining 60 69	ピックフィードの量
+R3	Positive Arg1:T225 Arg2:T86
+R5	Negative Arg1:T225 Arg2:T87
+T277	Machining 96 98	粗度
+T324	Machining 78 80	速度
+T325	Machining 126 128	速度
+T171	Trigger 70 75	小さくして
+T223	Trigger 89 93	遅くすれ
+T328	Trigger 99 103	よくなる
+T329	Trigger 110 115	かかりすぎ

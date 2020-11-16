@@ -1,0 +1,18 @@
+T1055	Machining 0 2	工具
+T1056	Machining 10 12	摩耗
+T1057	Machining 27 31	工具寿命
+T1058	Machining 33 36	摩耗量
+R578	Relation Arg1:T1058 Arg2:T1121
+T1059	Machining 52 56	切削時間
+R317	Relation Arg1:T1059 Arg2:T1061
+R345	Relation Arg1:T1059 Arg2:T1058
+T1060	Machining 60 62	切削
+T1061	Machining 65 69	工具寿命
+T1121	Machining 60 64	切削距離
+R335	Relation Arg1:T1121 Arg2:T1061
+T2487	Machining 27 29	工具
+T2488	Machining 29 31	寿命
+T2489	Machining 33 35	摩耗
+T2490	Machining 52 54	切削
+T2491	Machining 65 67	工具
+T2492	Machining 67 69	寿命

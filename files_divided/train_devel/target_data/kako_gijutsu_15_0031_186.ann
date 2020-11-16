@@ -1,0 +1,14 @@
+T664	Machining 8 10	工具
+T665	Machining 13 16	工作物
+T666	Machining 17 21	冷却効果
+R161	Relation Arg1:T666 Arg2:T670
+R111	Relation Arg1:T666 Arg2:T383
+T669	Machining 43 46	水溶性
+T670	Machining 43 48	水溶性油剤
+T884	Machining 36 39	気化熱
+R112	Relation Arg1:T884 Arg2:T666
+T383	Machining 31 35	熱伝達率
+T1125	Machining 17 19	冷却
+T1126	Machining 46 48	油剤
+T1285	Machining 0 2	高速
+T1286	Machining 3 5	高温

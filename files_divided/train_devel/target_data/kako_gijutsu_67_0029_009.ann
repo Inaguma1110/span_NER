@@ -1,0 +1,30 @@
+T42	Machining 2 4	剛性
+T43	Machining 14 16	精度
+T44	Machining 21 23	精度
+T45	Machining 50 52	精度
+T46	Machining 53 55	剛性
+T47	Machining 56 58	工具
+T82	Machining 29 33	チャック
+R22	Sub Arg1:T82 Arg2:T107
+T83	Machining 34 37	アーバ
+R23	Sub Arg1:T83 Arg2:T107
+T84	Machining 38 42	コレット
+R24	Sub Arg1:T84 Arg2:T107
+T85	Machining 43 46	バイス
+R25	Sub Arg1:T85 Arg2:T107
+T86	Machining 0 4	機械剛性
+R17	Sub Arg1:T86 Arg2:T107
+T87	Machining 5 7	馬力
+R18	Sub Arg1:T87 Arg2:T107
+T88	Machining 8 11	主軸端
+R19	Sub Arg1:T88 Arg2:T107
+T89	Machining 12 16	主軸精度
+R20	Sub Arg1:T89 Arg2:T107
+T108	Machining 17 23	制御系の精度
+R21	Sub Arg1:T108 Arg2:T107
+T109	Machining 56 64	工具の突出し長さ
+R38	Sub Arg1:T109 Arg2:T107
+T112	Machining 24 28	周辺機器
+T90	Machining 59 62	突出し
+T115	Machining 12 14	主軸
+T116	Machining 62 64	長さ

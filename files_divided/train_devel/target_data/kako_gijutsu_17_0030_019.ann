@@ -1,0 +1,6 @@
+T45	Machining 0 2	工具
+T46	Machining 3 6	工作物
+T47	Machining 8 10	切削
+T48	Machining 19 24	固有振動数
+T451	Machining 13 15	振動
+T600	Machining 8 12	切削方向

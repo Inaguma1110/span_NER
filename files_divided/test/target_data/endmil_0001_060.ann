@@ -1,0 +1,12 @@
+T129	Machining 7 14	超硬エンドミル
+T130	Machining 18 23	エンドミル
+T131	Machining 24 28	側面切削
+R832	Relation Arg1:T131 Arg2:T132
+T132	Machining 34 38	加工精度
+T1924	Machining 15 18	ＨＳＳ
+T1925	Machining 9 14	エンドミル
+T1926	Machining 15 23	ＨＳＳエンドミル
+T1927	Machining 26 28	切削
+T1929	Machining 34 36	加工
+T1930	Machining 36 38	精度
+T2302	Machining 7 9	超硬

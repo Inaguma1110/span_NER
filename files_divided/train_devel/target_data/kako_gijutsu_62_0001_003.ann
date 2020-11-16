@@ -1,0 +1,15 @@
+T33	Machining 0 5	エンドミル
+T34	Machining 6 8	切削
+T36	Machining 23 27	工具材質
+R10	Relation Arg1:T36 Arg2:T233
+T37	Machining 23 25	工具
+T38	Machining 39 42	切れ刃
+T233	Machining 0 10	エンドミルの切削性能
+R46	Relation Arg1:T233 Arg2:T277
+R47	Relation Arg1:T233 Arg2:T29
+T234	Machining 39 44	切れ刃形状
+R11	Relation Arg1:T234 Arg2:T233
+T235	Machining 47 51	先端形状
+R12	Relation Arg1:T235 Arg2:T233
+T29	Machining 34 38	ねじれ刃
+T277	Machining 28 30	直刃

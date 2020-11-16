@@ -1,0 +1,9 @@
+T9	Machining 3 5	工具
+R26	Relation Arg1:T9 Arg2:T11
+R27	Relation Arg1:T9 Arg2:T95
+R28	Relation Arg1:T9 Arg2:T96
+R29	Relation Arg1:T9 Arg2:T97
+R30	Relation Arg1:T9 Arg2:T98
+R31	Relation Arg1:T9 Arg2:T92
+R36	Relation Arg1:T9 Arg2:T93
+R37	Relation Arg1:T9 Arg2:T94

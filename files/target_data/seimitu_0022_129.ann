@@ -1,0 +1,16 @@
+T446	Machining 4 8	切削動力
+R137	Relation Arg1:T446 Arg2:T452
+R196	Relation Arg1:T446 Arg2:T591
+T447	Machining 9 12	せん断
+T448	Machining 14 17	せん断
+T449	Machining 17 19	仕事
+T450	Machining 20 22	工具
+T451	Machining 22 26	すくい面
+T452	Machining 27 31	摩擦仕事
+T591	Machining 14 19	せん断仕事
+T2018	Machining 4 6	切削
+T2019	Machining 6 8	動力
+T2020	Machining 27 29	摩擦
+T2021	Machining 29 31	仕事
+T3380	Machining 9 13	せん断面
+T3384	Machining 20 26	工具すくい面

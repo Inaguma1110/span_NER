@@ -1,0 +1,8 @@
+T325	Machining 9 14	せん断応力
+T326	Machining 25 27	応力
+T402	Machining 23 27	垂直応力
+R111	Relation Arg1:T402 Arg2:T325
+T247	Machining 9 12	せん断
+T1973	Machining 12 14	応力
+T3352	Variable 14 16	τｓ
+T3353	Variable 27 29	σｓ

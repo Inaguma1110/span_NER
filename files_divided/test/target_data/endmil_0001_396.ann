@@ -1,0 +1,7 @@
+T1198	Machining 12 18	被削材の硬さ
+R361	Relation Arg1:T1198 Arg2:T1199
+T1199	Machining 19 23	切削抵抗
+T3344	Machining 12 15	被削材
+T3345	Machining 16 18	硬さ
+T3346	Machining 19 21	切削
+T3347	Machining 21 23	抵抗

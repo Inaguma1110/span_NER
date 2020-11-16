@@ -1,0 +1,18 @@
+T40	Machining 3 7	切削加工
+T41	Machining 3 5	切削
+T42	Machining 5 7	加工
+T504	Machining 16 18	振動
+T505	Machining 19 20	音
+T506	Machining 21 27	表面エネルギ
+T508	Machining 3 12	切削加工のエネルギ
+R9	Relation Arg1:T508 Arg2:T504
+R10	Relation Arg1:T508 Arg2:T505
+R11	Relation Arg1:T508 Arg2:T506
+R12	Relation Arg1:T508 Arg2:T46
+T44	Machining 30 37	歪みのエネルギ
+T46	Machining 28 37	残留歪みのエネルギ
+T643	Machining 30 32	歪み
+T645	Machining 23 27	エネルギ
+T646	Machining 8 12	エネルギ
+T647	Machining 33 37	エネルギ
+T673	Machining 28 30	残留

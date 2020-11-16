@@ -1,0 +1,12 @@
+T134	Machining 6 11	比切削抵抗
+R28	Relation Arg1:T134 Arg2:T130
+T135	Machining 7 11	切削抵抗
+T136	Machining 7 9	切削
+T137	Machining 12 15	主分力
+T138	Machining 26 30	材料強度
+R31	Relation Arg1:T138 Arg2:T130
+T519	Variable 20 22	up
+R30	Relation Arg1:T519 Arg2:T130
+T118	Machining 9 11	抵抗
+T621	Machining 26 28	材料
+T622	Machining 28 30	強度

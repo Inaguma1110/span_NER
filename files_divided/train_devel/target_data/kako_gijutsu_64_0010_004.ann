@@ -1,0 +1,27 @@
+T26	Machining 6 12	コンタリング
+T27	Machining 12 14	加工
+T28	Machining 26 28	加工
+T29	Machining 36 38	精度
+T30	Machining 39 42	仕上げ
+T31	Machining 47 49	加工
+T32	Machining 50 51	溝
+T33	Machining 53 56	仕上げ
+T34	Machining 53 58	仕上げ加工
+R4	Sub Arg1:T34 Arg2:T114
+T35	Machining 56 58	加工
+T36	Machining 66 68	加工
+T37	Machining 77 83	コンタリング
+T38	Machining 83 85	加工
+T106	Machining 43 49	ヘリカル加工
+R3	Sub Arg1:T106 Arg2:T114
+T107	Machining 61 68	トロコイド加工
+T110	Machining 22 28	くり広げ加工
+R6	Sub Arg1:T110 Arg2:T114
+T114	Machining 77 85	コンタリング加工
+T124	Machining 6 14	コンタリング加工
+T138	Machining 20 21	穴
+T140	Machining 51 52	幅
+T141	Machining 50 52	溝幅
+T146	Machining 33 34	穴
+T149	Machining 61 66	トロコイド
+T150	Machining 43 47	ヘリカル

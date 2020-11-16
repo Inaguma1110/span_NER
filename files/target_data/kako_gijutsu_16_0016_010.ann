@@ -1,0 +1,5 @@
+T16	Machining 0 4	切りくず
+T391	Machining 0 10	切りくずの折れやすさ
+T392	Machining 15 19	最大厚さ
+R7	Relation Arg1:T392 Arg2:T391
+T567	Machining 17 19	厚さ

@@ -1,0 +1,7 @@
+T26	Machining 5 9	切りくず
+T1785	Machining 0 2	刃物
+T1786	Machining 5 11	切りくず生成
+R4	Relation Arg1:T1786 Arg2:T3218
+T1790	Machining 14 15	楔
+T3217	Machining 9 11	生成
+T3218	Machining 20 26	押し込み作用

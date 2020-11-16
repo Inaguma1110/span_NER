@@ -1,0 +1,12 @@
+T1129	Machining 0 2	切削
+T1130	Machining 0 4	切削工具
+T1131	Machining 2 4	工具
+T1132	Machining 32 34	噴霧
+R222	Sub Arg1:T1132 Arg2:T1839
+T1133	Machining 38 40	工具
+T1529	Machining 35 40	油穴付工具
+R223	Sub Arg1:T1529 Arg2:T1839
+T1530	Machining 27 31	高圧供油
+R221	Sub Arg1:T1530 Arg2:T1839
+T486	Machining 5 7	刃先
+T1839	Machining 45 49	供給方法

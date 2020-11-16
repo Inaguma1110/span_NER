@@ -1,0 +1,27 @@
+T302	Machining 0 5	ドリル加工
+T303	Machining 0 3	ドリル
+T304	Machining 3 5	加工
+T305	Machining 9 13	切りくず
+T306	Machining 25 27	加工
+T307	Machining 30 34	すくい面
+T308	Machining 43 47	切りくず
+T309	Machining 50 54	切りくず
+T310	Machining 55 56	溝
+T311	Machining 67 71	切削抵抗
+T312	Machining 67 69	切削
+T313	Machining 80 84	切削速度
+T314	Machining 80 82	切削
+T315	Machining 89 91	切削
+T316	Machining 89 93	切削油剤
+R31	Relation Arg1:T316 Arg2:T317
+T317	Machining 94 98	切削抵抗
+T318	Machining 94 96	切削
+T470	Machining 61 63	潤滑
+R30	Relation Arg1:T470 Arg2:T311
+T513	Machining 9 15	切りくず生成
+T276	Machining 35 37	潤滑
+R41	Relation Arg1:T276 Arg2:T311
+T283	Machining 69 71	抵抗
+T49	Machining 96 98	抵抗
+T591	Machining 91 93	油剤
+T617	Machining 82 84	速度

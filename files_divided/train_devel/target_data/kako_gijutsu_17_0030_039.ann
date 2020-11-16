@@ -1,0 +1,9 @@
+T74	Machining 19 22	突切り
+T75	Machining 30 32	削り
+T76	Machining 35 37	溶接
+T77	Machining 42 46	切削加工
+T78	Machining 42 44	切削
+T79	Machining 44 46	加工
+T335	Machining 0 4	旋盤作業
+T336	Machining 11 16	総形バイト
+T598	Machining 28 32	外丸削り

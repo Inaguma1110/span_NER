@@ -1,0 +1,4 @@
+T47	Machining 7 10	被削材
+R12	Relation Arg1:T47 Arg2:T48
+T48	Machining 11 15	切削条件
+T49	Machining 11 13	切削

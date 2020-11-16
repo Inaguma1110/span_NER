@@ -1,0 +1,14 @@
+T1447	Machining 2 4	加工
+T1448	Machining 15 17	摩耗
+R425	Negative Arg1:T1448 Arg2:T1449
+T1449	Machining 26 30	加工精度
+T3588	Machining 0 2	高速
+T3589	Machining 0 4	高速加工
+R698	Relation Arg1:T3589 Arg2:T3590
+T3590	Machining 6 8	溶着
+T3591	Machining 12 17	こすり摩耗
+T3592	Machining 26 28	加工
+T3593	Machining 28 30	精度
+T3594	Machining 31 33	劣化
+T4804	Trigger 18 23	急激な進行
+T4805	Trigger 34 36	防止

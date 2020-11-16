@@ -1,0 +1,11 @@
+T698	Machining 2 5	せん断
+T699	Machining 12 16	切りくず
+R194	Relation Arg1:T699 Arg2:T701
+R198	Relation Arg1:T699 Arg2:T3510
+T700	Machining 19 23	すくい面
+T701	Machining 25 27	擦過
+T702	Machining 34 36	摩擦
+T3508	Machining 2 6	せん断面
+T3509	Machining 7 9	加熱
+R187	Relation Arg1:T3509 Arg2:T699
+T3510	Machining 44 46	加熱

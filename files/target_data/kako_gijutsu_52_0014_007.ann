@@ -1,0 +1,10 @@
+T35	Machining 26 29	チップ
+T36	Machining 72 75	面粗度
+T88	Machining 23 29	ワイパチップ
+R19	Relation Arg1:T88 Arg2:T36
+T95	Machining 3 5	刃先
+T96	Machining 3 8	刃先交換式
+T98	Quantity 30 39	0.02～0.05
+T99	Unit 39 41	mm
+T106	Machining 15 19	さらい刃
+T110	Machining 73 75	粗度

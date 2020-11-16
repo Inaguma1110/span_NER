@@ -1,0 +1,7 @@
+T41	Machining 8 11	被削材
+T42	Machining 12 16	切削速度
+R7	Relation Arg1:T42 Arg2:T32
+T43	Machining 12 14	切削
+T168	Machining 2 4	延性
+R8	Relation Arg1:T168 Arg2:T32
+T229	Machining 14 16	速度

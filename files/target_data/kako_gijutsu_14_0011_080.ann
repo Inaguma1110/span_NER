@@ -1,0 +1,10 @@
+T526	Machining 17 22	リーマ加工
+R55	Sub Arg1:T526 Arg2:T645
+T527	Machining 17 20	リーマ
+T528	Machining 20 22	加工
+T529	Machining 23 29	ヘールバイト
+T530	Machining 32 35	仕上げ
+T531	Machining 32 37	仕上げ加工
+R56	Sub Arg1:T531 Arg2:T645
+T532	Machining 35 37	加工
+T645	Machining 10 13	加工法

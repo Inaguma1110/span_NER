@@ -1,0 +1,10 @@
+T477	Machining 7 11	すくい角
+T478	Machining 19 23	せん断角
+T2038	Machining 5 11	有効すくい角
+R121	Relation Arg1:T2038 Arg2:T2039
+T2039	Machining 17 23	有効せん断角
+T3406	Variable 11 13	αｅ
+T3408	Variable 23 25	φｅ
+T3409	Variable 33 35	τｓ
+T3410	Variable 36 38	Ｆｔ
+T3416	Machining 19 22	せん断

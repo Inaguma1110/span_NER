@@ -1,0 +1,15 @@
+T1419	Machining 3 5	切削
+T1420	Machining 7 11	切削速度
+R407	Positive Arg1:T1420 Arg2:T1421
+T1421	Machining 16 19	高温度
+T1422	Machining 34 38	不水溶性
+T1423	Machining 38 42	切削油剤
+T1424	Machining 51 54	水溶性
+T2912	Machining 7 9	切削
+T2913	Machining 9 11	速度
+T2914	Machining 25 27	油脂
+T2915	Machining 38 40	切削
+T2916	Machining 40 42	油剤
+T2917	Machining 34 42	不水溶性切削油剤
+T3777	Trigger 12 16	速くなり
+T3778	Trigger 20 22	発生

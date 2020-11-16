@@ -1,0 +1,12 @@
+T1471	Machining 0 7	超硬エンドミル
+T1472	Machining 9 11	摩耗
+T1473	Machining 20 24	工具寿命
+R426	Relation Arg1:T1473 Arg2:T3623
+T1474	Machining 33 39	ダイヤモンド
+T1475	Machining 39 45	コーティング
+T1476	Machining 45 50	エンドミル
+T3617	Machining 0 2	超硬
+T3618	Machining 2 7	エンドミル
+T3619	Machining 20 22	工具
+T3620	Machining 22 24	寿命
+T3623	Machining 33 50	ダイヤモンドコーティングエンドミル

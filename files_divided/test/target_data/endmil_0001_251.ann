@@ -1,0 +1,9 @@
+T740	Machining 13 16	送り量
+R189	Positive Arg1:T740 Arg2:T741
+T741	Machining 23 27	工具寿命
+T2767	Machining 13 15	送り
+T2768	Machining 8 9	刃
+T2769	Machining 23 25	工具
+T2770	Machining 25 27	寿命
+T4621	Trigger 17 20	高めた
+T4622	Trigger 28 30	延長

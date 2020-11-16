@@ -1,0 +1,9 @@
+T1372	Machining 0 6	グラファイト
+T1373	Machining 6 8	加工
+T1374	Machining 11 17	ダイヤモンド
+T1375	Machining 17 23	コーティング
+R416	Relation Arg1:T1375 Arg2:T1376
+T1376	Machining 27 31	工具寿命
+T1377	Machining 37 39	超硬
+T3534	Machining 27 29	工具
+T3535	Machining 29 31	寿命

@@ -1,0 +1,173 @@
+T0	Machining 4 7	切れ刃
+T1	Machining 8 11	工作物
+T2	Machining 55 61	正面フライス
+T3	Machining 57 61	フライス
+T5	Machining 101 103	刃形
+T6	Machining 114 118	すくい面
+T7	Machining 119 122	工作物
+T8	Machining 134 138	フライス
+T9	Machining 139 142	切れ刃
+T10	Machining 143 146	工作物
+T11	Machining 147 149	削り
+T12	Machining 177 179	削り
+T13	Machining 275 278	切れ刃
+T14	Machining 295 298	切れ刃
+T15	Machining 303 309	エンゲージ角
+T16	Machining 303 308	エンゲージ
+T17	Machining 334 338	刃先強度
+T18	Machining 343 346	コーナ
+T19	Machining 361 366	チッピング
+T20	Machining 374 378	工具寿命
+T21	Machining 374 376	工具
+T22	Machining 404 410	エンゲージ角
+T23	Machining 404 409	エンゲージ
+T24	Machining 414 418	工具寿命
+T25	Machining 414 416	工具
+T26	Machining 422 426	切削条件
+T27	Machining 422 424	切削
+T28	Machining 447 449	切削
+T29	Machining 466 472	エンゲージ角
+T30	Machining 466 471	エンゲージ
+T31	Machining 512 515	被削材
+T32	Machining 543 549	エンゲージ角
+T33	Machining 543 548	エンゲージ
+T34	Machining 560 564	切りくず
+T35	Machining 573 575	切削
+T36	Machining 590 593	切れ刃
+T37	Machining 596 599	加工面
+T38	Machining 596 598	加工
+T39	Machining 604 608	切りくず
+T40	Machining 621 624	被削材
+T41	Machining 692 697	チッピング
+T43	Machining 728 732	加工硬化
+T44	Machining 728 730	加工
+T45	Machining 739 742	被削材
+T46	Machining 747 749	切削
+T47	Machining 780 783	被削材
+T48	Machining 784 786	切削
+T49	Machining 834 840	エンゲージ角
+T50	Machining 834 839	エンゲージ
+T51	Machining 862 865	被削材
+T52	Machining 873 879	エンゲージ角
+T53	Machining 873 878	エンゲージ
+T54	Machining 886 888	加工
+T55	Machining 951 953	摩耗
+T56	Machining 982 987	チッピング
+T57	Machining 1018 1020	刃数
+T58	Machining 1029 1032	被削材
+T59	Machining 1087 1090	被削材
+T60	Machining 1131 1134	切削幅
+T61	Machining 1131 1133	切削
+T62	Machining 1145 1147	加工
+T63	Machining 1182 1188	エンゲージ角
+T64	Machining 1182 1187	エンゲージ
+T65	Machining 1194 1198	工具寿命
+T66	Machining 1194 1196	工具
+T67	Machining 1221 1224	切れ刃
+T68	Machining 1224 1226	切削
+T70	Machining 1252 1254	刃形
+T71	Machining 1269 1272	切れ刃
+T72	Machining 1289 1295	エンゲージ角
+T73	Machining 1289 1294	エンゲージ
+T74	Machining 1305 1311	エンゲージ角
+T75	Machining 1305 1310	エンゲージ
+T76	Machining 1316 1319	被削材
+T77	Machining 1334 1340	エンゲージ角
+T78	Machining 1334 1339	エンゲージ
+T79	Machining 1341 1345	工具寿命
+T80	Machining 1341 1343	工具
+T81	Machining 228 231	点接触
+T82	Machining 240 243	線接触
+T83	Machining 256 259	面接触
+T84	Machining 27 29	刃先
+T86	Machining 50 61	刃先交換式正面フライス
+T87	Machining 50 52	刃先
+T88	Machining 74 76	刃先
+T89	Machining 433 435	刃先
+T90	Machining 429 432	カッタ
+T91	Machining 628 631	カッタ
+T92	Machining 1006 1010	カッタ径
+T93	Machining 1014 1017	カッタ
+T94	Machining 1091 1095	カッタ径
+T95	Machining 1073 1077	カッタ径
+T96	Machining 1150 1154	カッタ径
+T97	Machining 1320 1323	カッタ
+T98	Machining 209 211	接触
+#1	AnnotatorNotes T98	すくい面と工作物との接触
+T99	Machining 270 274	接触状態
+T100	Machining 275 281	切れ刃諸角度
+R4	Relation Arg1:T99 Arg2:T100	
+T101	Machining 326 332	Sからの接触
+R5	Relation Arg1:T101 Arg2:T19	
+R6	Relation Arg1:T22 Arg2:T24	
+T102	Machining 844 850	切り刃接触長
+R1	Relation Arg1:T49 Arg2:T102	
+T103	Machining 895 897	寿命
+R2	Relation Arg1:T49 Arg2:T103	
+T104	Machining 935 941	切り刃接触長
+R3	Relation Arg1:T104 Arg2:T55	
+T105	Machining 973 979	強断続の衝撃
+T106	Machining 988 990	寿命
+R7	Relation Arg1:T105 Arg2:T56	
+R8	Relation Arg1:T56 Arg2:T106	
+R9	Relation Arg1:T105 Arg2:T106	
+R10	Relation Arg1:T63 Arg2:T65	
+T107	Machining 1262 1268	接触開始状態
+T108	Machining 1269 1275	切れ刃諸角度
+R11	Relation Arg1:T107 Arg2:T108	
+#2	AnnotatorNotes R11	キャプション（図4-7）
+R12	Negative Arg1:T102 Arg2:T103	
+#3	AnnotatorNotes R12	寿命に悪影響を及ぼす＝寿命が短くなる
+R13	Sub Arg1:T81 Arg2:T98	
+R14	Sub Arg1:T82 Arg2:T98	
+R15	Sub Arg1:T83 Arg2:T98	
+T4	Machining 703 706	びびり
+T109	Machining 722 726	高硬度材
+#4	AnnotatorNotes T109	Y・M
+T110	Machining 334 336	刃先
+T111	Machining 679 681	刃先
+T112	Machining 803 806	カッタ
+T113	Machining 844 847	切り刃
+T114	Machining 935 938	切り刃
+T115	Machining 803 807	カッタ径
+T116	Machining 1006 1009	カッタ
+T117	Machining 1073 1076	カッタ
+T118	Machining 1150 1153	カッタ
+T69	Machining 1091 1094	カッタ
+T119	Machining 503 506	カッタ
+T120	Machining 503 507	カッタ径
+T121	Machining 519 522	カッタ
+T122	Machining 730 732	硬化
+T42	Machining 1235 1237	刃先
+T123	Machining 1283 1286	カッタ
+T124	Machining 1300 1303	カッタ
+R16	Relation Arg1:T76 Arg2:T97	
+T125	Machining 771 774	カッタ
+T126	Machining 763 766	カッタ
+T127	Machining 763 767	カッタ径
+T128	Machining 1025 1028	カッタ
+T129	Machining 27 32	刃先諸角度
+T130	Machining 336 338	強度
+T131	Machining 1238 1240	角度
+T132	Machining 1235 1240	刃先諸角度
+T133	Machining 74 79	刃先諸角度
+T85	Machining 977 979	衝撃
+T134	Machining 1300 1304	カッタ径
+T135	Machining 645 647	変形
+T136	Machining 1343 1345	寿命
+T137	Machining 416 418	寿命
+T138	Machining 1196 1198	寿命
+T139	Machining 928 930	衝撃
+T140	Machining 560 566	切りくず厚み
+T141	Machining 564 566	厚み
+T142	Machining 473 478	食い付き角
+T143	Machining 473 477	食い付き
+T144	Quantity 550 553	＋90
+T145	Unit 553 554	゜
+T146	Machining 376 378	寿命
+T147	Machining 1177 1178	鋼
+T148	Machining 1179 1181	鋳物
+T149	Machining 869 872	カッタ
+T150	Machining 922 926	食い付き
+T151	Trigger 898 905	悪影響を及ぼす
+T152	Trigger 851 855	長くなる

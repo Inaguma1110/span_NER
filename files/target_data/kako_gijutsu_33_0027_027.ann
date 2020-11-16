@@ -1,0 +1,7 @@
+T30	Machining 21 24	工作物
+T52	Machining 0 5	強制びびり
+T84	Machining 36 39	びびり
+T97	Machining 2 5	びびり
+T94	Machining 18 20	刃先
+T127	Machining 7 9	主軸
+T151	Machining 10 12	回転

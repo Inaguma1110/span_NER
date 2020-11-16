@@ -1,0 +1,18 @@
+T459	Machining 0 3	切削力
+T461	Machining 4 12	ディスエンゲージ
+T463	Machining 23 31	ディスエンゲージ
+T465	Machining 41 43	応力
+T466	Machining 49 51	超硬
+T467	Machining 49 53	超硬合金
+T468	Machining 56 61	硬脆性材料
+T470	Machining 70 73	引張り
+T1378	Machining 23 34	ディスエンゲージの角度
+R79	Positive Arg1:T1378 Arg2:T1379
+T1379	Machining 39 43	引張応力
+T448	Machining 56 59	硬脆性
+T462	Machining 59 61	材料
+T1554	Machining 39 41	引張
+T1644	Machining 51 53	合金
+T1906	Machining 63 65	圧縮
+T1987	Trigger 44 46	発生
+T1949	Trigger 32 38	角度によって

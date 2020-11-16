@@ -1,0 +1,7 @@
+T159	Machining 13 19	仕上げ面粗さ
+T160	Machining 13 17	仕上げ面
+T161	Machining 13 16	仕上げ
+T205	Machining 5 10	正面刃振れ
+R31	Relation Arg1:T205 Arg2:T159
+T313	Machining 7 10	刃振れ
+T312	Machining 17 19	粗さ

@@ -1,0 +1,13 @@
+T12	Machining 0 4	切削加工
+R3	Sub Arg1:T12 Arg2:T16
+T13	Machining 15 19	切削工具
+T14	Machining 40 44	切りくず
+T16	Machining 54 62	機械的除去加工法
+T1775	Machining 0 2	切削
+T1776	Machining 2 4	加工
+T1777	Machining 15 17	切削
+T1778	Machining 17 19	工具
+T1793	Machining 24 26	刃物
+T15	Machining 59 62	加工法
+T3213	Machining 54 57	機械的
+T3214	Machining 57 59	除去

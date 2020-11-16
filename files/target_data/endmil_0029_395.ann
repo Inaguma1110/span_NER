@@ -1,0 +1,7 @@
+T1195	Machining 9 13	被削材質
+R363	Relation Arg1:T1195 Arg2:T1197
+T1196	Machining 19 21	切削
+T1197	Machining 26 30	切削抵抗
+T3341	Machining 26 28	切削
+T3342	Machining 28 30	抵抗
+T3343	Machining 9 11	被削

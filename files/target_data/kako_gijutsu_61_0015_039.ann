@@ -1,0 +1,8 @@
+T139	Machining 8 17	ラジアスエンドミル
+R174	Relation Arg1:T139 Arg2:T141
+T140	Machining 12 17	エンドミル
+T141	Machining 23 27	刃先摩耗
+T142	Machining 25 27	摩耗
+T534	Machining 4 7	ボール
+R173	Relation Arg1:T534 Arg2:T141
+T645	Machining 23 25	刃先

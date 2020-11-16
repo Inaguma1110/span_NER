@@ -1,0 +1,17 @@
+T140	Machining 0 4	切削速度
+T141	Machining 0 2	切削
+T142	Machining 14 17	切削力
+T143	Machining 14 16	切削
+T144	Machining 23 27	切削速度
+R27	Relation Arg1:T144 Arg2:T146
+T145	Machining 23 25	切削
+T146	Machining 35 38	切削力
+T147	Machining 35 37	切削
+T314	Machining 14 22	切削力の垂下特性
+R6	Relation Arg1:T314 Arg2:T315
+T315	Machining 58 62	自励振動
+T410	Machining 60 62	振動
+T489	Machining 18 22	垂下特性
+T544	Machining 8 10	変動
+T588	Machining 2 4	速度
+T589	Machining 25 27	速度

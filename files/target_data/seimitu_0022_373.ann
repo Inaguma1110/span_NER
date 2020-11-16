@@ -1,0 +1,14 @@
+T1334	Machining 0 4	工具材料
+R611	Relation Arg1:T1334 Arg2:T2781
+T1335	Machining 7 9	応力
+T1336	Machining 20 22	工具
+T1337	Machining 25 27	応力
+T1338	Machining 28 30	工具
+T2777	Machining 0 2	工具
+T2778	Machining 2 4	材料
+T2779	Machining 5 7	破壊
+T2780	Machining 23 25	破壊
+T2781	Machining 5 9	破壊応力
+T2782	Machining 23 27	破壊応力
+R612	Relation Arg1:T2782 Arg2:T2783
+T2783	Machining 39 41	劣化

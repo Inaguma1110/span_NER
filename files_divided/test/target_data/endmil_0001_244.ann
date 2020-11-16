@@ -1,0 +1,12 @@
+T723	Machining 6 9	送り量
+R183	Positive Arg1:T723 Arg2:T724
+T724	Machining 27 31	切削抵抗
+R184	Negative Arg1:T724 Arg2:T726
+R627	Relation Arg1:T724 Arg2:T2737
+R628	Relation Arg1:T724 Arg2:T2738
+T2728	Machining 1 2	刃
+T2734	Machining 6 8	送り
+T2735	Machining 27 29	切削
+T2736	Machining 29 31	抵抗
+T4612	Trigger 10 12	増加
+T4613	Trigger 32 34	増加

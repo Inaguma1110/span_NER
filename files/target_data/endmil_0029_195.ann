@@ -1,0 +1,18 @@
+T556	Machining 0 3	加工面
+T557	Machining 8 12	切削速度
+R593	Relation Arg1:T557 Arg2:T2469
+T558	Machining 32 36	切削速度
+R121	Positive Arg1:T558 Arg2:T559
+T559	Machining 42 47	加工面粗さ
+T2464	Machining 8 10	切削
+T2465	Machining 10 12	速度
+T2466	Machining 32 34	切削
+T2467	Machining 34 36	速度
+T2468	Machining 42 45	加工面
+T2469	Machining 4 7	倒れ量
+T2470	Machining 45 47	粗さ
+T4252	Machining 0 2	加工
+T4253	Machining 4 6	倒れ
+T4254	Machining 42 44	加工
+T4561	Trigger 37 39	上昇
+T4562	Trigger 48 50	向上

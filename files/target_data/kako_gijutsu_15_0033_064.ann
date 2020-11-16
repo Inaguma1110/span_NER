@@ -1,0 +1,7 @@
+T188	Machining 10 14	切削抵抗
+R33	Relation Arg1:T188 Arg2:T190
+T189	Machining 10 12	切削
+T190	Machining 18 22	加工精度
+T191	Machining 18 20	加工
+T192	Machining 20 22	精度
+T140	Machining 12 14	抵抗

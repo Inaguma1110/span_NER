@@ -1,0 +1,39 @@
+T824	Machining 0 4	切削速度
+T825	Machining 18 21	送り量
+T826	Machining 30 35	切込み深さ
+T827	Machining 58 62	切削速度
+R248	Relation Arg1:T827 Arg2:T830
+R251	Relation Arg1:T827 Arg2:T831
+T828	Machining 63 66	送り量
+R247	Relation Arg1:T828 Arg2:T830
+R250	Relation Arg1:T828 Arg2:T831
+T829	Machining 70 75	切込み深さ
+R246	Relation Arg1:T829 Arg2:T830
+R249	Relation Arg1:T829 Arg2:T831
+T830	Machining 96 100	切削体積
+R236	Relation Arg1:T830 Arg2:T831
+T831	Machining 101 105	切削抵抗
+T2894	Machining 0 2	切削
+T2895	Machining 2 4	速度
+T2896	Machining 18 20	送り
+T2897	Machining 30 33	切込み
+T2898	Machining 70 73	切込み
+T2899	Machining 73 75	深さ
+T2900	Machining 96 98	切削
+T2901	Machining 101 103	切削
+T2902	Machining 103 105	抵抗
+T2903	Quantity 4 6	70
+T2904	Unit 6 11	ｍ／ｍｉｎ
+T2905	Machining 13 14	刃
+T2906	Quantity 21 25	0．07
+T2907	Unit 25 29	ｍｍ／ｔ
+T2908	Machining 35 37	ａｐ
+T2909	Machining 33 35	深さ
+T2910	Quantity 38 40	10
+T2911	Unit 40 42	ｍｍ
+T2912	Machining 43 45	ａｅ
+T2913	Quantity 46 49	0．5
+T2914	Unit 49 51	ｍｍ
+T2915	Machining 58 60	切削
+T2916	Machining 60 62	速度
+T2930	Machining 63 65	送り

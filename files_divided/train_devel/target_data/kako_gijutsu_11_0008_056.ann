@@ -1,0 +1,7 @@
+T285	Machining 6 12	逃げ面摩耗幅
+R104	Relation Arg1:T285 Arg2:T289
+T286	Machining 6 9	逃げ面
+T287	Machining 9 11	摩耗
+T288	Machining 9 12	摩耗幅
+T289	Machining 13 16	背分力
+T616	Machining 11 12	幅

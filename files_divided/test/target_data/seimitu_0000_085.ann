@@ -1,0 +1,10 @@
+T290	Machining 2 6	すくい面
+R107	Relation Arg1:T290 Arg2:T291
+R108	Relation Arg1:T290 Arg2:T400
+T291	Machining 11 15	摩擦応力
+T292	Machining 26 28	応力
+T400	Machining 24 28	垂直応力
+T1959	Machining 11 13	摩擦
+T3323	Machining 13 15	応力
+T3325	Variable 16 18	τｔ
+T3326	Variable 29 31	σｔ

@@ -1,0 +1,9 @@
+T158	Machining 0 4	切削速度
+R13	Negative Arg1:T158 Arg2:T160
+T159	Machining 0 2	切削
+T160	Machining 12 16	切削抵抗
+T161	Machining 12 14	切削
+T550	Machining 14 16	抵抗
+T608	Machining 2 4	速度
+T645	Trigger 17 19	減少
+T644	Trigger 5 9	速くなる

@@ -1,0 +1,7 @@
+T1695	Machining 0 5	主軸回転数
+R494	Positive Arg1:T1695 Arg2:T4068
+T1696	Machining 12 17	固有振動数
+T4067	Machining 0 2	主軸
+T4068	Machining 24 26	振動
+T4833	Trigger 6 11	上げていく
+T4834	Trigger 27 32	大きくなる

@@ -1,0 +1,9 @@
+T1602	Machining 0 4	旋削工具
+R467	Sub Arg1:T1602 Arg2:T1603
+T1603	Machining 10 12	工具
+T1604	Machining 38 42	長手旋削
+T1605	Machining 48 52	理論粗さ
+T3043	Machining 0 2	旋削
+T3044	Machining 2 4	工具
+T3045	Machining 40 42	旋削
+T3046	Machining 50 52	粗さ

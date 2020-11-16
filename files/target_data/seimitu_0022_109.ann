@@ -1,0 +1,5 @@
+T337	Machining 17 19	切削
+T338	Machining 42 44	切削
+T339	Machining 61 64	切削力
+T411	Machining 42 47	切削方程式
+R87	Relation Arg1:T411 Arg2:T339

@@ -1,0 +1,20 @@
+T115	Machining 73 77	超硬合金
+R533	Relation Arg1:T115 Arg2:T116
+T1889	Machining 0 6	タングステン
+R818	Relation Arg1:T1889 Arg2:T1894
+T1890	Machining 7 8	Ｗ
+T1891	Machining 10 12	炭素
+R819	Relation Arg1:T1891 Arg2:T1894
+T1892	Machining 13 14	Ｃ
+T1893	Machining 19 22	化合物
+T1894	Machining 23 31	炭化タングステン
+R534	Relation Arg1:T1894 Arg2:T115
+T1895	Machining 33 35	ＷＣ
+T1896	Machining 40 43	結合材
+T1897	Machining 44 49	バインダー
+T1898	Machining 51 55	コバルト
+R535	Relation Arg1:T1898 Arg2:T115
+R754	Sub Arg1:T1898 Arg2:T1896
+T1899	Machining 56 58	Ｃｏ
+T1909	Machining 75 77	合金
+T89	Machining 73 75	超硬

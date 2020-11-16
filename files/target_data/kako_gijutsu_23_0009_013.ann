@@ -1,0 +1,22 @@
+T71	Machining 4 9	アルミ合金
+R23	Relation Arg1:T71 Arg2:T103
+T73	Machining 19 23	切削温度
+T74	Machining 19 21	切削
+T75	Machining 21 23	温度
+T76	Machining 27 31	切削温度
+R9	Relation Arg1:T76 Arg2:T81
+T77	Machining 27 29	切削
+T78	Machining 29 31	温度
+T79	Machining 39 41	加工
+T80	Machining 45 47	切削
+T81	Machining 49 52	熱亀裂
+T82	Machining 49 50	熱
+T83	Machining 50 52	亀裂
+T84	Machining 60 63	切れ刃
+T85	Machining 73 75	切削
+T102	Machining 10 13	銅合金
+R22	Relation Arg1:T102 Arg2:T103
+T103	Machining 34 38	非鉄合金
+T104	Machining 43 47	湿式切削
+T105	Machining 64 66	溶着
+T106	Machining 71 75	湿式切削

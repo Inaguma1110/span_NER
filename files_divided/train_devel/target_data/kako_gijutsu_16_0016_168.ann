@@ -1,0 +1,6 @@
+T377	Machining 8 10	加工
+T378	Machining 12 16	切りくず
+T540	Machining 6 10	冷間加工
+T602	Machining 16 18	折断
+T643	Machining 12 18	切りくず折断
+T657	Machining 12 20	切りくず折断限界

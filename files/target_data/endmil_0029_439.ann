@@ -1,0 +1,13 @@
+T1339	Machining 0 5	エンドミル
+T1340	Machining 6 9	逃げ面
+T1341	Machining 13 15	摩耗
+T1342	Machining 23 30	超硬エンドミル
+R407	Sub Arg1:T1342 Arg2:T1339
+T1343	Machining 33 35	摩耗
+R380	Positive Arg1:T1343 Arg2:T1344
+T1344	Machining 44 49	チッピング
+T3509	Machining 10 15	こすり摩耗
+T3510	Machining 23 25	超硬
+T3511	Machining 25 30	エンドミル
+T4791	Trigger 36 38	進行
+T4792	Trigger 50 52	誘発

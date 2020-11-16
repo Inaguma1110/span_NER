@@ -1,0 +1,27 @@
+T151	Machining 8 10	送り
+T152	Machining 8 12	送り速度
+T153	Machining 17 19	送り
+T154	Machining 30 36	仕上げ面粗さ
+T155	Machining 30 34	仕上げ面
+T156	Machining 30 33	仕上げ
+T157	Machining 43 47	加工時間
+R20	Relation Arg1:T157 Arg2:T163
+T158	Machining 43 45	加工
+T159	Machining 49 52	切削長
+R21	Relation Arg1:T159 Arg2:T163
+T160	Machining 49 51	切削
+T161	Machining 61 65	加工能率
+T162	Machining 61 63	加工
+T163	Machining 70 74	工具寿命
+T164	Machining 70 72	工具
+T245	Machining 17 22	送りピッチ
+R17	Positive Arg1:T245 Arg2:T154
+R18	NegativeLinear Arg1:T245 Arg2:T157
+R19	NegativeLinear Arg1:T245 Arg2:T159
+R22	Relation Arg1:T245 Arg2:T163
+T271	Machining 34 36	粗さ
+T291	Machining 72 74	寿命
+T310	Machining 10 12	速度
+T321	Quantity 23 26	1/2
+T333	Trigger 23 26	1/2
+T334	Trigger 37 41	良くなる

@@ -1,0 +1,16 @@
+T3	Machining 18 19	熱
+T4	Machining 26 30	切りくず
+T5	Machining 45 49	切削加工
+T6	Machining 45 47	切削
+T7	Machining 47 49	加工
+T389	Machining 0 2	切削
+R6	Relation Arg1:T389 Arg2:T390
+R89	Relation Arg1:T389 Arg2:T4
+T390	Machining 18 23	熱エネルギ
+T445	Quantity 12 14	80
+T446	Unit 14 15	％
+T447	Machining 45 51	切削加工技術
+R61	Relation Arg1:T447 Arg2:T448
+T448	Machining 57 61	切りくず
+T694	Machining 7 11	エネルギ
+T695	Machining 19 23	エネルギ

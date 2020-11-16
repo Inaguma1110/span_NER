@@ -1,0 +1,6 @@
+T250	Machining 11 15	切りくず
+T251	Machining 21 24	切削力
+R80	Relation Arg1:T251 Arg2:T1946
+T1946	Machining 5 17	２次元流れ型切りくず生成
+T3284	Machining 15 17	生成
+T1880	Machining 8 11	流れ型

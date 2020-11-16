@@ -1,0 +1,7 @@
+T1159	Machining 25 29	工具寿命
+T3278	Machining 16 18	刃長
+R662	Negative Arg1:T3278 Arg2:T1159
+T3279	Machining 25 27	工具
+T3280	Machining 27 29	寿命
+T4740	Trigger 19 23	長くなる
+T4741	Trigger 30 38	短くなってしまい

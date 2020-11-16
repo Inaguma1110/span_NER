@@ -1,0 +1,7 @@
+T22	Machining 0 5	エンドミル
+R21	Sub Arg1:T22 Arg2:T21
+T2290	Machining 44 45	刃
+T4159	Machining 34 37	ｅｎｄ
+T4160	Machining 38 41	エンド
+T4165	Machining 25 27	外周
+T4166	Machining 28 30	端面

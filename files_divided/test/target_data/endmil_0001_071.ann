@@ -1,0 +1,8 @@
+T154	Machining 3 9	セラミックス
+R549	Relation Arg1:T154 Arg2:T155
+R550	Relation Arg1:T154 Arg2:T1971
+T155	Machining 34 35	熱
+T1968	Machining 11 13	金属
+T1969	Machining 18 24	プラスチック
+T1970	Machining 29 31	金属
+T1971	Machining 62 64	衝撃

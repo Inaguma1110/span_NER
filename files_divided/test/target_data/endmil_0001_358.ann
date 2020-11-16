@@ -1,0 +1,8 @@
+T1100	Machining 0 2	刃数
+T1101	Machining 21 24	切れ刃
+R648	Positive Arg1:T1101 Arg2:T3201
+T1102	Machining 25 28	加工面
+T3201	Machining 32 35	接触点
+T3161	Machining 25 27	加工
+T4722	Trigger 36 38	増加
+T4723	Trigger 3 7	多くなれ

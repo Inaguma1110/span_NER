@@ -1,0 +1,13 @@
+T933	Machining 13 17	引張強さ
+R113	Relation Arg1:T933 Arg2:T934
+T934	Machining 21 27	ブリネル硬さ
+T1507	Variable 17 20	σ_B
+T1508	Variable 27 30	H_B
+T1509	Variable 45 48	H_B
+T1510	Variable 67 70	σ_B
+T1511	Variable 75 78	H_B
+T1144	Quantity 36 44	0.3~0.35
+T1693	Machining 2 5	炭素鋼
+T1712	Machining 25 27	硬さ
+T1745	Machining 13 15	引張
+T1746	Machining 15 17	強さ

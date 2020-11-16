@@ -1,0 +1,9 @@
+T328	Machining 16 18	切削
+T329	Machining 46 49	せん断
+T330	Machining 51 53	応力
+T403	Machining 16 20	切削定数
+R112	Relation Arg1:T403 Arg2:T327
+T415	Machining 46 53	せん断変形応力
+R131	Relation Arg1:T415 Arg2:T403
+T1974	Machining 43 45	材料
+T1975	Machining 49 51	変形

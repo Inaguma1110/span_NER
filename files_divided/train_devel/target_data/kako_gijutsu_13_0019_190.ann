@@ -1,0 +1,15 @@
+T712	Machining 0 2	工具
+T713	Machining 3 5	切削
+T714	Machining 7 9	応力
+T715	Machining 16 18	刃形
+T718	Machining 41 43	硬度
+T719	Machining 68 72	構成刃先
+T720	Machining 79 82	工作物
+T1465	Machining 100 103	切り刃
+T265	Machining 33 35	工具
+T271	Machining 33 37	工具材料
+T1685	Machining 70 72	刃先
+T1705	Machining 38 40	強度
+T1706	Machining 35 37	材料
+T1894	Machining 48 50	材料
+T1895	Machining 89 91	材料

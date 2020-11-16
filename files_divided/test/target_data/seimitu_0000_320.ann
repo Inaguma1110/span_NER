@@ -1,0 +1,9 @@
+T1157	Machining 0 4	凝着摩耗
+R349	Sub Arg1:T1157 Arg2:T1158
+T1158	Machining 5 9	工具摩耗
+T1159	Machining 9 11	機構
+T2607	Machining 5 11	工具摩耗機構
+T2608	Machining 0 2	凝着
+T2609	Machining 2 4	摩耗
+T2610	Machining 5 7	工具
+T2611	Machining 7 9	摩耗

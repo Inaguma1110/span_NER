@@ -1,0 +1,19 @@
+T1700	Machining 0 2	切削
+T1701	Machining 6 8	工具
+T1702	Machining 8 11	切れ刃
+R493	Part Arg1:T1702 Arg2:T1701
+T1703	Machining 27 29	亀裂
+T1704	Machining 35 39	切りくず
+T1705	Machining 51 54	工作物
+T1706	Machining 61 63	亀裂
+T1707	Machining 68 71	工作物
+T1708	Machining 71 75	仕上げ面
+T3156	Machining 6 11	工具切れ刃
+T3157	Machining 71 74	仕上げ
+T3158	Machining 68 75	工作物仕上げ面
+R649	Relation Arg1:T3158 Arg2:T3643
+T3641	Machining 27 30	亀裂型
+R651	Relation Arg1:T3641 Arg2:T1706
+T3642	Machining 31 35	むしり型
+R652	Relation Arg1:T3642 Arg2:T1706
+T3643	Machining 87 89	凹凸

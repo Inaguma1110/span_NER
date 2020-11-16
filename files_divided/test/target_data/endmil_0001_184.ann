@@ -1,0 +1,14 @@
+T525	Machining 8 11	加工物
+T526	Machining 17 19	応力
+T527	Machining 59 63	切削速度
+R110	Positive Arg1:T527 Arg2:T526
+T2414	Machining 25 27	破壊
+R587	Relation Arg1:T2414 Arg2:T2416
+T2415	Machining 28 30	分離
+T2416	Machining 46 47	力
+T2417	Machining 56 57	力
+T2418	Machining 59 61	切削
+T2419	Machining 61 63	速度
+T4443	Variable 63 65	ｖｃ
+T4552	Trigger 68 74	与えられます
+T4553	Trigger 20 22	発生

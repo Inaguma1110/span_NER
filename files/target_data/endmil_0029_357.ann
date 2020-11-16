@@ -1,0 +1,6 @@
+T1096	Machining 0 2	刃数
+R314	Relation Arg1:T1096 Arg2:T1097
+T1097	Machining 3 10	チップポケット
+T1098	Machining 30 32	刃数
+R331	Relation Arg1:T1098 Arg2:T1099
+T1099	Machining 38 40	切削

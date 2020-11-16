@@ -1,0 +1,5 @@
+T2709	Machining 13 15	主軸
+T2710	Machining 23 26	移動量
+T2711	Variable 26 28	ｖｆ
+T2712	Unit 29 35	ｍｍ／ｍｉｎ
+T2715	Machining 23 25	移動

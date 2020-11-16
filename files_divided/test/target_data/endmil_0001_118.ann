@@ -1,0 +1,14 @@
+T298	Machining 0 5	切込み深さ
+R572	Positive Arg1:T298 Arg2:T2194
+R833	Negative Arg1:T298 Arg2:T2195
+T299	Machining 13 16	加工物
+T300	Machining 17 20	切れ刃
+T2190	Machining 0 3	切込み
+T2191	Machining 3 5	深さ
+T2192	Machining 21 23	接触
+T2193	Machining 30 32	冷却
+T2194	Machining 21 25	接触時間
+T2195	Machining 30 34	冷却時間
+T4504	Trigger 6 11	大きくする
+T4505	Trigger 26 28	増加
+T4506	Trigger 35 39	短くなり

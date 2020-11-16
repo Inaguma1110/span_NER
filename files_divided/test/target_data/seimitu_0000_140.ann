@@ -1,0 +1,16 @@
+T479	Machining 2 6	切りくず
+T480	Machining 24 28	切りくず
+T481	Machining 33 37	切削速度
+T482	Machining 45 47	切削
+T483	Machining 56 58	切削
+T2040	Machining 28 30	流出
+T2041	Machining 24 32	切りくず流出方向
+R132	Relation Arg1:T2041 Arg2:T2047
+T2042	Machining 33 35	切削
+T2043	Machining 35 37	速度
+T2044	Machining 17 19	流出
+T2045	Machining 47 49	厚さ
+T2046	Machining 45 49	切削厚さ
+T2047	Machining 53 58	二次元切削
+T3411	Machining 33 39	切削速度方向
+R133	Relation Arg1:T3411 Arg2:T2047

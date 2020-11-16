@@ -1,0 +1,4 @@
+T1110	Machining 8 10	摩耗
+T1111	Machining 13 15	工具
+T1112	Machining 16 18	摩耗
+R329	Relation Arg1:T1112 Arg2:T1113

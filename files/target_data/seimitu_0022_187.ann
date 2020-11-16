@@ -1,0 +1,12 @@
+T675	Machining 26 28	熱源
+T2166	Machining 20 21	幅
+T2167	Machining 22 24	長さ
+T2168	Machining 17 19	表面
+R170	Relation Arg1:T2168 Arg2:T675
+T2171	Machining 29 31	速度
+T2174	Machining 34 36	移動
+T2175	Machining 38 40	移動
+T3488	Machining 12 16	半無限体
+T3493	Variable 31 33	Ｖｓ
+T3660	Variable 24 25	ｌ
+T3661	Variable 21 22	ｂ

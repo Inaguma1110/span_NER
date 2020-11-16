@@ -1,0 +1,9 @@
+T1103	Machining 10 12	刃数
+R315	Relation Arg1:T1103 Arg2:T1106
+T1104	Machining 13 17	ねじれ角
+R316	Relation Arg1:T1104 Arg2:T1106
+T1105	Machining 25 28	加工物
+T1106	Machining 32 39	接触切れ刃長さ
+T3202	Machining 34 37	切れ刃
+T3203	Machining 37 39	長さ
+T3204	Machining 32 34	接触

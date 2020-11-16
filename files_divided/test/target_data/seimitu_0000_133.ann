@@ -1,0 +1,5 @@
+T462	Machining 6 10	切りくず
+T2030	Machining 10 12	流出
+T2031	Machining 12 14	速度
+T2034	Machining 6 14	切りくず流出速度
+T3391	Variable 3 5	Ｖｃ

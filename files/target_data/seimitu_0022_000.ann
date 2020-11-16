@@ -1,0 +1,13 @@
+T0	Machining 0 4	切削加工
+R1	Sub Arg1:T0 Arg2:T2
+R671	Positive Arg1:T0 Arg2:T4
+T1	Machining 5 8	高精度
+T2	Machining 23 26	加工法
+T3	Machining 30 32	加工
+T4	Machining 46 50	加工精度
+T1771	Machining 0 2	切削
+T1772	Machining 2 4	加工
+T1773	Machining 46 48	加工
+T1774	Machining 48 50	精度
+T1409	Trigger 18 23	多用される
+T3733	Trigger 51 53	向上

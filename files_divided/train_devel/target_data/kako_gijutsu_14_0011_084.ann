@@ -1,0 +1,17 @@
+T553	Machining 22 26	焼ならし
+T554	Machining 28 30	旋削
+T556	Machining 34 37	送り量
+R80	Relation Arg1:T556 Arg2:T557
+T557	Machining 38 46	切削仕上げ面粗さ
+T558	Machining 38 44	切削仕上げ面
+T559	Machining 38 40	切削
+T561	Machining 40 44	仕上げ面
+T563	Machining 51 55	切削速度
+T564	Machining 51 53	切削
+T1298	Machining 9 17	機械構造用炭素鋼
+T1299	Machining 17 21	S25C
+T638	Machining 34 36	送り
+T643	Machining 40 43	仕上げ
+T552	Machining 14 17	炭素鋼
+T1470	Machining 44 46	粗さ
+T1552	Machining 53 55	速度

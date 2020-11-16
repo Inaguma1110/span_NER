@@ -1,0 +1,28 @@
+T868	Machining 0 4	超硬合金
+R195	Relation Arg1:T868 Arg2:T2241
+R676	Relation Arg1:T868 Arg2:T2243
+R677	Relation Arg1:T868 Arg2:T2246
+R678	Relation Arg1:T868 Arg2:T870
+R679	Relation Arg1:T868 Arg2:T871
+R680	Relation Arg1:T868 Arg2:T874
+R681	Relation Arg1:T868 Arg2:T3685
+T2229	Machining 0 2	超硬
+T2230	Machining 2 4	合金
+T2236	Machining 9 11	金属
+T2237	Machining 11 14	炭化物
+T2238	Machining 17 19	炭化
+T2239	Machining 9 14	金属炭化物
+T2240	Machining 19 25	タングステン
+T2241	Machining 17 25	炭化タングステン
+R530	Sub Arg1:T2241 Arg2:T2239
+T2242	Machining 25 27	ＷＣ
+T2243	Machining 40 43	炭化物
+T2244	Machining 44 47	ＴｉＣ
+R526	Sub Arg1:T2244 Arg2:T2243
+T2245	Machining 48 51	ＴａＣ
+R675	Sub Arg1:T2245 Arg2:T2243
+T2246	Machining 66 68	Ｃｏ
+T2247	Machining 58 60	添加
+T2249	Machining 69 72	結合剤
+T2250	Machining 103 105	合金
+T3663	Machining 100 102	焼結

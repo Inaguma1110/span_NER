@@ -1,0 +1,5 @@
+T282	Machining 17 19	工具
+T559	Machining 9 12	再研削
+R22	Relation Arg1:T559 Arg2:T560
+T560	Machining 29 32	総寿命
+T698	Machining 20 22	廃棄

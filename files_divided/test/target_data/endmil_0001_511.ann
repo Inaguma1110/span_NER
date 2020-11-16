@@ -1,0 +1,9 @@
+T1545	Machining 19 24	エンドミル
+T1546	Machining 45 48	逃げ角
+T3760	Machining 0 5	フラット法
+R718	Sub Arg1:T3760 Arg2:T3755
+R927	Relation Arg1:T3760 Arg2:T1546
+T3762	Machining 32 35	刃受け
+T3763	Machining 8 13	カップ砥石
+T3766	Machining 27 29	刃先
+T3768	Machining 11 13	砥石

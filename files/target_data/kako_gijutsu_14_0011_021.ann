@@ -1,0 +1,11 @@
+T84	Machining 0 4	構成刃先
+R177	Relation Arg1:T84 Arg2:T89
+T85	Machining 18 20	工具
+T86	Machining 20 24	すくい面
+T87	Machining 26 29	逃げ面
+T88	Machining 33 36	被削材
+T89	Machining 54 57	切れ刃
+T1260	Machining 18 24	工具すくい面
+T31	Machining 43 45	付着
+T232	Machining 2 4	刃先
+T1610	Machining 46 48	滞留

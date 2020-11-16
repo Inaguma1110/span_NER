@@ -1,0 +1,36 @@
+T996	Machining 5 7	工具
+T997	Machining 8 10	摩耗
+T998	Machining 23 26	切れ刃
+T999	Machining 26 30	すくい面
+T1000	Machining 31 35	切りくず
+T1001	Machining 45 51	すくい面摩耗
+R301	Sub Arg1:T1001 Arg2:T997
+T1002	Machining 52 54	摩耗
+T1003	Machining 75 81	クレータ摩耗
+T1004	Machining 93 96	逃げ面
+T1005	Machining 100 103	切削面
+T1006	Machining 112 117	逃げ面摩耗
+R303	Sub Arg1:T1006 Arg2:T997
+T1007	Machining 118 121	逃げ面
+T1008	Machining 137 139	摩耗
+T1009	Machining 147 149	工具
+T1010	Machining 150 153	工作物
+T1011	Machining 162 166	境界摩耗
+R304	Sub Arg1:T1011 Arg2:T997
+T2422	Machining 23 30	切れ刃すくい面
+T2423	Machining 36 38	接触
+T2424	Machining 45 49	すくい面
+T2425	Machining 49 51	摩耗
+T2426	Machining 57 61	クレータ
+T2427	Machining 62 68	ｃｒａｔｅｒ
+T2428	Machining 75 79	クレータ
+T2429	Machining 79 81	摩耗
+T2430	Machining 112 115	逃げ面
+T2431	Machining 115 117	摩耗
+T2432	Machining 126 130	フランク
+T2433	Machining 131 136	ｆｌａｎｋ
+T2434	Machining 154 158	接触境界
+T2435	Machining 162 164	境界
+T2436	Machining 164 166	摩耗
+T2437	Machining 154 156	接触
+T2438	Machining 156 158	境界

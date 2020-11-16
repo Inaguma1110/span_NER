@@ -1,0 +1,7 @@
+T107	Machining 18 22	焼入れ性
+T1851	Machining 10 13	炭化物
+R14	Positive Arg1:T1851 Arg2:T107
+T2296	Machining 14 16	生成
+T2298	Machining 7 9	結合
+T4463	Trigger 14 16	生成
+T4464	Trigger 23 25	改善

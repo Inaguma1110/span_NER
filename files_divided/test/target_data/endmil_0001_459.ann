@@ -1,0 +1,4 @@
+T1420	Machining 11 18	超硬エンドミル
+R432	Sub Arg1:T1420 Arg2:T1427
+T4328	Machining 11 13	超硬
+T4329	Machining 13 18	エンドミル

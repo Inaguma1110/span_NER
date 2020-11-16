@@ -1,0 +1,5 @@
+T1579	Machining 5 10	エンドミル
+T1580	Machining 13 16	逃げ面
+R464	Part Arg1:T1580 Arg2:T1579
+T3837	Machining 11 16	外周逃げ面
+T3838	Machining 17 19	砥石

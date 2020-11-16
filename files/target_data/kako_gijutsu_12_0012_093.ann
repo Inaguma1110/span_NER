@@ -1,0 +1,11 @@
+T332	Machining 0 4	切削速度
+R114	Relation Arg1:T332 Arg2:T493
+R115	Linear Arg1:T332 Arg2:T494
+T333	Machining 0 2	切削
+T335	Machining 23 26	送り量
+R116	Relation Arg1:T335 Arg2:T495
+T493	Variable 12 13	L
+T494	Variable 14 17	L_2
+T495	Variable 35 36	A
+T606	Machining 23 25	送り
+T657	Machining 2 4	速度

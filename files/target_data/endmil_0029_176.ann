@@ -1,0 +1,25 @@
+T489	Machining 0 2	切削
+T490	Machining 4 7	加工物
+T491	Machining 14 16	応力
+R584	Positive Arg1:T491 Arg2:T2377
+T492	Machining 40 44	塑性変形
+R99	Relation Arg1:T492 Arg2:T497
+R100	Relation Arg1:T492 Arg2:T663
+T493	Machining 45 47	温度
+R101	Relation Arg1:T493 Arg2:T663
+R102	Relation Arg1:T493 Arg2:T497
+T494	Machining 50 54	切りくず
+T495	Machining 76 79	加工物
+T496	Machining 94 96	加工
+T497	Machining 100 104	残量応力
+T663	Machining 94 99	加工変質層
+T2377	Machining 20 22	破断
+R585	Relation Arg1:T2377 Arg2:T492
+R586	Relation Arg1:T2377 Arg2:T2383
+T2381	Machining 42 44	変形
+T2382	Machining 40 42	塑性
+T2383	Machining 45 49	温度上昇
+T4410	Machining 100 102	残量
+T4411	Machining 102 104	応力
+T4547	Trigger 17 19	加え
+T4548	Trigger 23 25	発生

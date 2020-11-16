@@ -1,0 +1,11 @@
+T1627	Machining 0 2	底刃
+R454	Part Arg1:T1627 Arg2:T1626
+T1628	Machining 14 16	底刃
+T1629	Machining 20 22	底刃
+T3949	Machining 3 6	再研削
+T3950	Machining 8 13	ギャッシュ
+T3951	Machining 29 31	研削
+T3977	Machining 20 25	底刃3番面
+T3978	Machining 14 19	底刃2番面
+T4349	Machining 16 19	2番面
+T4350	Machining 22 25	3番面

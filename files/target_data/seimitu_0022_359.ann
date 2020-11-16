@@ -1,0 +1,5 @@
+T1282	Machining 2 4	欠損
+T1283	Machining 13 17	切削条件
+R395	Relation Arg1:T1283 Arg2:T1316
+T1316	Machining 0 4	初期欠損
+T2733	Machining 13 15	切削

@@ -1,0 +1,5 @@
+T872	Machining 14 22	ボールエンドミル
+R288	Sub Arg1:T872 Arg2:T870
+T2984	Machining 6 13	ピックフィード
+T2985	Machining 36 42	カスプハイト
+T4275	Machining 17 22	エンドミル

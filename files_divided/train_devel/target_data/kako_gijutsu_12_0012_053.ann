@@ -1,0 +1,15 @@
+T195	Machining 3 7	切削速度
+R23	Relation Arg1:T195 Arg2:T197
+T196	Machining 3 5	切削
+T197	Machining 17 21	切削温度
+T198	Machining 17 19	切削
+T199	Machining 19 21	温度
+T200	Machining 37 41	構成刃先
+R41	Relation Arg1:T200 Arg2:T197
+T201	Machining 44 48	切りくず
+R42	Relation Arg1:T201 Arg2:T197
+T451	Quantity 7 9	30
+T452	Unit 9 14	m/min
+T401	Machining 39 41	刃先
+T654	Machining 5 7	速度
+T668	Machining 44 50	切りくず生成

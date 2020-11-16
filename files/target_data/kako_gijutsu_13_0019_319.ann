@@ -1,0 +1,10 @@
+T1183	Machining 3 7	切削条件
+T1184	Machining 3 5	切削
+T1185	Machining 9 13	工具設計
+R162	Relation Arg1:T1185 Arg2:T1187
+T1186	Machining 9 11	工具
+T1187	Machining 20 24	工具寿命
+T1188	Machining 20 22	工具
+T985	Quantity 27 33	10~100
+T1156	Unit 33 34	倍
+T1784	Machining 22 24	寿命

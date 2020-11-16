@@ -1,0 +1,25 @@
+T118	Machining 7 11	切りくず
+T119	Machining 14 17	被削材
+T120	Machining 37 40	せん断
+R60	Negative Arg1:T120 Arg2:T472
+T121	Machining 45 47	工具
+T122	Machining 48 52	切りくず
+T123	Machining 66 70	すくい面
+T124	Machining 72 74	摩擦
+T125	Machining 81 85	せん断角
+T462	Machining 72 76	摩擦係数
+R11	Negative Arg1:T462 Arg2:T125
+T471	Machining 20 24	内部欠陥
+T472	Machining 45 56	工具-切りくず接触長さ
+R42	Negative Arg1:T472 Arg2:T125
+T494	Machining 4 11	不連続切りくず
+R73	Relation Arg1:T494 Arg2:T119
+T574	Machining 81 84	せん断
+T600	Machining 33 36	塑性域
+T623	Machining 54 56	長さ
+T635	Machining 20 22	内部
+T636	Machining 22 24	欠陥
+T639	Trigger 57 61	短くなり
+T640	Trigger 86 88	増大
+T641	Trigger 77 79	低下
+T642	Trigger 41 43	完了

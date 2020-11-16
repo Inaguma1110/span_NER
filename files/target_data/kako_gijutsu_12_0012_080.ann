@@ -1,0 +1,8 @@
+T276	Machining 0 4	材料強度
+T277	Machining 8 10	温度
+R55	Relation Arg1:T277 Arg2:T276
+T278	Machining 29 31	温度
+R47	Relation Arg1:T278 Arg2:T525
+T525	Variable 25 26	τ
+T624	Machining 0 2	材料
+T625	Machining 2 4	強度

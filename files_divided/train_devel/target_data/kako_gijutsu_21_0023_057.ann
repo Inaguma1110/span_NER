@@ -1,0 +1,13 @@
+T197	Machining 0 4	断続切削
+T198	Machining 2 4	切削
+T199	Machining 7 9	切削
+T200	Machining 12 16	刃先強度
+T201	Machining 20 22	加工
+T202	Machining 23 25	鋳鉄
+T203	Machining 28 32	切りくず
+T205	Machining 37 39	加工
+T206	Machining 45 48	コーナ
+T207	Machining 58 61	チップ
+T775	Machining 5 9	黒皮切削
+T810	Machining 12 14	刃先
+T898	Machining 14 16	強度

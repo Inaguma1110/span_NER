@@ -1,0 +1,16 @@
+T117	Machining 6 14	ボールエンドミル
+T118	Machining 9 14	エンドミル
+T119	Machining 18 20	加工
+T120	Machining 23 27	仕上げ面
+T121	Machining 23 26	仕上げ
+T122	Machining 56 58	精度
+T123	Machining 59 61	工具
+T124	Machining 64 66	精度
+T125	Machining 76 78	工具
+R11	Relation Arg1:T125 Arg2:T232
+T232	Machining 23 30	仕上げ面の粗さ
+T28	Machining 53 58	アール精度
+T259	Machining 62 66	フレ精度
+T272	Machining 28 30	粗さ
+T300	Machining 49 52	耐久性
+T301	Machining 45 48	切れ味

@@ -1,0 +1,8 @@
+T1777	Machining 15 17	切削
+T1778	Machining 54 58	塑性変形
+T4152	Machining 26 30	コレット
+R817	Positive Arg1:T4152 Arg2:T1778
+T4153	Machining 54 56	塑性
+T4154	Machining 56 58	変形
+T4861	Trigger 31 34	受ける
+T4862	Trigger 59 62	起こす

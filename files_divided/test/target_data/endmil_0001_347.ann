@@ -1,0 +1,15 @@
+T1058	Machining 5 10	エンドミル
+T1059	Machining 11 14	溝切削
+R859	Relation Arg1:T1059 Arg2:T4388
+T1060	Machining 22 24	切削
+T1061	Machining 40 45	エンドミル
+T1062	Machining 45 48	コーナ
+T1063	Machining 51 54	加工物
+T1064	Machining 77 79	切削
+T1065	Machining 82 85	コーナ
+T1066	Machining 88 92	シャンク
+T3165	Machining 11 12	溝
+T3166	Machining 12 14	切削
+T3167	Machining 28 34	アップカット
+T4316	Machining 0 4	ねじれ刃
+T4388	Machining 77 81	切削位置

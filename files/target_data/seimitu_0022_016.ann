@@ -1,0 +1,9 @@
+T40	Machining 0 2	工具
+R11	Relation Arg1:T40 Arg2:T41
+R12	Relation Arg1:T40 Arg2:T42
+R13	Relation Arg1:T40 Arg2:T43
+R14	Relation Arg1:T40 Arg2:T44
+T41	Machining 5 9	すくい面
+T42	Machining 10 14	すくい角
+T43	Machining 15 18	逃げ面
+T44	Machining 19 22	逃げ角

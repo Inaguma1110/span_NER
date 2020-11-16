@@ -1,0 +1,8 @@
+T1382	Machining 6 9	送り量
+R382	Positive Arg1:T1382 Arg2:T1384
+T1383	Machining 43 45	工具
+T1384	Machining 46 48	摩耗
+T3537	Machining 6 8	送り
+T3538	Machining 19 23	こば欠け
+T4793	Trigger 35 42	小さくし過ぎる
+T4794	Trigger 46 55	摩耗を早めてしまう

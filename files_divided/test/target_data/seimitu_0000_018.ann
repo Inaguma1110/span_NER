@@ -1,0 +1,9 @@
+T50	Machining 6 8	切削
+T51	Machining 13 15	切削
+R16	Positive Arg1:T51 Arg2:T52
+T52	Machining 24 28	切りくず
+T2116	Machining 8 10	厚さ
+T3223	Machining 6 10	切削厚さ
+T3673	Variable 10 12	ｔ１
+T3737	Trigger 16 19	行はれ
+T3738	Trigger 29 31	生じ

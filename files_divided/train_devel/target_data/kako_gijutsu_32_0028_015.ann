@@ -1,0 +1,19 @@
+T34	Machining 26 27	熱
+T35	Machining 48 50	加工
+T55	Machining 26 29	熱変形
+R12	Relation Arg1:T55 Arg2:T56
+R13	Relation Arg1:T55 Arg2:T57
+T56	Machining 37 43	繰り出す方向
+T57	Machining 44 51	主軸先端加工点
+T72	Machining 65 68	潤滑油
+T73	Machining 69 75	オイルクーラ
+R21	Relation Arg1:T73 Arg2:T72
+T76	Machining 27 29	変形
+T77	Machining 0 5	横中ぐり盤
+T81	Machining 6 8	主軸
+T82	Machining 17 19	主軸
+T83	Machining 34 36	主軸
+T84	Machining 44 46	主軸
+T97	Machining 17 20	主軸頭
+T98	Machining 22 25	コラム
+T104	Machining 9 11	回転

@@ -1,0 +1,7 @@
+T993	Machining 0 4	工具損傷
+T994	Machining 27 29	摩耗
+R299	Sub Arg1:T994 Arg2:T993
+T995	Machining 37 39	欠損
+R300	Sub Arg1:T995 Arg2:T993
+T2420	Machining 0 2	工具
+T2421	Machining 2 4	損傷

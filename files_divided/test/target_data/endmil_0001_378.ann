@@ -1,0 +1,6 @@
+T1151	Machining 4 9	エンドミル
+T1152	Machining 10 12	外径
+R321	Positive Arg1:T1152 Arg2:T1153
+T1153	Machining 20 22	剛性
+T4736	Trigger 13 18	2倍になる
+T4737	Trigger 23 29	16倍になる

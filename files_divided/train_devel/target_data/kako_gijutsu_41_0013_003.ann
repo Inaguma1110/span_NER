@@ -1,0 +1,12 @@
+T68	Machining 20 27	ろう付式カッタ
+R7	Sub Arg1:T68 Arg2:T9
+T69	Machining 28 30	植刃
+T70	Machining 31 35	ブレード
+T71	Machining 28 40	植刃（ブレード）式カッタ
+R8	Sub Arg1:T71 Arg2:T9
+T72	Machining 41 49	刃先交換式カッタ
+R9	Sub Arg1:T72 Arg2:T9
+T4	Machining 41 43	刃先
+T55	Machining 24 27	カッタ
+T61	Machining 37 40	カッタ
+T67	Machining 46 49	カッタ

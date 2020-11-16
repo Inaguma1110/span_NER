@@ -1,0 +1,14 @@
+T1042	Machining 0 4	すくい面
+T1043	Machining 6 10	摩耗深さ
+T1044	Machining 15 19	切削時間
+R313	Linear Arg1:T1044 Arg2:T1045
+T1045	Machining 36 40	摩耗深さ
+R115	Positive Arg1:T1045 Arg2:T2477
+T1119	Machining 0 10	すくい面最大摩耗深さ
+T2472	Machining 6 8	摩耗
+T2473	Machining 8 10	深さ
+T2474	Machining 15 17	切削
+T2475	Machining 36 38	摩耗
+T2476	Machining 38 40	深さ
+T2477	Machining 60 62	速度
+T3761	Trigger 51 53	増大

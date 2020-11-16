@@ -1,0 +1,18 @@
+T331	Machining 0 3	熱膨張
+T333	Machining 11 13	超硬
+T334	Machining 13 16	チップ
+T335	Machining 17 19	工具
+T336	Machining 19 23	シャンク
+T337	Machining 37 39	工具
+T338	Machining 40 42	温度
+T339	Machining 58 60	工具
+T340	Machining 61 64	熱膨張
+R45	Relation Arg1:T340 Arg2:T1090
+T341	Machining 61 62	熱
+T342	Machining 65 69	シャンク
+T971	Machining 0 5	熱膨張係数
+T1085	Machining 1 3	膨張
+T1086	Machining 19 24	シャンク材
+T1087	Machining 62 64	膨張
+T1090	Machining 71 73	膨張
+T1091	Machining 65 70	シャンク材

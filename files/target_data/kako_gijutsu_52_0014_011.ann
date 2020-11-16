@@ -1,0 +1,8 @@
+T55	Machining 0 2	切削
+T56	Machining 0 4	切削油剤
+R15	Relation Arg1:T56 Arg2:T84
+T57	Machining 26 30	切りくず
+T84	Machining 31 35	かみ込み
+T85	Machining 17 22	エアブロー
+R16	Relation Arg1:T85 Arg2:T84
+T54	Machining 2 4	油剤

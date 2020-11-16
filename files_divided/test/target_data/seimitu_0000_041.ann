@@ -1,0 +1,4 @@
+T137	Machining 4 8	切りくず
+T138	Machining 12 16	切削条件
+R35	Relation Arg1:T138 Arg2:T137
+T1852	Machining 12 14	切削

@@ -1,0 +1,13 @@
+T949	Machining 6 10	切削速度
+R130	Positive Arg1:T949 Arg2:T1244
+R131	Relation Arg1:T949 Arg2:T1222
+T950	Machining 6 8	切削
+T951	Machining 18 22	切りくず
+T952	Machining 18 24	切りくず排出
+T1222	Machining 39 41	浸入
+T1244	Machining 18 26	切りくず排出運動
+T946	Machining 30 32	油剤
+T958	Machining 33 35	潤滑
+T1563	Machining 8 10	速度
+T1651	Trigger 11 15	速くなる
+T1644	Trigger 16 18	速い

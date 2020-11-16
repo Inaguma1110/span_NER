@@ -1,0 +1,12 @@
+T240	Machining 9 10	溝
+T241	Machining 13 16	被削材
+T242	Machining 17 19	旋削
+T243	Machining 29 30	溝
+T245	Machining 55 59	工具摩耗
+T246	Machining 55 61	工具摩耗速度
+T247	Machining 55 57	工具
+T248	Machining 57 59	摩耗
+T237	Machining 31 33	衝撃
+T733	Machining 46 48	衝撃
+T1809	Machining 62 64	寿命
+T1858	Machining 59 61	速度

@@ -1,0 +1,18 @@
+T59	Machining 17 21	切削動力
+T60	Machining 17 19	切削
+T61	Machining 30 34	切削動力
+T62	Machining 30 32	切削
+T63	Machining 52 56	切削容積
+T64	Machining 52 54	切削
+T375	Variable 4 6	up
+R38	Relation Arg1:T375 Arg2:T456
+T376	Variable 22 23	P
+R39	Relation Arg1:T376 Arg2:T61
+T377	Variable 35 36	v
+R74	Relation Arg1:T377 Arg2:T63
+T455	Unit 7 13	N/mm^2
+T456	Machining 15 21	単位切削動力
+T457	Unit 24 28	Nm/s
+T458	Unit 37 43	cm^3/s
+T99	Machining 32 34	動力
+T106	Machining 19 21	動力

@@ -1,0 +1,15 @@
+T1041	Machining 9 13	ねじれ角
+R311	Positive Arg1:T1041 Arg2:T1046
+T1042	Machining 37 42	エンドミル
+T1043	Machining 60 63	加工物
+T1044	Machining 64 66	切削
+T1045	Machining 69 72	加工物
+T1046	Machining 87 92	びびり振動
+T3151	Machining 25 28	軸方向
+T3152	Machining 28 30	分力
+T3153	Machining 25 26	軸
+T3154	Machining 87 90	びびり
+T3155	Machining 90 92	振動
+T4315	Machining 43 46	ホルダ
+T4713	Trigger 93 95	誘発
+T4714	Trigger 14 19	大きくなれ

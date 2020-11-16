@@ -1,0 +1,14 @@
+T508	Machining 4 8	切削速度
+R70	Positive Arg1:T508 Arg2:T510
+R53	Negative Arg1:T508 Arg2:T513
+T509	Machining 4 6	切削
+T510	Machining 16 21	工具面温度
+T511	Machining 16 18	工具
+T512	Machining 19 21	温度
+T513	Machining 28 32	構成刃先
+T619	Machining 30 32	刃先
+T844	Machining 16 19	工具面
+T1578	Machining 6 8	速度
+T1627	Trigger 11 15	高くとれ
+T1628	Trigger 24 28	高くなり
+T1629	Trigger 33 35	消滅

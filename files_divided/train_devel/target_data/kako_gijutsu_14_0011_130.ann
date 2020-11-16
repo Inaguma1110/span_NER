@@ -1,0 +1,7 @@
+T911	Machining 11 19	前切れ刃境界摩耗
+T912	Machining 11 15	前切れ刃
+T913	Machining 15 19	境界摩耗
+T914	Machining 17 19	摩耗
+T1220	Machining 7 10	雰囲気
+R121	Relation Arg1:T1220 Arg2:T911
+T1529	Machining 15 17	境界

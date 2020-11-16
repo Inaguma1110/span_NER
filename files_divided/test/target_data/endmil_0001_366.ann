@@ -1,0 +1,15 @@
+T1124	Machining 23 27	切削抵抗
+R332	Negative Arg1:T1124 Arg2:T1125
+R333	Positive Arg1:T1124 Arg2:T1126
+R334	Positive Arg1:T1124 Arg2:T1128
+T1125	Machining 45 48	切込み
+T1126	Machining 51 54	重切削
+T3232	Machining 12 22	ラフィングエンドミル
+R659	Relation Arg1:T3232 Arg2:T1124
+R660	Relation Arg1:T3232 Arg2:T1126
+T3235	Machining 17 22	エンドミル
+T3236	Machining 23 25	切削
+T3237	Machining 25 27	抵抗
+T4731	Trigger 28 30	軽減
+T4732	Trigger 55 57	可能
+T4870	Trigger 42 45	大きな

@@ -1,0 +1,12 @@
+T407	Machining 6 9	被削材
+T408	Machining 10 14	S55C
+T409	Machining 18 20	送り
+T410	Machining 18 21	送り量
+R34	Relation Arg1:T410 Arg2:T413
+T411	Machining 23 27	切削速度
+R35	Relation Arg1:T411 Arg2:T413
+T412	Machining 23 25	切削
+T413	Machining 28 32	切削温度
+T414	Machining 28 30	切削
+T415	Machining 30 32	温度
+T953	Machining 25 27	速度

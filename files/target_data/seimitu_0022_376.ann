@@ -1,0 +1,6 @@
+T1342	Machining 17 21	切削条件
+T2795	Machining 11 13	破壊
+R615	Relation Arg1:T2795 Arg2:T1342
+T2796	Machining 17 19	切削
+T2798	Machining 28 32	遅れ破壊
+T2800	Machining 30 32	破壊

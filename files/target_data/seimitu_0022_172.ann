@@ -1,0 +1,6 @@
+T618	Machining 5 7	切削
+T619	Machining 9 13	温度分布
+R158	Relation Arg1:T619 Arg2:T2133
+R159	Relation Arg1:T619 Arg2:T2130
+R160	Relation Arg1:T619 Arg2:T620
+T3658	Machining 9 11	温度

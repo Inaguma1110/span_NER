@@ -1,0 +1,9 @@
+T495	Machining 6 8	加工
+T496	Machining 8 12	寸法精度
+T497	Machining 10 12	精度
+T498	Machining 22 28	仕上げ面粗さ
+R65	Relation Arg1:T498 Arg2:T855
+T499	Machining 22 26	仕上げ面
+T855	Machining 6 12	加工寸法精度
+T1188	Machining 22 25	仕上げ
+T1228	Machining 26 28	粗さ

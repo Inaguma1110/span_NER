@@ -1,0 +1,17 @@
+T492	Machining 5 7	切削
+T493	Machining 11 13	切削
+T494	Machining 24 28	すくい面
+T495	Machining 32 36	すくい面
+T496	Machining 48 50	切削
+T497	Machining 58 61	切削幅
+T498	Machining 65 67	切削
+T499	Machining 68 75	すくい面摩擦力
+T2049	Machining 2 7	三次元切削
+T2052	Machining 8 13	二次元切削
+T2053	Machining 50 52	厚さ
+T2054	Machining 48 52	切削厚さ
+T2055	Machining 62 67	二次元切削
+T2056	Machining 68 72	すくい面
+T2057	Machining 72 75	摩擦力
+T3417	Variable 52 55	ｔ1’
+T3418	Variable 78 80	ｔ1

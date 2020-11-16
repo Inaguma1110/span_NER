@@ -1,0 +1,14 @@
+T15	Machining 0 3	切削力
+T16	Machining 0 2	切削
+T17	Machining 13 17	断続切削
+R60	Relation Arg1:T17 Arg2:T310
+T18	Machining 15 17	切削
+T19	Machining 24 28	連続切削
+T20	Machining 26 28	切削
+T21	Machining 33 37	切りくず
+T310	Machining 20 22	振動
+T311	Machining 50 53	周期性
+R61	Relation Arg1:T311 Arg2:T312
+T312	Machining 58 60	振動
+T447	Machining 6 8	振動
+T608	Machining 33 39	切りくず生成

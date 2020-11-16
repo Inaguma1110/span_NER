@@ -1,0 +1,6 @@
+T165	Machining 1 4	合金鋼
+T166	Machining 18 20	摩耗
+T1291	Machining 6 8	Cr
+R38	Relation Arg1:T1291 Arg2:T166
+T1360	Machining 9 11	Fe
+R39	Relation Arg1:T1360 Arg2:T166

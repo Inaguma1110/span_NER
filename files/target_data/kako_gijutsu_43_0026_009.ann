@@ -1,0 +1,9 @@
+T27	Machining 35 41	仕上げ面粗さ
+T28	Machining 35 39	仕上げ面
+T29	Machining 35 38	仕上げ
+T186	Machining 30 34	分布状態
+R3	Relation Arg1:T186 Arg2:T27
+T240	Machining 5 10	正面刃振れ
+T307	Machining 7 10	刃振れ
+T328	Machining 39 41	粗さ
+T342	Machining 18 21	突出量

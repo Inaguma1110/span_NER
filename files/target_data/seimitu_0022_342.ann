@@ -1,0 +1,10 @@
+T1213	Machining 2 4	摩耗
+T1214	Machining 30 32	応力
+T1215	Machining 60 62	摩耗
+T2678	Machining 2 6	摩耗体積
+T2683	Machining 28 32	垂直応力
+T2685	Machining 60 64	摩耗体積
+T3590	Machining 22 25	総荷重
+T3591	Variable 25 27	Ｎｔ
+T3592	Variable 32 34	σｔ
+T3712	Variable 64 66	ｄＷ

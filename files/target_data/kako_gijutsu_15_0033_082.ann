@@ -1,0 +1,13 @@
+T275	Machining 22 25	せん断
+T276	Machining 25 30	エネルギー
+T277	Machining 35 39	すくい面
+T278	Machining 40 42	摩擦
+T827	Machining 15 19	発生熱量
+T828	Machining 22 30	せん断エネルギー
+R42	Relation Arg1:T828 Arg2:T827
+T829	Variable 30 32	Qs
+T830	Machining 35 46	すくい面の摩擦エネルギ
+R43	Relation Arg1:T830 Arg2:T827
+T831	Variable 46 48	Qf
+T1164	Machining 17 19	熱量
+T1324	Machining 42 46	エネルギ

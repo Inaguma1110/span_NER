@@ -1,0 +1,7 @@
+T107	Machining 0 6	すくい面摩耗
+T108	Machining 0 4	すくい面
+T109	Machining 4 6	摩耗
+T1314	Variable 6 8	KT
+T1352	Machining 9 11	時間
+R25	Linear Arg1:T1352 Arg2:T107
+R26	Linear Arg1:T1352 Arg2:T110

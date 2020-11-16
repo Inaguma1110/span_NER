@@ -1,0 +1,15 @@
+T223	Machining 16 18	工具
+T224	Machining 18 20	摩耗
+T225	Machining 25 27	切削
+T226	Machining 31 35	切削速度
+R56	Positive Arg1:T226 Arg2:T1364
+T227	Machining 31 33	切削
+T228	Machining 55 57	切削
+T1364	Machining 25 30	切削可能量
+T222	Machining 18 21	摩耗量
+T1593	Machining 16 21	工具摩耗量
+T1845	Machining 7 9	材料
+T1857	Machining 33 35	速度
+T1907	Machining 52 54	高速
+T1945	Trigger 40 44	多くなる
+T1981	Trigger 36 38	高い

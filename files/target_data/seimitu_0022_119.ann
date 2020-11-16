@@ -1,0 +1,8 @@
+T418	Machining 0 2	切削
+T419	Machining 8 12	切削条件
+T420	Machining 33 37	切りくず
+T1995	Machining 8 10	切削
+T1996	Machining 37 39	流出
+T1997	Machining 33 41	切りくず流出方向
+T1998	Machining 0 4	切削方向
+R118	Relation Arg1:T1998 Arg2:T419

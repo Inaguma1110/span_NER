@@ -1,0 +1,8 @@
+T336	Machining 6 10	切削条件
+T337	Machining 6 8	切削
+T338	Machining 23 25	摩耗
+T339	Machining 30 34	切削温度
+R70	Relation Arg1:T339 Arg2:T338
+T340	Machining 30 32	切削
+T341	Machining 32 34	温度
+T1791	Machining 26 28	寿命

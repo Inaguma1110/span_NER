@@ -1,0 +1,4 @@
+T1145	Machining 0 3	チップ
+T1146	Machining 8 11	ニック
+R355	Part Arg1:T1146 Arg2:T1147
+T1147	Machining 14 17	外周刃

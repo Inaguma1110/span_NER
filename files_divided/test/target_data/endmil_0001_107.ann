@@ -1,0 +1,13 @@
+T250	Machining 0 5	エンドミル
+T251	Machining 8 12	切削加工
+R569	Relation Arg1:T251 Arg2:T2139
+R570	Relation Arg1:T251 Arg2:T2140
+T252	Machining 15 18	加工物
+T253	Machining 23 28	エンドミル
+T254	Machining 40 43	加工物
+T255	Machining 46 51	エンドミル
+T2137	Machining 8 10	切削
+T2138	Machining 10 12	加工
+T2139	Machining 29 31	回転
+T2140	Machining 52 54	移動
+T2141	Machining 58 60	送る

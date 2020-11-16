@@ -1,0 +1,15 @@
+T1121	Machining 23 26	切削熱
+T1122	Machining 45 49	切削油剤
+T1123	Machining 57 59	切削
+T3222	Machining 50 53	浸透性
+T3223	Machining 11 14	表面積
+T3224	Machining 27 29	発散
+T3225	Machining 23 25	切削
+T3226	Machining 27 31	発散効率
+T3227	Machining 25 26	熱
+T3228	Machining 45 47	切削
+T3229	Machining 47 49	油剤
+T3230	Machining 61 63	冷却
+T3231	Machining 64 66	潤滑
+T4729	Trigger 15 20	大きくする
+T4730	Trigger 32 35	高める

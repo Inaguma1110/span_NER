@@ -1,0 +1,5 @@
+T28	Machining 0 2	工具
+T48	Machining 10 13	たわみ
+T49	Machining 0 5	工具の自重
+R16	Relation Arg1:T49 Arg2:T48
+T98	Machining 35 40	ラインバー

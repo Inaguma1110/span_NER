@@ -1,0 +1,6 @@
+T499	Machining 6 10	工具材料
+T500	Machining 6 8	工具
+T501	Machining 11 15	耐摩耗性
+R67	Relation Arg1:T501 Arg2:T503
+T503	Machining 16 18	靭性
+T678	Machining 8 10	材料

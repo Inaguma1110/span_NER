@@ -1,0 +1,15 @@
+T1443	Machining 10 15	アルミ合金
+T1444	Machining 22 27	仕上げ切削
+T1445	Machining 30 36	ダイヤモンド
+T1446	Machining 36 42	コーティング
+T3582	Machining 20 27	高速仕上げ切削
+T3583	Machining 25 27	切削
+T3584	Machining 15 17	鋳物
+T3585	Machining 10 17	アルミ合金鋳物
+T3586	Machining 20 22	高速
+T3587	Machining 0 4	シリコン
+R870	Relation Arg1:T3587 Arg2:T3585
+T4331	Machining 30 42	ダイヤモンドコーティング
+T4332	Machining 10 13	アルミ
+T4333	Machining 22 25	仕上げ
+T4334	Machining 13 15	合金

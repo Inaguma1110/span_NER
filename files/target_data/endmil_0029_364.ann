@@ -1,0 +1,17 @@
+T1117	Machining 5 10	エンドミル
+T1118	Machining 22 25	被削材
+T1119	Machining 57 60	被削材
+T1120	Machining 75 80	びびり振動
+T3214	Machining 27 31	食い付き
+T3215	Machining 35 37	刃先
+T3216	Machining 38 43	こすり現象
+T3217	Machining 38 41	こすり
+T3218	Machining 61 63	接触
+T3219	Machining 65 67	刃長
+T3220	Machining 75 78	びびり
+T3221	Machining 78 80	振動
+T4726	Trigger 44 49	少なくなる
+T4727	Trigger 68 72	短くなる
+T4728	Trigger 81 88	生じにくくなり
+T4662	Trigger 14 18	波状形状
+T4869	Trigger 32 34	よく

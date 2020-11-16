@@ -1,0 +1,7 @@
+T1541	Machining 19 24	エンドミル
+T1542	Machining 38 41	逃げ角
+T3756	Machining 0 7	コーンケイブ法
+R717	Sub Arg1:T3756 Arg2:T3755
+T3757	Machining 27 29	砥石
+T3758	Machining 9 11	砥石
+T3759	Machining 15 17	研削

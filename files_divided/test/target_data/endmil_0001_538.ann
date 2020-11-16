@@ -1,0 +1,9 @@
+T1588	Machining 0 4	右ねじれ
+T1589	Machining 5 6	溝
+R461	Part Arg1:T1589 Arg2:T1590
+T1590	Machining 29 34	エンドミル
+T1591	Machining 35 38	リード
+T1592	Machining 38 40	送り
+T3860	Machining 7 10	支持刃
+T3861	Machining 11 14	刃受け
+T4450	Machining 35 40	リード送り

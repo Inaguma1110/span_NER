@@ -1,0 +1,17 @@
+T1433	Machining 0 2	工具
+T1434	Machining 16 20	すくい面
+T1435	Machining 23 26	逃げ面
+T1436	Machining 43 49	アルミニウム
+T1437	Machining 51 54	親和性
+T1438	Machining 58 62	潤滑効果
+T1439	Machining 70 79	ＤＬＣコーティング
+R424	Relation Arg1:T1439 Arg2:T1438
+R697	Relation Arg1:T1439 Arg2:T1437
+T3566	Machining 6 8	溶着
+T3570	Machining 16 22	すくい面粗さ
+T3571	Machining 26 28	粗さ
+T3572	Machining 20 22	粗さ
+T3573	Machining 23 28	逃げ面粗さ
+T3574	Machining 58 60	潤滑
+T3576	Machining 73 79	コーティング
+T4394	Machining 70 73	ＤＬＣ

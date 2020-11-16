@@ -1,0 +1,17 @@
+T112	Machining 0 6	高速度工具鋼
+R531	Relation Arg1:T112 Arg2:T113
+T113	Machining 58 60	硬さ
+T1871	Machining 3 6	工具鋼
+T1877	Machining 7 10	ＨＳＳ
+T1878	Unit 52 55	ＨＲＣ
+T1879	Quantity 16 20	1200
+T1880	Unit 20 21	℃
+T1881	Quantity 30 33	550
+T1882	Unit 33 34	℃
+T1883	Quantity 47 49	64
+T1884	Quantity 50 52	69
+T1900	Machining 24 28	焼き入れ
+T1901	Machining 37 41	焼き戻し
+T2297	Machining 0 3	高速度
+T4474	Trigger 42 44	行う
+T4475	Trigger 61 63	得る

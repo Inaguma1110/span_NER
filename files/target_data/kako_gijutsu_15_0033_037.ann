@@ -1,0 +1,24 @@
+T119	Machining 0 3	工作物
+T120	Machining 34 37	切込み
+R9	Positive Arg1:T120 Arg2:T121
+R10	Positive Arg1:T120 Arg2:T806
+T121	Machining 42 45	切削力
+R11	Positive Arg1:T121 Arg2:T806
+T123	Machining 53 56	工作物
+T124	Machining 57 59	工具
+T788	Quantity 8 11	100
+T789	Unit 11 13	mm
+T790	Quantity 18 21	160
+T791	Unit 21 23	mm
+T792	Quantity 83 85	20
+T793	Unit 85 87	μm
+T805	Variable 37 38	a
+T806	Machining 71 77	直径の偏差値
+T924	Variable 6 7	D
+T925	Machining 4 6	直径
+T926	Machining 14 16	長さ
+T927	Variable 16 17	L
+T1150	Machining 42 44	切削
+T673	Trigger 39 41	増加
+T809	Trigger 46 48	増す
+T1370	Trigger 83 91	20μmに達する

@@ -1,0 +1,16 @@
+T77	Machining 15 19	構成刃先
+R1	Relation Arg1:T77 Arg2:T1241
+T78	Machining 26 30	工具摩耗
+R2	Relation Arg1:T78 Arg2:T1241
+T79	Machining 26 28	工具
+T80	Machining 28 30	摩耗
+T81	Machining 31 36	びびり振動
+R159	Relation Arg1:T81 Arg2:T1241
+T82	Machining 37 44	切れ刃稜の凹凸
+R160	Relation Arg1:T82 Arg2:T1241
+T83	Machining 37 40	切れ刃
+T217	Machining 31 34	びびり
+T221	Machining 34 36	振動
+T466	Machining 17 19	刃先
+T1504	Machining 37 41	切れ刃稜
+T1530	Machining 0 5	非定常要因

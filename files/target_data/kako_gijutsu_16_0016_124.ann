@@ -1,0 +1,11 @@
+T258	Machining 3 7	切削速度
+T259	Machining 3 5	切削
+T260	Machining 23 27	構成刃先
+R52	Relation Arg1:T260 Arg2:T438
+T261	Machining 32 36	切りくず
+T438	Machining 32 39	切りくずカール
+T500	Quantity 8 11	100
+T501	Unit 11 16	m/min
+T237	Machining 25 27	刃先
+T608	Machining 36 39	カール
+T708	Machining 5 7	速度

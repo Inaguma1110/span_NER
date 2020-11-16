@@ -1,0 +1,71 @@
+T0	Machining 4 8	切削条件
+T1	Machining 4 6	切削
+T2	Machining 13 17	切削条件
+T3	Machining 13 15	切削
+T4	Machining 52 56	切削条件
+T5	Machining 52 54	切削
+T6	Machining 71 75	切削条件
+T7	Machining 71 73	切削
+T8	Machining 123 126	加工径
+T12	Machining 129 131	切削
+T13	Machining 151 154	加工物
+T15	Machining 177 180	切込み
+T16	Machining 181 183	送り
+T17	Machining 199 202	加工物
+T19	Machining 217 220	加工物
+T21	Machining 232 235	加工物
+T23	Machining 241 245	切削条件
+T24	Machining 241 243	切削
+T25	Machining 258 260	加工
+T26	Machining 276 278	剛性
+T27	Machining 281 284	加工物
+T29	Machining 296 300	切削条件
+T30	Machining 296 298	切削
+T31	Machining 311 314	加工物
+T33	Machining 317 319	精度
+T34	Machining 329 333	寸法精度
+T35	Machining 331 333	精度
+T36	Machining 341 345	切削速度
+T37	Machining 341 343	切削
+T38	Machining 353 359	仕上げ面粗さ
+T39	Machining 353 357	仕上げ面
+T40	Machining 353 356	仕上げ
+T41	Machining 364 366	送り
+T42	Machining 385 388	被削材
+T44	Machining 402 404	加工
+T45	Machining 413 418	インコネル
+T46	Machining 425 427	加工
+T47	Machining 438 442	切削条件
+T48	Machining 438 440	切削
+T49	Machining 445 449	切削速度
+T50	Machining 445 447	切削
+T51	Machining 453 455	加工
+T52	Machining 409 412	チタン
+T53	Machining 436 437	鋼
+T54	Machining 112 118	最高回転速度
+T56	Machining 129 133	切削速度
+R1	Relation Arg1:T54 Arg2:T56	
+R2	Relation Arg1:T8 Arg2:T56	
+T57	Machining 170 172	動力
+R3	Relation Arg1:T57 Arg2:T15	
+R4	Relation Arg1:T57 Arg2:T16	
+R5	Relation Arg1:T36 Arg2:T34	
+R6	Relation Arg1:T41 Arg2:T38	
+T60	Machining 397 401	高硬度鋼
+#4	AnnotatorNotes T60	Y・M
+T61	Machining 421 424	難削材
+#5	AnnotatorNotes T61	Y・M
+R8	Relation Arg1:T45 Arg2:T61	
+#6	AnnotatorNotes R8	Y・M
+R9	Relation Arg1:T52 Arg2:T61	
+#7	AnnotatorNotes R9	Y・M
+T43	Machining 226 229	びびり
+T63	Machining 270 276	チャッキング
+T64	Machining 357 359	粗さ
+T65	Machining 131 133	速度
+T66	Machining 343 345	速度
+T67	Machining 447 449	速度
+T68	Machining 114 116	回転
+T69	Machining 116 118	速度
+T9	Machining 107 111	工作機械
+T10	Machining 165 169	工作機械

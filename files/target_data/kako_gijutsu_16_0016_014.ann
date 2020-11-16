@@ -1,0 +1,6 @@
+T29	Machining 8 10	切削
+T30	Machining 12 14	硬さ
+T31	Machining 29 33	切りくず
+T32	Machining 38 41	被削材
+T565	Quantity 15 22	1.5～2.5
+T566	Unit 22 23	倍

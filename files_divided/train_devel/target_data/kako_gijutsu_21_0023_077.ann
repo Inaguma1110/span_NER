@@ -1,0 +1,8 @@
+T291	Machining 7 9	加工
+T292	Machining 10 14	切りくず
+T293	Machining 15 17	伸び
+T294	Machining 21 25	切りくず
+T295	Machining 39 41	加工
+T390	Machining 0 9	バックフィード加工
+T490	Machining 33 41	インフィード加工
+T582	Machining 21 28	切りくず処理性

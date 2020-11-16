@@ -1,0 +1,24 @@
+[labels]
+
+Machining | Machining | Mac | M
+Quantity | Quantity | Qua | Q
+Variable | Variable | Var | V
+Unit | Unit | Uni | U
+
+Linear | Linear | Lin
+NegativeLinear | NegativeLinear | NegLin
+Quadratic | Quatratic | Quad
+Exponential | Exponential | Exp
+Log | Log
+Positive | Positive | Pos | +
+Negative | Negative | Neg | -
+Relation | Relation | Rel | R
+
+[drawing]
+
+Machining	bgColor:#66CDAA
+Quantity	bgColor:#FF7777
+Variable	bgColor:#4169E1
+Unit		bgColor:#F0E68C
+
+

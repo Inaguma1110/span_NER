@@ -1,0 +1,8 @@
+T228	Machining 2 5	被削材
+R24	Relation Arg1:T228 Arg2:T229
+T229	Machining 19 27	切削仕上げ面粗さ
+T230	Machining 19 25	切削仕上げ面
+T231	Machining 19 21	切削
+T233	Machining 21 25	仕上げ面
+T378	Machining 21 24	仕上げ
+T1450	Machining 25 27	粗さ

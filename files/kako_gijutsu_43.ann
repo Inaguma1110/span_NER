@@ -1,0 +1,437 @@
+T0	Machining 9 13	加工精度
+T1	Machining 9 11	加工
+T2	Machining 11 13	精度
+T3	Machining 26 32	正面フライス
+T4	Machining 28 32	フライス
+T5	Machining 44 46	工具
+T6	Machining 62 68	仕上げ面粗さ
+T7	Machining 62 66	仕上げ面
+T8	Machining 62 65	仕上げ
+T9	Machining 90 96	仕上げ面粗さ
+T10	Machining 90 94	仕上げ面
+T11	Machining 90 93	仕上げ
+T12	Machining 151 157	仕上げ面粗さ
+T13	Machining 151 155	仕上げ面
+T14	Machining 151 154	仕上げ
+T15	Machining 197 199	刃形
+T16	Machining 284 287	炭素鋼
+T17	Machining 288 292	S45C
+T18	Machining 340 346	仕上げ面粗さ
+T19	Machining 340 344	仕上げ面
+T20	Machining 340 343	仕上げ
+T21	Machining 369 375	仕上げ面粗さ
+T22	Machining 369 373	仕上げ面
+T23	Machining 369 372	仕上げ
+T24	Machining 386 388	送り
+T25	Machining 437 441	仕上げ面
+T26	Machining 437 440	仕上げ
+T27	Machining 502 508	仕上げ面粗さ
+T28	Machining 502 506	仕上げ面
+T29	Machining 502 505	仕上げ
+T31	Machining 528 532	工具材種
+T33	Machining 536 538	工具
+T34	Machining 551 557	仕上げ面粗さ
+T35	Machining 551 555	仕上げ面
+T36	Machining 551 554	仕上げ
+T37	Machining 573 577	構成刃先
+T39	Machining 585 589	工具材質
+T40	Machining 585 587	工具
+T41	Machining 590 593	被削材
+T42	Machining 594 597	親和性
+T43	Machining 598 602	切削温度
+T44	Machining 598 600	切削
+T45	Machining 600 602	温度
+T46	Machining 609 612	親和性
+T47	Machining 622 626	構成刃先
+T48	Machining 644 650	仕上げ面粗さ
+T49	Machining 644 648	仕上げ面
+T50	Machining 644 647	仕上げ
+T51	Machining 660 663	親和性
+T53	Machining 666 670	工具材種
+T55	Machining 671 675	高速切削
+T56	Machining 673 675	切削
+T57	Machining 694 698	工具材料
+T58	Machining 694 696	工具
+T59	Machining 710 715	FC250
+T60	Machining 716 718	切削
+T61	Machining 723 727	切削速度
+T62	Machining 723 725	切削
+T63	Machining 728 734	仕上げ面粗さ
+T64	Machining 728 732	仕上げ面
+T65	Machining 728 731	仕上げ
+T66	Machining 742 746	切削速度
+T67	Machining 742 744	切削
+T68	Machining 763 767	構成刃先
+T69	Machining 773 779	仕上げ面粗さ
+T70	Machining 773 777	仕上げ面
+T71	Machining 773 776	仕上げ
+T72	Machining 811 817	仕上げ面粗さ
+T73	Machining 811 815	仕上げ面
+T74	Machining 811 814	仕上げ
+T75	Machining 828 834	仕上げ面粗さ
+T76	Machining 828 832	仕上げ面
+T77	Machining 828 831	仕上げ
+T78	Machining 842 846	構成刃先
+T79	Machining 857 859	切削
+T80	Machining 869 874	FC250
+T81	Machining 886 892	仕上げ面粗さ
+T82	Machining 886 890	仕上げ面
+T83	Machining 886 889	仕上げ
+T84	Machining 920 924	仕上げ面
+T85	Machining 920 923	仕上げ
+T86	Machining 938 940	鋳鉄
+T87	Machining 940 942	切削
+T88	Machining 958 962	仕上げ面
+T89	Machining 958 961	仕上げ
+T90	Machining 971 975	構成刃先
+T91	Machining 985 989	すくい面
+T92	Machining 1004 1008	切削温度
+T93	Machining 1004 1006	切削
+T94	Machining 1006 1008	温度
+T95	Machining 1022 1026	構成刃先
+T96	Machining 1057 1063	正面フライス
+T97	Machining 1059 1063	フライス
+T98	Machining 1063 1065	削り
+T99	Machining 1069 1073	仕上げ面
+T100	Machining 1069 1072	仕上げ
+T101	Machining 1094 1097	切削面
+T102	Machining 1094 1096	切削
+T103	Machining 1105 1108	切れ刃
+T104	Machining 1157 1160	チップ
+T105	Machining 1179 1182	切れ刃
+T106	Machining 1219 1223	仕上げ面
+T107	Machining 1219 1222	仕上げ
+T109	Machining 1282 1288	仕上げ面粗さ
+T110	Machining 1282 1286	仕上げ面
+T111	Machining 1282 1285	仕上げ
+T112	Machining 1299 1302	切れ刃
+T113	Machining 1339 1342	背分力
+T114	Machining 1381 1383	剛性
+T115	Machining 1386 1389	被削材
+T116	Machining 1390 1392	切削
+T117	Machining 1406 1409	切れ刃
+T118	Machining 1430 1433	切れ刃
+T119	Machining 1435 1441	仕上げ面粗さ
+T120	Machining 1435 1439	仕上げ面
+T121	Machining 1435 1438	仕上げ
+T122	Machining 1467 1469	送り
+T123	Machining 1467 1470	送り量
+T124	Machining 1488 1490	送り
+T125	Machining 1488 1491	送り量
+T126	Machining 1520 1523	チップ
+T127	Machining 1542 1545	チップ
+T128	Machining 1549 1555	仕上げ面粗さ
+T129	Machining 1549 1553	仕上げ面
+T130	Machining 1549 1552	仕上げ
+T131	Machining 1570 1573	チップ
+T132	Machining 1574 1577	仕上げ
+T133	Machining 1614 1617	チップ
+T134	Machining 1668 1670	切削
+T135	Machining 1700 1703	加工面
+T136	Machining 1700 1702	加工
+T137	Machining 1815 1818	被削材
+T138	Machining 1819 1821	剛性
+T139	Machining 1822 1828	エンゲージ角
+T140	Machining 1822 1827	エンゲージ
+T141	Machining 1850 1853	チップ
+T142	Machining 1887 1889	加工
+T143	Machining 1897 1901	フライス
+T144	Machining 1949 1955	正面フライス
+T145	Machining 1951 1955	フライス
+T146	Machining 1956 1959	切削面
+T147	Machining 1956 1958	切削
+T148	Machining 2006 2008	切削
+T149	Machining 2039 2041	加工
+T150	Machining 2061 2067	フライス加工
+T151	Machining 2061 2065	フライス
+T152	Machining 2065 2067	加工
+T153	Machining 2092 2095	切削面
+T154	Machining 2092 2094	切削
+T155	Machining 2096 2099	むしれ
+T156	Machining 2179 2185	仕上げ面粗さ
+T157	Machining 2179 2183	仕上げ面
+T158	Machining 2179 2182	仕上げ
+T159	Machining 2199 2205	仕上げ面粗さ
+T160	Machining 2199 2203	仕上げ面
+T161	Machining 2199 2202	仕上げ
+T163	Machining 2214 2218	工具材質
+T164	Machining 2214 2216	工具
+T165	Machining 2219 2225	仕上げ面粗さ
+T166	Machining 2219 2223	仕上げ面
+T167	Machining 2219 2222	仕上げ
+T168	Machining 2254 2257	切れ刃
+T169	Machining 2271 2274	切れ刃
+T170	Machining 2276 2282	仕上げ面粗さ
+T171	Machining 2276 2280	仕上げ面
+T172	Machining 2276 2279	仕上げ
+T173	Machining 2304 2307	チップ
+T174	Machining 2316 2319	チップ
+T175	Machining 1981 1983	前刃
+T176	Machining 1989 1991	後刃
+T177	Machining 1962 1967	カッタ刃先
+T178	Machining 2027 2032	ヒーリング
+T179	Machining 2148 2153	ヒーリング
+T180	Machining 1974 1980	カッタマーク
+T181	Machining 2135 2141	カッタマーク
+T182	Machining 2259 2263	スラスト
+T183	Machining 703 709	SS4100
+T184	Machining 84 89	正面刃振れ
+R1	Relation Arg1:T184 Arg2:T9	
+T185	Machining 113 118	正面刃振れ
+R2	Relation Arg1:T199 Arg2:T12	
+T186	Machining 497 501	分布状態
+R3	Relation Arg1:T186 Arg2:T27	
+T187	Machining 542 545	溶着物
+R4	Relation Arg1:T187 Arg2:T34	
+T188	Machining 585 597	工具材質と被削材の親和性
+R6	Relation Arg1:T188 Arg2:T37	
+R7	Relation Arg1:T43 Arg2:T37	
+R8	Relation Arg1:T46 Arg2:T47	
+R9	Relation Arg1:T51 Arg2:T48	
+R10	Relation Arg1:T61 Arg2:T63	
+R11	Relation Arg1:T68 Arg2:T69	
+R12	Relation Arg1:T66 Arg2:T69	
+R13	Relation Arg1:T78 Arg2:T75	
+T189	Machining 992 998	切粉接触長さ
+T190	Machining 1209 1213	さらい刃
+R15	Relation Arg1:T190 Arg2:T106	
+T191	Machining 1297 1303	正面切れ刃角
+R16	Relation Arg1:T191 Arg2:T109	
+T192	Machining 1321 1328	さらい刃接触長
+R17	Negative Arg1:T191 Arg2:T192	
+T193	Machining 1352 1355	びびり
+R19	Relation Arg1:T192 Arg2:T193	
+R21	Relation Arg1:T191 Arg2:T193	
+T194	Machining 1452 1457	さらい刃幅
+T195	Machining 1428 1434	正面切れ刃角
+R24	Relation Arg1:T195 Arg2:T119	
+T196	Machining 1567 1573	ワイパチップ
+R25	Relation Arg1:T196 Arg2:T128	
+T197	Machining 1611 1617	ワイパチップ
+T198	Machining 44 51	工具刃先突出量
+R26	Relation Arg1:T198 Arg2:T6	
+T199	Machining 168 172	分布状態
+#2	AnnotatorNotes T199	工具刃先突出量の分布状態
+T200	Machining 384 385	差
+R27	Positive Arg1:T24 Arg2:T200	
+#3	AnnotatorNotes T200	ケースAとケースBの仕上げ面粗さの差
+#1	AnnotatorNotes T186	正面刃振れの最大突出量の分布状態
+R5	Relation Arg1:T55 Arg2:T48	
+#4	AnnotatorNotes R13	この関係づけは推論によるもの（構成刃先の生成により仕上げ面粗さが悪くなる）
+T201	Machining 1022 1031	構成刃先の影響領域
+R28	Relation Arg1:T92 Arg2:T201	
+R29	Relation Arg1:T88 Arg2:T201	
+R30	Relation Arg1:T90 Arg2:T92	
+T202	Machining 945 949	堀起こし
+R14	Relation Arg1:T202 Arg2:T88	
+T203	Machining 1786 1793	ワイパ刃の数量
+T204	Machining 1798 1804	スラスト抵抗
+R23	Linear Arg1:T203 Arg2:T204	
+T205	Machining 2191 2196	正面刃振れ
+R31	Relation Arg1:T205 Arg2:T159	
+#5	AnnotatorNotes R4	仕上げ面粗さが劣化＝面粗度が上昇
+#6	AnnotatorNotes R31	キャプション（図4-12）
+R32	Positive Arg1:T189 Arg2:T92	
+T206	Machining 1710 1711	刃
+R33	Sub Arg1:T197 Arg2:T206	
+T207	Machining 1875 1883	マシニングセンタ
+T208	Machining 1892 1894	設備
+R34	Sub Arg1:T207 Arg2:T208	
+T209	Machining 4 8	表面粗さ
+#7	AnnotatorNotes T209	Y・M
+T210	Machining 38 40	多刃
+#8	AnnotatorNotes T210	Y・M
+R35	Relation Arg1:T210 Arg2:T3	
+T211	Machining 279 287	機械構造用炭素鋼
+#9	AnnotatorNotes T211	Y・M
+T212	Variable 294 295	V
+#10	AnnotatorNotes T212	Y・M
+T213	Quantity 296 299	131
+#11	AnnotatorNotes T213	Y・M
+T214	Unit 299 304	m/min
+#12	AnnotatorNotes T214	Y・M
+T215	Variable 305 306	d
+#13	AnnotatorNotes T215	Y・M
+T216	Quantity 307 310	2.0
+#14	AnnotatorNotes T216	Y・M
+T217	Unit 310 312	mm
+#15	AnnotatorNotes T217	Y・M
+T218	Variable 318 319	f
+#16	AnnotatorNotes T218	Y・M
+T219	Quantity 320 323	0.1
+#17	AnnotatorNotes T219	Y・M
+T220	Quantity 324 327	0.3
+#18	AnnotatorNotes T220	Y・M
+T221	Unit 327 331	mm/刃
+#19	AnnotatorNotes T221	Y・M
+T222	Variable 411 412	f
+#20	AnnotatorNotes T222	Y・M
+T223	Quantity 413 416	0.2
+#21	AnnotatorNotes T223	Y・M
+T224	Unit 416 420	mm/刃
+#22	AnnotatorNotes T224	Y・M
+T225	Machining 536 541	工具切り刃
+#23	AnnotatorNotes T225	Y・M
+R36	Relation Arg1:T51 Arg2:T53	
+#24	AnnotatorNotes R36	Y・M
+T226	Machining 852 855	高速域
+#25	AnnotatorNotes T226	Y・M
+R37	Relation Arg1:T226 Arg2:T75	
+#26	AnnotatorNotes R37	Y・M
+T227	Machining 938 942	鋳鉄切削
+#27	AnnotatorNotes T227	Y・M
+R38	Relation Arg1:T202 Arg2:T227	
+#28	AnnotatorNotes R38	Y・M
+T228	Machining 1103 1109	正面切れ刃角
+#29	AnnotatorNotes T228	Y・M
+T229	Machining 1110 1118	フェースアングル
+#30	AnnotatorNotes T229	Y・M
+R39	Relation Arg1:T229 Arg2:T228	
+#31	AnnotatorNotes R39	Y・M
+T230	Machining 1334 1338	スラスト
+#32	AnnotatorNotes T230	Y・M
+T231	Machining 1517 1523	ワイパチップ
+#33	AnnotatorNotes T231	Y・M
+T232	Machining 1539 1545	ワイパチップ
+#34	AnnotatorNotes T232	Y・M
+T233	Machining 1897 1902	フライス盤
+#35	AnnotatorNotes T233	Y・M
+T234	Machining 1906 1911	ヒーリング
+#36	AnnotatorNotes T234	Y・M
+T235	Machining 538 541	切り刃
+T236	Machining 575 577	刃先
+T237	Machining 46 48	刃先
+T238	Quantity 249 251	15
+T239	Unit 251 253	μm
+T240	Machining 472 477	正面刃振れ
+T54	Machining 624 626	刃先
+T241	Quantity 746 749	100
+T242	Unit 749 754	m/min
+T243	Machining 546 548	付着
+T244	Machining 765 767	刃先
+T245	Machining 844 846	刃先
+T246	Machining 973 975	刃先
+T247	Machining 1024 1026	刃先
+T248	Machining 1081 1085	さらい刃
+T249	Machining 1089 1093	さらい刃
+T250	Machining 1177 1183	正面切れ刃角
+T251	Machining 1153 1155	刃先
+T252	Quantity 1137 1140	１～３
+T253	Unit 1140 1142	mm
+T254	Machining 1145 1149	さらい刃
+T255	Machining 1235 1239	さらい刃
+T256	Machining 1257 1263	正面切れ刃角
+T257	Machining 1321 1325	さらい刃
+T258	Machining 1404 1410	正面切れ刃角
+T259	Quantity 1399 1400	１
+T260	Unit 1400 1401	°
+T261	Machining 1452 1456	さらい刃
+T262	Quantity 1744 1748	0.01
+T263	Unit 1748 1750	mm
+T264	Quantity 1753 1758	0.005
+T265	Unit 1758 1760	mm
+T266	Machining 1719 1723	ワイパ刃
+T267	Machining 1735 1739	ワイパ刃
+T268	Machining 1847 1853	ワイパチップ
+T269	Machining 1802 1804	抵抗
+T270	Machining 1798 1802	スラスト
+T271	Machining 2252 2258	正面切れ刃角
+T272	Machining 1786 1790	ワイパ刃
+T273	Quantity 1471 1478	1.5～2.0
+T274	Unit 1478 1479	倍
+T275	Quantity 1680 1684	0.05
+T276	Unit 1684 1686	mm
+T277	Quantity 1915 1918	100
+T278	Unit 1918 1920	mm
+T279	Quantity 1922 1926	0.02
+T280	Unit 1926 1928	mm
+T281	Quantity 1651 1654	0.5
+T282	Unit 1654 1656	mm
+T162	Machining 2239 2243	さらい刃
+T283	Machining 2163 2168	正面刃振れ
+T284	Machining 2226 2230	さらい刃
+T285	Machining 2269 2275	正面切れ刃角
+T286	Machining 2329 2335	カッタマーク
+T287	Machining 2301 2307	ワイパチップ
+T288	Machining 2313 2319	ワイパチップ
+T289	Quantity 228 230	30
+T290	Unit 230 232	μm
+T291	Quantity 786 789	200
+T292	Unit 789 794	m/min
+T293	Machining 1049 1053	さらい刃
+T294	Machining 1124 1126	刃先
+T295	Machining 1129 1132	カッタ
+T296	Machining 1124 1132	刃先交換式カッタ
+T297	Machining 1635 1638	切り刃
+T298	Machining 1153 1160	刃先交換チップ
+T299	Machining 1259 1262	切れ刃
+T108	Machining 1343 1345	抵抗
+T300	Machining 1334 1345	スラスト（背分力）抵抗
+R18	Relation Arg1:T191 Arg2:T300	
+R20	Relation Arg1:T192 Arg2:T300	
+R22	Relation Arg1:T300 Arg2:T193	
+T301	Machining 48 51	突出量
+T303	Machining 86 89	刃振れ
+T304	Machining 19 22	刃振れ
+T305	Machining 17 22	正面刃振れ
+T306	Machining 115 118	刃振れ
+T307	Machining 474 477	刃振れ
+T308	Machining 528 530	工具
+T309	Machining 1264 1268	さらい刃
+T310	Machining 1264 1271	さらい刃接触長
+T311	Machining 2165 2168	刃振れ
+T313	Machining 2193 2196	刃振れ
+T314	Machining 564 567	溶着物
+T315	Machining 564 566	溶着
+T316	Machining 627 629	付着
+T317	Machining 2283 2285	溶着
+T318	Machining 200 203	カッタ
+T319	Machining 275 278	カッタ
+T320	Machining 666 668	工具
+T321	Machining 1459 1462	カッタ
+T322	Machining 6 8	粗さ
+T323	Machining 66 68	粗さ
+T324	Machining 94 96	粗さ
+T325	Machining 155 157	粗さ
+T326	Machining 344 346	粗さ
+T327	Machining 373 375	粗さ
+T328	Machining 506 508	粗さ
+T30	Machining 648 650	粗さ
+T329	Machining 732 734	粗さ
+T330	Machining 777 779	粗さ
+T331	Machining 815 817	粗さ
+T332	Machining 832 834	粗さ
+T333	Machining 890 892	粗さ
+T334	Machining 1439 1441	粗さ
+T335	Machining 1553 1555	粗さ
+T336	Machining 2183 2185	粗さ
+T312	Machining 2203 2205	粗さ
+T337	Machining 2223 2225	粗さ
+T338	Machining 2280 2282	粗さ
+T339	Machining 555 557	粗さ
+T340	Machining 1286 1288	粗さ
+T341	Machining 696 698	材料
+T52	Machining 132 135	突出量
+T342	Machining 485 488	突出量
+T343	Machining 2341 2346	ヒーリング
+T344	Machining 896 902	SS4100
+T38	Machining 671 673	高速
+T345	Machining 725 727	速度
+T346	Machining 744 746	速度
+T347	Machining 1462 1464	回転
+T348	Machining 1965 1967	刃先
+T349	Machining 1967 1969	回転
+T350	Machining 1962 1965	カッタ
+T351	Machining 2006 2010	切削条痕
+T352	Machining 797 800	高速域
+T353	Machining 877 880	高速域
+T354	Machining 881 884	低速域
+T355	Machining 558 560	劣化
+T356	Machining 4 6	表面
+T302	Machining 80 83	軸方向
+T32	Trigger 389 394	大きくなる
+T357	Trigger 397 402	顕著である
+T358	Trigger 999 1001	短い
+T359	Trigger 1012 1017	あがらない
+T360	Trigger 1329 1333	長くなり
+T361	Trigger 1304 1307	小さい

@@ -1,0 +1,6 @@
+T462	Machining 16 20	工具材料
+T463	Machining 16 18	工具
+T464	Machining 21 25	耐摩耗性
+R62	Relation Arg1:T464 Arg2:T466
+T466	Machining 26 28	靭性
+T679	Machining 18 20	材料

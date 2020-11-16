@@ -1,0 +1,17 @@
+T329	Machining 10 12	工具
+T330	Machining 13 15	温度
+T832	Machining 0 5	突出し長さ
+R44	Positive Arg1:T832 Arg2:T330
+T1055	Unit 27 29	mm
+T1056	Quantity 25 27	38
+T1054	Quantity 33 35	19
+T1057	Unit 35 37	mm
+T1058	Quantity 47 49	10
+T1059	Unit 49 50	℃
+T1083	Machining 0 3	突出し
+T1213	Machining 19 22	突出し
+T1214	Machining 19 24	突出し長さ
+T1236	Machining 22 24	長さ
+T1250	Machining 3 5	長さ
+T1333	Trigger 6 8	長い
+T1334	Trigger 16 18	高く

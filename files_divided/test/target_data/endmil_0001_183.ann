@@ -1,0 +1,12 @@
+T522	Machining 22 24	送り
+R172	Relation Arg1:T522 Arg2:T524
+T523	Machining 42 49	エンドミル加工
+T524	Machining 53 57	切削速度
+T2407	Machining 7 9	回転
+T2408	Machining 16 18	速度
+T2409	Machining 27 29	速度
+T2410	Machining 42 47	エンドミル
+T2411	Machining 47 49	加工
+T2412	Machining 53 55	切削
+T2413	Machining 55 57	速度
+T3512	Variable 57 59	ｖｃ

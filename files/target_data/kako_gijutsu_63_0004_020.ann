@@ -1,0 +1,13 @@
+T126	Machining 5 13	ボールエンドミル
+T127	Machining 8 13	エンドミル
+T128	Machining 25 27	加工
+T129	Machining 25 28	加工機
+T130	Machining 46 48	精度
+T131	Machining 63 65	精度
+T132	Machining 76 78	加工
+T247	Quantity 49 55	±0.005
+T292	Unit 55 57	mm
+T293	Quantity 66 71	0.005
+T294	Unit 71 73	mm
+T302	Machining 61 65	フレ精度
+T71	Machining 45 48	R精度

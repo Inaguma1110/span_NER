@@ -1,0 +1,11 @@
+T774	Machining 0 6	高速度工具鋼
+R198	Relation Arg1:T774 Arg2:T779
+R199	Relation Arg1:T774 Arg2:T283
+R231	Relation Arg1:T774 Arg2:T104
+T776	Machining 3 6	工具鋼
+T778	Machining 11 13	工具
+T779	Machining 21 24	耐熱性
+T1479	Machining 11 15	工具材料
+T283	Machining 31 34	付着性
+T1711	Machining 13 15	材料
+T1880	Machining 0 3	高速度

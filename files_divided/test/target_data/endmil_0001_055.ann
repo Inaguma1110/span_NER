@@ -1,0 +1,7 @@
+T120	Machining 3 11	耐クレータ摩耗性
+R532	Relation Arg1:T120 Arg2:T1904
+T121	Machining 29 34	炭化チタン
+R31	Relation Arg1:T121 Arg2:T120
+T1904	Machining 40 46	炭化タンタル
+T1905	Machining 35 38	ＴｉＣ
+T1906	Machining 47 50	ＴａＣ

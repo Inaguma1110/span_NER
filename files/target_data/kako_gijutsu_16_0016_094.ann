@@ -1,0 +1,4 @@
+T166	Machining 1 7	アプローチ角
+R33	Positive Arg1:T166 Arg2:T418
+R34	Negative Arg1:T166 Arg2:T419
+T722	Trigger 8 11	小さく

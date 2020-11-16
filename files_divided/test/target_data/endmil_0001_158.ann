@@ -1,0 +1,11 @@
+T436	Machining 0 4	境界摩耗
+R60	Positive Arg1:T436 Arg2:T437
+T437	Machining 27 31	酸化摩耗
+T2327	Machining 13 15	化合
+T2329	Machining 0 2	境界
+T2330	Machining 2 4	摩耗
+T2331	Machining 29 31	摩耗
+T2332	Machining 27 29	酸化
+T4375	Machining 10 12	酸素
+T4527	Trigger 32 34	発生
+T4541	Trigger 19 27	状況下にあるため

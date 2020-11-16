@@ -1,0 +1,8 @@
+T341	Machining 0 3	突切り
+T342	Machining 3 5	工具
+T343	Machining 22 26	深溝加工
+T344	Machining 22 24	深溝
+T345	Machining 24 26	加工
+T865	Machining 0 5	突切り工具
+T916	Machining 6 8	材料
+T966	Machining 9 14	切り落とし

@@ -1,0 +1,8 @@
+T709	Machining 0 7	エンドミル加工
+T710	Machining 11 13	送り
+R625	Relation Arg1:T710 Arg2:T2708
+T711	Machining 16 21	エンドミル
+T712	Machining 22 25	加工物
+T2706	Machining 0 5	エンドミル
+T2707	Machining 5 7	加工
+T2708	Machining 31 33	移動

@@ -1,0 +1,13 @@
+T588	Machining 4 7	被削材
+T589	Machining 35 38	被削材
+T872	Machining 14 19	盛り上がり
+R91	Positive Arg1:T872 Arg2:T873
+T873	Machining 27 29	粗さ
+T874	Machining 51 53	欠け
+R92	Negative Arg1:T874 Arg2:T875
+T875	Machining 58 60	粗さ
+T1028	Machining 39 42	脆性材
+T1346	Trigger 20 22	生じ
+T1347	Trigger 30 32	増大
+T1348	Trigger 54 57	起こり
+T1349	Trigger 64 69	小さくなる

@@ -1,0 +1,24 @@
+T1107	Machining 0 2	切削
+T1108	Machining 0 4	切削油剤
+R146	Relation Arg1:T1108 Arg2:T1109
+R148	Relation Arg1:T1108 Arg2:T1116
+R150	Relation Arg1:T1108 Arg2:T1119
+R147	Relation Arg1:T1108 Arg2:T1525
+R34	Relation Arg1:T1108 Arg2:T1118
+T1109	Machining 5 8	切削熱
+T1112	Machining 13 16	切れ刃
+T1113	Machining 17 19	温度
+T1114	Machining 23 27	切りくず
+T1115	Machining 28 30	工具
+T1116	Machining 32 34	摩擦
+T1118	Machining 44 48	切りくず
+T1119	Machining 64 68	工具摩耗
+T1120	Machining 64 66	工具
+T1121	Machining 66 68	摩耗
+T1525	Machining 13 19	切れ刃の温度
+T907	Machining 39 41	加熱
+T1572	Machining 5 7	切削
+T1573	Machining 2 4	油剤
+T1574	Machining 7 8	熱
+T1923	Machining 9 11	除去
+T1924	Machining 52 54	除去

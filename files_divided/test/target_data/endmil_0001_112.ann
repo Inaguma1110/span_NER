@@ -1,0 +1,9 @@
+T269	Machining 4 6	応力
+R64	Relation Arg1:T269 Arg2:T271
+R88	Positive Arg1:T269 Arg2:T273
+T270	Machining 51 56	エンドミル
+T271	Machining 60 62	切削
+T272	Machining 80 85	エンドミル
+T2158	Machining 12 14	破壊
+T2159	Machining 15 17	分離
+T4499	Trigger 7 9	発生

@@ -1,0 +1,16 @@
+T1282	Machining 6 8	黒鉛
+T1283	Machining 9 15	グラファイト
+T1284	Machining 47 54	超硬エンドミル
+R401	Sub Arg1:T1284 Arg2:T1289
+T1285	Machining 56 58	加工
+T1286	Machining 66 69	加工物
+T1287	Machining 77 79	加工
+T1288	Machining 81 88	スローアウェイ
+R402	Sub Arg1:T1288 Arg2:T1289
+R403	Sub Arg1:T1288 Arg2:T1284
+T1289	Machining 94 96	工具
+T3439	Machining 26 29	ＦＣ材
+T3440	Machining 0 4	ＦＣＤ材
+R869	Relation Arg1:T3440 Arg2:T4391
+T3443	Machining 42 45	ＦＣ材
+T4391	Machining 31 33	粘り

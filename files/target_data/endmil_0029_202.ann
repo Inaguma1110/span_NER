@@ -1,0 +1,30 @@
+T581	Machining 0 8	ボールエンドミル
+T582	Machining 14 16	加工
+T583	Machining 19 23	切削速度
+R139	Positive Arg1:T583 Arg2:T584
+R140	Negative Arg1:T583 Arg2:T585
+R141	Negative Arg1:T583 Arg2:T588
+R594	Relation Arg1:T583 Arg2:T587
+T584	Machining 33 37	せん断角
+R142	Negative Arg1:T584 Arg2:T585
+R144	Negative Arg1:T584 Arg2:T588
+T585	Machining 42 48	切りくず厚さ
+R143	Positive Arg1:T585 Arg2:T588
+T586	Machining 59 63	切削速度
+T587	Machining 77 80	切削性
+R595	Relation Arg1:T587 Arg2:T588
+T588	Machining 97 101	切削抵抗
+T2510	Machining 46 48	厚さ
+T2511	Machining 3 8	エンドミル
+T2512	Machining 19 21	切削
+T2513	Machining 21 23	速度
+T2514	Machining 33 36	せん断
+T2515	Machining 59 61	切削
+T2516	Machining 61 63	速度
+T2519	Machining 97 99	切削
+T2520	Machining 99 101	抵抗
+T4413	Machining 42 46	切りくず
+T4572	Trigger 24 26	上昇
+T4573	Trigger 38 40	増加
+T4574	Trigger 49 53	薄くなる
+T4575	Trigger 102 104	軽減

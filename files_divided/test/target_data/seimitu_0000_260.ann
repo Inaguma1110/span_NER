@@ -1,0 +1,14 @@
+T947	Machining 9 11	硬さ
+T948	Machining 48 50	工具
+T949	Machining 61 63	工具
+T950	Machining 71 73	工具
+T1116	Machining 66 73	コーテッド工具
+R548	Sub Arg1:T1116 Arg2:T948
+T1117	Machining 56 63	コーテング工具
+R547	Sub Arg1:T1117 Arg2:T948
+T2365	Machining 12 14	母材
+T2366	Machining 19 25	化学的安定性
+T2367	Machining 26 30	耐磨耗性
+T2369	Machining 31 33	表面
+T2370	Machining 56 61	コーテング
+T2371	Machining 66 71	コーテッド

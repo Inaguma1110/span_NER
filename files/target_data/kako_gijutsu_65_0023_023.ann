@@ -1,0 +1,42 @@
+T148	Machining 95 97	工具
+T149	Machining 112 114	工具
+T150	Machining 159 161	工具
+T230	Machining 78 82	給油効果
+T231	Machining 83 87	吐出圧力
+R15	Relation Arg1:T231 Arg2:T230
+T232	Machining 93 100	使用工具の直径
+R16	Relation Arg1:T232 Arg2:T230
+T233	Machining 101 104	吐出量
+R17	Relation Arg1:T233 Arg2:T230
+T234	Machining 159 162	工具径
+R18	Relation Arg1:T234 Arg2:T235
+R21	Relation Arg1:T234 Arg2:T239
+T235	Machining 179 183	吐出圧力
+T236	Machining 112 115	工具径
+R19	Relation Arg1:T236 Arg2:T237
+R20	Relation Arg1:T236 Arg2:T238
+T237	Machining 129 133	吐出圧力
+T238	Machining 139 142	吐出量
+T239	Machining 196 199	吐出量
+T281	Quantity 47 50	5～7
+T282	Unit 50 53	MPa
+T283	Quantity 12 15	1.0
+T284	Unit 15 18	MPa
+T285	Machining 3 7	吐出圧力
+T286	Machining 54 58	吐出圧力
+T294	Variable 116 117	φ
+T295	Quantity 117 119	10
+T296	Unit 119 121	mm
+T297	Quantity 143 144	5
+T298	Unit 144 148	/min
+T299	Variable 168 169	φ
+T300	Quantity 169 171	20
+T301	Unit 171 173	mm
+T305	Machining 54 56	吐出
+T308	Machining 3 5	吐出
+T309	Machining 83 85	吐出
+T310	Machining 101 103	吐出
+T311	Machining 129 131	吐出
+T312	Machining 139 141	吐出
+T313	Machining 179 181	吐出
+T314	Machining 196 198	吐出

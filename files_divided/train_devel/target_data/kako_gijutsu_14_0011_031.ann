@@ -1,0 +1,21 @@
+T159	Machining 7 9	温度
+T161	Machining 18 27	生成自由エネルギー
+T162	Machining 22 27	エネルギー
+T163	Machining 57 59	切削
+T164	Machining 63 67	切削温度
+T165	Machining 63 65	切削
+T166	Machining 65 67	温度
+T167	Machining 71 80	生成自由エネルギー
+R16	Relation Arg1:T167 Arg2:T169
+T168	Machining 75 80	エネルギー
+T169	Machining 84 92	切削仕上げ面粗さ
+T171	Machining 84 86	切削
+T172	Machining 84 90	切削仕上げ面
+T173	Machining 86 90	仕上げ面
+T1268	Machining 55 59	低速切削
+T1269	Machining 63 69	切削温度領域
+T1422	Machining 86 89	仕上げ
+T160	Machining 12 17	超硬質材料
+T1445	Machining 90 92	粗さ
+T1497	Machining 15 17	材料
+T1541	Machining 55 57	低速

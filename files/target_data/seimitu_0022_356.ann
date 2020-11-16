@@ -1,0 +1,10 @@
+T1271	Machining 2 6	脆性材料
+T1272	Machining 8 10	亀裂
+R379	Relation Arg1:T1272 Arg2:T1274
+R602	Relation Arg1:T1272 Arg2:T2839
+T1273	Machining 25 27	工具
+T1274	Machining 25 29	工具欠損
+T2729	Machining 2 4	脆性
+T2730	Machining 4 6	材料
+T2732	Machining 27 29	欠損
+T2839	Machining 17 20	全破壊

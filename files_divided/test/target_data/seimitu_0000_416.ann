@@ -1,0 +1,6 @@
+T1456	Machining 3 5	工具
+T1457	Machining 9 12	工作物
+T2939	Machining 6 8	刃先
+R635	Relation Arg1:T2939 Arg2:T3611
+T3611	Machining 16 23	トロコイド曲線
+T3612	Machining 24 33	ｔｒｏｃｈｏｉｄｅ

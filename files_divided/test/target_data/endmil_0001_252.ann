@@ -1,0 +1,6 @@
+T742	Machining 9 11	切削
+T743	Machining 19 22	加工面
+R789	Relation Arg1:T743 Arg2:T744
+T744	Machining 23 26	切れ刃
+T2771	Machining 19 21	加工
+T4261	Machining 27 29	接触

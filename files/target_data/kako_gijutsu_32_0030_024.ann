@@ -1,0 +1,3 @@
+T43	Machining 12 14	精度
+T60	Machining 4 9	ラインバー
+R15	Relation Arg1:T60 Arg2:T43

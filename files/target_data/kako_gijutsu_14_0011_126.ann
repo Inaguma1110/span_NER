@@ -1,0 +1,21 @@
+T865	Machining 4 6	凝着
+T866	Machining 33 36	工具材
+R117	Relation Arg1:T866 Arg2:T869
+R118	Relation Arg1:T866 Arg2:T877
+T868	Machining 37 39	工具
+T869	Machining 50 54	境界摩耗
+T870	Machining 52 54	摩耗
+T871	Machining 61 69	切削仕上げ面粗さ
+T872	Machining 61 67	切削仕上げ面
+T873	Machining 61 63	切削
+T875	Machining 63 67	仕上げ面
+T877	Machining 73 77	工具寿命
+T878	Machining 73 79	工具寿命管理
+T879	Machining 73 75	工具
+T1332	Machining 27 30	じん性
+T867	Machining 63 66	仕上げ
+T876	Machining 33 35	工具
+T1482	Machining 67 69	粗さ
+T1525	Machining 50 52	境界
+T1526	Machining 75 77	寿命
+T1615	Machining 6 9	不活性

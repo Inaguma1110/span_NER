@@ -1,0 +1,17 @@
+T106	Machining 0 2	加工
+T107	Machining 28 32	加工硬化
+R27	Relation Arg1:T107 Arg2:T184
+T108	Machining 28 30	加工
+T109	Machining 40 44	加工硬化
+T110	Machining 40 42	加工
+T111	Machining 51 53	硬さ
+T112	Machining 57 59	硬さ
+T184	Machining 0 5	加工変質層
+T185	Machining 6 13	結晶組織が変形
+R28	Relation Arg1:T185 Arg2:T184
+T186	Machining 17 20	微細化
+T187	Machining 6 10	結晶組織
+T54	Machining 30 32	硬化
+T66	Machining 42 44	硬化
+T206	Machining 11 13	変形
+T231	Machining 36 38	材料

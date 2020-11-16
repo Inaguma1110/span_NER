@@ -1,0 +1,12 @@
+T315	Machining 0 4	旋盤加工
+R834	Relation Arg1:T315 Arg2:T317
+T316	Machining 5 10	ドリル加工
+R835	Relation Arg1:T316 Arg2:T317
+T317	Machining 17 21	切りくず
+T318	Machining 22 24	工具
+T319	Machining 42 44	切削
+T320	Machining 58 62	切りくず
+T2206	Machining 0 2	旋盤
+T2208	Machining 5 8	ドリル
+T2209	Machining 2 4	加工
+T2210	Machining 8 10	加工

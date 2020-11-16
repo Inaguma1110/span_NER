@@ -1,0 +1,9 @@
+T676	Machining 3 6	工作物
+R185	Relation Arg1:T676 Arg2:T3492
+T677	Machining 12 15	せん断
+T678	Machining 19 21	熱源
+T2172	Machining 17 19	移動
+T2173	Machining 17 21	移動熱源
+T3487	Machining 12 16	せん断面
+R186	Relation Arg1:T3487 Arg2:T2173
+T3492	Machining 7 11	半無限体

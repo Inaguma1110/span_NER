@@ -1,0 +1,8 @@
+T1856	Machining 23 26	炭化物
+T1874	Machining 8 13	粉末冶金法
+R530	Relation Arg1:T1874 Arg2:T1856
+R830	Relation Arg1:T1874 Arg2:T1876
+T1875	Machining 53 56	ＨＳＳ
+T1876	Machining 42 45	高合金
+T2051	Machining 51 56	粉末ＨＳＳ
+T4401	Machining 10 13	冶金法

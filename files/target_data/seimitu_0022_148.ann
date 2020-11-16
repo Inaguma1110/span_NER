@@ -1,0 +1,14 @@
+T509	Machining 4 8	摩擦仕事
+T510	Machining 11 13	工具
+T511	Machining 20 24	切りくず
+T598	Machining 11 15	工具形状
+R206	Relation Arg1:T598 Arg2:T509
+T2064	Machining 4 6	摩擦
+T2065	Machining 6 8	仕事
+T2066	Machining 24 26	流出
+T2067	Machining 20 28	切りくず流出方向
+R134	Relation Arg1:T2067 Arg2:T509
+T3424	Variable 8 10	Ｕｆ
+T3425	Variable 15 17	αｎ
+T3426	Variable 28 30	ηｃ
+T3427	Variable 18 19	ｉ

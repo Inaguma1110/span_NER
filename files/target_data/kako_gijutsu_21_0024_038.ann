@@ -1,0 +1,5 @@
+T146	Machining 7 10	チップ
+T751	Machining 3 10	刃先交換チップ
+R80	Sub Arg1:T751 Arg2:T753
+R90	Sub Arg1:T751 Arg2:T839
+T807	Machining 3 5	刃先

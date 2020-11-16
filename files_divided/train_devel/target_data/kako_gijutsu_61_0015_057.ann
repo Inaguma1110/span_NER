@@ -1,0 +1,7 @@
+T260	Machining 26 29	加工数
+R117	Relation Arg1:T260 Arg2:T615
+T261	Machining 26 28	加工
+T262	Machining 32 34	工具
+T615	Machining 32 36	工具交換
+T616	Machining 19 21	時間
+R116	Relation Arg1:T616 Arg2:T615

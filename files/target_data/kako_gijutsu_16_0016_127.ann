@@ -1,0 +1,19 @@
+T272	Machining 0 3	水溶性
+T273	Machining 3 5	切削
+T274	Machining 3 7	切削油剤
+T275	Machining 26 33	チップブレーカ
+T276	Machining 26 29	チップ
+T277	Machining 29 33	ブレーカ
+T278	Machining 41 45	切りくず
+T279	Machining 45 47	温度
+T426	Machining 0 7	水溶性切削油剤
+R42	Relation Arg1:T426 Arg2:T427
+R43	Relation Arg1:T426 Arg2:T428
+R45	Relation Arg1:T426 Arg2:T429
+T427	Machining 26 36	チップブレーカの効果
+T428	Machining 41 47	切りくず温度
+R44	Negative Arg1:T428 Arg2:T429
+T429	Machining 59 64	折れやすさ
+T561	Machining 5 7	油剤
+T731	Trigger 48 50	低下
+T732	Trigger 65 67	促進

@@ -1,0 +1,8 @@
+T679	Machining 26 30	熱源表面
+R243	Relation Arg1:T679 Arg2:T681
+T680	Machining 31 34	せん断
+T681	Machining 44 48	温度上昇
+T3489	Machining 26 28	熱源
+T3490	Machining 28 30	表面
+T3494	Machining 31 35	せん断面
+T3495	Machining 44 46	温度

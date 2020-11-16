@@ -1,0 +1,8 @@
+T733	Machining 25 28	送り量
+R187	Relation Arg1:T733 Arg2:T2756
+T734	Machining 34 37	加工面
+T2752	Machining 25 27	送り
+T2755	Machining 34 36	加工
+T2756	Machining 34 39	加工面粗さ
+T2757	Machining 37 39	粗さ
+T2762	Machining 20 21	刃

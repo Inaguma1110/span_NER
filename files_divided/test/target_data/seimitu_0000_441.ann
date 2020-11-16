@@ -1,0 +1,13 @@
+T1537	Machining 0 3	ドリル
+T1538	Machining 4 7	切れ刃
+R434	Part Arg1:T1538 Arg2:T1537
+T1539	Machining 14 18	すくい角
+R426	Relation Arg1:T1539 Arg2:T1542
+T1540	Machining 78 82	すくい角
+R425	Relation Arg1:T1540 Arg2:T1542
+T1541	Machining 86 89	工作物
+T1542	Machining 98 100	切削
+T2985	Machining 26 29	捩れ角
+T2986	Machining 19 22	外周部
+T2987	Machining 52 58	チゼルエッジ
+T2989	Machining 59 62	のみ部

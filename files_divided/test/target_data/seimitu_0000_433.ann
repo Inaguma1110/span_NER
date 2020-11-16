@@ -1,0 +1,25 @@
+T1501	Machining 0 3	工作物
+T1502	Machining 6 9	切削力
+T1503	Machining 22 24	切削
+T1504	Machining 27 30	切削幅
+R419	Linear Arg1:T1504 Arg2:T1502
+T1505	Machining 33 35	切削
+T1506	Machining 47 53	フライス加工
+T1507	Machining 64 67	切削力
+T1508	Machining 70 74	切削速度
+T1509	Machining 85 88	切削力
+T1510	Machining 91 94	背分力
+R420	Relation Arg1:T1510 Arg2:T1502
+T1556	Machining 22 26	切削厚さ
+R444	Linear Arg1:T1556 Arg2:T1502
+T1557	Machining 70 78	切削速度方向分力
+R445	Relation Arg1:T1557 Arg2:T1502
+T2965	Machining 24 26	厚さ
+T2966	Machining 47 51	フライス
+T2967	Machining 51 53	加工
+T2968	Machining 110 113	回転角
+T2969	Machining 70 72	切削
+T2970	Machining 72 74	速度
+T3621	Machining 33 38	切削断面積
+T3728	Variable 67 69	Ｆｈ
+T3729	Variable 88 90	Ｆｖ

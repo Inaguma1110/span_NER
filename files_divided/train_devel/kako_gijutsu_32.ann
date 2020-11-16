@@ -1,0 +1,143 @@
+T0	Machining 9 13	加工精度
+T1	Machining 9 11	加工
+T2	Machining 11 13	精度
+T3	Machining 22 25	加工面
+T4	Machining 22 24	加工
+T5	Machining 48 50	送り
+T6	Machining 48 51	送り量
+T7	Machining 77 81	構成刃先
+T8	Machining 118 122	加工精度
+T9	Machining 118 120	加工
+T10	Machining 120 122	精度
+T11	Machining 125 128	真円度
+T12	Machining 129 132	真円度
+T14	Machining 150 152	剛性
+T15	Machining 215 217	精度
+T16	Machining 239 241	工具
+T17	Machining 254 256	精度
+T18	Machining 268 272	切りくず
+T19	Machining 285 289	耐摩耗性
+T21	Machining 292 294	工具
+T23	Machining 314 317	穴あけ
+T24	Machining 321 323	削り
+T25	Machining 333 335	工具
+T26	Machining 363 365	機構
+T27	Machining 384 387	真直度
+T28	Machining 431 433	剛性
+T29	Machining 452 455	工作物
+T30	Machining 469 471	加工
+T31	Machining 508 510	送り
+T32	Machining 513 515	加工
+T33	Machining 551 553	加工
+T34	Machining 593 594	熱
+T35	Machining 615 617	加工
+T36	Machining 662 664	精度
+T37	Machining 665 670	中ぐり加工
+T38	Machining 668 670	加工
+T39	Machining 676 678	精度
+T40	Machining 769 771	送り
+T42	Machining 778 780	剛性
+T43	Machining 900 902	精度
+T44	Machining 22 27	加工面粗さ
+T45	Machining 61 63	刃先
+T46	Variable 63 64	R
+R1	Relation Arg1:T45 Arg2:T44	
+R2	Relation Arg1:T45 Arg2:T7	
+T47	Machining 89 92	びびり
+R3	Relation Arg1:T45 Arg2:T47	
+T48	Machining 412 414	自重
+T49	Machining 417 420	たわみ
+R6	Relation Arg1:T48 Arg2:T49	
+R7	Relation Arg1:T6 Arg2:T44	
+T50	Variable 52 53	f
+T51	Variable 28 33	H_max
+T52	Machining 213 217	穴径精度
+T53	Machining 242 248	取りつけ誤差
+R8	Relation Arg1:T53 Arg2:T52	
+R9	Relation Arg1:T18 Arg2:T52	
+T54	Machining 273 275	粉塵
+R10	Relation Arg1:T54 Arg2:T52	
+R11	Relation Arg1:T19 Arg2:T52	
+#1	AnnotatorNotes T19	工具の耐摩耗性
+T55	Machining 593 596	熱変形
+T56	Machining 604 610	繰り出す方向
+T57	Machining 611 618	主軸先端加工点
+R12	Relation Arg1:T55 Arg2:T56	
+R13	Relation Arg1:T55 Arg2:T57	
+T58	Machining 873 878	中ぐり主軸
+T59	Machining 884 887	たわみ
+R14	Relation Arg1:T58 Arg2:T59	
+#2	AnnotatorNotes R14	キャプション（図3-2）
+T60	Machining 892 897	ラインバー
+R15	Relation Arg1:T60 Arg2:T43	
+#3	AnnotatorNotes R15	キャプション（図3-3）
+T61	Machining 731 737	機械系の誤差
+T62	Machining 775 777	精度
+R16	Relation Arg1:T62 Arg2:T61	
+T63	Machining 804 811	バックラッシュ
+R17	Relation Arg1:T63 Arg2:T61	
+T64	Machining 838 843	ヨーイング
+R18	Relation Arg1:T64 Arg2:T61	
+T65	Machining 852 854	変形
+R19	Relation Arg1:T65 Arg2:T61	
+T66	Machining 147 149	精度
+R4	Relation Arg1:T66 Arg2:T12	
+T67	Machining 4 8	表面粗さ
+#4	AnnotatorNotes T67	Y・M
+T68	Machining 162 166	主軸歯車
+#5	AnnotatorNotes T68	Y・M
+T70	Machining 167 172	かみ合い率
+#7	AnnotatorNotes T70	Y・M
+R5	Relation Arg1:T70 Arg2:T66	
+#8	AnnotatorNotes R5	Y・M
+T71	Machining 192 201	フローティング構造
+#9	AnnotatorNotes T71	Y・M
+R20	Relation Arg1:T71 Arg2:T66	
+#10	AnnotatorNotes R20	Y・M
+T72	Machining 632 635	潤滑油
+#11	AnnotatorNotes T72	Y・M
+T73	Machining 636 642	オイルクーラ
+#12	AnnotatorNotes T73	Y・M
+R21	Relation Arg1:T73 Arg2:T72	
+#13	AnnotatorNotes R21	Y・M
+T74	Machining 781 788	バックラッシュ
+#14	AnnotatorNotes T74	Y・M
+R22	Relation Arg1:T74 Arg2:T62	
+#15	AnnotatorNotes R22	Y・M
+T75	Machining 79 81	刃先
+T76	Machining 594 596	変形
+T77	Machining 567 572	横中ぐり盤
+T78	Machining 812 819	バックラッシュ
+T20	Machining 442 444	主軸
+T80	Machining 388 390	主軸
+T79	Machining 17 21	表面粗さ
+T81	Machining 573 575	主軸
+T82	Machining 584 586	主軸
+T83	Machining 601 603	主軸
+T84	Machining 611 613	主軸
+T85	Machining 665 668	中ぐり
+T86	Machining 873 876	中ぐり
+T87	Machining 876 878	主軸
+T88	Machining 141 143	主軸
+T89	Machining 162 164	主軸
+T90	Machining 164 166	歯車
+T91	Machining 396 399	中ぐり
+T92	Machining 143 146	軸受け
+T93	Machining 6 8	粗さ
+T94	Machining 19 21	粗さ
+T95	Machining 25 27	粗さ
+T96	Machining 333 336	工具径
+T97	Machining 584 587	主軸頭
+T98	Machining 589 592	コラム
+T99	Machining 182 185	トルク
+T100	Machining 482 490	ラインボーリング
+T101	Machining 213 215	穴径
+T102	Machining 218 220	穴径
+T103	Machining 256 258	劣化
+T104	Machining 576 578	回転
+T105	Machining 823 825	除去
+R23	Relation Arg1:T14 Arg2:T12	
+R24	Relation Arg1:T70 Arg2:T14	
+R25	Relation Arg1:T71 Arg2:T14	
+R26	Relation Arg1:T74 Arg2:T42	
+R27	Relation Arg1:T42 Arg2:T61	

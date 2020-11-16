@@ -1,0 +1,12 @@
+T1498	Machining 23 25	工具
+T3670	Machining 0 3	ＣＡＭ
+T3671	Machining 5 8	ＣＡＤ
+T3672	Machining 28 42	ＣｕｔｔｅｒＬｏｃａｔｉｏｎ
+T3673	Machining 43 45	ＣＬ
+T3674	Machining 51 59	メインプロセッサ
+R703	Relation Arg1:T3674 Arg2:T3670
+T3675	Machining 63 65	ＣＬ
+T3676	Machining 79 83	Ｇコード
+T3677	Machining 94 102	ポストプロセッサ
+R704	Relation Arg1:T3677 Arg2:T3670
+T3685	Machining 69 73	工作機械

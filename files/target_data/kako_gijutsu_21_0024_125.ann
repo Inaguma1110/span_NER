@@ -1,0 +1,25 @@
+T559	Machining 0 2	工具
+T560	Machining 0 4	工具剛性
+T561	Machining 2 4	剛性
+T562	Machining 18 20	加工
+T563	Machining 21 25	高速切削
+T564	Machining 23 25	切削
+T565	Machining 27 31	切削抵抗
+R59	Relation Arg1:T565 Arg2:T567
+T566	Machining 27 29	切削
+T567	Machining 36 41	びびり振動
+T568	Machining 48 52	工具寿命
+T569	Machining 48 50	工具
+T570	Machining 60 64	すくい角
+R60	Relation Arg1:T570 Arg2:T568
+T571	Machining 67 74	チップブレーカ
+T572	Machining 67 70	チップ
+T573	Machining 70 74	ブレーカ
+T507	Machining 29 31	抵抗
+T725	Machining 36 39	びびり
+T787	Machining 39 41	振動
+T918	Machining 50 52	寿命
+T956	Machining 21 23	高速
+T969	Machining 10 12	内径
+T970	Machining 10 17	内径ボーリング
+T971	Machining 12 17	ボーリング

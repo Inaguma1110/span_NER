@@ -1,0 +1,12 @@
+T90	Machining 0 4	構成刃先
+T91	Machining 14 16	切削
+T92	Machining 25 27	工具
+T93	Machining 30 32	凝着
+T94	Machining 39 41	切削
+T95	Machining 48 50	凝着
+R5	Relation Arg1:T95 Arg2:T96
+T96	Machining 65 69	構成刃先
+T223	Machining 2 4	刃先
+T241	Machining 30 33	凝着膜
+T245	Machining 67 69	刃先
+T759	Machining 25 28	工具面

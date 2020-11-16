@@ -1,0 +1,11 @@
+T678	Machining 6 10	切削抵抗
+T679	Machining 24 26	加工
+T680	Machining 28 33	エンドミル
+T2635	Machining 6 8	切削
+T2636	Machining 8 10	抵抗
+T2637	Machining 14 16	振幅
+R825	Positive Arg1:T2637 Arg2:T2639
+T2638	Machining 11 13	変動
+T2639	Machining 34 36	振動
+T4592	Trigger 17 22	大きくなれ
+T4593	Trigger 37 39	発生

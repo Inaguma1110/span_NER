@@ -1,0 +1,6 @@
+T2005	Machining 25 28	ｃＢＮ
+T2006	Machining 18 21	添加量
+T2007	Machining 18 20	添加
+T2012	Machining 9 14	バインダー
+R760	Relation Arg1:T2012 Arg2:T4209
+T4209	Machining 29 37	機械的・熱的特性

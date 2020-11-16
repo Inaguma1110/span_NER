@@ -1,0 +1,16 @@
+T222	Machining 45 47	摩擦
+T292	Machining 40 47	材料の内部摩擦
+R40	Relation Arg1:T292 Arg2:T293
+T293	Machining 59 65	振動エネルギ
+R41	Positive Arg1:T293 Arg2:T294
+T294	Machining 71 73	振動
+T436	Machining 59 61	振動
+T438	Machining 10 12	振動
+T439	Machining 26 28	油膜
+T440	Machining 20 24	合わせ面
+T530	Machining 6 9	周波数
+T533	Machining 88 91	周波数
+T452	Machining 40 42	材料
+T590	Machining 61 65	エネルギ
+T627	Trigger 66 68	消散
+T628	Trigger 74 76	抑制

@@ -1,0 +1,13 @@
+T66	Machining 18 20	摩擦
+R20	Relation Arg1:T66 Arg2:T67
+T67	Machining 27 28	熱
+R21	Positive Arg1:T67 Arg2:T69
+R515	Negative Arg1:T67 Arg2:T1811
+T68	Machining 29 31	工具
+T69	Machining 32 34	摩耗
+R49	Positive Arg1:T69 Arg2:T204
+T1810	Machining 8 10	変形
+T1811	Machining 41 43	寿命
+T3799	Trigger 35 37	促進
+T3800	Trigger 23 25	発生
+T3801	Trigger 44 46	短縮

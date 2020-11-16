@@ -1,0 +1,19 @@
+T1064	Machining 5 7	工具
+T1065	Machining 10 14	工具形状
+R346	Relation Arg1:T1065 Arg2:T1066
+T1066	Machining 20 22	精度
+T1067	Machining 31 33	摩耗
+T1068	Machining 36 38	工具
+T1069	Machining 49 51	切削
+T1070	Machining 57 59	精度
+R331	Relation Arg1:T1070 Arg2:T1072
+T1071	Machining 69 72	切削力
+R318	Relation Arg1:T1071 Arg2:T1072
+T1072	Machining 106 110	工具寿命
+T2494	Machining 3 7	総型工具
+T2495	Machining 10 12	工具
+T2497	Machining 36 40	工具形状
+T2498	Machining 99 101	劣化
+R328	Relation Arg1:T2498 Arg2:T1072
+T2499	Machining 106 108	工具
+T2500	Machining 108 110	寿命

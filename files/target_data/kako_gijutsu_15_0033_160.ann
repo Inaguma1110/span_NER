@@ -1,0 +1,19 @@
+T534	Machining 0 2	加工
+T535	Machining 2 6	寸法精度
+T536	Machining 4 6	精度
+T537	Machining 16 20	工具摩耗
+R68	Relation Arg1:T537 Arg2:T859
+T538	Machining 16 18	工具
+T539	Machining 18 20	摩耗
+T540	Machining 29 33	境界摩耗
+T541	Machining 31 33	摩耗
+T542	Machining 51 53	摩耗
+T543	Machining 57 61	仕上げ面
+T859	Machining 0 6	加工寸法精度
+T860	Machining 24 33	副前切刃の境界摩耗
+R69	Relation Arg1:T860 Arg2:T859
+R70	Relation Arg1:T860 Arg2:T861
+T861	Machining 70 72	粗さ
+T1111	Machining 57 60	仕上げ
+T1177	Machining 25 28	前切刃
+T1251	Machining 29 31	境界

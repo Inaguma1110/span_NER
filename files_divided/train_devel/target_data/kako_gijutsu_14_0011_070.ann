@@ -1,0 +1,5 @@
+T444	Machining 22 27	切れ刃凝着
+T445	Machining 22 25	切れ刃
+T446	Machining 25 27	凝着
+T1212	Machining 12 21	物理および化学特性
+R63	Relation Arg1:T1212 Arg2:T444

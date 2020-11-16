@@ -1,0 +1,17 @@
+T437	Machining 13 15	切削
+T438	Machining 31 33	切削
+T439	Machining 34 38	すくい角
+T440	Machining 39 43	せん断角
+T441	Machining 50 54	すくい角
+T442	Machining 59 63	せん断角
+T443	Machining 75 79	すくい角
+T444	Machining 80 84	せん断角
+T445	Machining 88 90	切削
+T2015	Machining 10 15	二次元切削
+T2016	Machining 28 33	二次元切削
+T2017	Machining 85 90	二次元切削
+T3377	Machining 39 42	せん断
+T3378	Machining 59 62	せん断
+T3379	Machining 80 83	せん断
+T3382	Variable 54 56	αｅ
+T3383	Variable 63 65	φｅ

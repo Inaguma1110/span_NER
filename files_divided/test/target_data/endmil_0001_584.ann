@@ -1,0 +1,10 @@
+T1681	Machining 4 7	キー溝
+T1682	Machining 7 9	加工
+T1683	Machining 11 12	溝
+T1684	Machining 29 31	バリ
+T1685	Machining 42 44	加工
+T1686	Machining 46 51	エンドミル
+T1687	Machining 52 54	摩耗
+R507	Relation Arg1:T1687 Arg2:T1684
+R508	Relation Arg1:T1687 Arg2:T1683
+T4361	Machining 4 9	キー溝加工

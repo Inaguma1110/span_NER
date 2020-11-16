@@ -1,0 +1,6 @@
+T529	Machining 3 5	加工
+T530	Machining 8 10	精度
+T531	Machining 39 43	構成刃先
+R67	Relation Arg1:T531 Arg2:T858
+T858	Machining 3 10	加工寸法の精度
+T1109	Machining 41 43	刃先

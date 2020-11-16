@@ -1,0 +1,11 @@
+T675	Machining 2 6	工具寿命
+T676	Machining 2 8	工具寿命曲線
+T677	Machining 2 4	工具
+T678	Machining 10 14	切削速度
+R103	Relation Arg1:T678 Arg2:T680
+T679	Machining 10 12	切削
+T680	Machining 21 25	工具寿命
+T681	Machining 21 23	工具
+T1768	Machining 4 6	寿命
+T1769	Machining 23 25	寿命
+T1871	Machining 12 14	速度

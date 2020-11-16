@@ -1,0 +1,10 @@
+T751	Machining 4 8	耐摩耗性
+T754	Machining 26 28	硬さ
+T1332	Machining 17 19	Co
+R106	Positive Arg1:T1332 Arg2:T751
+R107	Relation Arg1:T1332 Arg2:T1396
+T1396	Machining 24 28	赤熱硬さ
+T1471	Machining 33 36	Co系
+T698	Machining 24 26	赤熱
+T1952	Trigger 9 11	増加
+T1993	Trigger 20 22	添加

@@ -1,0 +1,9 @@
+T354	Machining 16 18	工具
+T356	Machining 19 20	熱
+T357	Machining 23 26	工作物
+T836	Machining 6 9	円筒度
+T837	Machining 19 22	熱膨張
+R46	Relation Arg1:T837 Arg2:T836
+T1205	Machining 20 22	膨張
+T1325	Machining 27 29	変位
+R47	Relation Arg1:T1325 Arg2:T836

@@ -1,0 +1,15 @@
+T985	Machining 2 6	断続切削
+T986	Machining 4 6	切削
+T987	Machining 13 15	切削
+T988	Machining 17 19	切削
+T989	Machining 17 21	切削油剤
+R135	Relation Arg1:T989 Arg2:T990
+T990	Machining 22 28	切削仕上げ面
+T991	Machining 22 24	切削
+T992	Machining 24 28	仕上げ面
+T994	Machining 35 39	切削速度
+T995	Machining 35 37	切削
+T1347	Machining 10 15	上向き切削
+T1029	Machining 19 21	油剤
+T1419	Machining 24 27	仕上げ
+T1565	Machining 37 39	速度

@@ -1,0 +1,36 @@
+T749	Machining 6 9	送り量
+T750	Machining 11 15	機械剛性
+R193	Relation Arg1:T750 Arg2:T749
+T751	Machining 16 20	工具剛性
+R194	Relation Arg1:T751 Arg2:T749
+T752	Machining 35 39	加工精度
+R195	Relation Arg1:T752 Arg2:T749
+T753	Machining 57 61	送り速度
+R196	Negative Arg1:T753 Arg2:T754
+R197	Positive Arg1:T753 Arg2:T756
+R198	Positive Arg1:T753 Arg2:T822
+T754	Machining 63 67	加工精度
+T755	Machining 79 82	加工面
+T756	Machining 88 92	残留応力
+T757	Machining 93 95	加工
+T822	Machining 93 98	加工変質層
+T2775	Machining 6 8	送り
+T2776	Machining 16 18	工具
+T2777	Machining 18 20	剛性
+T2778	Machining 35 37	加工
+T2779	Machining 37 39	精度
+T2780	Machining 59 61	速度
+T2781	Machining 57 59	送り
+T2782	Machining 63 65	加工
+T2783	Machining 65 67	精度
+T2784	Machining 83 87	引っ張り
+T2785	Machining 88 90	残留
+T2786	Machining 90 92	応力
+T2790	Machining 77 79	被削
+T2791	Machining 77 82	被削加工面
+T4264	Machining 11 13	機械
+T4265	Machining 13 15	剛性
+T4266	Machining 1 2	刃
+T4624	Trigger 68 70	悪化
+T4625	Trigger 54 56	過大
+T4626	Trigger 99 101	発生

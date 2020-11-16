@@ -1,0 +1,8 @@
+T838	Machining 4 6	靭性
+T839	Machining 14 17	耐熱性
+T840	Machining 18 21	加工性
+T841	Machining 22 26	被研削性
+T2225	Machining 0 3	Ｍｏ系
+R226	Relation Arg1:T2225 Arg2:T838
+R234	Relation Arg1:T2225 Arg2:T839
+R235	Relation Arg1:T2225 Arg2:T840

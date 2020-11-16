@@ -1,0 +1,13 @@
+T2	Machining 0 5	エンドミル
+T3	Machining 16 20	切削加工
+T4	Machining 16 18	切削
+T5	Machining 18 20	加工
+T6	Machining 25 29	切削条件
+R8	Relation Arg1:T6 Arg2:T8
+R9	Relation Arg1:T6 Arg2:T10
+T7	Machining 25 27	切削
+T8	Machining 43 47	工具寿命
+T9	Machining 43 45	工具
+T10	Machining 48 52	加工能率
+T11	Machining 48 50	加工
+T223	Machining 45 47	寿命

@@ -1,0 +1,7 @@
+T530	Machining 13 17	切削速度
+R112	Relation Arg1:T530 Arg2:T531
+T531	Machining 21 25	切削加工
+T2424	Machining 13 15	切削
+T2425	Machining 15 17	速度
+T2426	Machining 21 23	切削
+T2427	Machining 23 25	加工

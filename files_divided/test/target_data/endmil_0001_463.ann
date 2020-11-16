@@ -1,0 +1,7 @@
+T1430	Machining 7 10	水溶性
+T1431	Machining 11 15	切削油剤
+T1432	Machining 16 18	切削
+T3567	Machining 0 2	溶着
+R808	Relation Arg1:T3567 Arg2:T1431
+T3568	Machining 11 13	切削
+T3569	Machining 13 15	油剤

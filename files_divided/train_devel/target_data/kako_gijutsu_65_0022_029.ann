@@ -1,0 +1,9 @@
+T190	Machining 8 10	切削
+R27	Positive Arg1:T190 Arg2:T191
+T191	Machining 13 15	温度
+T192	Machining 17 19	切削
+T193	Machining 36 40	工具寿命
+T194	Machining 36 38	工具
+T212	Machining 4 6	刃先
+T324	Machining 38 40	寿命
+T345	Machining 21 23	空冷

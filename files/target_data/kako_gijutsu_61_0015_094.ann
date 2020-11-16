@@ -1,0 +1,6 @@
+T436	Machining 0 4	工具材料
+T437	Machining 0 2	工具
+T438	Machining 11 13	硬さ
+R57	Relation Arg1:T438 Arg2:T439
+T439	Machining 14 16	靭性
+T677	Machining 2 4	材料

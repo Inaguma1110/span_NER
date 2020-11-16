@@ -1,0 +1,16 @@
+T591	Machining 0 3	１枚刃
+R91	Sub Arg1:T591 Arg2:T67
+T592	Machining 4 7	２枚刃
+R92	Sub Arg1:T592 Arg2:T67
+T593	Machining 8 11	３枚刃
+R93	Sub Arg1:T593 Arg2:T67
+T594	Machining 12 15	４枚刃
+R94	Sub Arg1:T594 Arg2:T67
+T595	Machining 16 19	５枚刃
+R95	Sub Arg1:T595 Arg2:T67
+T596	Machining 20 23	６枚刃
+R96	Sub Arg1:T596 Arg2:T67
+T597	Machining 24 27	８枚刃
+R97	Sub Arg1:T597 Arg2:T67
+T598	Machining 28 31	多数刃
+R98	Sub Arg1:T598 Arg2:T67

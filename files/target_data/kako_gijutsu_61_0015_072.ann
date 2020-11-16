@@ -1,0 +1,22 @@
+T317	Machining 0 4	加工品質
+R118	Relation Arg1:T317 Arg2:T538
+T318	Machining 0 2	加工
+T319	Machining 29 32	切削面
+T320	Machining 29 31	切削
+T321	Machining 33 36	平面度
+T322	Machining 37 43	仕上げ面粗さ
+T323	Machining 37 41	仕上げ面
+T324	Machining 37 40	仕上げ
+T325	Machining 47 49	バリ
+R38	Relation Arg1:T325 Arg2:T317
+T538	Machining 5 7	寿命
+T569	Machining 20 28	みぞ幅の拡大しろ
+R35	Relation Arg1:T569 Arg2:T317
+T570	Machining 29 36	切削面の平面度
+R36	Relation Arg1:T570 Arg2:T317
+T571	Machining 37 46	仕上げ面粗さの変化
+R37	Relation Arg1:T571 Arg2:T317
+T572	Machining 50 53	かえり
+R39	Relation Arg1:T572 Arg2:T317
+T676	Machining 41 43	粗さ
+T702	Machining 5 9	寿命判定

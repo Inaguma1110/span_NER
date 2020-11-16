@@ -1,0 +1,9 @@
+T399	Machining 5 7	工具
+T400	Machining 10 13	被削材
+T402	Machining 14 18	熱伝導率
+R1	Negative Arg1:T402 Arg2:T403
+T403	Machining 24 28	切削温度
+T404	Machining 24 26	切削
+T405	Machining 26 28	温度
+T674	Trigger 19 22	大きい
+T675	Trigger 29 32	下がる

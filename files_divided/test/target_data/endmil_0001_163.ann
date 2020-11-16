@@ -1,0 +1,9 @@
+T448	Machining 16 18	摩耗
+T449	Machining 37 42	チッピング
+R578	Sub Arg1:T449 Arg2:T2335
+T450	Machining 43 45	呼び
+T2335	Machining 6 8	欠け
+T2336	Machining 25 27	脱落
+T2337	Machining 58 60	欠け
+T4243	Machining 12 16	すきとり
+T4244	Machining 12 18	すきとり摩耗

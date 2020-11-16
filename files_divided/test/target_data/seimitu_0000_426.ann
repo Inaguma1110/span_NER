@@ -1,0 +1,11 @@
+T1483	Machining 0 6	フライス加工
+T1484	Machining 8 11	切削力
+R443	Relation Arg1:T1484 Arg2:T1555
+T1485	Machining 29 31	切削
+T1486	Machining 35 37	切削
+T1487	Machining 40 42	工具
+T1555	Machining 35 39	切削厚さ
+T2948	Machining 0 4	フライス
+T2949	Machining 4 6	加工
+T2950	Machining 37 39	厚さ
+T1687	Machining 43 46	回転角

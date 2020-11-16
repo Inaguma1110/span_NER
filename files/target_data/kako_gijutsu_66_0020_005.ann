@@ -1,0 +1,27 @@
+T28	Machining 0 4	切削速度
+T29	Machining 0 2	切削
+T30	Machining 5 7	工具
+T31	Machining 5 10	工具の材質
+R1	Relation Arg1:T31 Arg2:T28
+T32	Machining 11 14	被削材
+T33	Machining 19 21	硬度
+T34	Machining 31 33	送り
+T35	Machining 31 35	送り速度
+T36	Machining 36 38	工具
+T37	Machining 45 48	切込み
+T38	Machining 50 52	加工
+T39	Machining 53 56	仕上げ
+T40	Machining 53 58	仕上げ加工
+T41	Machining 56 58	加工
+T42	Machining 91 93	剛性
+T153	Machining 11 21	被削材の種類及び硬度
+R2	Relation Arg1:T153 Arg2:T28
+T154	Machining 36 43	工具の形状寸法
+R3	Relation Arg1:T154 Arg2:T35
+T155	Machining 64 70	ワークの寸法
+R4	Relation Arg1:T155 Arg2:T37
+T156	Machining 88 93	機械の剛性
+R5	Relation Arg1:T156 Arg2:T37
+T185	Machining 49 52	荒加工
+T230	Machining 2 4	速度
+T231	Machining 33 35	速度

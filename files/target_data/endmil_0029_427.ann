@@ -1,0 +1,13 @@
+T1312	Machining 0 4	工具寿命
+R378	Positive Arg1:T1312 Arg2:T1314
+T1313	Machining 10 15	エンドミル
+T1314	Machining 27 33	コーティング
+T3477	Machining 0 2	工具
+T3478	Machining 2 4	寿命
+T3479	Machining 15 17	刃先
+T3480	Machining 18 21	潤滑性
+R689	Positive Arg1:T3480 Arg2:T1314
+T3481	Machining 10 17	エンドミル刃先
+T4779	Trigger 5 7	延長
+T4780	Trigger 22 24	向上
+T4781	Trigger 36 38	有効

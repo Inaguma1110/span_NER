@@ -1,0 +1,9 @@
+T715	Machining 0 4	送り速度
+R180	Relation Arg1:T715 Arg2:T716
+T716	Machining 11 14	送り量
+T717	Machining 26 29	送り量
+T2716	Machining 0 2	送り
+T2717	Machining 2 4	速度
+T2718	Machining 11 13	送り
+T2719	Machining 26 28	送り
+T2720	Machining 6 7	刃

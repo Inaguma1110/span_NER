@@ -1,0 +1,10 @@
+T1415	Machining 0 3	水溶性
+T1416	Machining 3 6	切削剤
+T1417	Machining 11 15	冷却効果
+T1558	Machining 0 6	水溶性切削剤
+R446	Relation Arg1:T1558 Arg2:T1417
+T2889	Machining 11 13	冷却
+T2890	Machining 39 41	油剤
+T2891	Machining 51 53	乳液
+T2892	Machining 56 58	油剤
+T2893	Machining 59 61	添加

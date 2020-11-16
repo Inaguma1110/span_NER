@@ -1,0 +1,14 @@
+T1023	Machining 18 20	工具
+R220	Relation Arg1:T1023 Arg2:T1024
+T1024	Machining 21 24	被削材
+T1025	Machining 32 36	工具摩耗
+R132	Relation Arg1:T1025 Arg2:T1028
+T1026	Machining 32 34	工具
+T1027	Machining 34 36	摩耗
+T1028	Machining 37 41	切削温度
+T1029	Machining 37 39	切削
+T1030	Machining 39 41	温度
+T1031	Machining 58 60	摩耗
+T1032	Machining 58 62	摩耗速度
+T1884	Machining 60 62	速度
+T1663	Machining 45 47	高速

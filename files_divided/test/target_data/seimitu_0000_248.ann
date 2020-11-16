@@ -1,0 +1,7 @@
+T908	Machining 0 6	ダイヤモンド
+R538	Relation Arg1:T908 Arg2:T909
+R539	Relation Arg1:T908 Arg2:T910
+R540	Relation Arg1:T908 Arg2:T911
+T909	Machining 20 22	硬度
+T910	Machining 23 27	熱伝導率
+T911	Machining 31 35	熱膨張率

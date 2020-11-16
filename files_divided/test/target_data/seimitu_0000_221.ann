@@ -1,0 +1,29 @@
+T811	Machining 24 29	炭素工具鋼
+R281	Sub Arg1:T811 Arg2:T809
+T813	Machining 33 36	焼入れ
+R268	Sub Arg1:T813 Arg2:T814
+T814	Machining 48 51	熱処理
+R269	Relation Arg1:T814 Arg2:T815
+R270	Relation Arg1:T814 Arg2:T816
+T815	Machining 55 57	硬度
+T816	Machining 58 60	靭性
+T817	Machining 96 99	熱処理
+T818	Machining 99 101	温度
+T819	Machining 113 115	温度
+R286	UpDown Arg1:T819 Arg2:T820
+T820	Machining 126 128	硬度
+R271	Positive Arg1:T820 Arg2:T821
+R272	Positive Arg1:T820 Arg2:T822
+T821	Machining 139 143	耐摩耗性
+T822	Machining 144 147	耐熱性
+T823	Machining 156 158	加工
+T2210	Machining 37 43	焼き戻し処理
+R509	Sub Arg1:T2210 Arg2:T814
+T826	Machining 0 3	炭素鋼
+T2211	Machining 6 9	炭素量
+T812	Machining 117 119	軟化
+T3532	Machining 20 21	鋼
+T3546	Machining 37 41	焼き戻し
+T3547	Machining 24 26	炭素
+T3548	Machining 26 29	工具鋼
+T3662	Machining 153 155	金属

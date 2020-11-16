@@ -1,0 +1,14 @@
+T370	Machining 0 3	切削面
+T371	Machining 0 2	切削
+T372	Machining 6 8	バリ
+T373	Machining 9 13	境界摩耗
+R54	Relation Arg1:T373 Arg2:T372
+T374	Machining 11 13	摩耗
+T375	Machining 22 24	切削
+T376	Machining 31 34	外周刃
+T377	Machining 42 45	切れ刃
+T580	Machining 38 41	かえり
+T581	Machining 48 52	損傷程度
+R55	Relation Arg1:T581 Arg2:T580
+T667	Machining 48 50	損傷
+T690	Machining 9 11	境界

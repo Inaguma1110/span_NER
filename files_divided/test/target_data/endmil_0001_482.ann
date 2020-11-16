@@ -1,0 +1,19 @@
+T1488	Machining 2 5	加工機
+T1489	Machining 25 33	ボールエンドミル
+R434	Sub Arg1:T1489 Arg2:T1494
+R446	Part Arg1:T1489 Arg2:T1488
+T1490	Machining 34 38	切削速度
+T1491	Machining 49 51	加工
+T1492	Machining 57 59	工具
+R448	Part Arg1:T1492 Arg2:T1488
+T1493	Machining 68 70	工具
+R449	Part Arg1:T1493 Arg2:T1488
+T1494	Machining 87 92	エンドミル
+R447	Part Arg1:T1494 Arg2:T1488
+T1495	Machining 102 104	加工
+T3648	Machining 28 33	エンドミル
+T3649	Machining 34 36	切削
+T3650	Machining 36 38	速度
+T3651	Machining 70 76	突き出し長さ
+T3652	Machining 70 74	突き出し
+T3653	Machining 74 76	長さ

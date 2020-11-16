@@ -1,0 +1,18 @@
+T59	Machining 0 5	ドリル加工
+T60	Machining 0 3	ドリル
+T61	Machining 3 5	加工
+T62	Machining 6 11	中ぐり加工
+T63	Machining 9 11	加工
+T64	Machining 14 17	穴加工
+T65	Machining 15 17	加工
+T66	Machining 24 28	切りくず
+T67	Machining 35 41	コンタリング
+T68	Machining 41 43	加工
+T69	Machining 48 52	断続切削
+R7	Relation Arg1:T69 Arg2:T115
+T70	Machining 50 52	切削
+T71	Machining 57 61	切りくず
+T72	Machining 78 82	切りくず
+T115	Machining 35 43	コンタリング加工
+T129	Machining 6 9	中ぐり
+T139	Machining 14 15	穴

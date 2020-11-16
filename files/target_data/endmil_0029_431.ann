@@ -1,0 +1,8 @@
+T1321	Machining 23 25	工具
+T1322	Machining 42 44	摩耗
+T3495	Machining 0 3	チタン
+R679	Positive Arg1:T3495 Arg2:T1322
+R680	Positive Arg1:T3495 Arg2:T3496
+T3496	Machining 45 47	溶着
+T4783	Trigger 48 50	促進
+T4790	Trigger 4 6	高温

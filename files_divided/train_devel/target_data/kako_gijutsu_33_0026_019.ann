@@ -1,0 +1,5 @@
+T93	Machining 1 4	中ぐり
+T107	Machining 4 6	主軸
+T108	Machining 6 10	繰り出し
+T109	Machining 4 10	主軸繰り出し
+T110	Machining 1 10	中ぐり主軸繰り出し

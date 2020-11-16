@@ -1,0 +1,6 @@
+T535	Machining 24 28	すくい面
+T536	Machining 30 33	切削力
+T3442	Machining 14 17	垂直力
+R141	Relation Arg1:T3442 Arg2:T536
+T3443	Variable 17 19	Ｎｔ
+T3444	Variable 33 35	Ｒｔ

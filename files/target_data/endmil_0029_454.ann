@@ -1,0 +1,15 @@
+T1395	Machining 2 5	銅合金
+R692	Relation Arg1:T1395 Arg2:T1399
+T1396	Machining 13 18	エンドミル
+T1397	Machining 22 24	加工
+T1398	Machining 31 33	工具
+T1399	Machining 34 36	摩耗
+T1400	Machining 43 45	摩耗
+R417	Positive Arg1:T1400 Arg2:T3549
+T1401	Machining 49 53	すくい面
+T1402	Machining 54 58	切りくず
+T3547	Machining 10 13	ＨＳＳ
+T3548	Machining 10 18	ＨＳＳエンドミル
+T3549	Machining 59 61	溶着
+T4798	Trigger 46 48	進む
+T4799	Trigger 59 61	溶着

@@ -1,0 +1,13 @@
+T101	Machining 5 7	切削
+R54	Relation Arg1:T101 Arg2:T102
+R517	Relation Arg1:T101 Arg2:T1834
+R518	Relation Arg1:T101 Arg2:T1830
+R519	Relation Arg1:T101 Arg2:T1828
+R672	Relation Arg1:T101 Arg2:T1829
+T102	Machining 36 37	熱
+T1828	Machining 38 40	潤滑
+T1829	Machining 41 43	物性
+T1830	Machining 31 35	変形力学
+T1833	Machining 31 33	変形
+T1834	Machining 28 30	材料
+T1835	Machining 33 35	力学

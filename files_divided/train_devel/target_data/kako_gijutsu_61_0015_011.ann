@@ -1,0 +1,7 @@
+T58	Machining 1 3	底刃
+T59	Machining 16 19	穴あけ
+T60	Machining 19 21	加工
+T588	Machining 10 13	座繰り
+R69	Sub Arg1:T588 Arg2:T44
+T589	Machining 16 21	穴あけ加工
+R70	Sub Arg1:T589 Arg2:T44

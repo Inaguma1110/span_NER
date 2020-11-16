@@ -1,0 +1,20 @@
+T219	Machining 5 8	せん断
+T220	Machining 14 18	せん断角
+R68	Relation Arg1:T220 Arg2:T217
+T221	Machining 20 23	せん断
+T222	Machining 30 36	せん断ひずみ
+R69	Relation Arg1:T222 Arg2:T217
+T223	Machining 38 41	せん断
+T224	Machining 47 50	せん断
+T379	Machining 47 52	せん断速度
+R89	Relation Arg1:T379 Arg2:T217
+T1912	Machining 23 25	変形
+T1913	Machining 8 10	変形
+T1914	Machining 5 10	せん断変形
+T1915	Machining 20 25	せん断変形
+T1916	Machining 30 33	せん断
+T1917	Machining 33 36	ひずみ
+T1918	Machining 41 43	変形
+T1919	Machining 38 43	せん断変形
+T1920	Machining 50 52	速度
+T3265	Machining 14 17	せん断

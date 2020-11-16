@@ -1,0 +1,7 @@
+T17	Machining 8 12	刃先強度
+T18	Machining 17 20	コーナ
+T19	Machining 35 40	チッピング
+T101	Machining 0 6	Sからの接触
+R5	Relation Arg1:T101 Arg2:T19
+T110	Machining 8 10	刃先
+T130	Machining 10 12	強度

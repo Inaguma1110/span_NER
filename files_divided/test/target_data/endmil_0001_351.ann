@@ -1,0 +1,13 @@
+T1079	Machining 6 10	ねじれ角
+R645	Negative Arg1:T1079 Arg2:T3178
+T1080	Machining 33 37	ねじれ角
+R646	Relation Arg1:T1080 Arg2:T3182
+T1081	Machining 45 47	切削
+T1082	Machining 75 78	切れ刃
+T3178	Machining 17 21	たわみ量
+T3179	Machining 17 20	たわみ
+T3180	Machining 51 57	ダウンカット
+T3181	Machining 61 67	アップカット
+T3182	Machining 84 87	たわみ
+T4720	Trigger 11 16	小さければ
+T4721	Trigger 22 24	減少

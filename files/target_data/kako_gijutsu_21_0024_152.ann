@@ -1,0 +1,3 @@
+T670	Machining 5 9	切りくず
+R67	Relation Arg1:T670 Arg2:T742
+T742	Machining 10 13	生産性

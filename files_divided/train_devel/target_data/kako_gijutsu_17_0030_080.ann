@@ -1,0 +1,7 @@
+T206	Machining 28 33	固有振動数
+R42	Relation Arg1:T206 Arg2:T295
+T295	Machining 17 19	振動
+T296	Machining 34 40	振動モード形
+R43	Relation Arg1:T296 Arg2:T295
+T429	Machining 34 36	振動
+T412	Machining 55 57	変形

@@ -1,0 +1,15 @@
+T115	Machining 0 4	ねじれ角
+T116	Machining 10 14	左ねじれ
+R154	Sub Arg1:T116 Arg2:T115
+T622	Machining 15 17	直刃
+R155	Sub Arg1:T622 Arg2:T115
+T630	Machining 33 37	強ねじれ
+R160	Sub Arg1:T630 Arg2:T115
+T638	Machining 18 21	30°
+R156	Sub Arg1:T638 Arg2:T115
+T639	Machining 21 24	15°
+R157	Sub Arg1:T639 Arg2:T115
+T640	Machining 25 28	45°
+R158	Sub Arg1:T640 Arg2:T115
+T641	Machining 29 32	60°
+R159	Sub Arg1:T641 Arg2:T115

@@ -1,0 +1,17 @@
+T824	Machining 2 7	炭素工具鋼
+T825	Machining 11 14	添加物
+R273	Positive Arg1:T825 Arg2:T943
+R274	Positive Arg1:T825 Arg2:T827
+R275	Positive Arg1:T825 Arg2:T828
+T827	Machining 23 25	硬度
+T828	Machining 26 28	靭性
+T939	Machining 36 43	炭素合金工具鋼
+T943	Machining 18 22	熱処理性
+T3529	Machining 38 40	合金
+T3530	Machining 40 43	工具鋼
+T3531	Machining 4 7	工具鋼
+T3533	Machining 36 40	炭素合金
+T3534	Machining 36 38	炭素
+T3535	Machining 2 4	炭素
+T3756	Trigger 15 17	加え
+T3757	Trigger 29 31	改善

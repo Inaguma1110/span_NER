@@ -1,0 +1,5 @@
+T95	Machining 4 8	切削条件
+T96	Machining 4 6	切削
+T97	Machining 18 20	摩耗
+T98	Machining 46 48	摩耗
+T1675	Variable 10 12	VB

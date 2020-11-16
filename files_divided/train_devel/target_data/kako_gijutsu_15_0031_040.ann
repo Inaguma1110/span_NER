@@ -1,0 +1,9 @@
+T129	Machining 23 26	切込み
+R13	Relation Arg1:T129 Arg2:T808
+T130	Machining 30 33	工作物
+T794	Variable 16 17	L
+T795	Variable 18 19	D
+T796	Variable 27 28	a
+T807	Machining 8 11	工作物
+R12	Relation Arg1:T807 Arg2:T808
+T808	Machining 34 37	円筒度

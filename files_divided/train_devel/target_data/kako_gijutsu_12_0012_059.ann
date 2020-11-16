@@ -1,0 +1,13 @@
+T223	Machining 5 9	切りくず
+T224	Machining 10 13	被削材
+T225	Machining 14 16	工具
+T227	Machining 46 48	熱源
+T230	Machining 61 65	熱伝導率
+R24	Relation Arg1:T230 Arg2:T234
+T231	Machining 66 68	比熱
+R29	Relation Arg1:T231 Arg2:T234
+T233	Machining 81 83	精度
+T234	Machining 84 88	切削温度
+T235	Machining 84 86	切削
+T236	Machining 86 88	温度
+T589	Machining 56 60	熱的性質

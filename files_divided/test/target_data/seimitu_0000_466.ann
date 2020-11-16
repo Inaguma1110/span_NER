@@ -1,0 +1,14 @@
+T1653	Machining 0 4	前切れ刃
+T1654	Machining 5 9	境界摩耗
+T1655	Machining 27 31	境界摩耗
+R473	Positive Arg1:T1655 Arg2:T1656
+T1656	Machining 45 51	仕上げ面粗さ
+T3100	Machining 5 7	境界
+T3101	Machining 7 9	摩耗
+T3102	Machining 27 29	境界
+T3103	Machining 29 31	摩耗
+T3104	Machining 45 49	仕上げ面
+T3105	Machining 49 51	粗さ
+T3106	Machining 45 48	仕上げ
+T3787	Trigger 40 43	大きさ
+T3788	Trigger 52 54	増加

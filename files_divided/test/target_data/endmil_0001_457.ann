@@ -1,0 +1,22 @@
+T1410	Machining 0 6	アルミニウム
+R693	Relation Arg1:T1410 Arg2:T1412
+T1411	Machining 7 15	アルミニウム合金
+R694	Relation Arg1:T1411 Arg2:T1412
+T1412	Machining 19 22	被削性
+R440	Positive Arg1:T1412 Arg2:T1414
+R444	Positive Arg1:T1412 Arg2:T1415
+T1413	Machining 29 34	エンドミル
+T1414	Machining 36 40	切削速度
+T1415	Machining 51 58	高速高送り加工
+T1416	Machining 56 58	加工
+T3551	Machining 7 13	アルミニウム
+T3552	Machining 13 15	合金
+T3553	Machining 26 29	ＨＳＳ
+T3562	Machining 36 38	切削
+T3563	Machining 38 40	速度
+T3476	Quantity 40 43	100
+T4392	Unit 43 48	ｍ／ｍｉｎ
+T1187	Machining 51 56	高速高送り
+T4802	Trigger 59 61	可能
+T4803	Trigger 23 25	良く
+T4878	Trigger 40 48	100ｍ／ｍｉｎ

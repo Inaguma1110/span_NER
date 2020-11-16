@@ -1,0 +1,5 @@
+T403	Machining 1 5	冷却速度
+R20	Negative Arg1:T403 Arg2:T401
+T549	Machining 1 3	冷却
+T691	Machining 3 5	速度
+T715	Trigger 6 8	低い

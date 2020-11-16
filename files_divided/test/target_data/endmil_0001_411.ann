@@ -1,0 +1,7 @@
+T1264	Machining 4 6	加工
+T1265	Machining 12 16	ソリッド
+R398	Sub Arg1:T1265 Arg2:T1267
+T1266	Machining 17 23	コーティング
+T1267	Machining 23 30	超硬エンドミル
+T3421	Machining 23 25	超硬
+T3422	Machining 25 30	エンドミル

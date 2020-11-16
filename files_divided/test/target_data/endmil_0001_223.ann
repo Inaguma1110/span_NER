@@ -1,0 +1,12 @@
+T673	Machining 9 13	切りくず
+T674	Machining 25 28	せん断
+R220	Relation Arg1:T674 Arg2:T677
+T675	Machining 37 40	加工物
+T676	Machining 47 50	切れ刃
+R221	Relation Arg1:T676 Arg2:T677
+T677	Machining 60 64	切削抵抗
+T2629	Machining 13 15	生成
+T2631	Machining 9 15	切りくず生成
+T2632	Machining 60 62	切削
+T2633	Machining 62 64	抵抗
+T2634	Machining 65 67	変動

@@ -1,0 +1,17 @@
+T59	Machining 3 7	切りくず
+R18	Positive Arg1:T59 Arg2:T62
+T60	Machining 8 10	工具
+T61	Machining 10 14	すくい面
+T62	Machining 31 33	摩擦
+T63	Machining 47 50	摩擦力
+T3224	Machining 8 14	工具すくい面
+R63	Positive Arg1:T3224 Arg2:T62
+T3225	Machining 43 46	垂直力
+T3669	Machining 15 17	接触
+R666	Relation Arg1:T3669 Arg2:T64
+R667	Relation Arg1:T3669 Arg2:T1809
+R668	Relation Arg1:T3669 Arg2:T65
+R669	Relation Arg1:T3669 Arg2:T3225
+R670	Relation Arg1:T3669 Arg2:T63
+T3817	Trigger 15 17	接触
+T3818	Trigger 34 36	生じ

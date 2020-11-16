@@ -1,0 +1,5 @@
+T217	Machining 5 8	切削力
+R67	Relation Arg1:T217 Arg2:T407
+T218	Machining 11 14	せん断
+T407	Machining 11 16	せん断変形
+T1910	Machining 14 16	変形

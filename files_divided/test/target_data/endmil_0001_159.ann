@@ -1,0 +1,8 @@
+T438	Machining 0 2	工具
+T439	Machining 3 6	被削材
+T440	Machining 23 25	温度
+R85	Relation Arg1:T440 Arg2:T441
+T441	Machining 30 34	熱起電力
+T2328	Machining 9 11	金属
+T4240	Machining 30 32	熱起
+T4241	Machining 32 34	電力

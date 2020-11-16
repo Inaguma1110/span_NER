@@ -1,0 +1,4 @@
+T27	Machining 5 7	切削
+T31	Machining 5 9	切削方向
+R2	Relation Arg1:T31 Arg2:T32
+T32	Machining 10 12	抵抗

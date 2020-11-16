@@ -1,0 +1,17 @@
+T45	Machining 3 6	切れ刃
+T46	Machining 7 12	すくい角度
+R10	Relation Arg1:T46 Arg2:T83
+T47	Machining 13 20	チップポケット
+R11	Relation Arg1:T47 Arg2:T83
+T48	Machining 13 16	チップ
+T49	Machining 25 29	切りくず
+T50	Machining 41 45	切りくず
+T51	Machining 57 60	加工面
+T52	Machining 57 59	加工
+T53	Machining 61 63	擦過
+T80	Machining 25 34	切りくずの形状・量
+R12	Relation Arg1:T80 Arg2:T83
+T83	Machining 61 64	擦過傷
+T81	Machining 41 54	切りくずの巻き込み、つまり
+R13	Relation Arg1:T81 Arg2:T83
+T92	Machining 75 77	深溝

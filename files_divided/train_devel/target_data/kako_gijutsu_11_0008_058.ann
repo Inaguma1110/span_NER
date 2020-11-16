@@ -1,0 +1,11 @@
+T292	Machining 0 4	切削抵抗
+T293	Machining 0 2	切削
+T294	Machining 11 13	切削
+T295	Machining 11 15	切削油剤
+T296	Machining 11 18	切削油剤の作用
+T297	Machining 19 23	潤滑作用
+R29	Relation Arg1:T297 Arg2:T292
+R63	Sub Arg1:T297 Arg2:T296
+T71	Machining 2 4	抵抗
+T580	Machining 13 15	油剤
+T595	Machining 19 21	潤滑

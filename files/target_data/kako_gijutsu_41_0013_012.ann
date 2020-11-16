@@ -1,0 +1,7 @@
+T50	Machining 8 12	工具寿命
+T51	Machining 8 10	工具
+T52	Machining 24 27	被削材
+T54	Machining 42 46	工具材種
+R1	Relation Arg1:T54 Arg2:T50
+T85	Machining 42 44	工具
+T59	Machining 10 12	寿命

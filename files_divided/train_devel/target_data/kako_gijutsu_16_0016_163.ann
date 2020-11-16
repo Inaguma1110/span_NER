@@ -1,0 +1,9 @@
+T352	Machining 3 7	切りくず
+T353	Machining 11 17	せん断ひずみ
+R59	Positive Arg1:T353 Arg2:T356
+T354	Machining 11 14	せん断
+T355	Machining 14 17	ひずみ
+T356	Machining 26 30	切りくず
+T679	Machining 3 10	切りくず生成域
+T736	Trigger 18 20	減少
+T737	Trigger 31 35	薄くなる

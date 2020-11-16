@@ -1,0 +1,16 @@
+T1732	Machining 4 9	エンドミル
+T1733	Machining 10 12	刃数
+R488	Positive Arg1:T1733 Arg2:T1734
+T1734	Machining 20 24	切削抵抗
+R489	Positive Arg1:T1734 Arg2:T1736
+T1735	Machining 25 29	工具剛性
+T1736	Machining 35 40	びびり振動
+T4109	Machining 20 22	切削
+T4110	Machining 22 24	抵抗
+T4111	Machining 25 27	工具
+T4112	Machining 27 29	剛性
+T4113	Machining 35 38	びびり
+T4114	Machining 38 40	振動
+T4847	Trigger 16 19	欲張る
+T4848	Trigger 30 34	上まわり
+T4849	Trigger 41 43	誘発

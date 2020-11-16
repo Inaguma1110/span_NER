@@ -1,0 +1,4 @@
+T607	Machining 0 2	工具
+R155	Relation Arg1:T607 Arg2:T608
+T608	Machining 12 15	工作物
+T3449	Machining 16 18	移動

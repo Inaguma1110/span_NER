@@ -1,0 +1,5 @@
+T17	Machining 0 2	切削
+T18	Machining 0 4	切削工具
+T19	Machining 2 4	工具
+T747	Machining 7 10	バイト
+R82	Relation Arg1:T747 Arg2:T18

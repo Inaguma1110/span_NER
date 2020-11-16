@@ -1,0 +1,18 @@
+T178	Machining 6 8	切削
+R64	Relation Arg1:T178 Arg2:T179
+T179	Machining 11 15	切りくず
+T180	Machining 20 23	工作物
+T181	Machining 31 34	せん断
+T182	Machining 34 38	塑性変形
+T183	Machining 41 45	切りくず
+T184	Machining 50 52	加工
+T211	Machining 31 38	せん断塑性変形
+R65	Positive Arg1:T211 Arg2:T183
+T1898	Machining 34 36	塑性
+T1899	Machining 36 38	変形
+T1900	Machining 48 50	塑性
+T1901	Machining 48 52	塑性加工
+T1908	Machining 11 17	切りくず生成
+T3257	Machining 15 17	生成
+T3748	Trigger 39 41	加へ
+T3749	Trigger 46 48	作る

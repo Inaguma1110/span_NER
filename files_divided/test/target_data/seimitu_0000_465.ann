@@ -1,0 +1,30 @@
+T1643	Machining 0 2	工具
+T1644	Machining 3 6	切れ刃
+R498	Part Arg1:T1644 Arg2:T1643
+T1645	Machining 12 14	摩耗
+T1646	Machining 25 30	逃げ面摩耗
+R469	Sub Arg1:T1646 Arg2:T1645
+T1647	Machining 31 35	境界摩耗
+R470	Sub Arg1:T1647 Arg2:T1645
+T1648	Machining 41 45	仕上げ面
+T1649	Machining 50 54	前切れ刃
+T1650	Machining 55 60	逃げ面摩耗
+R471	Relation Arg1:T1650 Arg2:T1652
+T1651	Machining 63 67	境界摩耗
+R472	Relation Arg1:T1651 Arg2:T1652
+T1652	Machining 68 74	仕上げ面粗さ
+T3087	Machining 3 8	切れ刃形状
+R695	Relation Arg1:T3087 Arg2:T1646
+R696	Relation Arg1:T3087 Arg2:T1647
+T3088	Machining 25 28	逃げ面
+T3089	Machining 28 30	摩耗
+T3090	Machining 31 33	境界
+T3091	Machining 33 35	摩耗
+T3092	Machining 41 44	仕上げ
+T3093	Machining 55 58	逃げ面
+T3094	Machining 58 60	摩耗
+T3095	Machining 63 65	境界
+T3096	Machining 65 67	摩耗
+T3097	Machining 68 72	仕上げ面
+T3098	Machining 72 74	粗さ
+T3099	Machining 68 71	仕上げ

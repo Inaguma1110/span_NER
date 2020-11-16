@@ -1,0 +1,7 @@
+T260	Machining 15 16	熱
+R105	Relation Arg1:T260 Arg2:T262
+T261	Machining 17 20	被削材
+T262	Machining 30 33	被削材
+T563	Variable 7 10	R_1
+T564	Variable 11 14	Q_1
+T634	Machining 39 41	加熱

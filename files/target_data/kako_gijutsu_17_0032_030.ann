@@ -1,0 +1,6 @@
+T239	Machining 3 7	強制振動
+R13	Relation Arg1:T239 Arg2:T237
+T240	Machining 8 13	再生びびり
+R14	Relation Arg1:T240 Arg2:T237
+T377	Machining 5 7	振動
+T566	Machining 10 13	びびり

@@ -1,0 +1,18 @@
+T64	Machining 7 9	送り
+T65	Machining 20 25	エンドミル
+T66	Machining 41 44	ドリル
+T67	Machining 76 78	送り
+T68	Machining 76 80	送り速度
+T164	Machining 7 11	送り速さ
+T165	Machining 71 75	移動距離
+R18	Relation Arg1:T165 Arg2:T164
+T208	Machining 49 55	主軸回転速数
+T221	Machining 49 51	主軸
+T224	Machining 51 55	回転速数
+T250	Machining 51 53	回転
+T251	Machining 78 80	速度
+T264	Machining 9 11	速さ
+T265	Unit 93 99	mm/min
+T266	Machining 61 75	１分間当りのテーブル移動距離
+T267	Machining 32 35	バイト
+T268	Machining 36 40	ボール盤

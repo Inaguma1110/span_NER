@@ -1,0 +1,7 @@
+T639	Machining 10 13	送り量
+R102	Relation Arg1:T639 Arg2:T1394
+T1394	Machining 17 24	寿命曲線の勾配
+T1462	Variable 24 25	n
+T753	Machining 17 21	寿命曲線
+T1561	Machining 10 12	送り
+T1760	Machining 17 19	寿命

@@ -1,0 +1,11 @@
+T452	Machining 0 6	クレータ摩耗
+T453	Machining 4 6	摩耗
+T454	Machining 18 24	クレータ摩耗
+T455	Machining 22 24	摩耗
+T457	Machining 44 46	超硬
+T458	Machining 44 48	超硬合金
+T459	Machining 52 57	サーメット
+R44	Relation Arg1:T459 Arg2:T454
+T727	Machining 39 48	コーテッド超硬合金
+R43	Relation Arg1:T727 Arg2:T454
+T377	Machining 46 48	合金

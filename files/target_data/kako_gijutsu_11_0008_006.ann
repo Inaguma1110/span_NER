@@ -1,0 +1,11 @@
+T28	Machining 0 3	背分力
+R6	Relation Arg1:T28 Arg2:T586
+R58	Sub Arg1:T28 Arg2:T487
+T29	Machining 4 7	切込み
+T30	Machining 4 9	切込み運動
+T31	Machining 20 23	工作物
+T487	Machining 12 14	分力
+T488	Machining 31 33	分力
+T466	Machining 4 11	切込み運動方向
+T586	Machining 24 26	変形
+T604	Machining 7 9	運動

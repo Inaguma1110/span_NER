@@ -1,0 +1,6 @@
+T605	Machining 18 23	二次元切削
+R233	Relation Arg1:T605 Arg2:T606
+T606	Machining 30 34	切削温度
+T2123	Machining 30 32	切削
+T2124	Machining 32 34	温度
+T2125	Machining 21 23	切削

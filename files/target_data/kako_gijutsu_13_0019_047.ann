@@ -1,0 +1,8 @@
+T128	Machining 14 18	塑性変形
+T1359	Machining 0 2	高温
+R33	Relation Arg1:T1359 Arg2:T128
+T244	Machining 2 5	高応力
+R187	Relation Arg1:T244 Arg2:T128
+T1650	Machining 7 9	刃先
+T1699	Machining 14 16	塑性
+T1700	Machining 16 18	変形

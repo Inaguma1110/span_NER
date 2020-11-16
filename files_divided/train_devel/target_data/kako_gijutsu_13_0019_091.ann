@@ -1,0 +1,13 @@
+T314	Machining 10 13	熱拡散
+T315	Machining 16 18	摩耗
+T316	Machining 16 20	摩耗速度
+T317	Machining 49 51	温度
+T1293	Variable 5 6	w
+T1295	Variable 8 9	t
+T1296	Variable 34 35	R
+T1298	Variable 45 46	θ
+T1447	Variable 21 22	E
+T1815	Machining 40 44	気体定数
+T1904	Machining 29 33	エネルギ
+T1908	Machining 18 20	速度
+T1911	Machining 23 25	拡散

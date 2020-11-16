@@ -1,0 +1,5 @@
+T48	Machining 1 3	側刃
+T49	Machining 4 6	底刃
+T50	Machining 17 20	段削り
+R56	Sub Arg1:T50 Arg2:T44
+T51	Machining 18 20	削り

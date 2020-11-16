@@ -1,0 +1,4 @@
+T1073	Machining 23 25	工具
+T1074	Machining 26 28	摩耗
+T2496	Machining 11 13	寿命
+R344	Relation Arg1:T2496 Arg2:T1074

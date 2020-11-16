@@ -1,0 +1,19 @@
+T752	Machining 17 21	S45C
+T753	Machining 28 31	仕上げ
+T754	Machining 31 33	旋削
+T755	Machining 38 40	切削
+T756	Machining 43 51	切削仕上げ面粗さ
+T757	Machining 43 49	切削仕上げ面
+T758	Machining 43 45	切削
+T760	Machining 45 49	仕上げ面
+T762	Machining 83 87	理論粗さ
+T1169	Machining 9 17	機械構造用炭素鋼
+T1170	Machining 28 33	仕上げ旋削
+T1171	Machining 38 42	切削距離
+R168	Relation Arg1:T1171 Arg2:T756
+T1172	Variable 52 54	Ry
+T1318	Machining 22 26	焼なまし
+T772	Machining 45 48	仕上げ
+T751	Machining 14 17	炭素鋼
+T1441	Machining 49 51	粗さ
+T749	Machining 85 87	粗さ

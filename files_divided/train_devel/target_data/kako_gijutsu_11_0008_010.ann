@@ -1,0 +1,12 @@
+T51	Machining 5 11	単位切削容積
+T52	Machining 7 11	切削容積
+T53	Machining 7 9	切削
+T54	Machining 14 21	切削エネルギー
+T55	Machining 14 16	切削
+T56	Machining 16 21	エネルギー
+T57	Machining 28 32	切削動力
+T58	Machining 28 30	切削
+T367	Machining 26 32	単位切削動力
+T374	Variable 33 35	up
+T41	Machining 0 4	単位時間
+T11	Machining 30 32	動力

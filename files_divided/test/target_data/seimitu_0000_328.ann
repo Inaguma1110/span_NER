@@ -1,0 +1,9 @@
+T1165	Machining 10 12	環境
+R374	Relation Arg1:T1165 Arg2:T1162
+T1166	Machining 13 15	温度
+R375	Relation Arg1:T1166 Arg2:T1162
+T2616	Machining 2 6	接触金属
+T2617	Machining 16 20	接触時間
+T2618	Machining 2 4	接触
+T2619	Machining 4 6	金属
+T2620	Machining 16 18	接触

@@ -1,0 +1,13 @@
+T727	Machining 9 13	加工精度
+T728	Machining 19 24	仕上げ加工
+T729	Machining 36 39	送り量
+R185	Relation Arg1:T729 Arg2:T730
+T730	Machining 45 49	加工精度
+T2742	Machining 9 11	加工
+T2743	Machining 11 13	精度
+T2744	Machining 19 22	仕上げ
+T2745	Machining 22 24	加工
+T2746	Machining 31 32	刃
+T2747	Machining 36 38	送り
+T2748	Machining 45 47	加工
+T2749	Machining 47 49	精度

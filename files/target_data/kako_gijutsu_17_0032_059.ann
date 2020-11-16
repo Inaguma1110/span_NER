@@ -1,0 +1,9 @@
+T161	Machining 16 21	固有振動数
+T162	Machining 26 30	切削速度
+T163	Machining 26 28	切削
+T411	Machining 36 38	振動
+T490	Machining 36 40	振動変位
+T491	Quantity 4 8	1000
+T492	Unit 8 10	Hz
+T581	Machining 38 40	変位
+T587	Machining 28 30	速度

@@ -1,0 +1,16 @@
+T670	Machining 4 7	せん断
+T671	Machining 15 17	熱源
+T672	Machining 18 21	せん断
+T673	Machining 26 29	工作物
+T674	Machining 38 40	熱源
+T2159	Machining 21 23	速度
+T2160	Machining 18 23	せん断速度
+T2161	Machining 36 38	移動
+T2162	Machining 36 40	移動熱源
+T2164	Machining 29 31	表面
+T2165	Machining 32 34	移動
+T3484	Machining 4 8	せん断面
+T3485	Machining 4 10	せん断面面積
+T3486	Variable 23 25	Ｖｓ
+T3491	Machining 26 31	工作物表面
+R179	Relation Arg1:T3491 Arg2:T2162

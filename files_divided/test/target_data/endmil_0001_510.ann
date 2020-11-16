@@ -1,0 +1,7 @@
+T1543	Machining 0 3	逃げ面
+R450	Negative Arg1:T1543 Arg2:T1544
+T1544	Machining 10 14	刃先強度
+T3764	Machining 10 12	刃先
+T3765	Machining 12 14	強度
+T4812	Trigger 4 10	凹形状となり
+T4813	Trigger 15 19	弱くなり

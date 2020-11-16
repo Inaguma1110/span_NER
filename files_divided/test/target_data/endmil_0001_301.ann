@@ -1,0 +1,5 @@
+T899	Machining 11 14	切込み
+T900	Machining 26 28	切削
+T3027	Machining 0 6	ダウンカット
+R803	Negative Arg1:T3027 Arg2:T899
+T4680	Trigger 18 23	小さくなる

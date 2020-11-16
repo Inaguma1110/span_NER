@@ -1,0 +1,4 @@
+T1006	Machining 22 26	S45C
+T1412	Machining 14 17	hBN
+R127	Relation Arg1:T1412 Arg2:T1413
+T1413	Machining 27 29	寿命

@@ -1,0 +1,12 @@
+T53	Machining 9 13	切りくず
+T54	Machining 28 32	切りくず
+R17	Relation Arg1:T54 Arg2:T55
+R48	Relation Arg1:T54 Arg2:T3667
+T55	Machining 37 39	機構
+T56	Machining 64 67	切削力
+T1806	Machining 70 72	動力
+T3667	Machining 46 47	力
+T3670	Machining 14 16	変化
+R257	Relation Arg1:T3670 Arg2:T1807
+R514	Relation Arg1:T3670 Arg2:T3668
+R665	Relation Arg1:T3670 Arg2:T1808

@@ -1,0 +1,6 @@
+T176	Machining 30 33	せん断
+R43	Relation Arg1:T176 Arg2:T177
+T177	Machining 47 51	切りくず
+T1887	Machining 15 17	刃先
+T1888	Machining 33 35	変形
+T1907	Machining 30 35	せん断変形

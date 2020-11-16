@@ -1,0 +1,4 @@
+T1567	Machining 5 10	エンドミル
+T1568	Machining 11 12	溝
+R465	Part Arg1:T1568 Arg2:T1567
+T1569	Machining 12 16	ねじれ角

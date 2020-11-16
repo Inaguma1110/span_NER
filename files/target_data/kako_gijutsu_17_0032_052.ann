@@ -1,0 +1,15 @@
+T114	Machining 0 4	切削条件
+T115	Machining 0 2	切削
+T116	Machining 8 12	軽切込み
+R22	Relation Arg1:T116 Arg2:T273
+T117	Machining 13 16	切削幅
+T118	Machining 13 15	切削
+T119	Machining 19 22	高送り
+R24	Relation Arg1:T119 Arg2:T273
+T120	Machining 26 30	低速切削
+R25	Relation Arg1:T120 Arg2:T273
+T273	Machining 31 36	再生びびり
+T387	Machining 33 36	びびり
+T592	Machining 26 28	低速
+T605	Machining 15 16	幅
+T73	Machining 28 30	切削

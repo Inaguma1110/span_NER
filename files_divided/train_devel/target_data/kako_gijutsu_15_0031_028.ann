@@ -1,0 +1,5 @@
+T95	Machining 0 3	送り量
+T777	Variable 3 4	f
+T778	Quantity 5 8	0.1
+T779	Unit 8 14	mm/rev
+T705	Machining 0 2	送り

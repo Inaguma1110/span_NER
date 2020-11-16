@@ -1,0 +1,9 @@
+T528	Machining 22 26	切削速度
+R111	Positive Arg1:T528 Arg2:T529
+T529	Machining 27 29	切削
+T2420	Machining 2 4	質量
+R588	Relation Arg1:T2420 Arg2:T2422
+T2421	Machining 5 8	加速度
+R589	Relation Arg1:T2421 Arg2:T2422
+T2423	Machining 22 24	切削
+T4248	Machining 24 26	速度

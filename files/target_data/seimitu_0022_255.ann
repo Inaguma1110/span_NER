@@ -1,0 +1,8 @@
+T2330	Machining 0 3	焼結剤
+T2338	Machining 11 13	金属
+R342	Sub Arg1:T2338 Arg2:T2330
+T2340	Machining 14 16	Ｎｉ
+T2341	Machining 18 23	セラミクス
+R554	Sub Arg1:T2341 Arg2:T2330
+T2342	Machining 41 44	結合剤
+T2343	Machining 49 51	焼結

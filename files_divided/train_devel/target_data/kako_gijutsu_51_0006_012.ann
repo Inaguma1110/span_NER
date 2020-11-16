@@ -1,0 +1,11 @@
+T37	Machining 3 6	切れ刃
+T38	Machining 26 29	切れ刃
+R25	Relation Arg1:T38 Arg2:T161
+T161	Machining 21 24	両側面
+T162	Machining 38 40	衝撃
+T163	Machining 32 36	食い付き
+T164	Machining 32 40	食い付き時の衝撃
+R26	Relation Arg1:T164 Arg2:T147
+T185	Machining 51 53	直刃
+T199	Machining 51 54	直刃型
+T200	Machining 12 14	千鳥

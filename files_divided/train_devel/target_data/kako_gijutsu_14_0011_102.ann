@@ -1,0 +1,21 @@
+T682	Machining 4 9	副切込み角
+T684	Machining 5 9	切込み角
+T685	Machining 30 33	切込み
+T686	Machining 34 38	長手切削
+T687	Machining 36 38	切削
+T689	Machining 39 42	送り量
+T690	Machining 47 50	仕上げ
+T691	Machining 57 59	温度
+T692	Machining 64 68	構成刃先
+T1242	Machining 55 59	刃面温度
+R98	Relation Arg1:T1242 Arg2:T692
+T1400	Quantity 14 17	10′
+T1401	Quantity 18 21	30′
+T1402	Machining 22 26	さらい刃
+R57	Negative Arg1:T1402 Arg2:T1242
+R58	Relation Arg1:T1402 Arg2:T692
+T740	Machining 66 68	刃先
+T1411	Machining 39 41	送り
+T1412	Machining 55 57	刃面
+T1643	Trigger 60 62	低下
+T1625	Trigger 10 22	小さい（10′～30′）

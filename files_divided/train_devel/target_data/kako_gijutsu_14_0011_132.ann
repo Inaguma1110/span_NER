@@ -1,0 +1,8 @@
+T917	Machining 2 4	切削
+T918	Machining 2 6	切削油剤
+T919	Machining 2 9	切削油剤の効果
+R195	Relation Arg1:T919 Arg2:T1336
+T920	Machining 22 24	切削
+T1336	Machining 20 24	低速切削
+T903	Machining 4 6	油剤
+T1559	Machining 20 22	低速

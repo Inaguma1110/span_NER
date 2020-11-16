@@ -1,0 +1,9 @@
+T1712	Machining 0 3	工作物
+T1713	Machining 16 19	溝付け
+T1714	Machining 19 21	切削
+T1715	Machining 26 29	切削幅
+T3165	Machining 3 5	材料
+T3166	Machining 0 5	工作物材料
+T3167	Machining 16 21	溝付け切削
+T3168	Machining 39 41	材料
+T3647	Machining 26 31	切削幅方向

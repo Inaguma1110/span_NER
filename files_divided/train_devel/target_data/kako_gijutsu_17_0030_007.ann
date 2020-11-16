@@ -1,0 +1,6 @@
+T8	Machining 23 28	固有振動数
+R69	Relation Arg1:T8 Arg2:T228
+T226	Machining 3 5	振動
+T227	Machining 40 42	振動
+T228	Machining 46 49	周波数
+T607	Machining 20 22	速さ

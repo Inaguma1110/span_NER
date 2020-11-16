@@ -1,0 +1,11 @@
+T734	Machining 3 5	切削
+T735	Machining 21 25	境界摩耗
+R102	Relation Arg1:T735 Arg2:T737
+T736	Machining 23 25	摩耗
+T737	Machining 28 34	仕上げ面粗さ
+T738	Machining 28 32	仕上げ面
+T1311	Variable 37 40	ΔRy
+T1312	Unit 41 43	μm
+T766	Machining 28 31	仕上げ
+T1479	Machining 32 34	粗さ
+T1511	Machining 21 23	境界

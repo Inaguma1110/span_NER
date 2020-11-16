@@ -1,0 +1,12 @@
+T360	Machining 0 4	切削温度
+T361	Machining 0 2	切削
+T362	Machining 2 4	温度
+T363	Machining 32 35	被削材
+T364	Machining 36 41	比切削抵抗
+T365	Machining 37 41	切削抵抗
+T366	Machining 37 39	切削
+T1205	Variable 28 30	up
+R40	Relation Arg1:T1205 Arg2:T360
+T1206	Machining 32 41	被削材の比切削抵抗
+R41	Relation Arg1:T1206 Arg2:T360
+T21	Machining 39 41	抵抗

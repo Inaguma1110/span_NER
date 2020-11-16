@@ -1,0 +1,7 @@
+T1191	Machining 0 7	熱・科学的作用
+T1192	Machining 16 18	切削
+T1193	Machining 26 28	凝着
+R355	Relation Arg1:T1193 Arg2:T1194
+T1194	Machining 36 38	摩耗
+T2659	Machining 29 31	拡散
+R341	Relation Arg1:T2659 Arg2:T1194

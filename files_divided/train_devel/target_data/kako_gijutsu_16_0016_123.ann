@@ -1,0 +1,6 @@
+T256	Machining 15 19	切りくず
+T257	Machining 19 21	温度
+T423	Machining 15 21	切りくず温度
+T498	Quantity 0 3	300
+T499	Unit 3 8	m/min
+T730	Trigger 22 24	増大

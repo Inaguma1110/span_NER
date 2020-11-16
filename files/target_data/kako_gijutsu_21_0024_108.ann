@@ -1,0 +1,20 @@
+T460	Machining 2 8	クレータ摩耗
+T461	Machining 6 8	摩耗
+T462	Machining 14 19	逃げ面摩耗
+T463	Machining 14 17	逃げ面
+T464	Machining 17 19	摩耗
+T465	Machining 26 32	コーティング
+T466	Machining 50 56	コーティング
+T467	Machining 62 65	切れ刃
+T468	Machining 66 68	靭性
+T728	Machining 26 36	コーティング膜の膜厚
+R45	Negative Arg1:T728 Arg2:T460
+R46	Negative Arg1:T728 Arg2:T462
+T729	Machining 50 57	コーティング膜
+R47	Negative Arg1:T729 Arg2:T730
+T730	Machining 62 68	切れ刃の靭性
+T1020	Trigger 9 11	抑制
+T1021	Trigger 20 24	進行抑制
+T1022	Trigger 37 39	厚い
+T1023	Trigger 58 60	厚い
+T1024	Trigger 69 71	低下

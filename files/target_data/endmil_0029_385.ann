@@ -1,0 +1,10 @@
+T1166	Machining 14 16	切削
+T1167	Machining 21 28	曲げモーメント
+R344	Positive Arg1:T1167 Arg2:T1168
+T3284	Machining 0 4	突き出し
+T3288	Machining 4 6	長さ
+T3289	Machining 0 6	突き出し長さ
+R663	Positive Arg1:T3289 Arg2:T1167
+T3290	Machining 21 23	曲げ
+T4743	Trigger 7 12	大きくなれ
+T4744	Trigger 29 31	増大

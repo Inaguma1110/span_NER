@@ -1,0 +1,14 @@
+T236	Machining 35 39	強制振動
+R47	Relation Arg1:T236 Arg2:T299
+T300	Machining 55 59	外来振動
+R48	Relation Arg1:T300 Arg2:T299
+T320	Machining 3 6	電動機
+T321	Machining 7 10	回転軸
+T322	Machining 11 13	軸受
+T328	Machining 14 17	軸継手
+T329	Machining 18 20	歯車
+T330	Machining 21 24	ポンプ
+T331	Machining 25 28	ベルト
+T376	Machining 37 39	振動
+T395	Machining 57 59	振動
+T497	Machining 77 79	振動

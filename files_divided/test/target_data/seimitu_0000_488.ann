@@ -1,0 +1,14 @@
+T1742	Machining 4 7	工作物
+T1743	Machining 10 12	工具
+T1744	Machining 21 23	剛性
+R481	Relation Arg1:T1744 Arg2:T3194
+T1746	Machining 35 37	加工
+T1747	Machining 47 49	切削
+T1748	Machining 51 54	切削力
+R480	Relation Arg1:T1748 Arg2:T1769
+T1768	Machining 24 27	加工力
+R482	Relation Arg1:T1768 Arg2:T3194
+T1769	Machining 35 39	加工誤差
+T3194	Machining 0 3	変形量
+T3649	Machining 13 16	支持法
+R654	Relation Arg1:T3649 Arg2:T3194

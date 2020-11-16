@@ -1,0 +1,16 @@
+T861	Machining 0 5	切込み深さ
+R254	Positive Arg1:T861 Arg2:T862
+R256	Negative Arg1:T861 Arg2:T863
+T862	Machining 12 16	切削抵抗
+R255	Negative Arg1:T862 Arg2:T863
+T863	Machining 41 44	送り量
+T2963	Machining 0 3	切込み
+T2964	Machining 3 5	深さ
+T2965	Machining 12 14	切削
+T2966	Machining 14 16	抵抗
+T2967	Machining 36 37	刃
+T2968	Machining 41 43	送り
+T4669	Trigger 6 9	大きく
+T4670	Trigger 17 19	増大
+T4671	Trigger 45 50	小さくする
+T4672	Trigger 27 29	軽減

@@ -1,0 +1,8 @@
+T188	Machining 7 11	切りくず
+T189	Machining 30 32	送り
+T190	Machining 30 33	送り量
+T191	Machining 46 49	切込み
+T666	Machining 7 13	切りくず折断
+R85	Relation Arg1:T666 Arg2:T190
+R86	Relation Arg1:T666 Arg2:T191
+T667	Machining 11 13	折断

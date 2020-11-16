@@ -1,0 +1,9 @@
+T126	Machining 7 10	被削材
+T127	Machining 11 13	工具
+T128	Machining 16 20	切りくず
+T129	Machining 34 38	工具損傷
+T130	Machining 34 36	工具
+T486	Machining 1 6	うず巻き形
+R79	Relation Arg1:T486 Arg2:T129
+T553	Machining 36 38	損傷
+T664	Machining 31 33	折断

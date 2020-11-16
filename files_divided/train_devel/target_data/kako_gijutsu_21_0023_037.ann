@@ -1,0 +1,9 @@
+T143	Machining 7 10	チップ
+T144	Machining 28 33	加工コスト
+T145	Machining 28 30	加工
+T716	Machining 18 22	作業能率
+R23	Negative Arg1:T716 Arg2:T144
+T835	Machining 3 5	刃先
+T836	Machining 3 10	刃先交換チップ
+T1012	Trigger 23 25	向上
+T1013	Trigger 34 36	低減

@@ -1,0 +1,7 @@
+T297	Machining 0 2	工具
+T299	Machining 9 11	熱源
+T300	Machining 14 20	すくい面温度
+T301	Machining 14 18	すくい面
+T302	Machining 18 20	温度
+T565	Variable 20 23	θ_2
+T584	Machining 7 11	停止熱源

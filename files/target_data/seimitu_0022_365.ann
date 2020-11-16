@@ -1,0 +1,17 @@
+T1301	Machining 38 40	亀裂
+T1302	Machining 47 49	亀裂
+T1303	Machining 50 58	繰り返し応力負荷
+R606	Relation Arg1:T1303 Arg2:T2753
+T1304	Machining 86 88	亀裂
+T2748	Machining 5 7	破壊
+T2749	Machining 50 54	繰り返し
+T2750	Machining 54 56	応力
+T2751	Machining 56 58	負荷
+T2752	Machining 14 18	局部破壊
+T2753	Machining 72 75	全破壊
+T2754	Machining 93 97	破壊力学
+T2755	Machining 31 35	局部破壊
+R372	Relation Arg1:T2755 Arg2:T1301
+T2756	Machining 16 18	破壊
+T2757	Machining 33 35	破壊
+T2765	Machining 22 25	全破壊

@@ -1,0 +1,17 @@
+T1735	Machining 3 7	切削加工
+T1736	Machining 9 11	工具
+T1737	Machining 11 14	切れ刃
+R494	Part Arg1:T1737 Arg2:T1736
+T1738	Machining 20 22	加工
+T1739	Machining 24 27	加工力
+T1741	Machining 64 66	加工
+T1766	Machining 49 52	加工力
+R487	Relation Arg1:T1766 Arg2:T1767
+T1767	Machining 64 68	加工誤差
+T3188	Machining 3 5	切削
+T3189	Machining 5 7	加工
+T3190	Machining 9 14	工具切れ刃
+T1740	Machining 15 17	移動
+T3191	Machining 15 19	移動軌跡
+T3192	Machining 30 32	変形
+T3193	Machining 58 61	変形量

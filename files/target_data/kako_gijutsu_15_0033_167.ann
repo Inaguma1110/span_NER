@@ -1,0 +1,18 @@
+T565	Machining 5 7	送り
+T566	Machining 5 9	送り運動
+T567	Machining 14 16	送り
+T568	Machining 42 44	送り
+T867	Machining 5 12	送り運動の不整
+R80	Relation Arg1:T867 Arg2:T869
+R83	Relation Arg1:T867 Arg2:T870
+T868	Machining 19 21	振動
+R81	Relation Arg1:T868 Arg2:T869
+R84	Relation Arg1:T868 Arg2:T870
+T869	Machining 42 51	送りマークのピッチ
+R82	Relation Arg1:T869 Arg2:T870
+T870	Machining 56 58	粗さ
+T1017	Machining 0 4	工作機械
+R156	Relation Arg1:T1017 Arg2:T867
+R157	Relation Arg1:T1017 Arg2:T868
+T1299	Machining 7 9	運動
+T128	Machining 14 18	送り方向

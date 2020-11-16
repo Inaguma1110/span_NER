@@ -1,0 +1,23 @@
+T102	Machining 7 10	被削材
+T103	Machining 11 16	比切削抵抗
+T104	Machining 12 16	切削抵抗
+T105	Machining 12 14	切削
+T106	Machining 23 27	材料強度
+T107	Machining 43 47	切削速度
+T108	Machining 43 45	切削
+T110	Machining 49 52	送り量
+T435	Variable 38 39	V
+T436	Variable 40 41	f
+T437	Variable 47 48	V
+T438	Variable 52 53	f
+T515	Machining 0 4	単位動力
+R85	Relation Arg1:T515 Arg2:T103
+R86	Relation Arg1:T515 Arg2:T107
+R87	Relation Arg1:T515 Arg2:T110
+T579	Variable 4 6	up
+T95	Machining 14 16	抵抗
+T603	Machining 49 51	送り
+T604	Machining 2 4	動力
+T619	Machining 23 25	材料
+T620	Machining 25 27	強度
+T650	Machining 45 47	速度

@@ -1,0 +1,7 @@
+T1056	Machining 13 19	エンゲージ角
+R136	Negative Arg1:T1056 Arg2:T1054
+T1057	Machining 13 18	エンゲージ
+T1058	Machining 20 29	ディスエンゲージ角
+R137	Negative Arg1:T1058 Arg2:T1054
+T1059	Machining 20 28	ディスエンゲージ
+T2009	Trigger 31 34	小さい

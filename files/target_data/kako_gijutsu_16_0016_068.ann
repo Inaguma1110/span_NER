@@ -1,0 +1,8 @@
+T121	Machining 1 4	工作物
+T122	Machining 8 12	切りくず
+T123	Machining 16 19	被削材
+T124	Machining 33 37	切削条件
+T125	Machining 33 35	切削
+T408	Machining 1 7	工作物障害形
+T409	Machining 24 27	流出角
+R24	Relation Arg1:T409 Arg2:T408

@@ -1,0 +1,8 @@
+T301	Machining 50 52	切削
+T302	Machining 54 56	温度
+T970	Machining 42 45	熱電対
+T249	Quantity 35 36	1
+T274	Variable 36 37	φ
+T296	Machining 0 3	バイト
+T1082	Machining 28 31	バイト
+T1165	Machining 28 33	バイト底面

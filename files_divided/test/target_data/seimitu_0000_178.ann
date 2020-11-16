@@ -1,0 +1,12 @@
+T639	Machining 2 5	せん断
+T640	Machining 6 8	熱源
+T641	Machining 11 13	温度
+T642	Machining 18 22	切りくず
+R166	Relation Arg1:T642 Arg2:T646
+T643	Machining 23 27	すくい面
+T644	Machining 29 31	摩擦
+T645	Machining 31 33	熱源
+T646	Machining 38 42	温度上昇
+T2154	Machining 2 6	せん断面
+T2155	Machining 29 33	摩擦熱源
+T3475	Machining 38 40	温度

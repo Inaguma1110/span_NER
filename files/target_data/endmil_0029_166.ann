@@ -1,0 +1,4 @@
+T459	Machining 0 2	工具
+R579	Relation Arg1:T459 Arg2:T461
+T460	Machining 3 5	切削
+T461	Machining 9 11	応力

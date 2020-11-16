@@ -1,0 +1,15 @@
+T0	Machining 0 4	切削加工
+R827	Relation Arg1:T0 Arg2:T3
+R828	Relation Arg1:T0 Arg2:T2
+R829	Relation Arg1:T0 Arg2:T2289
+T1	Machining 11 14	加工物
+T2	Machining 38 40	応力
+T3	Machining 62 66	切りくず
+T4	Machining 95 99	切削加工
+T1781	Machining 0 2	切削
+T1782	Machining 2 4	加工
+T1783	Machining 8 10	刃物
+T1784	Machining 95 100	切削加工論
+T1785	Machining 95 97	切削
+T1786	Machining 97 99	加工
+T2289	Machining 41 43	破断

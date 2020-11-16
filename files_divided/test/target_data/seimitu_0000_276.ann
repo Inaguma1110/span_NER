@@ -1,0 +1,25 @@
+T1014	Machining 0 2	摩耗
+T1015	Machining 17 23	すくい面摩耗
+R305	Sub Arg1:T1015 Arg2:T1014
+T1016	Machining 35 40	逃げ面摩耗
+R306	Sub Arg1:T1016 Arg2:T1014
+T1017	Machining 42 45	摩耗痕
+T1018	Machining 62 66	境界摩耗
+R307	Sub Arg1:T1018 Arg2:T1014
+T2441	Machining 17 21	すくい面
+T2442	Machining 21 23	摩耗
+T2443	Machining 35 38	逃げ面
+T2444	Machining 38 40	摩耗
+T2445	Machining 62 64	境界
+T2446	Machining 64 66	摩耗
+T3690	Unit 76 78	ｍｍ
+T3691	Variable 71 73	ＶＣ
+T3692	Variable 57 59	ＶＡ
+T3693	Variable 49 51	ＶＢ
+T3694	Variable 32 34	ＫＴ
+T3696	Machining 46 49	最大幅
+T3697	Machining 28 32	最大深さ
+T3698	Machining 30 32	深さ
+T3699	Machining 48 49	幅
+T3700	Machining 54 57	平均幅
+T3702	Machining 56 57	幅

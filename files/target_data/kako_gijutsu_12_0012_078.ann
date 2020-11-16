@@ -1,0 +1,12 @@
+T270	Machining 5 7	熱源
+T271	Machining 34 37	被削材
+T273	Machining 38 42	熱拡散率
+T464	Unit 44 48	k/cρ
+T465	Variable 3 4	L
+T466	Variable 22 23	V
+T467	Variable 24 25	f
+T468	Variable 26 28	γu
+T469	Variable 30 31	K
+T470	Variable 32 33	K
+T640	Machining 8 12	移動効果
+T662	Machining 8 10	移動

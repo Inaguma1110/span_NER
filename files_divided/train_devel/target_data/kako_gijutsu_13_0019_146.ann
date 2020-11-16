@@ -1,0 +1,6 @@
+T536	Machining 13 17	工具寿命
+T537	Machining 13 15	工具
+T1384	Machining 8 12	全衝撃数
+R90	Relation Arg1:T1384 Arg2:T536
+T1704	Machining 9 11	衝撃
+T1792	Machining 15 17	寿命

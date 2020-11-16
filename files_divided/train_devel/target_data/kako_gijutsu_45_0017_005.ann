@@ -1,0 +1,23 @@
+T9	Machining 0 4	断続切削
+T10	Machining 2 4	切削
+T11	Machining 8 11	熱亀裂
+R5	Relation Arg1:T11 Arg2:T15
+T12	Machining 8 9	熱
+T13	Machining 9 11	亀裂
+T14	Machining 21 25	刃先強度
+R6	Relation Arg1:T14 Arg2:T15
+T15	Machining 36 41	チッピング
+T16	Machining 64 70	エンゲージ角
+R7	Relation Arg1:T16 Arg2:T15
+T17	Machining 64 69	エンゲージ
+T18	Machining 85 87	刃数
+T62	Machining 12 18	ハイレーキ化
+R3	Relation Arg1:T62 Arg2:T14
+T66	Machining 0 7	断続切削の衝撃
+R4	Relation Arg1:T66 Arg2:T15
+T67	Machining 81 87	カッタの刃数
+R8	Relation Arg1:T67 Arg2:T15
+T87	Machining 21 23	刃先
+T90	Machining 81 84	カッタ
+T95	Machining 23 25	強度
+T97	Machining 5 7	衝撃

@@ -1,0 +1,16 @@
+T619	Machining 17 21	切削速度
+R154	Relation Arg1:T619 Arg2:T620
+T620	Machining 22 26	工具寿命
+T621	Machining 37 41	切削速度
+R155	Positive Arg1:T621 Arg2:T622
+T622	Machining 52 56	工具寿命
+T2561	Machining 17 19	切削
+T2562	Machining 19 21	速度
+T2563	Machining 37 39	切削
+T2564	Machining 22 24	工具
+T2565	Machining 24 26	寿命
+T2566	Machining 39 41	速度
+T2567	Machining 52 54	工具
+T2568	Machining 54 56	寿命
+T4583	Trigger 42 47	上げていく
+T4584	Trigger 57 59	延長

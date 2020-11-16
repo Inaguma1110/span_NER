@@ -1,0 +1,11 @@
+T68	Machining 0 3	切れ刃
+R106	Part Arg1:T68 Arg2:T67
+T69	Machining 5 7	むく
+T70	Machining 8 12	ソリッド
+T71	Machining 21 28	スローアウェイ
+T72	Machining 32 36	ろう付け
+T73	Machining 44 48	クランプ
+T506	Machining 51 53	植刃
+T643	Machining 16 18	刃先
+T644	Machining 39 41	付刃
+T671	Machining 16 20	刃先交換

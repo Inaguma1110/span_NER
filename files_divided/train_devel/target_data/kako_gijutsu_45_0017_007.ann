@@ -1,0 +1,6 @@
+T20	Machining 14 16	切削
+T21	Machining 16 18	刃数
+T22	Machining 19 22	切削力
+T63	Machining 9 18	カッタ同時切削刃数
+R9	Relation Arg1:T63 Arg2:T22
+T88	Machining 9 12	カッタ

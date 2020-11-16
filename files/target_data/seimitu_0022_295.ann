@@ -1,0 +1,19 @@
+T1085	Machining 13 16	摩耗量
+R321	Relation Arg1:T1085 Arg2:T1086
+T1086	Machining 17 21	切削時間
+T1087	Machining 25 27	摩耗
+T1088	Machining 51 53	摩耗
+T1089	Machining 79 83	切削速度
+R322	Relation Arg1:T1089 Arg2:T1090
+T1090	Machining 87 93	工具寿命時間
+T2511	Machining 17 19	切削
+T2512	Machining 13 15	摩耗
+T2513	Machining 25 31	摩耗経過曲線
+T2514	Machining 45 47	寿命
+T2515	Machining 51 54	摩耗量
+T2516	Machining 79 81	切削
+T2517	Machining 81 83	速度
+T2518	Machining 87 89	工具
+T2519	Machining 89 91	寿命
+T2520	Machining 87 91	工具寿命
+T2540	Machining 25 29	摩耗経過

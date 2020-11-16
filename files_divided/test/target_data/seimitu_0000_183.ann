@@ -1,0 +1,9 @@
+T662	Machining 0 3	せん断
+T663	Machining 6 10	切りくず
+R167	Relation Arg1:T663 Arg2:T2163
+T664	Machining 22 24	温度
+T665	Machining 27 31	切りくず
+T2163	Machining 14 16	加熱
+T3480	Machining 0 4	せん断面
+T3481	Machining 22 26	温度上昇
+R169	Relation Arg1:T3481 Arg2:T665

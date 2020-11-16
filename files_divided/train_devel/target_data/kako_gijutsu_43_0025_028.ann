@@ -1,0 +1,10 @@
+T122	Machining 18 20	送り
+T123	Machining 18 21	送り量
+T124	Machining 39 41	送り
+T125	Machining 39 42	送り量
+T194	Machining 3 8	さらい刃幅
+T261	Machining 3 7	さらい刃
+T273	Quantity 22 29	1.5～2.0
+T274	Unit 29 30	倍
+T321	Machining 10 13	カッタ
+T347	Machining 13 15	回転

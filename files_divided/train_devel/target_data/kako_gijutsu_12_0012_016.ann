@@ -1,0 +1,5 @@
+T81	Machining 15 19	すくい面
+R97	Relation Arg1:T81 Arg2:T193
+T444	Variable 30 31	P
+T445	Machining 5 7	刃先
+T193	Machining 28 30	位置

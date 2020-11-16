@@ -1,0 +1,4 @@
+T1779	Machining 16 21	エンドミル
+T1780	Machining 30 32	折損
+T4155	Machining 22 26	コレット
+R941	Positive Arg1:T4155 Arg2:T1780

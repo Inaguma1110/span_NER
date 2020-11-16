@@ -1,0 +1,5 @@
+T729	Machining 6 8	温度
+T730	Machining 14 16	工具
+T731	Machining 17 21	熱伝導率
+R228	Relation Arg1:T731 Arg2:T728
+T3520	Variable 8 10	θｆ

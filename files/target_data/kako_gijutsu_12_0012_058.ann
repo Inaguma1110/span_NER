@@ -1,0 +1,5 @@
+T220	Machining 8 12	切削温度
+T221	Machining 8 10	切削
+T222	Machining 10 12	温度
+T391	Machining 22 27	有限要素法
+T623	Machining 28 31	FEM

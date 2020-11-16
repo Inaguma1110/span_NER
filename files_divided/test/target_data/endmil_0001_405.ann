@@ -1,0 +1,13 @@
+T1234	Machining 3 7	仕上げ面
+T1235	Machining 19 23	構成刃先
+T1236	Machining 38 41	親和性
+R392	Positive Arg1:T1236 Arg2:T1235
+T1237	Machining 44 49	サーメット
+T1238	Machining 49 54	エンドミル
+T3378	Machining 44 54	サーメットエンドミル
+T3380	Machining 3 6	仕上げ
+T3387	Machining 16 18	溶着
+T3388	Machining 21 23	刃先
+T3397	Machining 32 36	鉄系材料
+T4873	Trigger 27 29	防ぐ
+T4874	Trigger 42 44	低い

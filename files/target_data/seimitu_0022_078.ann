@@ -1,0 +1,21 @@
+T255	Machining 7 10	せん断
+T256	Machining 23 26	せん断
+T257	Machining 56 59	せん断
+T258	Machining 72 75	切削力
+R524	Relation Arg1:T258 Arg2:T3680
+T389	Machining 7 12	せん断変形
+R522	Relation Arg1:T389 Arg2:T3679
+T1949	Machining 10 12	変形
+T1950	Machining 47 49	変形
+T3287	Machining 23 27	せん断面
+R99	Relation Arg1:T3287 Arg2:T3679
+T3288	Variable 35 37	Ｆｓ
+T3289	Machining 56 60	せん断面
+R521	Relation Arg1:T3289 Arg2:T3312
+T3290	Machining 68 70	合力
+R525	Relation Arg1:T3290 Arg2:T258
+T3291	Variable 65 67	ＦＮ
+T3292	Variable 70 71	Ｒ
+T3312	Machining 64 65	力
+T3679	Machining 34 35	力
+R523	Relation Arg1:T3679 Arg2:T3290

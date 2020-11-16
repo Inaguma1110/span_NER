@@ -1,0 +1,12 @@
+T157	Machining 0 4	切りくず
+R38	Negative Arg1:T157 Arg2:T159
+T158	Machining 12 16	仕上げ面
+T159	Machining 23 27	加工精度
+T1863	Machining 12 15	仕上げ
+T1864	Machining 0 6	切りくず生成
+T1865	Machining 23 25	加工
+T1866	Machining 25 27	精度
+T3241	Machining 4 6	生成
+T3242	Machining 9 11	破断
+T3746	Trigger 9 11	破断
+T3747	Trigger 31 33	悪い

@@ -1,0 +1,25 @@
+T733	Machining 8 12	加工精度
+T734	Machining 8 10	加工
+T735	Machining 10 12	精度
+T736	Machining 19 22	切込み
+R131	Relation Arg1:T736 Arg2:T733
+T737	Machining 41 45	加工精度
+T738	Machining 41 43	加工
+T739	Machining 43 45	精度
+T741	Machining 70 73	仕上げ
+T742	Machining 70 75	仕上げ加工
+T743	Machining 73 75	加工
+T744	Machining 76 79	仕上げ
+T745	Machining 76 81	仕上げ加工
+R167	Relation Arg1:T745 Arg2:T1048
+T746	Machining 79 81	加工
+T747	Machining 82 85	切込み
+T894	Machining 4 7	工程数
+R130	Relation Arg1:T894 Arg2:T733
+T1046	Machining 64 67	荒加工
+R169	Relation Arg1:T1046 Arg2:T1048
+T1047	Machining 68 75	中間仕上げ加工
+R168	Relation Arg1:T1047 Arg2:T1048
+T1048	Machining 98 100	工程
+T1049	Machining 98 101	工程数
+T1050	Machining 4 6	工程

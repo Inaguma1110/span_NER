@@ -1,0 +1,12 @@
+T143	Machining 2 7	エンドミル
+T144	Machining 8 11	外周刃
+T145	Machining 14 16	切削
+T146	Machining 20 22	削り
+T147	Machining 27 31	刃先摩耗
+T148	Machining 29 31	摩耗
+T149	Machining 34 38	境界摩耗
+T150	Machining 36 38	摩耗
+T632	Machining 18 22	側面削り
+R175	Relation Arg1:T632 Arg2:T149
+T114	Machining 27 29	刃先
+T681	Machining 34 36	境界

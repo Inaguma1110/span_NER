@@ -1,0 +1,16 @@
+T1308	Machining 0 4	加工硬化
+T1309	Machining 12 15	逃げ角
+R377	Negative Arg1:T1309 Arg2:T1308
+T1310	Machining 30 34	刃先強度
+R404	Positive Arg1:T1310 Arg2:T1311
+T1311	Machining 42 47	びびり振動
+T3470	Machining 0 2	加工
+T3471	Machining 2 4	硬化
+T3472	Machining 30 32	刃先
+T3473	Machining 32 34	強度
+T3474	Machining 42 45	びびり
+T3475	Machining 45 47	振動
+T4774	Trigger 5 7	軽減
+T4775	Trigger 16 21	大きくとる
+T4776	Trigger 35 40	小さくなる
+T4778	Trigger 48 50	誘発

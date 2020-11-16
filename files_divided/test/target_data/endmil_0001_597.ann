@@ -1,0 +1,14 @@
+T1713	Machining 17 23	コーティング
+T1714	Machining 23 25	超硬
+T1715	Machining 25 33	ボールエンドミル
+T1716	Machining 35 37	首部
+R487	Part Arg1:T1716 Arg2:T1715
+T1717	Machining 50 52	折損
+T4095	Machining 9 11	小径
+T4096	Machining 11 17	ロングネック
+T4097	Machining 38 41	テーパ
+R400	Positive Arg1:T4097 Arg2:T4099
+T4098	Machining 52 54	強度
+T4099	Machining 50 54	折損強度
+T4842	Trigger 42 45	設けた
+T4843	Trigger 55 57	向上

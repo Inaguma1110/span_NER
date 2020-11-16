@@ -1,0 +1,11 @@
+T792	Machining 0 2	工具
+T793	Machining 10 12	工具
+T795	Machining 23 26	工作物
+T796	Machining 32 34	硬度
+T797	Machining 62 66	工具材料
+T2201	Machining 62 64	工具
+T2202	Machining 64 66	材料
+T794	Machining 18 21	温度下
+R53	Positive Arg1:T794 Arg2:T796
+T3815	Trigger 17 18	高
+T3816	Trigger 29 32	大きな

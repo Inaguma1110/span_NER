@@ -1,0 +1,36 @@
+T638	Machining 4 8	切削速度
+R156	Positive Arg1:T638 Arg2:T639
+R157	Positive Arg1:T638 Arg2:T640
+R158	Negative Arg1:T638 Arg2:T641
+R159	Negative Arg1:T638 Arg2:T642
+R164	Negative Arg1:T638 Arg2:T644
+T639	Machining 16 20	せん断角
+T640	Machining 26 29	切削性
+T641	Machining 43 45	摩耗
+T642	Machining 46 50	凝着摩耗
+T643	Machining 62 65	切れ刃
+T644	Machining 67 70	切削熱
+R165	Positive Arg1:T644 Arg2:T645
+R166	Negative Arg1:T644 Arg2:T646
+T645	Machining 77 81	工具摩耗
+R160	Negative Arg1:T645 Arg2:T646
+T646	Machining 101 105	工具寿命
+T2586	Machining 4 6	切削
+T2587	Machining 6 8	速度
+T2588	Machining 16 19	せん断
+T2589	Machining 46 48	凝着
+T2590	Machining 48 50	摩耗
+T2591	Machining 71 73	流入
+T2592	Machining 77 79	工具
+T2593	Machining 79 81	摩耗
+T2594	Machining 101 103	工具
+T2595	Machining 103 105	寿命
+T2596	Machining 67 69	切削
+T2597	Machining 69 70	熱
+T4585	Trigger 9 11	増加
+T4586	Trigger 21 23	変化
+T4587	Trigger 30 32	改善
+T4588	Trigger 51 53	低減
+T4589	Trigger 73 75	低減
+T4590	Trigger 82 90	進行を緩やかにし
+T4591	Trigger 105 107	延長

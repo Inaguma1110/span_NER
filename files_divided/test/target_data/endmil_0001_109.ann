@@ -1,0 +1,7 @@
+T261	Machining 0 2	切削
+R63	Positive Arg1:T261 Arg2:T262
+T262	Machining 5 9	切りくず
+T2152	Machining 10 12	生成
+T2153	Machining 14 16	変動
+T4495	Trigger 3 5	伴う
+T4496	Trigger 10 12	生成

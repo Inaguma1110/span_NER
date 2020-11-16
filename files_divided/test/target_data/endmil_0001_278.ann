@@ -1,0 +1,13 @@
+T840	Machining 3 8	切込み深さ
+R239	Positive Arg1:T840 Arg2:T841
+R240	Positive Arg1:T840 Arg2:T842
+T841	Machining 12 16	加工能率
+T842	Machining 27 31	切削抵抗
+T2936	Machining 3 6	切込み
+T2937	Machining 6 8	深さ
+T2938	Machining 12 14	加工
+T2939	Machining 27 29	切削
+T2940	Machining 29 31	抵抗
+T4656	Trigger 9 11	増加
+T4657	Trigger 17 19	向上
+T4658	Trigger 35 37	増加

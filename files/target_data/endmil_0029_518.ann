@@ -1,0 +1,5 @@
+T1559	Machining 18 21	外周刃
+R474	Part Arg1:T1559 Arg2:T1557
+T3787	Machining 5 13	エキセントリック
+R720	Sub Arg1:T3787 Arg2:T3788
+T3788	Machining 24 26	研削

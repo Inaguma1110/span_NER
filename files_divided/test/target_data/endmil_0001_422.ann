@@ -1,0 +1,9 @@
+T1294	Machining 2 6	熱伝導率
+T1295	Machining 10 13	切削熱
+R670	Relation Arg1:T1295 Arg2:T3456
+T1296	Machining 14 19	エンドミル
+T3456	Machining 20 22	刃先
+T3464	Machining 10 12	切削
+T3465	Machining 12 13	熱
+T4765	Trigger 7 9	低く
+T4766	Trigger 23 25	集中

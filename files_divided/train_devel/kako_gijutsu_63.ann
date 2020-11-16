@@ -1,0 +1,389 @@
+T2	Machining 7 12	エンドミル
+T3	Machining 12 14	加工
+T4	Machining 22 30	ボールエンドミル
+T5	Machining 25 30	エンドミル
+T6	Machining 33 37	フライス
+T7	Machining 41 45	フライス
+T8	Machining 54 58	形状加工
+T9	Machining 56 58	加工
+T10	Machining 64 66	工具
+T11	Machining 111 119	ボールエンドミル
+T12	Machining 114 119	エンドミル
+T13	Machining 139 143	切削速度
+T14	Machining 139 141	切削
+T15	Machining 148 150	切削
+T16	Machining 162 166	切削速度
+T17	Machining 162 164	切削
+T18	Machining 184 186	切削
+T19	Machining 209 211	工具
+T20	Machining 227 229	加工
+T21	Machining 245 253	ボールエンドミル
+T22	Machining 248 253	エンドミル
+T23	Machining 254 257	外周刃
+T24	Machining 261 265	すくい角
+T25	Machining 266 269	逃げ角
+T26	Machining 287 290	切れ刃
+T27	Machining 291 293	刃溝
+T29	Machining 319 322	外周刃
+T30	Machining 331 335	切りくず
+T31	Machining 348 352	切りくず
+T32	Machining 362 366	切りくず
+T33	Machining 380 383	外周刃
+T34	Machining 385 389	工具摩耗
+T35	Machining 385 387	工具
+T36	Machining 387 389	摩耗
+T37	Machining 403 405	刃形
+T38	Machining 406 409	外周刃
+T39	Machining 410 414	ねじれ角
+T40	Machining 426 429	外周刃
+T41	Machining 494 498	ねじれ角
+T42	Machining 503 507	すくい角
+T43	Machining 534 536	加工
+T44	Machining 552 560	ボールエンドミル
+T45	Machining 555 560	エンドミル
+T46	Machining 563 566	仕上げ
+T47	Machining 563 568	仕上げ切削
+T48	Machining 566 568	切削
+T49	Machining 573 578	高精度加工
+T50	Machining 576 578	加工
+T51	Machining 581 585	仕上げ面
+T52	Machining 581 584	仕上げ
+T54	Machining 588 592	形状精度
+T55	Machining 590 592	精度
+T56	Machining 600 604	形状精度
+T57	Machining 602 604	精度
+T58	Machining 633 636	面粗度
+T59	Machining 649 657	ボールエンドミル
+T60	Machining 652 657	エンドミル
+T61	Machining 677 679	送り
+T62	Machining 689 693	仕上げ面
+T63	Machining 689 692	仕上げ
+T65	Machining 696 698	加工
+T66	Machining 706 708	硬度
+T67	Machining 714 716	切削
+T68	Machining 759 760	熱
+T69	Machining 759 762	熱処理
+T70	Machining 774 776	工具
+T72	Machining 786 789	仕上げ
+T73	Machining 786 791	仕上げ加工
+T74	Machining 789 791	加工
+T75	Machining 795 797	加工
+T76	Machining 802 804	工具
+T77	Machining 809 811	加工
+T78	Machining 828 830	工具
+T79	Machining 831 833	加工
+T80	Machining 880 884	仕上げ面
+T81	Machining 880 883	仕上げ
+T82	Machining 901 903	送り
+T83	Machining 901 905	送り速度
+T84	Machining 909 912	切削量
+T85	Machining 909 911	切削
+T86	Machining 920 923	面粗度
+T87	Machining 930 934	加工時間
+T88	Machining 930 932	加工
+T89	Machining 949 951	送り
+T90	Machining 949 953	送り速度
+T91	Machining 969 977	ボールエンドミル
+T92	Machining 972 977	エンドミル
+T93	Machining 981 983	加工
+T94	Machining 995 998	切削量
+T95	Machining 995 997	切削
+T96	Machining 1022 1026	加工条件
+T97	Machining 1022 1024	加工
+T98	Machining 1031 1035	仕上げ面
+T99	Machining 1031 1034	仕上げ
+T100	Machining 1059 1062	切削量
+T101	Machining 1059 1061	切削
+T102	Machining 1089 1097	ボールエンドミル
+T103	Machining 1092 1097	エンドミル
+T104	Machining 1107 1110	荒削り
+T106	Machining 1111 1115	中仕上げ
+T107	Machining 1112 1115	仕上げ
+T108	Machining 1116 1119	仕上げ
+T109	Machining 1136 1139	切れ刃
+T110	Machining 1140 1144	仕上げ面
+T111	Machining 1140 1143	仕上げ
+T112	Machining 1169 1172	仕上げ
+T113	Machining 1169 1174	仕上げ加工
+T114	Machining 1172 1174	加工
+T115	Machining 1194 1198	仕上げ面
+T116	Machining 1194 1197	仕上げ
+T117	Machining 1216 1224	ボールエンドミル
+T118	Machining 1219 1224	エンドミル
+T119	Machining 1228 1230	加工
+T120	Machining 1233 1237	仕上げ面
+T121	Machining 1233 1236	仕上げ
+T122	Machining 1266 1268	精度
+T123	Machining 1269 1271	工具
+T124	Machining 1274 1276	精度
+T125	Machining 1286 1288	工具
+T126	Machining 1308 1316	ボールエンドミル
+T127	Machining 1311 1316	エンドミル
+T128	Machining 1328 1330	加工
+T129	Machining 1328 1331	加工機
+T130	Machining 1349 1351	精度
+T131	Machining 1366 1368	精度
+T132	Machining 1379 1381	加工
+T133	Machining 1392 1400	ボールエンドミル
+T134	Machining 1395 1400	エンドミル
+T135	Machining 1401 1403	加工
+T136	Machining 1406 1408	送り
+T137	Machining 1414 1420	仕上げ面粗さ
+T138	Machining 1414 1418	仕上げ面
+T139	Machining 1414 1417	仕上げ
+T140	Machining 1441 1449	ボールエンドミル
+T141	Machining 1444 1449	エンドミル
+T142	Machining 1454 1456	送り
+T143	Machining 1512 1514	工具
+T144	Machining 1518 1520	摩耗
+T145	Machining 1556 1558	工具
+T146	Machining 1562 1564	送り
+T147	Machining 1595 1597	送り
+T148	Machining 1611 1617	仕上げ面粗さ
+T149	Machining 1611 1615	仕上げ面
+T150	Machining 1611 1614	仕上げ
+T151	Machining 1637 1639	送り
+T152	Machining 1637 1641	送り速度
+T153	Machining 1646 1648	送り
+T154	Machining 1659 1665	仕上げ面粗さ
+T155	Machining 1659 1663	仕上げ面
+T156	Machining 1659 1662	仕上げ
+T157	Machining 1672 1676	加工時間
+T158	Machining 1672 1674	加工
+T159	Machining 1678 1681	切削長
+T160	Machining 1678 1680	切削
+T161	Machining 1690 1694	加工能率
+T162	Machining 1690 1692	加工
+T163	Machining 1699 1703	工具寿命
+T164	Machining 1699 1701	工具
+T165	Machining 1719 1723	加工時間
+T166	Machining 1719 1721	加工
+T167	Machining 1737 1741	加工時間
+T168	Machining 1737 1739	加工
+T169	Machining 1758 1761	切込み
+T170	Machining 1758 1763	切込み深さ
+T172	Machining 1789 1791	送り
+T173	Machining 1789 1793	送り速度
+T174	Machining 1798 1802	高速切削
+T175	Machining 1800 1802	切削
+T176	Machining 1820 1824	高速切削
+T177	Machining 1822 1824	切削
+T178	Machining 1825 1829	加工能率
+T179	Machining 1825 1827	加工
+T180	Machining 1833 1839	仕上げ面粗さ
+T181	Machining 1833 1837	仕上げ面
+T182	Machining 1833 1836	仕上げ
+T183	Machining 1843 1845	工具
+T184	Machining 1847 1849	寿命
+T185	Machining 1855 1858	高精度
+T186	Machining 1858 1860	加工
+T187	Machining 1877 1879	加工
+T188	Machining 1901 1904	仕上げ
+T189	Machining 1901 1906	仕上げ加工
+T190	Machining 1904 1906	加工
+T191	Machining 1931 1935	高速切削
+T192	Machining 1933 1935	切削
+T193	Machining 1936 1939	仕上げ
+T194	Machining 1936 1941	仕上げ加工
+T195	Machining 1939 1941	加工
+T196	Machining 1968 1971	切込み
+T197	Machining 1975 1977	切削
+T198	Machining 1989 1994	チッピング
+T199	Machining 2005 2007	加工
+T200	Machining 2026 2028	超硬
+T201	Machining 2028 2034	コーティング
+T202	Machining 2034 2042	ボールエンドミル
+T203	Machining 2037 2042	エンドミル
+T204	Machining 2046 2049	被削材
+T205	Machining 2049 2054	SKD61
+T206	Machining 2062 2064	切削
+T207	Machining 2066 2070	高速切削
+T208	Machining 2068 2070	切削
+T209	Machining 2073 2075	切削
+T210	Machining 2095 2103	ボールエンドミル
+T211	Machining 2098 2103	エンドミル
+T212	Machining 2110 2112	刃形
+T213	Machining 2118 2120	工具
+T214	Machining 2124 2126	送り
+T215	Machining 2150 2154	高速切削
+T216	Machining 2152 2154	切削
+T217	Machining 2157 2159	切削
+T218	Machining 79 84	ダイカスト
+T219	Machining 85 91	プラスチック
+T220	Machining 76 78	鍛造
+T221	Machining 130 136	ボールノーズ
+T222	Machining 999 1010	ピックフィードの大きさ
+T224	Machining 519 522	切れ味
+R1	Relation Arg1:T41 Arg2:T42	
+R2	Relation Arg1:T42 Arg2:T224	
+T225	Machining 885 894	ピックフィードの量
+R3	Positive Arg1:T225 Arg2:T86	
+R4	Positive Arg1:T83 Arg2:T86	
+R5	Negative Arg1:T225 Arg2:T87	
+R6	Negative Arg1:T83 Arg2:T87	
+T226	Machining 986 989	面粗さ
+T227	Machining 990 998	１刃当りの切削量
+R7	Relation Arg1:T227 Arg2:T226	
+R8	Relation Arg1:T222 Arg2:T226	
+T228	Machining 1041 1052	ピックフィードの大きさ
+T229	Variable 1053 1054	P
+T230	Machining 1056 1062	１刃の切削量
+T231	Variable 1063 1064	f
+R9	Relation Arg1:T228 Arg2:T98	
+R10	Relation Arg1:T230 Arg2:T98	
+T232	Machining 1233 1240	仕上げ面の粗さ
+R11	Relation Arg1:T125 Arg2:T232	
+T233	Machining 1421 1427	カプスハイト
+T234	Variable 1429 1430	H
+T235	Machining 1441 1452	ボールエンドミルの半径
+T236	Variable 1452 1453	R
+T237	Machining 1454 1459	送りピッチ
+T238	Machining 1460 1467	ピックフィード
+T239	Variable 1468 1469	P
+R12	Relation Arg1:T235 Arg2:T137	
+R13	Relation Arg1:T237 Arg2:T137	
+#1	AnnotatorNotes R12	後式( H = P^2/8R )より、H（仕上げ面粗さ）はR（半径）に反比例
+#2	AnnotatorNotes R13	後式( H = P^2/8R )より、H（仕上げ面粗さ）はP（送りピッチ）の2乗に比例
+T240	Machining 1556 1560	工具半径
+T241	Variable 1560 1561	R
+T242	Machining 1562 1567	送りピッチ
+T243	Machining 1573 1583	カプスハイトの大きさ
+R14	Relation Arg1:T240 Arg2:T243	
+R15	Relation Arg1:T242 Arg2:T243	
+T244	Machining 1595 1600	送りピッチ
+R16	Square Arg1:T244 Arg2:T148	
+T245	Machining 1646 1651	送りピッチ
+R17	Positive Arg1:T245 Arg2:T154	
+R18	NegativeLinear Arg1:T245 Arg2:T157	
+R19	NegativeLinear Arg1:T245 Arg2:T159	
+R20	Relation Arg1:T157 Arg2:T163	
+R21	Relation Arg1:T159 Arg2:T163	
+R22	Relation Arg1:T245 Arg2:T163	
+T246	Machining 1782 1785	回転数
+R23	Negative Arg1:T246 Arg2:T167	
+R24	Negative Arg1:T173 Arg2:T167	
+R25	Relation Arg1:T176 Arg2:T178	
+R26	Relation Arg1:T176 Arg2:T180	
+R27	Relation Arg1:T176 Arg2:T184	
+T248	Machining 1852 1854	品質
+R28	Relation Arg1:T176 Arg2:T248	
+R29	Relation Arg1:T176 Arg2:T185	
+T249	Machining 1883 1886	コスト
+R30	Relation Arg1:T176 Arg2:T249	
+T250	Machining 2118 2122	工具半径
+T251	Variable 2122 2123	R
+T252	Machining 2124 2129	送りピッチ
+T253	Machining 2135 2141	カプスハイト
+R31	Relation Arg1:T250 Arg2:T253	
+R32	Relation Arg1:T252 Arg2:T253	
+#3	AnnotatorNotes R31	キャプション（図6-12）
+#4	AnnotatorNotes R32	キャプション（図6-12）
+#5	AnnotatorNotes R3	面粗度はよくなる＝面粗度が低下
+#6	AnnotatorNotes R4	面粗度はよくなる＝面粗度が低下
+R33	Relation Arg1:T235 Arg2:T233	
+#7	AnnotatorNotes R33	後式( H = P^2/8R )より、H（仕上げ面粗さ）はR（半径）に反比例
+R34	Relation Arg1:T237 Arg2:T233	
+#8	AnnotatorNotes R34	後式( H = P^2/8R )より、H（仕上げ面粗さ）はP（送りピッチ）の2乗に比例
+#9	AnnotatorNotes R19	反比例
+#10	AnnotatorNotes R18	反比例
+#11	AnnotatorNotes R17	仕上げ面粗さがよくなる＝面粗度が低下
+T254	Machining 419 425	Ｓ字(ｆ)形
+T255	Machining 443 450	Ｉ字(直刃)形
+R35	Sub Arg1:T254 Arg2:T37	
+R36	Sub Arg1:T255 Arg2:T37	
+R37	Sub Arg1:T4 Arg2:T10	
+T256	Machining 31 38	倣いフライス盤
+#12	AnnotatorNotes T256	Y・M
+T257	Machining 39 46	NCフライス盤
+#13	AnnotatorNotes T257	Y・M
+T258	Machining 51 58	３次元形状加工
+#14	AnnotatorNotes T258	Y・M
+T53	Machining 581 587	仕上げ面粗度
+T64	Machining 689 695	仕上げ面粗度
+T1	Machining 4 14	ボールエンドミル加工
+T28	Machining 1263 1268	アール精度
+T259	Machining 1272 1276	フレ精度
+T260	Machining 1979 1981	抵抗
+T261	Machining 608 611	面粗さ
+T262	Machining 280 283	ノーズ
+T263	Machining 375 378	ノーズ
+T264	Machining 325 328	ノーズ
+T265	Machining 487 490	ボール
+T267	Machining 1133 1139	ボール切れ刃
+T268	Machining 435 439	ボール刃
+T266	Machining 1418 1420	粗さ
+T269	Machining 1615 1617	粗さ
+T270	Machining 1837 1839	粗さ
+T271	Machining 1663 1665	粗さ
+T272	Machining 1238 1240	粗さ
+T273	Machining 693 695	粗度
+T274	Machining 585 587	粗度
+T275	Machining 609 611	粗さ
+T276	Machining 634 636	粗度
+T277	Machining 921 923	粗度
+T278	Machining 987 989	粗さ
+T279	Machining 1921 1925	倣い方式
+T280	Machining 1953 1957	倣い方式
+T281	Machining 1958 1964	走査倣い方式
+T282	Machining 1958 1960	走査
+T283	Machining 1960 1964	倣い方式
+T284	Machining 1951 1957	形状倣い方式
+T285	Machining 1779 1781	主軸
+T286	Machining 2014 2018	倣い方式
+T287	Machining 2011 2018	等高線倣い方式
+T288	Machining 176 178	主軸
+T289	Machining 348 354	切りくず厚み
+T290	Machining 352 354	厚み
+T291	Machining 1701 1703	寿命
+T247	Quantity 1352 1358	±0.005
+T292	Unit 1358 1360	mm
+T293	Quantity 1369 1374	0.005
+T294	Unit 1374 1376	mm
+T295	Machining 336 340	流出方向
+T296	Machining 359 366	扇形の切りくず
+R38	Relation Arg1:T295 Arg2:T289	
+R39	Relation Arg1:T295 Arg2:T296	
+T297	Machining 465 471	Ｓ字(ｆ)形
+T298	Machining 472 479	Ｉ字(直刃)形
+T299	Machining 540 543	Ｉ字形
+T300	Machining 1259 1262	耐久性
+T301	Machining 1255 1258	切れ味
+T302	Machining 1364 1368	フレ精度
+T303	Machining 675 679	高速送り
+T304	Machining 999 1006	ピックフィード
+T305	Machining 1041 1048	ピックフィード
+T306	Machining 781 784	荒加工
+T71	Machining 1348 1351	R精度
+T105	Machining 1406 1411	送りピッチ
+T307	Machining 1573 1579	カプスハイト
+T308	Machining 670 674	高速回転
+T309	Machining 672 674	回転
+T310	Machining 1639 1641	速度
+T311	Machining 1820 1822	高速
+T312	Machining 1931 1933	高速
+T313	Machining 2150 2152	高速
+T314	Machining 2066 2068	高速
+T315	Machining 141 143	速度
+T316	Machining 164 166	速度
+T317	Machining 670 672	高速
+T318	Machining 675 677	高速
+T319	Quantity 1601 1604	1/2
+T320	Quantity 1618 1621	1/4
+T321	Quantity 1652 1655	1/2
+T322	Machining 1761 1763	深さ
+T323	Machining 1765 1766	幅
+T324	Machining 903 905	速度
+T325	Machining 951 953	速度
+R40	Part Arg1:T267 Arg2:T102	
+T326	Machining 336 338	流出
+T327	Machining 2026 2042	超硬コーティングボールエンドミル
+T171	Trigger 895 900	小さくして
+T223	Trigger 914 918	遅くすれ
+T328	Trigger 924 928	よくなる
+T329	Trigger 935 940	かかりすぎ
+T330	Trigger 1767 1772	小さくする
+T331	Trigger 1786 1788	上げ
+T332	Trigger 1794 1798	速くした
+T333	Trigger 1652 1655	1/2
+T334	Trigger 1666 1670	良くなる
+T335	Trigger 1744 1748	短くする

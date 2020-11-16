@@ -1,0 +1,12 @@
+T353	Machining 3 8	切込み深さ
+R76	Positive Arg1:T353 Arg2:T350
+T354	Machining 13 17	切削速度
+R77	Negative Arg1:T354 Arg2:T350
+T345	Machining 3 6	切込み
+T2235	Machining 6 8	深さ
+T2236	Machining 13 15	切削
+T2237	Machining 15 17	速度
+T2238	Machining 24 26	生成
+T4513	Trigger 9 11	浅く
+T4514	Trigger 18 23	上げていく
+T4865	Trigger 26 32	されなくなり

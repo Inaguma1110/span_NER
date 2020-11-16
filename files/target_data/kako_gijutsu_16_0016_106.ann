@@ -1,0 +1,6 @@
+T199	Machining 34 38	切りくず
+T581	Machining 38 41	折断性
+T645	Machining 34 41	切りくず折断性
+T677	Machining 18 24	有効折断領域
+T688	Machining 20 24	折断領域
+T689	Machining 20 22	折断

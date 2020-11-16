@@ -1,0 +1,9 @@
+T1129	Machining 26 29	酸化物
+T2576	Machining 9 12	炭化物
+T2577	Machining 30 35	硬粒子粒子
+T2579	Machining 0 6	ＳｉＣＴｉＣ
+R582	Sub Arg1:T2579 Arg2:T2576
+T2580	Machining 14 19	Ａｌ2Ｏ3
+R583	Sub Arg1:T2580 Arg2:T1129
+T2581	Machining 20 24	ＳｉＯ2
+R584	Sub Arg1:T2581 Arg2:T1129

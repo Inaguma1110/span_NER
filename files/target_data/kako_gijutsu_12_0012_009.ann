@@ -1,0 +1,9 @@
+T47	Machining 5 7	熱源
+T48	Machining 22 24	切削
+T432	Variable 10 11	Q
+T509	Machining 5 10	熱源の強さ
+R94	Relation Arg1:T509 Arg2:T285
+T285	Machining 22 29	切削のエネルギ
+T629	Machining 8 10	強さ
+T648	Machining 25 29	エネルギ
+T670	Machining 17 19	消費

@@ -1,0 +1,29 @@
+T1560	Machining 0 3	穴あけ
+T1561	Machining 3 5	加工
+T1562	Machining 7 14	切りくずの排出
+T1563	Machining 21 25	切りくず
+T1564	Machining 31 32	溝
+T1565	Machining 46 50	切りくず
+R461	Relation Arg1:T1565 Arg2:T1568
+T1566	Machining 51 52	溝
+T1567	Machining 74 75	溝
+T1568	Machining 100 103	切削力
+T1569	Machining 113 116	ドリル
+T1570	Machining 137 141	深穴加工
+R462	Relation Arg1:T1570 Arg2:T1571
+R637	Relation Arg1:T1570 Arg2:T1572
+T1571	Machining 143 147	切りくず
+T1572	Machining 154 160	切りくず排出
+T2988	Machining 0 5	穴あけ加工
+T2991	Machining 7 11	切りくず
+T2992	Machining 12 14	排出
+T2995	Machining 39 41	排出
+T3079	Machining 154 158	切りくず
+T3080	Machining 158 160	排出
+T3626	Machining 87 89	推力
+R424	Sub Arg1:T3626 Arg2:T1568
+T3627	Machining 90 93	水平力
+R694	Sub Arg1:T3627 Arg2:T1568
+T3628	Machining 94 97	トルク
+T3629	Machining 139 141	加工
+T3630	Machining 137 139	深穴

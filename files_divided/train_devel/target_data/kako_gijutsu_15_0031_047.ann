@@ -1,0 +1,6 @@
+T151	Machining 4 8	切削抵抗
+R22	Relation Arg1:T151 Arg2:T814
+T152	Machining 4 6	切削
+T153	Machining 11 13	工具
+T814	Machining 14 16	撓み
+T72	Machining 6 8	抵抗

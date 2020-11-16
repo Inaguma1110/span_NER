@@ -1,0 +1,17 @@
+T224	Machining 0 3	工作物
+T225	Machining 4 6	温度
+T226	Machining 17 19	切削
+T227	Machining 17 21	切削油剤
+R40	Relation Arg1:T227 Arg2:T229
+R28	Relation Arg1:T227 Arg2:T225
+T228	Machining 25 27	切削
+T229	Machining 29 31	摩擦
+T230	Machining 41 43	摩擦
+T231	Machining 51 54	工作物
+R178	Relation Arg1:T231 Arg2:T1258
+T960	Machining 25 28	切削場
+T1070	Machining 19 21	油剤
+T1227	Machining 47 50	塑性場
+R177	Relation Arg1:T1227 Arg2:T1258
+T1247	Machining 47 49	塑性
+T1258	Machining 55 57	冷却

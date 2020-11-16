@@ -1,0 +1,11 @@
+T1384	Machining 2 4	切削
+R429	Relation Arg1:T1384 Arg2:T1385
+T1385	Machining 10 11	熱
+R403	Relation Arg1:T1385 Arg2:T1387
+R439	Relation Arg1:T1385 Arg2:T1388
+T1386	Machining 12 15	工作物
+T1387	Machining 19 21	温度
+R200	Negative Arg1:T1387 Arg2:T1388
+T1388	Machining 27 29	精度
+T3775	Trigger 22 26	高くなり
+T3776	Trigger 30 33	悪影響

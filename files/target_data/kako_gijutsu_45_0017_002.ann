@@ -1,0 +1,13 @@
+T0	Machining 5 7	加工
+T2	Machining 14 20	フライス切削
+T3	Machining 14 18	フライス
+T4	Machining 18 20	切削
+T5	Machining 26 30	断続切削
+R2	Relation Arg1:T5 Arg2:T65
+T6	Machining 28 30	切削
+T64	Machining 23 25	多刃
+R1	Relation Arg1:T64 Arg2:T65
+T65	Machining 35 38	びびり
+R22	Relation Arg1:T65 Arg2:T78
+T77	Machining 3 7	機械加工
+T78	Machining 12 20	正面フライス切削

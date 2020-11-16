@@ -1,0 +1,11 @@
+T783	Machining 0 8	前切れ刃境界摩耗
+T785	Machining 4 8	境界摩耗
+T786	Machining 6 8	摩耗
+T787	Machining 11 13	機構
+T788	Machining 35 38	切削面
+T790	Machining 39 41	送り
+T1403	Machining 39 44	送りマーク
+T50	Machining 0 4	前切れ刃
+T809	Machining 35 37	切削
+T1518	Machining 4 6	境界
+T1535	Machining 9 13	発生機構

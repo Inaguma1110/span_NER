@@ -1,0 +1,13 @@
+T363	Machining 8 12	切削速度
+R51	Positive Arg1:T363 Arg2:T365
+R52	NegativeLinear Arg1:T363 Arg2:T364
+T364	Machining 22 25	送り量
+T365	Machining 32 35	加工面
+T2244	Machining 8 10	切削
+T2245	Machining 10 12	速度
+T2247	Machining 22 24	送り
+T4237	Machining 32 34	加工
+T4379	Machining 18 19	刃
+T4517	Trigger 13 15	上げ
+T4518	Trigger 38 40	改善
+T4866	Trigger 26 29	下げる

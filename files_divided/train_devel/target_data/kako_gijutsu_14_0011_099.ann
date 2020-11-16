@@ -1,0 +1,8 @@
+T659	Machining 2 7	副切込み角
+R95	Negative Arg1:T659 Arg2:T662
+T661	Machining 3 7	切込み角
+T662	Machining 25 29	仕上げ面
+T733	Machining 25 28	仕上げ
+T1436	Machining 3 6	切込み
+T1639	Trigger 11 16	小さくする
+T1640	Trigger 30 36	得にくくなる

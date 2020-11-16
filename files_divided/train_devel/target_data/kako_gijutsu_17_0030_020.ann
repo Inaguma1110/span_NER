@@ -1,0 +1,6 @@
+T49	Machining 0 2	送り
+R7	Relation Arg1:T49 Arg2:T257
+T50	Machining 12 14	加工
+T257	Machining 18 20	振動
+T258	Machining 9 11	低速
+R8	Relation Arg1:T258 Arg2:T257

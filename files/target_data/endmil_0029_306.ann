@@ -1,0 +1,33 @@
+T908	Machining 0 4	切削油剤
+R263	Relation Arg1:T908 Arg2:T909
+R264	Relation Arg1:T908 Arg2:T910
+R265	Relation Arg1:T908 Arg2:T3077
+R293	Negative Arg1:T908 Arg2:T919
+R294	Negative Arg1:T908 Arg2:T920
+R295	Negative Arg1:T908 Arg2:T921
+R296	Positive Arg1:T908 Arg2:T922
+R297	Negative Arg1:T908 Arg2:T923
+R298	Positive Arg1:T908 Arg2:T924
+R824	Negative Arg1:T908 Arg2:T3049
+R262	Negative Arg1:T908 Arg2:T3051
+R910	Negative Arg1:T908 Arg2:T945
+R911	Negative Arg1:T908 Arg2:T946
+R912	Negative Arg1:T908 Arg2:T948
+R913	Negative Arg1:T908 Arg2:T4440
+R914	Positive Arg1:T908 Arg2:T949
+R915	Positive Arg1:T908 Arg2:T951
+R916	Positive Arg1:T908 Arg2:T952
+R917	Negative Arg1:T908 Arg2:T953
+R918	Positive Arg1:T908 Arg2:T954
+R919	Relation Arg1:T908 Arg2:T955
+T909	Machining 14 18	潤滑効果
+T910	Machining 19 23	冷却効果
+T911	Machining 24 28	切りくず
+T3039	Machining 0 2	切削
+T3040	Machining 2 4	油剤
+T3041	Machining 14 16	潤滑
+T3042	Machining 19 21	冷却
+T3077	Machining 29 35	強制排出効果
+T4280	Machining 31 33	排出
+T4281	Machining 29 33	強制排出
+T4687	Trigger 7 9	効果

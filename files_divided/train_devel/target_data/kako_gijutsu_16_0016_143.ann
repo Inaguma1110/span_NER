@@ -1,0 +1,9 @@
+T309	Machining 0 3	快削鋼
+T508	Machining 7 10	硫黄系
+R73	Relation Arg1:T508 Arg2:T309
+T509	Machining 13 15	硫黄
+T510	Machining 16 17	鉛
+T511	Machining 7 9	硫黄
+T512	Machining 13 18	硫黄+鉛系
+R74	Relation Arg1:T512 Arg2:T309
+T513	Machining 23 26	JIS

@@ -1,0 +1,7 @@
+T100	Machining 16 18	摩耗
+T101	Machining 16 20	摩耗速度
+T1445	Machining 0 4	コーナ部
+R188	Relation Arg1:T1445 Arg2:T101
+T1446	Machining 5 8	境界部
+R189	Relation Arg1:T1446 Arg2:T101
+T1916	Machining 18 20	速度

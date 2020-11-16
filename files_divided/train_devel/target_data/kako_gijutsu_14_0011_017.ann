@@ -1,0 +1,7 @@
+T70	Machining 3 11	切削仕上げ面粗さ
+T72	Machining 3 5	切削
+T73	Machining 5 11	仕上げ面粗さ
+T74	Machining 5 9	仕上げ面
+T1259	Variable 11 13	Ry
+T213	Machining 5 8	仕上げ
+T1440	Machining 9 11	粗さ

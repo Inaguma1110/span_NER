@@ -1,0 +1,20 @@
+T56	Machining 7 9	鋳鉄
+T57	Machining 11 15	断続切削
+T58	Machining 13 15	切削
+T59	Machining 17 19	切削
+T60	Machining 17 21	切削油剤
+T61	Machining 26 30	乾式切削
+T62	Machining 28 30	切削
+T63	Machining 38 40	切削
+T64	Machining 44 47	切れ刃
+T65	Machining 48 51	熱亀裂
+R8	Relation Arg1:T65 Arg2:T68
+R21	Relation Arg1:T65 Arg2:T61
+T66	Machining 48 49	熱
+T67	Machining 49 51	亀裂
+T68	Machining 60 64	工具寿命
+T69	Machining 60 62	工具
+T96	Machining 5 6	鋼
+T101	Machining 36 40	湿式切削
+T111	Machining 19 21	油剤
+T112	Machining 62 64	寿命

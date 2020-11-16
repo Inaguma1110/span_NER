@@ -1,0 +1,9 @@
+T1049	Machining 6 9	コーナ
+R330	Relation Arg1:T1049 Arg2:T1054
+T1050	Machining 13 17	切削加工
+T1051	Machining 19 22	加工物
+T1052	Machining 34 36	加工
+T1053	Machining 44 47	被削面
+T1054	Machining 48 51	うねり
+T4317	Machining 13 15	切削
+T4318	Machining 15 17	加工

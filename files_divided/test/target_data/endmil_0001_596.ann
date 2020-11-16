@@ -1,0 +1,4 @@
+T1711	Machining 0 5	エンドミル
+T1712	Machining 6 8	首部
+R497	Part Arg1:T1712 Arg2:T1711
+T4094	Machining 9 12	テーパ

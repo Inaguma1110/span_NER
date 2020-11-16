@@ -1,0 +1,24 @@
+T571	Machining 2 4	鋳鉄
+T572	Machining 5 7	青銅
+R159	Relation Arg1:T572 Arg2:T1022
+T574	Machining 17 21	切削加工
+T575	Machining 17 19	切削
+T576	Machining 19 21	加工
+T577	Machining 26 28	工具
+T578	Machining 36 39	被削材
+T579	Machining 41 43	亀裂
+R85	Positive Arg1:T579 Arg2:T871
+R86	Negative Arg1:T579 Arg2:T580
+T580	Machining 60 64	寸法精度
+T581	Machining 62 64	精度
+T871	Machining 55 57	粗さ
+R87	Negative Arg1:T871 Arg2:T580
+T1021	Machining 0 4	普通鋳鉄
+R158	Relation Arg1:T1021 Arg2:T1022
+T1022	Machining 12 16	脆い材料
+T1023	Machining 26 30	工具切刃
+T668	Machining 28 30	切刃
+T1240	Machining 14 16	材料
+T1343	Trigger 44 46	走り
+T1344	Trigger 58 60	増し
+T1345	Trigger 65 70	わるくなる

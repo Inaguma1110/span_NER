@@ -1,0 +1,7 @@
+T34	Machining 6 8	切削
+T35	Machining 15 19	切削速度
+T36	Machining 15 17	切削
+T78	Machining 6 14	切削のコスト要素
+R6	Relation Arg1:T78 Arg2:T35
+T157	Machining 9 12	コスト
+T163	Machining 17 19	速度

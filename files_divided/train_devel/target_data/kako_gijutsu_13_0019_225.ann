@@ -1,0 +1,12 @@
+T803	Machining 19 21	切削
+T804	Machining 23 27	耐摩耗性
+R193	Negative Arg1:T804 Arg2:T294
+T1492	Machining 0 2	P種
+R233	Relation Arg1:T1492 Arg2:T804
+R234	Relation Arg1:T1492 Arg2:T294
+T1493	Machining 9 11	K種
+T294	Machining 32 34	靱性
+T1550	Machining 18 19	鋼
+T1551	Machining 18 21	鋼切削
+T1955	Trigger 28 30	富む
+T1956	Trigger 36 38	劣る

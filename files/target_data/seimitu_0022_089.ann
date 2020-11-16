@@ -1,0 +1,19 @@
+T303	Machining 5 8	被削材
+T304	Machining 9 12	せん断
+T305	Machining 14 16	応力
+T306	Machining 29 32	工具材
+R84	Relation Arg1:T306 Arg2:T310
+T307	Machining 33 36	被削材
+R85	Relation Arg1:T307 Arg2:T310
+T308	Machining 39 41	環境
+R86	Relation Arg1:T308 Arg2:T310
+T309	Machining 66 70	せん断角
+R72	Relation Arg1:T309 Arg2:T310
+T310	Machining 90 93	切削力
+T1964	Machining 12 14	変形
+T1965	Machining 9 16	せん断変形応力
+T1968	Machining 20 22	材料
+T3332	Variable 2 4	τｓ
+T3336	Variable 27 28	β
+T3337	Variable 70 71	φ
+T3338	Machining 66 69	せん断

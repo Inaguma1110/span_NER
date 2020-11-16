@@ -1,0 +1,5 @@
+T27	Machining 3 8	側フライス
+T28	Machining 4 8	フライス
+T146	Machining 1 8	直刃側フライス
+R12	Sub Arg1:T146 Arg2:T25
+T78	Machining 1 3	直刃

@@ -1,0 +1,18 @@
+T846	Machining 10 14	切削速度
+R245	Relation Arg1:T846 Arg2:T849
+R285	Positive Arg1:T846 Arg2:T850
+T847	Machining 15 20	切込み深さ
+R244	Relation Arg1:T847 Arg2:T849
+R286	Positive Arg1:T847 Arg2:T850
+T848	Machining 21 24	送り量
+R243	Relation Arg1:T848 Arg2:T849
+R287	Positive Arg1:T848 Arg2:T850
+T849	Machining 38 41	切削熱
+T2945	Machining 10 12	切削
+T2946	Machining 12 14	速度
+T2947	Machining 15 18	切込み
+T2948	Machining 18 20	深さ
+T2949	Machining 21 23	送り
+T2950	Machining 38 40	切削
+T2951	Machining 40 41	熱
+T3095	Machining 32 34	刃先

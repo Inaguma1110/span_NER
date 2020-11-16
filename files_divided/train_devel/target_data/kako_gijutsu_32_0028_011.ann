@@ -1,0 +1,9 @@
+T28	Machining 43 45	剛性
+T29	Machining 64 67	工作物
+T30	Machining 81 83	加工
+T48	Machining 24 26	自重
+R6	Relation Arg1:T48 Arg2:T49
+T49	Machining 29 32	たわみ
+T20	Machining 54 56	主軸
+T80	Machining 0 2	主軸
+T91	Machining 8 11	中ぐり

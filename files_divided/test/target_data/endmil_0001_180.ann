@@ -1,0 +1,13 @@
+T506	Machining 0 3	溝切削
+R167	Sub Arg1:T506 Arg2:T510
+T507	Machining 4 8	側面切削
+R168	Sub Arg1:T507 Arg2:T510
+T508	Machining 12 21	ラジアスエンドミル
+R126	Sub Arg1:T508 Arg2:T504
+T509	Machining 22 30	ボールエンドミル
+R127	Sub Arg1:T509 Arg2:T504
+T510	Machining 39 41	加工
+T2387	Machining 6 8	切削
+T2388	Machining 1 3	切削
+T2390	Machining 16 21	エンドミル
+T2391	Machining 25 30	エンドミル

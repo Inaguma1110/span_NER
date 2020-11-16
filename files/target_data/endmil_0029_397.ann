@@ -1,0 +1,3 @@
+T1200	Machining 3 7	熱伝導率
+R362	Relation Arg1:T1200 Arg2:T1201
+T1201	Machining 8 11	被削性

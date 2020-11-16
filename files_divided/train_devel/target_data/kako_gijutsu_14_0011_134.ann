@@ -1,0 +1,23 @@
+T929	Machining 4 8	切削速度
+R124	Negative Arg1:T929 Arg2:T931
+R125	Negative Arg1:T929 Arg2:T933
+R126	Negative Arg1:T929 Arg2:T934
+T930	Machining 4 6	切削
+T931	Machining 30 34	構成刃先
+T933	Machining 35 38	凝着物
+T934	Machining 46 52	仕上げ面粗さ
+T935	Machining 46 50	仕上げ面
+T937	Machining 74 78	仕上げ面
+T939	Machining 84 86	切削
+T940	Machining 84 88	切削油剤
+R127	Relation Arg1:T940 Arg2:T937
+T910	Machining 32 34	刃先
+T932	Machining 46 49	仕上げ
+T936	Machining 74 77	仕上げ
+T938	Machining 86 88	油剤
+T1486	Machining 50 52	粗さ
+T1560	Machining 6 8	速度
+T1561	Machining 67 69	高速
+T1648	Trigger 9 13	速くなる
+T1649	Trigger 42 44	消滅
+T1650	Trigger 56 61	小さくなる

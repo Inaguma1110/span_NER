@@ -1,0 +1,14 @@
+T144	Machining 0 2	切削
+T145	Machining 0 4	切削工具
+T146	Machining 2 4	工具
+T147	Machining 5 7	剛性
+R133	Relation Arg1:T147 Arg2:T813
+T148	Machining 29 33	切削抵抗
+R21	Relation Arg1:T148 Arg2:T813
+R176	Relation Arg1:T148 Arg2:T700
+T149	Machining 29 31	切削
+T150	Machining 47 49	加工
+T813	Machining 47 51	加工寸法
+T64	Machining 31 33	抵抗
+T1192	Machining 22 24	剛体
+T700	Machining 40 42	変形

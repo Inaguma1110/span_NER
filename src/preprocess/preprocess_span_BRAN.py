@@ -82,7 +82,7 @@ def arrange_ann(annotations, Entdic, EntityList, Triggerdic, Reldic, relation_ma
                 EntityList.append(instance[0])
                 #Entdic[T0] = (Machihing, 4, 9, '上向き削り') 
             else:
-                Triggerdic[instance[0]] = (instance[1].split()[0],instance[1].split()[1],instance[1].split()[2],instance[2])
+                Triggerdic[instance[0]] = (instance[1].split()[0],int(instance[1].split()[1]),int(instance[1].split()[2]),instance[2])
 
         elif 'R' in instance[0]: #instance = ['R1', 'Relation Arg1:T30 Arg2:T25', '']
             instance_tag = instance[1].split(' ')[0]
@@ -147,7 +147,7 @@ def main(config):
 
     parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('--structure',default = "NEST_INNER", help='NEST_INNER -> All nest entity\nNEST_OUTER -> only out nest entity')
-    parser.add_argument('--target_type',default = "Relation", help='All        -> all sentence   \nRelation   -> only relation sentence')
+    parser.add_argument('--target_type',default = "Relation", help='All        -> all sentence   \nRelation   -> only relation sentence\nRelation_trigger  -> only relatin sentence and thinking trigger')
     parser.add_argument('--span_size', default = 4, help = 'Choose span size \ndefault = 4')
     
     data_structure_type = parser.parse_args().structure
@@ -156,7 +156,7 @@ def main(config):
 
 
     data_strucuture_type_list = ["NEST_INNER", "NEST_OUTER"]
-    target_data_type_list = ["All", "Relation"]
+    target_data_type_list = ["All", "Relation", "Relation_trigger"]
 
     assert data_structure_type in data_strucuture_type_list
     assert target_data_type in target_data_type_list
@@ -171,12 +171,16 @@ def main(config):
                 dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL')
             if target_data_type == "Relation":
                 dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL_SHORT')
+            if target_data_type == 'Relation_trigger':
+                dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL_TRIGGER')
         if data == "test":
             data_path = config.get('preprocess path', 'DATA_PATH_TEST')
             if target_data_type == "All":
                 dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TEST')
             if target_data_type == "Relation":
                 dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TEST_SHORT')
+            if target_data_type == 'Relation_trigger':
+                dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TEST_TRIGGER')
 
 
 
@@ -189,6 +193,7 @@ def main(config):
         rel_index = 1
         final_num_of_entity = 0
         Num_of_data = 0
+        Num_of_include_trigger = 0
         Num_of_miss_tokenize = 0
         miss_tokenize_list = [0]
         hitotsu = 0
@@ -232,7 +237,9 @@ def main(config):
             if  "short" in dataname:
                 if len(Reldic) == 0:
                     continue
-
+                else:
+                    if len(Triggerdic) > 0:
+                        Num_of_include_trigger += 1
 
 
             #------------------------------------------- NEST 構造を処理するかしないか --------------------------------------------------------------------------
@@ -267,21 +274,33 @@ def main(config):
                 target_spm.append((x, subword, start_cnt, start_cnt + end_cnt))
                 start_cnt += end_cnt
 
-            output_fiims = [[0] * (max_length - 1) for s_n in range(0,span_size)]
 
+            # 各spanにおけるラベルの作成
+            output_fiims = [[0] * (max_length - 1) for s_n in range(0,span_size)]
             for s_y in range(0,span_size):
                 for t in range(len(target_spm)):
                     output_fiims[s_y][t] = 0
                     for k, v in TARGET_DIC.items():
                         try:
                             if target_spm[t][2] == v[1] and target_spm[t + s_y][3] == v[2]:
-                                if s_y == 15:
-                                    pdb.set_trace()
                                 output_fiims[s_y][t] = 1
                                 nest_entity_number_list[s_y] += 1
                                 tag_dict[k] = (s_y+1,target_spm[t])
                         except IndexError:
                             pass
+
+            # trigger vecの作成
+
+            trigger_vec = [0] * (max_length - 1)
+            for t in range(len(target_spm)):
+                for k,v in Triggerdic.items():
+                    try:
+                        if target_spm[t][2] <= v[1] < target_spm[t][3] or target_spm[t][2] < v[2] <= target_spm[t][3]:
+                            trigger_vec[t] = 1
+                    except IndexError:
+                        pass
+            trigger_vec.insert(0,0)
+
 
             # [CLS]の処理
             for one in output_fiims:
@@ -305,16 +324,18 @@ def main(config):
                     pass
             REL_LABEL_DICT[n] = REL_LABEL_unit
 
-            corpus.append(((n,doc,Entdic,Reldic), indx_tokens, output_fiims, attention_mask, tokenized))
+            corpus.append(((n,doc,Entdic,Reldic), indx_tokens, output_fiims, attention_mask, tokenized, trigger_vec))
             Num_of_data += 1
-
+        pdb.set_trace()
         print('Number of sentence ' + str(Num_of_data))
         print('_ num is {0}'.format(hitotsu))
         print('_*** num is {0}'.format(kuttuki))
         for s_y in range(span_size):
             print('Number of size {0} entity is {1}'.format(s_y+1,nest_entity_number_list[s_y]))
+        
         print('Number of entity including NEST structure {0}'.format(final_num_of_entity))
         print('Number of Miss tokenize is {}'.format(Num_of_miss_tokenize))
+        print('Number of data of including trigger word {0}'.format(Num_of_include_trigger))
         database = shelve.open(config.get('preprocess path', 'SHELVE_PATH'))
         database[dataname] = [vocab, rel_dic, corpus, filename_lst,REL_LABEL_DICT]
         database.close()

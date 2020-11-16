@@ -1,0 +1,9 @@
+T1003	Machining 9 14	固体潤滑剤
+R126	Relation Arg1:T1003 Arg2:T1004
+T1004	Machining 26 32	内部潤滑効果
+T1005	Machining 28 32	潤滑効果
+T1411	Machining 0 5	6方晶BN
+R125	Relation Arg1:T1411 Arg2:T1004
+T1620	Machining 11 14	潤滑剤
+T1621	Machining 28 30	潤滑
+T1643	Machining 21 23	添加

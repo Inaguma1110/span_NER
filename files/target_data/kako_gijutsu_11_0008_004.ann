@@ -1,0 +1,12 @@
+T19	Machining 0 3	主分力
+R21	Relation Arg1:T19 Arg2:T444
+T20	Machining 4 7	主運動
+T21	Machining 29 33	切削動力
+R4	Relation Arg1:T21 Arg2:T23
+T22	Machining 29 31	切削
+T23	Machining 39 42	主分力
+T444	Machining 10 12	分力
+T486	Machining 17 20	3分力
+T540	Machining 4 9	主運動方向
+T249	Machining 31 33	動力
+T634	Machining 46 48	消費

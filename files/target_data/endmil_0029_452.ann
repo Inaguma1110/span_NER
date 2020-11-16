@@ -1,0 +1,14 @@
+T1387	Machining 3 4	溝
+T1388	Machining 4 8	ねじれ角
+T1389	Machining 11 16	エンドミル
+T1390	Machining 22 25	加工物
+T1391	Machining 43 47	ねじれ角
+T3542	Machining 28 32	こば欠け
+T3543	Quantity 50 52	20
+T3544	Quantity 54 56	30
+T3545	Unit 56 57	度
+T3546	Unit 52 53	度
+T1190	Machining 3 8	溝ねじれ角
+R349	Positive Arg1:T1190 Arg2:T3542
+T4796	Trigger 9 11	強い
+T4797	Trigger 33 41	発生しやすくなる

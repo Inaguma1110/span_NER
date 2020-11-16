@@ -1,0 +1,17 @@
+T409	Machining 3 5	噴霧
+R84	Sub Arg1:T409 Arg2:T576
+T410	Machining 6 10	高圧供給
+R83	Sub Arg1:T410 Arg2:T576
+T571	Machining 45 49	冷却方式
+T572	Machining 21 25	強制空冷
+R82	Sub Arg1:T572 Arg2:T571
+T573	Machining 26 30	電子冷却
+R81	Sub Arg1:T573 Arg2:T571
+T574	Machining 31 37	ヒートパイプ
+R80	Sub Arg1:T574 Arg2:T571
+T575	Machining 38 40	寒剤
+R71	Sub Arg1:T575 Arg2:T571
+T576	Machining 13 17	供給方法
+T609	Machining 45 47	冷却
+T632	Machining 28 30	冷却
+T641	Machining 23 25	空冷

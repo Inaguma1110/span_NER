@@ -1,0 +1,7 @@
+T1011	Machining 15 19	断続切削
+T1012	Machining 17 19	切削
+T1013	Machining 23 27	切削速度
+T1014	Machining 23 25	切削
+T1406	Machining 33 35	油剤
+R137	Relation Arg1:T1406 Arg2:T1005
+T1566	Machining 25 27	速度

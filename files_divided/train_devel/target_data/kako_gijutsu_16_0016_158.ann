@@ -1,0 +1,3 @@
+T341	Machining 1 5	切りくず
+R58	Negative Arg1:T341 Arg2:T432
+T734	Trigger 6 10	薄くなる

@@ -1,0 +1,21 @@
+T360	Machining 4 8	切りくず
+T361	Machining 11 15	工具摩耗
+R50	Positive Arg1:T361 Arg2:T364
+R51	Relation Arg1:T361 Arg2:T578
+R52	Positive Arg1:T361 Arg2:T368
+R53	Relation Arg1:T361 Arg2:T579
+T362	Machining 11 13	工具
+T363	Machining 13 15	摩耗
+T364	Machining 44 47	切削熱
+T365	Machining 44 46	切削
+T366	Machining 46 47	熱
+T367	Machining 51 55	切りくず
+T576	Machining 4 10	切りくず形状
+R48	Relation Arg1:T576 Arg2:T234
+R181	Relation Arg1:T576 Arg2:T675
+T578	Machining 56 58	変色
+R152	Relation Arg1:T578 Arg2:T367
+R153	Relation Arg1:T578 Arg2:T364
+T675	Machining 28 31	カール
+T234	Machining 22 24	破砕
+T714	Trigger 16 18	進む

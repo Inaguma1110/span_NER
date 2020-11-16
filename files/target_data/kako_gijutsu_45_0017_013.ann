@@ -1,0 +1,5 @@
+T34	Machining 4 8	切削速度
+R15	Negative Arg1:T34 Arg2:T72
+T35	Machining 4 6	切削
+T99	Machining 6 8	速度
+T23	Trigger 9 12	上げる

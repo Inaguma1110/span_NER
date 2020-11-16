@@ -1,0 +1,10 @@
+T1131	Machining 10 13	外周刃
+R336	Part Arg1:T1131 Arg2:T1134
+T1132	Machining 14 17	ニック
+R335	Part Arg1:T1132 Arg2:T1131
+R339	Part Arg1:T1132 Arg2:T1134
+R340	Sub Arg1:T1132 Arg2:T1133
+T1133	Machining 24 25	溝
+R337	Part Arg1:T1133 Arg2:T1131
+R338	Part Arg1:T1133 Arg2:T1134
+T1134	Machining 29 34	エンドミル

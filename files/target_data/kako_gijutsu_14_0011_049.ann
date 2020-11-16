@@ -1,0 +1,12 @@
+T286	Machining 0 4	加工硬化
+T287	Machining 0 6	加工硬化指数
+T288	Machining 0 2	加工
+T289	Machining 12 15	被削材
+T291	Machining 16 19	熱処理
+T1200	Machining 48 53	含有炭素量
+R33	Relation Arg1:T1200 Arg2:T287
+T1201	Machining 12 19	被削材の熱処理
+R32	Relation Arg1:T1201 Arg2:T287
+T1277	Machining 29 32	炭素鋼
+T459	Machining 2 4	硬化
+T1425	Machining 16 17	熱

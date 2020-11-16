@@ -1,0 +1,7 @@
+T65	Machining 5 8	仕上げ
+T66	Machining 5 10	仕上げ切削
+T67	Machining 8 10	切削
+T68	Machining 16 18	摩耗
+T69	Machining 19 21	送り
+T79	Machining 14 18	二番摩耗
+R13	Relation Arg1:T79 Arg2:T69

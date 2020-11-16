@@ -1,0 +1,11 @@
+T500	Machining 0 3	せん断
+T501	Machining 4 7	せん断
+T502	Machining 12 16	切削速度
+R188	Relation Arg1:T502 Arg2:T588
+T588	Machining 0 9	せん断面せん断速度
+R189	Relation Arg1:T588 Arg2:T589
+T2058	Machining 7 9	速度
+T2059	Machining 12 14	切削
+T2060	Machining 14 16	速度
+T3419	Variable 9 11	Ｖｓ
+T3420	Variable 16 17	Ｖ

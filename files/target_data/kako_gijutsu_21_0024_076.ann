@@ -1,0 +1,13 @@
+T280	Machining 3 5	工具
+T281	Machining 9 11	外径
+T282	Machining 11 13	加工
+T283	Machining 24 27	溝入れ
+T284	Machining 27 29	加工
+T285	Machining 34 37	加工物
+T286	Machining 34 36	加工
+T287	Machining 38 42	シャンク
+T288	Machining 51 55	端面加工
+T289	Machining 53 55	加工
+T290	Machining 57 59	工具
+T387	Machining 22 29	端面溝入れ加工
+T887	Machining 9 13	外径加工

@@ -1,0 +1,16 @@
+T209	Machining 0 2	黒鉛
+T210	Machining 3 7	材料強度
+R53	Positive Arg1:T210 Arg2:T211
+R54	Relation Arg1:T210 Arg2:T215
+T211	Machining 17 21	切削温度
+R52	Positive Arg1:T211 Arg2:T215
+T212	Machining 17 19	切削
+T213	Machining 19 21	温度
+T214	Machining 25 27	工具
+T215	Machining 28 30	摩耗
+T216	Machining 62 64	摩耗
+T708	Machining 5 7	強度
+T1728	Machining 3 5	材料
+T1943	Trigger 8 10	弱い
+T1944	Trigger 22 24	低く
+T1686	Trigger 36 39	少ない

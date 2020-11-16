@@ -1,0 +1,12 @@
+T69	Machining 58 60	切削
+T263	Machining 0 4	自励振動
+T264	Machining 28 37	機械構造系の動特性
+R15	Relation Arg1:T264 Arg2:T263
+T265	Machining 58 66	切削過程の動特性
+R16	Relation Arg1:T265 Arg2:T263
+T332	Machining 88 95	動的不安定現象
+R64	Relation Arg1:T332 Arg2:T263
+T380	Machining 2 4	振動
+T381	Machining 6 8	振動
+T382	Machining 18 20	振動
+T576	Machining 18 21	振動源

@@ -1,0 +1,27 @@
+T854	Machining 3 6	工具材
+T856	Machining 20 24	境界摩耗
+T857	Machining 22 24	摩耗
+T858	Machining 47 51	境界摩耗
+R114	Relation Arg1:T858 Arg2:T862
+R116	Positive Arg1:T858 Arg2:T864
+T859	Machining 49 51	摩耗
+T861	Machining 75 78	被削材
+T862	Machining 79 81	凝着
+T863	Machining 93 95	工具
+T864	Machining 129 131	摩耗
+T1217	Machining 101 106	ぜい性破壊
+R77	Positive Arg1:T1217 Arg2:T864
+T1329	Machining 58 61	摩耗面
+T1330	Machining 95 97	母材
+T1331	Machining 93 97	工具母材
+T853	Machining 20 22	境界
+T860	Machining 58 60	摩耗
+T1417	Machining 101 104	ぜい性
+T1418	Machining 104 106	破壊
+T874	Machining 3 5	工具
+T1524	Machining 47 49	境界
+T1558	Machining 119 121	損傷
+T768	Machining 86 88	脱落
+T1645	Trigger 52 54	発生
+T1646	Trigger 132 134	拡大
+T1647	Trigger 109 112	持去る

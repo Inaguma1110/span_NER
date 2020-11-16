@@ -1,0 +1,17 @@
+T183	Machining 0 6	ダイヤモンド
+T184	Machining 13 19	ダイヤモンド
+T185	Machining 45 49	超硬合金
+T1993	Machining 0 9	ダイヤモンド焼結体
+R386	Relation Arg1:T1993 Arg2:T2000
+R387	Relation Arg1:T1993 Arg2:T185
+T1994	Machining 6 9	焼結体
+T2000	Machining 22 26	コバルト
+T2001	Machining 27 29	Ｃｏ
+T2018	Machining 33 38	バインダー
+T2019	Machining 60 62	高圧
+T2020	Machining 62 64	高温
+T2305	Machining 11 21	合成ダイヤモンド粉末
+T2307	Machining 11 13	合成
+T2308	Machining 11 19	合成ダイヤモンド
+T2312	Machining 45 47	超硬
+T2313	Machining 47 49	合金

@@ -1,0 +1,5 @@
+T29	Machining 20 22	工具
+T50	Machining 3 10	振動系の減衰勢
+T51	Machining 25 28	ダンパ
+R17	Relation Arg1:T51 Arg2:T50
+T96	Machining 3 5	振動

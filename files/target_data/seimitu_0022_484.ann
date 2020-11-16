@@ -1,0 +1,12 @@
+T1724	Machining 0 4	切削加工
+R502	Sub Arg1:T1724 Arg2:T1725
+T1725	Machining 5 10	機械的加工
+T1726	Machining 14 16	加工
+T1727	Machining 18 21	加工力
+T1728	Machining 26 28	工具
+T1729	Machining 31 34	工作物
+T1730	Machining 37 40	切削力
+T3180	Machining 0 2	切削
+T3181	Machining 2 4	加工
+T3182	Machining 5 8	機械的
+T3183	Machining 8 10	加工

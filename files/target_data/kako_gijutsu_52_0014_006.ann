@@ -1,0 +1,14 @@
+T27	Machining 18 28	１回転当たりの送り量
+T28	Machining 25 27	送り
+T29	Machining 25 28	送り量
+T30	Machining 40 44	副切れ刃
+R4	Relation Arg1:T30 Arg2:T76
+R5	Relation Arg1:T30 Arg2:T33
+T31	Machining 41 44	切れ刃
+T32	Machining 47 50	切れ刃
+T33	Machining 55 59	仕上げ面
+T34	Machining 55 58	仕上げ
+T76	Machining 60 63	平坦度
+T97	Machining 45 50	側面切れ刃
+T100	Quantity 29 36	1.3～1.5
+T101	Unit 36 37	倍

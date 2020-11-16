@@ -1,0 +1,8 @@
+T264	Machining 2 4	温度
+T265	Machining 9 12	被削材
+T266	Machining 14 16	温度
+T268	Machining 20 22	熱源
+T560	Machining 5 8	剪断面
+T127	Machining 18 22	移動熱源
+T616	Machining 5 7	剪断
+T661	Machining 18 20	移動

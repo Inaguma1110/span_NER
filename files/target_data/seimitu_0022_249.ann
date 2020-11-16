@@ -1,0 +1,15 @@
+T912	Machining 0 8	ダイヤモンド工具
+T913	Machining 14 22	ダイヤモンド工具
+T914	Machining 25 33	ダイヤモンド工具
+T940	Machining 11 22	単結晶ダイヤモンド工具
+R284	Sub Arg1:T940 Arg2:T912
+T941	Machining 23 33	焼結ダイヤモンド工具
+R285	Sub Arg1:T941 Arg2:T912
+T2321	Machining 11 14	単結晶
+T2322	Machining 14 20	ダイヤモンド
+T2323	Machining 20 22	工具
+T2324	Machining 23 25	焼結
+T2325	Machining 25 31	ダイヤモンド
+T2326	Machining 31 33	工具
+T2327	Machining 0 6	ダイヤモンド
+T2328	Machining 6 8	工具

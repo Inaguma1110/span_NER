@@ -1,0 +1,8 @@
+T451	Machining 3 10	超硬エンドミル
+T452	Machining 17 19	切削
+T453	Machining 36 41	チッピング
+T454	Machining 45 47	摩耗
+T455	Machining 64 73	マイクロチッピング
+R61	Sub Arg1:T455 Arg2:T453
+T2341	Machining 3 5	超硬
+T2342	Machining 5 10	エンドミル

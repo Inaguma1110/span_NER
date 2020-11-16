@@ -1,0 +1,4 @@
+T26	Machining 18 20	送り
+R15	Relation Arg1:T26 Arg2:T83
+T27	Machining 24 26	切削
+T83	Machining 6 8	能率

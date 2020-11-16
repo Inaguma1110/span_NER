@@ -1,0 +1,8 @@
+T474	Machining 17 19	摩耗
+T475	Machining 23 28	チッピング
+T2358	Machining 2 10	サーマルクラック
+R580	Positive Arg1:T2358 Arg2:T474
+R581	Positive Arg1:T2358 Arg2:T2360
+T2359	Machining 14 16	刃先
+T2360	Machining 20 22	脱落
+T4542	Trigger 30 34	進みます

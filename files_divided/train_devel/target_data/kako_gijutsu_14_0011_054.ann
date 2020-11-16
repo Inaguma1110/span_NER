@@ -1,0 +1,39 @@
+T312	Machining 8 10	工具
+T313	Machining 10 14	すくい面
+T314	Machining 16 18	温度
+T315	Machining 36 43	切削エネルギー
+T316	Machining 36 38	切削
+T317	Machining 38 43	エネルギー
+T318	Machining 47 51	切削動力
+T319	Machining 47 49	切削
+T320	Machining 52 57	比切削抵抗
+T321	Machining 53 57	切削抵抗
+T322	Machining 53 55	切削
+T323	Machining 66 70	切削速度
+T324	Machining 66 68	切削
+T326	Machining 73 76	送り量
+T327	Machining 81 84	被削材
+T329	Machining 85 89	熱伝導率
+T330	Machining 103 105	比熱
+T1279	Variable 64 65	V
+R186	Relation Arg1:T1279 Arg2:T323
+T1280	Variable 71 72	f
+R187	Relation Arg1:T1280 Arg2:T326
+T1281	Machining 81 89	被削材の熱伝導率
+T1282	Variable 90 93	ρ_w
+R189	Relation Arg1:T1282 Arg2:T1284
+T1283	Variable 98 101	c_w
+R190	Relation Arg1:T1283 Arg2:T330
+T1284	Machining 95 97	密度
+T1377	Variable 4 7	θ_m
+R185	Relation Arg1:T1377 Arg2:T1379
+T1378	Variable 19 21	up
+R209	Relation Arg1:T1378 Arg2:T1380
+T1379	Machining 8 18	工具すくい面平均温度
+T1380	Machining 22 26	単位時間
+T1381	Variable 77 80	k_w
+R188	Relation Arg1:T1381 Arg2:T1281
+T7	Machining 55 57	抵抗
+T13	Machining 49 51	動力
+T490	Machining 73 75	送り
+T1546	Machining 68 70	速度

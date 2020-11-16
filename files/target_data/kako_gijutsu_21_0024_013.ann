@@ -1,0 +1,14 @@
+T53	Machining 0 4	すくい角
+R8	Positive Arg1:T53 Arg2:T54
+R9	Negative Arg1:T53 Arg2:T701
+T54	Machining 11 15	せん断角
+T55	Machining 11 14	せん断
+T56	Machining 21 25	切りくず
+T701	Machining 21 27	切りくず厚み
+T703	Variable 4 5	θ
+T704	Variable 15 16	φ
+T705	Variable 27 30	t_2
+T921	Machining 25 27	厚み
+T997	Trigger 6 9	小さい
+T998	Trigger 17 20	小さく
+T999	Trigger 31 35	厚くなる

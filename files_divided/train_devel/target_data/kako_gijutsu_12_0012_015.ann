@@ -1,0 +1,8 @@
+T77	Machining 5 9	切りくず
+T79	Machining 26 30	すくい面
+R111	Relation Arg1:T79 Arg2:T577
+T540	Machining 10 13	剪断面
+R110	Relation Arg1:T540 Arg2:T578
+T577	Machining 31 33	加熱
+T578	Machining 14 16	加熱
+T334	Machining 10 12	剪断

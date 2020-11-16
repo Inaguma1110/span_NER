@@ -1,0 +1,16 @@
+T409	Machining 0 4	超硬合金
+T410	Machining 9 12	被削材
+T411	Machining 21 25	超硬合金
+T412	Machining 66 68	摩耗
+T2275	Machining 2 4	合金
+T2276	Machining 0 2	超硬
+T2277	Machining 21 23	超硬
+T2278	Machining 23 25	合金
+T2279	Machining 53 55	脱落
+R573	Relation Arg1:T2279 Arg2:T2281
+T2280	Machining 62 66	すきとり
+T2281	Machining 62 68	すきとり摩耗
+T4371	Machining 15 17	粒子
+R840	Relation Arg1:T4371 Arg2:T2279
+T4372	Machining 32 35	微小粒
+R841	Relation Arg1:T4372 Arg2:T2279

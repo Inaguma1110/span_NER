@@ -1,0 +1,16 @@
+T778	Machining 4 9	切込み深さ
+R208	Positive Arg1:T778 Arg2:T779
+R845	Negative Arg1:T778 Arg2:T4386
+T779	Machining 63 67	切りくず
+T2832	Machining 4 7	切込み
+T2833	Machining 7 9	深さ
+T2834	Machining 32 34	冷却
+T2835	Machining 46 52	切り取り厚さ
+T2836	Machining 46 50	切り取り
+T2837	Machining 50 52	厚さ
+T2838	Machining 58 60	生成
+T4267	Machining 27 29	空転
+T4386	Machining 32 36	冷却時間
+T4635	Trigger 10 12	増加
+T4636	Trigger 37 41	短くなる
+T4637	Trigger 68 72	厚くなり

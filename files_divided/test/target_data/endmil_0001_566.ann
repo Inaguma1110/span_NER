@@ -1,0 +1,12 @@
+T1646	Machining 2 5	逃げ面
+T1647	Machining 28 35	チップポケット
+T4001	Machining 0 5	外周逃げ面
+R725	Negative Arg1:T4001 Arg2:T1647
+T4004	Machining 6 9	再研削
+T4005	Machining 15 18	再研削
+R726	Negative Arg1:T4005 Arg2:T1647
+T4006	Machining 28 31	チップ
+T4354	Machining 0 2	外周
+T4817	Trigger 6 9	再研削
+T4818	Trigger 39 47	小さくなっていき
+T4819	Trigger 19 26	繰り返していく

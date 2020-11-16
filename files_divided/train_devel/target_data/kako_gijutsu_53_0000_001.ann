@@ -1,0 +1,11 @@
+T4	Machining 14 18	切削抵抗
+R5	Relation Arg1:T4 Arg2:T9
+T5	Machining 14 16	切削
+T6	Machining 21 25	耐摩耗性
+R6	Relation Arg1:T6 Arg2:T9
+T8	Machining 26 30	切りくず
+T9	Machining 35 40	下向き削り
+T10	Machining 38 40	削り
+T33	Machining 26 32	切りくず処理
+R7	Relation Arg1:T33 Arg2:T9
+T17	Machining 16 18	抵抗

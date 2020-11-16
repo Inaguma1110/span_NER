@@ -1,0 +1,18 @@
+T130	Machining 2 4	切削
+T131	Machining 8 16	切削仕上げ面粗さ
+T132	Machining 8 14	切削仕上げ面
+T133	Machining 8 10	切削
+T135	Machining 10 14	仕上げ面
+T137	Machining 26 29	切れ刃
+T138	Machining 31 33	凝着
+R11	Relation Arg1:T138 Arg2:T131
+R13	Relation Arg1:T138 Arg2:T140
+T139	Machining 35 39	構成刃先
+R12	Relation Arg1:T139 Arg2:T131
+R14	Relation Arg1:T139 Arg2:T140
+T140	Machining 47 50	工具材
+T1264	Machining 0 4	低速切削
+T887	Machining 37 39	刃先
+T901	Machining 10 13	仕上げ
+T1443	Machining 14 16	粗さ
+T1540	Machining 0 2	低速

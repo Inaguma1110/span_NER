@@ -1,0 +1,13 @@
+T16	Machining 21 23	工具
+T17	Machining 36 38	精度
+T18	Machining 50 54	切りくず
+R9	Relation Arg1:T18 Arg2:T52
+T19	Machining 67 71	耐摩耗性
+R11	Relation Arg1:T19 Arg2:T52
+T21	Machining 74 76	工具
+T53	Machining 24 30	取りつけ誤差
+R8	Relation Arg1:T53 Arg2:T52
+T54	Machining 55 57	粉塵
+R10	Relation Arg1:T54 Arg2:T52
+T102	Machining 0 2	穴径
+T103	Machining 38 40	劣化

@@ -1,0 +1,19 @@
+T449	Machining 4 10	逃げ面摩耗幅
+T450	Machining 4 7	逃げ面
+T451	Machining 7 9	摩耗
+T452	Machining 7 10	摩耗幅
+T453	Machining 20 23	逃げ角
+T851	Machining 33 38	刃先後退量
+T852	Machining 3 10	副逃げ面摩耗幅
+R58	Relation Arg1:T852 Arg2:T851
+R60	Relation Arg1:T852 Arg2:T853
+T853	Machining 17 23	バック逃げ角
+R59	Relation Arg1:T853 Arg2:T851
+T975	Variable 10 12	VB
+T976	Unit 13 15	mm
+T977	Variable 23 26	α_p
+T978	Unit 27 30	deg
+T979	Variable 38 40	ΔX
+T980	Unit 41 43	mm
+T1170	Machining 33 35	刃先
+T1309	Machining 9 10	幅

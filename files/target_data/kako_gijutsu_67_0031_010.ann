@@ -1,0 +1,24 @@
+T48	Machining 7 14	エンドミル加工
+T49	Machining 7 12	エンドミル
+T50	Machining 12 14	加工
+T51	Machining 20 22	被削
+T52	Machining 20 24	被削材質
+T53	Machining 25 27	硬さ
+T54	Machining 44 47	加工物
+T55	Machining 44 46	加工
+T56	Machining 56 58	剛性
+T57	Machining 76 78	加工
+T58	Machining 81 84	溝加工
+R32	Sub Arg1:T58 Arg2:T57
+T59	Machining 81 82	溝
+T60	Machining 82 84	加工
+T61	Machining 85 89	側面加工
+R33	Sub Arg1:T61 Arg2:T57
+T62	Machining 87 89	加工
+T63	Machining 90 93	穴加工
+R34	Sub Arg1:T63 Arg2:T57
+T64	Machining 91 93	加工
+T65	Machining 96 98	加工
+T110	Machining 94 98	曲面加工
+R35	Sub Arg1:T110 Arg2:T57
+T125	Machining 3 6	難削材

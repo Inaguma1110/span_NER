@@ -1,0 +1,10 @@
+T1148	Machining 5 10	エンドミル
+T1149	Machining 28 30	剛性
+T3256	Machining 11 13	刃長
+R320	Negative Arg1:T3256 Arg2:T1149
+R343	Positive Arg1:T3256 Arg2:T1150
+T3257	Machining 14 20	突き出し長さ
+T3258	Machining 14 18	突き出し
+T3259	Machining 18 20	長さ
+T4733	Trigger 22 27	2倍になる
+T4734	Trigger 31 37	1／8に低下

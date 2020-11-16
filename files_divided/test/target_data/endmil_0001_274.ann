@@ -1,0 +1,24 @@
+T816	Machining 5 9	切削条件
+T817	Machining 10 14	切削速度
+R225	Relation Arg1:T817 Arg2:T816
+R228	Relation Arg1:T817 Arg2:T820
+R231	Relation Arg1:T817 Arg2:T821
+T818	Machining 15 18	送り量
+R226	Relation Arg1:T818 Arg2:T816
+R229	Relation Arg1:T818 Arg2:T820
+R232	Relation Arg1:T818 Arg2:T821
+T819	Machining 19 24	切込み深さ
+R227	Relation Arg1:T819 Arg2:T816
+R230	Relation Arg1:T819 Arg2:T820
+R233	Relation Arg1:T819 Arg2:T821
+T820	Machining 53 57	加工能率
+T821	Machining 58 62	切削抵抗
+T2885	Machining 5 7	切削
+T2886	Machining 10 12	切削
+T2887	Machining 12 14	速度
+T2888	Machining 15 17	送り
+T2889	Machining 19 22	切込み
+T2890	Machining 22 24	深さ
+T2891	Machining 53 55	加工
+T2892	Machining 58 60	切削
+T2893	Machining 60 62	抵抗

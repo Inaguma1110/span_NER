@@ -1,0 +1,5 @@
+T257	Machining 4 8	塑性仕事
+T258	Machining 6 8	仕事
+T458	Variable 0 3	Q_1
+R91	Relation Arg1:T458 Arg2:T257
+T605	Machining 4 6	塑性

@@ -1,0 +1,18 @@
+T434	Machining 0 4	切削加工
+T435	Machining 0 2	切削
+T436	Machining 2 4	加工
+T437	Machining 6 8	工具
+T438	Machining 14 19	逃げ面摩耗
+T439	Machining 14 17	逃げ面
+T440	Machining 17 19	摩耗
+T441	Machining 42 46	寸法精度
+T442	Machining 44 46	精度
+T443	Machining 56 60	形状精度
+T444	Machining 58 60	精度
+T849	Machining 13 19	副逃げ面摩耗
+R55	Relation Arg1:T849 Arg2:T441
+R56	Relation Arg1:T849 Arg2:T443
+R154	Relation Arg1:T849 Arg2:T1004
+T1002	Machining 30 32	刃先
+T1003	Machining 30 34	刃先先端
+T1004	Machining 30 37	刃先先端の位置

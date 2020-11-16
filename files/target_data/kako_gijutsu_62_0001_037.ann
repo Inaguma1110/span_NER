@@ -1,0 +1,19 @@
+T183	Machining 0 8	ボールエンドミル
+T184	Machining 3 8	エンドミル
+T185	Machining 25 33	ボールエンドミル
+T186	Machining 28 33	エンドミル
+T187	Machining 91 93	刃数
+R21	Relation Arg1:T187 Arg2:T242
+R22	Relation Arg1:T187 Arg2:T189
+T188	Machining 97 101	切りくず
+T189	Machining 108 112	仕上げ面
+T190	Machining 108 111	仕上げ
+T191	Machining 118 126	ボールエンドミル
+T192	Machining 121 126	エンドミル
+T193	Machining 129 132	仕上げ
+T194	Machining 133 135	精度
+T195	Machining 135 137	加工
+T225	Machining 69 73	ポケット
+T242	Machining 97 104	切りくずの干渉
+R23	Relation Arg1:T242 Arg2:T189
+T298	Machining 138 143	スクエア刃

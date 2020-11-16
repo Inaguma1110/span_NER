@@ -1,0 +1,8 @@
+T69	Machining 5 8	被削材
+T70	Machining 9 14	炭素工具鋼
+T72	Machining 11 14	工具鋼
+T73	Machining 21 25	すくい角
+R12	Relation Arg1:T73 Arg2:T74
+T74	Machining 26 30	工具寿命
+T75	Machining 26 28	工具
+T910	Machining 28 30	寿命

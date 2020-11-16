@@ -1,0 +1,6 @@
+T139	Machining 4 10	セラミックス
+R885	Relation Arg1:T139 Arg2:T4409
+T1944	Machining 11 13	金属
+R886	Relation Arg1:T1944 Arg2:T4409
+T1945	Machining 16 18	材料
+T4409	Machining 14 18	複合材料

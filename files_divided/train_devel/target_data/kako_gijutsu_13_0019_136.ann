@@ -1,0 +1,9 @@
+T504	Machining 8 12	切りくず
+T505	Machining 33 37	酸化摩耗
+T506	Machining 35 37	摩耗
+T464	Machining 33 35	酸化
+T891	Machining 0 7	前切れ刃境界部
+R190	Relation Arg1:T891 Arg2:T505
+T503	Machining 0 4	前切れ刃
+T1695	Machining 4 7	境界部
+T1893	Machining 15 17	高温

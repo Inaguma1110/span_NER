@@ -1,0 +1,12 @@
+T1021	Machining 2 4	切削
+T1022	Machining 2 6	切削油剤
+R183	Relation Arg1:T1022 Arg2:T1023
+T1023	Machining 7 11	冷却作用
+R138	Relation Arg1:T1023 Arg2:T1024
+T1024	Machining 12 20	切削仕上げ面粗さ
+T1025	Machining 12 18	切削仕上げ面
+T1026	Machining 12 14	切削
+T1028	Machining 14 18	仕上げ面
+T1064	Machining 4 6	油剤
+T1073	Machining 14 17	仕上げ
+T1489	Machining 18 20	粗さ

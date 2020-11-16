@@ -1,0 +1,14 @@
+T704	Machining 7 9	鋳鋼
+T705	Machining 10 16	正面フライス
+T706	Machining 12 16	フライス
+T707	Machining 16 18	削り
+T708	Machining 22 27	副切込み角
+R100	Relation Arg1:T708 Arg2:T711
+T710	Machining 23 27	切込み角
+T711	Machining 28 36	切削仕上げ面粗さ
+T712	Machining 28 34	切削仕上げ面
+T713	Machining 28 30	切削
+T715	Machining 30 34	仕上げ面
+T741	Machining 30 33	仕上げ
+T1413	Machining 23 26	切込み
+T1477	Machining 34 36	粗さ

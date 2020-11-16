@@ -1,0 +1,8 @@
+T160	Machining 0 4	切削条件
+R38	Relation Arg1:T160 Arg2:T162
+R39	Relation Arg1:T160 Arg2:T165
+R40	Relation Arg1:T160 Arg2:T167
+T161	Machining 0 2	切削
+T162	Machining 8 12	切削速度
+T163	Machining 8 10	切削
+T652	Machining 10 12	速度

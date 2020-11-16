@@ -1,0 +1,9 @@
+T2902	Machining 0 5	乳化促進剤
+R60	Part Arg1:T2902 Arg2:T2905
+R136	Part Arg1:T2902 Arg2:T2906
+R142	Part Arg1:T2902 Arg2:T2907
+R190	Part Arg1:T2902 Arg2:T2908
+T2905	Machining 7 13	スルホン酸塩
+T2906	Machining 14 17	石鹸類
+T2907	Machining 18 24	苛性アルカリ
+T2908	Machining 25 30	グリコール

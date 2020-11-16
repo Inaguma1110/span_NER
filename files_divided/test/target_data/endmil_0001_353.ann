@@ -1,0 +1,7 @@
+T1088	Machining 0 4	ねじれ角
+T1089	Machining 11 14	切れ刃
+R643	Relation Arg1:T1089 Arg2:T3184
+T1090	Machining 15 18	加工物
+T3184	Machining 20 24	接触長さ
+T3185	Machining 20 22	接触
+T3186	Machining 22 24	長さ

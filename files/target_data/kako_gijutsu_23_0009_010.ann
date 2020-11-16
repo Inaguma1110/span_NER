@@ -1,0 +1,9 @@
+T37	Machining 0 4	乾式切削
+R15	Relation Arg1:T37 Arg2:T40
+T38	Machining 2 4	切削
+T39	Machining 9 11	切削
+T40	Machining 14 18	工具寿命
+T41	Machining 14 16	工具
+T99	Machining 7 11	湿式切削
+R14	Relation Arg1:T99 Arg2:T40
+T72	Machining 16 18	寿命

@@ -1,0 +1,12 @@
+T1659	Machining 8 12	工具剛性
+R478	Relation Arg1:T1659 Arg2:T1661
+R484	Relation Arg1:T1659 Arg2:T1660
+T1660	Machining 24 26	加工
+T1661	Machining 29 33	切削条件
+T4030	Machining 0 2	刃厚
+R731	Negative Arg1:T4030 Arg2:T1659
+T4031	Machining 8 10	工具
+T4032	Machining 10 12	剛性
+T4033	Machining 29 31	切削
+T4828	Trigger 3 7	薄くなれ
+T4829	Trigger 16 18	低下

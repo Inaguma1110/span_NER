@@ -1,0 +1,19 @@
+T340	Machining 0 3	むしれ
+R43	Relation Arg1:T340 Arg2:T574
+T341	Machining 8 12	切りくず
+T342	Machining 20 24	構成刃先
+R41	Relation Arg1:T342 Arg2:T343
+T343	Machining 27 30	過切削
+R45	Relation Arg1:T343 Arg2:T574
+T344	Machining 28 30	切削
+T345	Machining 31 35	過大摩耗
+R42	Relation Arg1:T345 Arg2:T347
+T346	Machining 33 35	摩耗
+T347	Machining 38 42	削り残し
+R46	Relation Arg1:T347 Arg2:T574
+T348	Machining 38 40	削り
+T574	Machining 49 54	面の平坦度
+T564	Machining 8 14	切りくず付着
+R44	Relation Arg1:T564 Arg2:T574
+T654	Machining 22 24	刃先
+T655	Machining 12 14	付着

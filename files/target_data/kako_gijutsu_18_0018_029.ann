@@ -1,0 +1,9 @@
+T48	Machining 22 26	切削速度
+T49	Machining 22 24	切削
+T50	Machining 44 46	送り
+T51	Machining 44 47	送り量
+T92	Variable 47 52	f_mc′
+T93	Variable 26 31	V_mc′
+T134	Unit 32 37	m/min
+T135	Unit 53 59	mm/rev
+T166	Machining 24 26	速度

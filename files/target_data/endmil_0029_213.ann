@@ -1,0 +1,24 @@
+T623	Machining 10 13	切込み
+T624	Machining 13 15	切削
+R163	Sub Arg1:T624 Arg2:T625
+T625	Machining 17 24	エンドミル加工
+T626	Machining 27 30	切れ刃
+T627	Machining 60 63	切れ刃
+R599	Relation Arg1:T627 Arg2:T628
+R600	Relation Arg1:T627 Arg2:T629
+T628	Machining 64 67	加工物
+T629	Machining 68 72	切りくず
+T630	Machining 90 93	切削熱
+R601	Relation Arg1:T630 Arg2:T631
+T631	Machining 94 97	切れ刃
+T2569	Machining 17 22	エンドミル
+T2570	Machining 22 24	加工
+T2571	Machining 36 38	冷却
+R597	Relation Arg1:T2571 Arg2:T630
+T2572	Machining 49 51	回転
+T2573	Machining 51 53	速度
+T2574	Machining 49 53	回転速度
+R598	Relation Arg1:T2574 Arg2:T630
+T4258	Machining 31 33	空転
+T4444	Machining 90 92	切削
+T4445	Machining 92 93	熱

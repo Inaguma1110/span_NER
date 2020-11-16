@@ -1,0 +1,23 @@
+T355	Machining 0 2	切削
+T356	Machining 2 5	主分力
+T357	Machining 9 13	送り分力
+R113	Sub Arg1:T357 Arg2:T404
+T358	Machining 16 19	背分力
+R114	Sub Arg1:T358 Arg2:T404
+T359	Machining 23 25	切削
+T360	Machining 32 34	切削
+T361	Machining 36 38	切削
+T362	Machining 38 41	主分力
+T363	Machining 44 47	背分力
+R122	Relation Arg1:T363 Arg2:T404
+T404	Machining 23 28	切削３分力
+T413	Machining 0 5	切削主分力
+R127	Sub Arg1:T413 Arg2:T404
+T414	Machining 36 41	切削主分力
+R128	Relation Arg1:T414 Arg2:T404
+T3367	Variable 5 8	Ｆｈ’
+T3368	Variable 13 16	Ｆｖ’
+T3369	Variable 19 22	Ｆｔ’
+T3370	Machining 29 34	二次元切削
+T3371	Variable 41 43	Ｆｈ
+T3372	Variable 47 49	Ｆｖ

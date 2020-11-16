@@ -1,0 +1,6 @@
+T1	Machining 0 4	切削加工
+T2	Machining 0 2	切削
+T3	Machining 2 4	加工
+T4	Machining 8 13	びびり振動
+T351	Machining 8 11	びびり
+T352	Machining 11 13	振動

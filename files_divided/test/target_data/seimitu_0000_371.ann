@@ -1,0 +1,10 @@
+T1327	Machining 0 2	亀裂
+T1328	Machining 3 5	応力
+R427	Positive Arg1:T1328 Arg2:T1327
+T1329	Machining 20 22	亀裂
+R398	Relation Arg1:T1329 Arg2:T1330
+R610	Relation Arg1:T1329 Arg2:T2840
+T1330	Machining 51 53	欠損
+T2840	Machining 47 50	全破壊
+T3771	Trigger 6 13	繰り返しにより
+T3772	Trigger 16 18	進行

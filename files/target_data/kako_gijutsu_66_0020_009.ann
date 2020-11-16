@@ -1,0 +1,5 @@
+T50	Machining 6 10	切削速度
+T51	Machining 6 8	切削
+T196	Unit 11 16	m/min
+T217	Variable 4 5	V
+T234	Machining 8 10	速度

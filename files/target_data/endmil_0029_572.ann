@@ -1,0 +1,11 @@
+T1656	Machining 3 8	エンドミル
+T1657	Machining 16 19	逃げ面
+R468	Part Arg1:T1657 Arg2:T1656
+T4013	Machining 14 19	外周逃げ面
+R930	Relation Arg1:T4013 Arg2:T4014
+R931	Relation Arg1:T4013 Arg2:T4014
+T4014	Machining 34 36	段差
+T4015	Machining 37 43	クリアランス
+T4021	Machining 20 21	背
+R730	Part Arg1:T4021 Arg2:T1656
+T4358	Machining 14 16	外周

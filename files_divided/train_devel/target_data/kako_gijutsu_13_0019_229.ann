@@ -1,0 +1,14 @@
+T808	Machining 0 5	サーメット
+R236	Relation Arg1:T808 Arg2:T816
+R237	Relation Arg1:T808 Arg2:T818
+R238	Relation Arg1:T808 Arg2:T820
+R239	Relation Arg1:T808 Arg2:T821
+R240	Relation Arg1:T808 Arg2:T822
+R241	Relation Arg1:T808 Arg2:T825
+R242	Relation Arg1:T808 Arg2:T1828
+R243	Relation Arg1:T808 Arg2:T280
+R244	Relation Arg1:T808 Arg2:T832
+R245	Relation Arg1:T808 Arg2:T831
+T809	Machining 14 17	TiC
+T1503	Machining 19 21	Ni
+T1504	Machining 22 24	Mo

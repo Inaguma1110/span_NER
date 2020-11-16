@@ -1,0 +1,5 @@
+T1458	Machining 6 10	フライス
+T1459	Machining 15 18	切れ刃
+R455	Part Arg1:T1459 Arg2:T1458
+R636	Relation Arg1:T1459 Arg2:T3613
+T3613	Machining 23 30	トロコイド曲線

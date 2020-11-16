@@ -1,0 +1,64 @@
+T7	Machining 37 41	切削時間
+T8	Machining 37 39	切削
+T9	Machining 54 56	工具
+T10	Machining 90 93	切れ刃
+T11	Machining 96 98	工具
+T12	Machining 110 113	工作物
+T13	Machining 122 125	工作物
+T14	Machining 134 136	送り
+T15	Machining 134 137	送り量
+T16	Machining 148 152	切削速度
+T17	Machining 148 150	切削
+T18	Machining 162 166	工具寿命
+T19	Machining 162 164	工具
+T94	Machining 8 15	アイドルタイム
+T95	Machining 16 21	手扱い時間
+T96	Unit 23 29	min/pc
+T97	Variable 4 7	t_i
+R11	Relation Arg1:T97 Arg2:T94
+T98	Variable 31 34	t_m
+R12	Relation Arg1:T98 Arg2:T103
+T99	Unit 42 48	min/pc
+T100	Variable 50 53	t_c
+R13	Relation Arg1:T100 Arg2:T102
+T101	Unit 61 64	min
+T102	Machining 54 60	工具交換時間
+T103	Machining 35 41	正味切削時間
+T104	Variable 66 69	K_1
+R14	Relation Arg1:T104 Arg2:T105
+T105	Machining 70 78	直接人件費＋経費
+T106	Unit 79 83	￥/pc
+T107	Variable 85 88	K_2
+R15	Relation Arg1:T107 Arg2:T108
+T108	Machining 89 99	1切れ刃当りの工具費
+T109	Unit 100 106	￥/edge
+T110	Variable 108 109	L
+R16	Relation Arg1:T110 Arg2:T112
+T111	Unit 116 118	mm
+T112	Machining 110 115	工作物長さ
+T113	Variable 120 121	D
+R17	Relation Arg1:T113 Arg2:T114
+T114	Machining 122 127	工作物直径
+T115	Unit 128 130	mm
+T116	Variable 132 133	f
+R18	Relation Arg1:T116 Arg2:T15
+T117	Unit 138 144	mm/rev
+T118	Variable 146 147	V
+R19	Relation Arg1:T118 Arg2:T16
+T119	Unit 153 158	m/min
+T120	Variable 160 161	T
+R20	Relation Arg1:T120 Arg2:T18
+T121	Unit 167 170	min
+T122	Variable 172 173	C
+R21	Relation Arg1:T122 Arg2:T123
+T123	Machining 174 188	寿命方程式VT_n＝Cの常数
+T124	Variable 189 190	n
+R22	Relation Arg1:T124 Arg2:T125
+T125	Machining 191 201	寿命方程式のTの指数
+T140	Machining 164 166	寿命
+T141	Machining 174 176	寿命
+T142	Machining 191 193	寿命
+T146	Machining 96 99	工具費
+T147	Machining 174 179	寿命方程式
+T148	Machining 191 196	寿命方程式
+T170	Machining 150 152	速度

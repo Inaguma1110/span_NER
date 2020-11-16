@@ -1,0 +1,7 @@
+T182	Machining 28 33	固有振動数
+T183	Machining 61 66	固有振動数
+T535	Quantity 34 35	4
+T536	Quantity 38 40	50
+T537	Unit 40 42	Hz
+T568	Machining 46 50	空気ばね
+R71	Relation Arg1:T568 Arg2:T183

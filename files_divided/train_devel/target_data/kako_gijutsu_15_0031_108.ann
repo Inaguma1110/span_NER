@@ -1,0 +1,3 @@
+T351	Machining 21 24	真直度
+T1094	Variable 5 8	α＋δ
+R170	Relation Arg1:T1094 Arg2:T351

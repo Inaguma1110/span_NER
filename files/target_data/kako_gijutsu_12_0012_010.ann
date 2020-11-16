@@ -1,0 +1,21 @@
+T49	Machining 4 8	切削速度
+T50	Machining 4 6	切削
+T51	Machining 18 20	送り
+T52	Machining 39 43	切削抵抗
+T53	Machining 39 41	切削
+T54	Machining 44 47	主分力
+T55	Machining 50 54	切削速度
+R14	Relation Arg1:T55 Arg2:T509
+R53	Relation Arg1:T55 Arg2:T428
+T56	Machining 50 52	切削
+T426	Variable 8 9	V
+T427	Variable 20 22	Fu
+T428	Variable 31 32	Q
+T429	Variable 47 49	Fp
+T430	Variable 54 55	V
+T510	Machining 39 47	切削抵抗の主分力
+R13	Relation Arg1:T510 Arg2:T509
+R52	Relation Arg1:T510 Arg2:T428
+T228	Machining 41 43	抵抗
+T649	Machining 6 8	速度
+T660	Machining 52 54	速度

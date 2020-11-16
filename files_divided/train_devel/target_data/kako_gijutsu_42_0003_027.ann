@@ -1,0 +1,7 @@
+T56	Machining 17 22	チッピング
+R8	Relation Arg1:T56 Arg2:T106
+T105	Machining 8 14	強断続の衝撃
+R7	Relation Arg1:T105 Arg2:T56
+R9	Relation Arg1:T105 Arg2:T106
+T106	Machining 23 25	寿命
+T85	Machining 12 14	衝撃

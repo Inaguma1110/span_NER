@@ -1,0 +1,13 @@
+T53	Machining 3 7	工具材種
+R11	Relation Arg1:T53 Arg2:T57
+R12	Relation Arg1:T53 Arg2:T177
+T55	Machining 12 15	切れ刃
+T56	Machining 16 20	構成刃先
+T57	Machining 33 39	仕上げ面粗さ
+T58	Machining 33 37	仕上げ面
+T59	Machining 33 36	仕上げ
+T177	Machining 16 26	構成刃先の発生度合い
+R10	Relation Arg1:T177 Arg2:T57
+T199	Machining 18 20	刃先
+T207	Machining 3 5	工具
+T215	Machining 37 39	粗さ

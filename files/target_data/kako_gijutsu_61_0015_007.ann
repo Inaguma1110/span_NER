@@ -1,0 +1,4 @@
+T45	Machining 1 3	底刃
+T46	Machining 10 14	正面削り
+R49	Sub Arg1:T46 Arg2:T44
+T47	Machining 12 14	削り

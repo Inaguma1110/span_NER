@@ -1,0 +1,7 @@
+T1160	Machining 23 27	工具寿命
+T3281	Machining 13 15	刃長
+R806	Negative Arg1:T3281 Arg2:T1160
+T3282	Machining 23 25	工具
+T3283	Machining 25 27	寿命
+T4742	Trigger 16 21	2倍になる
+T4872	Trigger 28 34	1／10以下

@@ -1,0 +1,10 @@
+T178	Machining 87 89	剛性
+R29	Relation Arg1:T178 Arg2:T493
+T278	Machining 99 101	振動
+T470	Machining 16 18	振動
+T493	Machining 99 103	振動抑制
+T546	Quantity 0 2	数十
+T547	Unit 2 4	Hz
+T554	Machining 9 12	周波数
+T555	Machining 49 51	揺れ
+T556	Machining 54 56	回転

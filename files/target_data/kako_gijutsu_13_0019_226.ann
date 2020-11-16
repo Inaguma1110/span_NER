@@ -1,0 +1,10 @@
+T806	Machining 27 33	クレータ摩耗
+T807	Machining 31 33	摩耗
+T1494	Machining 0 2	M種
+R235	Relation Arg1:T1494 Arg2:T806
+T1495	Machining 3 5	K種
+T1496	Machining 6 8	P種
+T1928	Machining 21 22	鋼
+R251	Positive Arg1:T1928 Arg2:T806
+T1957	Trigger 23 26	削って
+T1958	Trigger 34 38	出にくく

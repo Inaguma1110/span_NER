@@ -1,0 +1,9 @@
+T213	Machining 18 20	温度
+T214	Machining 36 38	工具
+T215	Machining 53 55	工具
+T2072	Machining 50 53	ＨＳＳ
+T2073	Machining 50 55	ＨＳＳ工具
+T2074	Machining 6 10	プラズマ
+T2075	Machining 16 20	処理温度
+T2095	Quantity 21 24	500
+T2096	Unit 24 25	℃

@@ -1,0 +1,13 @@
+T1548	Machining 16 19	逃げ面
+R471	Part Arg1:T1548 Arg2:T1550
+R481	Relation Arg1:T1548 Arg2:T1549
+T1549	Machining 32 36	刃先強度
+T3761	Machining 5 14	エキセントリック法
+R719	Sub Arg1:T3761 Arg2:T3755
+R928	Positive Arg1:T3761 Arg2:T3770
+T3767	Machining 32 34	刃先
+T3769	Machining 34 36	強度
+T3770	Machining 45 48	逃げ量
+T4338	Machining 45 47	逃げ
+T4811	Trigger 20 25	偏心Ｒ形状
+T4814	Trigger 49 51	確保

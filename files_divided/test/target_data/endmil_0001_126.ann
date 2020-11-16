@@ -1,0 +1,7 @@
+T324	Machining 6 8	加工
+T325	Machining 10 18	ボールエンドミル
+T326	Machining 19 23	切りくず
+T327	Machining 59 63	切りくず
+T2215	Machining 13 18	エンドミル
+T4233	Machining 56 63	流れ形切りくず
+R785	Sub Arg1:T4233 Arg2:T326

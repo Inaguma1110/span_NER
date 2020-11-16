@@ -1,0 +1,12 @@
+T200	Machining 0 2	超硬
+T201	Machining 2 8	コーティング
+T202	Machining 8 16	ボールエンドミル
+T203	Machining 11 16	エンドミル
+T204	Machining 20 23	被削材
+T205	Machining 23 28	SKD61
+T206	Machining 36 38	切削
+T207	Machining 40 44	高速切削
+T208	Machining 42 44	切削
+T209	Machining 47 49	切削
+T314	Machining 40 42	高速
+T327	Machining 0 16	超硬コーティングボールエンドミル

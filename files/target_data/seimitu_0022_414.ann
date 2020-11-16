@@ -1,0 +1,12 @@
+T1447	Machining 14 18	フライス
+R454	Sub Arg1:T1447 Arg2:T1454
+T1448	Machining 29 32	切れ刃
+R411	Part Arg1:T1448 Arg2:T1447
+T1449	Machining 35 40	平フライス
+R412	Sub Arg1:T1449 Arg2:T1447
+T1450	Machining 68 71	切れ刃
+R415	Part Arg1:T1450 Arg2:T1447
+T1451	Machining 74 80	正面フライス
+R413	Sub Arg1:T1451 Arg2:T1447
+T1452	Machining 83 88	エンドミル
+R414	Sub Arg1:T1452 Arg2:T1447

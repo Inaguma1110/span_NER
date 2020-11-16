@@ -1,0 +1,3 @@
+T579	Machining 12 16	切削条件
+R178	Relation Arg1:T579 Arg2:T578
+T3446	Machining 12 14	切削

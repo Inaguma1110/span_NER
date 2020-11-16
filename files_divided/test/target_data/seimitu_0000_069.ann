@@ -1,0 +1,7 @@
+T239	Machining 2 8	せん断ひずみ
+T1927	Machining 2 10	せん断ひずみ速度
+T1928	Machining 2 5	せん断
+T1931	Machining 5 8	ひずみ
+T1932	Machining 8 10	速度
+T1933	Variable 11 14	ｄγｓ
+T1934	Variable 15 17	ｄｔ

@@ -1,0 +1,3 @@
+T166	Machining 8 11	チップ
+T689	Machining 3 11	80°菱形チップ
+R78	Sub Arg1:T689 Arg2:T751

@@ -1,0 +1,13 @@
+T151	Machining 0 4	底刃摩耗
+T152	Machining 0 2	底刃
+T153	Machining 2 4	摩耗
+T154	Machining 5 8	穴あけ
+T155	Machining 12 14	送り
+T156	Machining 22 25	外周刃
+T157	Machining 27 29	切削
+T158	Machining 45 49	底刃摩耗
+T159	Machining 45 47	底刃
+T160	Machining 47 49	摩耗
+T545	Machining 10 14	垂直送り
+R1	Relation Arg1:T545 Arg2:T151
+T663	Machining 34 36	刃先

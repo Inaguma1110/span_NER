@@ -1,0 +1,9 @@
+T373	Machining 18 22	切削速度
+R75	Positive Arg1:T373 Arg2:T530
+T374	Machining 18 20	切削
+T375	Machining 23 25	送り
+R76	Positive Arg1:T375 Arg2:T530
+T530	Machining 0 3	パワー
+T658	Machining 20 22	速度
+T569	Trigger 4 7	減らす
+T669	Trigger 26 29	減らす

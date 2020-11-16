@@ -1,0 +1,22 @@
+T45	Machining 11 14	ニック
+T46	Machining 27 30	切れ刃
+T47	Machining 33 36	切削力
+T48	Machining 33 35	切削
+T49	Machining 59 62	荒削り
+T50	Machining 60 62	削り
+T51	Machining 68 73	エンドミル
+T52	Machining 85 88	コーナ
+T53	Machining 102 107	エンドミル
+T253	Machining 59 73	荒削り用ラフィングエンドミル
+R36	Sub Arg1:T253 Arg2:T40
+T254	Machining 98 107	型彫り用エンドミル
+R37	Sub Arg1:T254 Arg2:T40
+T255	Machining 74 80	刃先先端形状
+T256	Machining 81 84	テーパ
+R38	Sub Arg1:T256 Arg2:T255
+T257	Machining 85 89	コーナＲ
+R39	Sub Arg1:T257 Arg2:T255
+T258	Machining 90 95	ボール形状
+R40	Sub Arg1:T258 Arg2:T255
+T265	Machining 74 76	刃先
+T165	Machining 2 6	ねじれ刃

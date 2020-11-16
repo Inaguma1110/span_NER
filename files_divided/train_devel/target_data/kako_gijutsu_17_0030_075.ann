@@ -1,0 +1,11 @@
+T197	Machining 14 19	固有振動数
+R33	Positive Arg1:T197 Arg2:T283
+T198	Machining 102 104	剛性
+R34	Negative Arg1:T198 Arg2:T284
+T283	Machining 24 27	慣性力
+T284	Machining 90 93	慣性力
+T567	Machining 59 63	空気ばね
+T621	Trigger 94 97	減らす
+T622	Trigger 105 107	高い
+T631	Trigger 20 23	低くし
+T632	Trigger 28 33	小さくする

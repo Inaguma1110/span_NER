@@ -1,0 +1,16 @@
+T787	Machining 0 4	切削抵抗
+R210	Positive Arg1:T787 Arg2:T788
+R211	Relation Arg1:T787 Arg2:T789
+T788	Machining 15 18	倒れ量
+T789	Machining 25 30	加工面粗さ
+T2846	Machining 0 2	切削
+T2847	Machining 2 4	抵抗
+T2848	Machining 11 14	加工面
+T2849	Machining 11 13	加工
+T2850	Machining 15 17	倒れ
+T2851	Machining 25 28	加工面
+T2852	Machining 28 30	粗さ
+T2853	Machining 25 27	加工
+T4642	Trigger 5 7	増加
+T4643	Trigger 19 24	大きくなり
+T4644	Trigger 31 33	悪化

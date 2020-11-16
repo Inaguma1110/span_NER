@@ -1,0 +1,15 @@
+T969	Machining 6 8	工具
+T970	Machining 13 15	硬度
+T972	Machining 35 37	温度
+T973	Machining 60 64	切削温度
+T1118	Machining 27 31	熱処理系
+R330	Sub Arg1:T1118 Arg2:T968
+R551	Relation Arg1:T1118 Arg2:T972
+R573	Relation Arg1:T1118 Arg2:T973
+T2399	Machining 3 6	焼結系
+T2400	Machining 3 8	焼結系工具
+R334	Sub Arg1:T2400 Arg2:T968
+R337	Relation Arg1:T2400 Arg2:T970
+T971	Machining 60 62	切削
+T2401	Machining 62 64	温度
+T3568	Machining 9 11	高温

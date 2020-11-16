@@ -1,0 +1,7 @@
+T57	Machining 3 6	びびり
+T58	Machining 14 19	再生びびり
+R22	Sub Arg1:T58 Arg2:T57
+T59	Machining 20 25	強制びびり
+R23	Sub Arg1:T59 Arg2:T57
+T85	Machining 16 19	びびり
+T86	Machining 22 25	びびり

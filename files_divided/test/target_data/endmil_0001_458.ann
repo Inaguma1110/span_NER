@@ -1,0 +1,12 @@
+T1417	Machining 24 30	アルミニウム
+T1418	Machining 37 40	被削性
+T1419	Machining 57 61	工具摩耗
+T3558	Machining 30 32	鋳物
+T3559	Machining 24 32	アルミニウム鋳物
+R695	Negative Arg1:T3559 Arg2:T1418
+R696	Positive Arg1:T3559 Arg2:T1419
+T3560	Machining 57 59	工具
+T3561	Machining 59 61	摩耗
+T4879	Trigger 68 71	早まり
+T4880	Trigger 43 47	悪くなる
+T4881	Trigger 4 15	シリコンの含有量が多い

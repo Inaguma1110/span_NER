@@ -1,0 +1,8 @@
+T372	Machining 7 10	快削鋼
+T373	Machining 11 15	切りくず
+T374	Machining 20 27	チップブレーカ
+T375	Machining 20 23	チップ
+T376	Machining 23 27	ブレーカ
+T603	Machining 15 17	折断
+T644	Machining 11 17	切りくず折断
+T656	Machining 11 19	切りくず折断領域

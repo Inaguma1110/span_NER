@@ -1,0 +1,13 @@
+T1697	Machining 15 17	精度
+T4069	Machining 0 4	工作機械
+T4070	Machining 0 2	工作
+T4071	Machining 2 4	機械
+T4072	Machining 5 7	主軸
+R881	Positive Arg1:T4072 Arg2:T4075
+R882	Negative Arg1:T4072 Arg2:T4074
+T4073	Machining 17 19	劣化
+T4074	Machining 15 19	精度劣化
+T4075	Machining 40 44	振れ回り
+T4830	Trigger 8 12	経年変化
+T4831	Trigger 20 26	起こしている
+T4832	Trigger 45 47	増幅

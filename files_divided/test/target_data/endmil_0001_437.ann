@@ -1,0 +1,12 @@
+T1333	Machining 0 5	インコネル
+R682	Negative Arg1:T1333 Arg2:T1335
+R683	Relation Arg1:T1333 Arg2:T3505
+R684	Relation Arg1:T1333 Arg2:T1334
+R422	Positive Arg1:T1333 Arg2:T1338
+T1334	Machining 10 13	耐食性
+T1335	Machining 26 29	被削性
+T1336	Machining 36 38	切削
+T3505	Machining 7 9	耐熱
+T3506	Machining 22 24	合金
+T3508	Machining 17 21	ニッケル
+T4877	Trigger 33 35	悪く

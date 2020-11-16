@@ -1,0 +1,11 @@
+T31	Machining 0 3	切れ刃
+T32	Machining 19 23	すくい角
+T33	Machining 28 32	主切れ刃
+T34	Machining 29 32	切れ刃
+T35	Machining 36 40	すくい角
+R85	Relation Arg1:T35 Arg2:T761
+T698	Machining 7 10	切れ味
+T699	Machining 17 23	真のすくい角
+R1	Relation Arg1:T699 Arg2:T698
+R84	Relation Arg1:T699 Arg2:T761
+T761	Machining 0 4	切れ刃角

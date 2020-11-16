@@ -1,0 +1,9 @@
+T21	Machining 7 13	仕上げ面粗さ
+T22	Machining 7 11	仕上げ面
+T23	Machining 7 10	仕上げ
+T24	Machining 24 26	送り
+R27	Positive Arg1:T24 Arg2:T200
+T200	Machining 22 23	差
+T327	Machining 11 13	粗さ
+T32	Trigger 27 32	大きくなる
+T357	Trigger 35 40	顕著である

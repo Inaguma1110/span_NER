@@ -1,0 +1,7 @@
+T897	Machining 9 12	加工物
+T898	Machining 17 20	切込み
+T3023	Machining 14 16	刃先
+T3026	Machining 0 6	アップカット
+R802	Positive Arg1:T3026 Arg2:T898
+T4678	Trigger 31 35	厚くなり
+T4679	Trigger 21 28	ゼロから始まり

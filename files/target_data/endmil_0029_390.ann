@@ -1,0 +1,18 @@
+T1178	Machining 8 11	切れ刃
+R664	Positive Arg1:T1178 Arg2:T3323
+T1179	Machining 18 20	切削
+T1180	Machining 33 36	被削面
+T1181	Machining 56 60	切削抵抗
+R347	Positive Arg1:T1181 Arg2:T1182
+T1182	Machining 81 86	びびり振動
+T3321	Machining 81 84	びびり
+T3322	Machining 84 86	振動
+T3323	Machining 38 42	接触長さ
+T3324	Machining 38 40	接触
+T3325	Machining 40 42	長さ
+T3326	Machining 13 17	ねじれ刃
+T3327	Machining 56 58	切削
+T3328	Machining 58 60	抵抗
+T4749	Trigger 43 47	長くなる
+T4750	Trigger 87 89	誘発
+T4751	Trigger 70 73	上回る

@@ -1,0 +1,3 @@
+T915	Machining 9 12	被削性
+T1724	Machining 3 5	材料
+R224	Relation Arg1:T1724 Arg2:T915

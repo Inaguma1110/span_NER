@@ -1,0 +1,13 @@
+T562	Machining 6 11	エネルギー
+R171	Relation Arg1:T562 Arg2:T561
+R173	Relation Arg1:T562 Arg2:T567
+R154	Relation Arg1:T562 Arg2:T563
+T564	Machining 30 34	切りくず
+T565	Machining 35 37	工具
+T566	Machining 38 41	工作物
+T567	Machining 50 52	温度
+T2106	Machining 12 15	輻射熱
+T2107	Machining 18 20	放散
+T563	Machining 42 44	加熱
+T3750	Trigger 2 4	転化
+T3751	Trigger 52 54	上昇

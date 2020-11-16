@@ -1,0 +1,13 @@
+T196	Machining 0 2	超硬
+T197	Machining 2 8	コーティング
+T198	Machining 11 20	スクエアエンドミル
+T199	Machining 15 20	エンドミル
+T200	Machining 25 28	被削性
+T201	Machining 36 39	被削材
+T202	Machining 42 45	切込み
+T203	Machining 49 52	仕上げ
+T204	Machining 49 54	仕上げ切削
+T205	Machining 52 54	切削
+T206	Machining 61 64	面粗度
+T207	Machining 70 73	うねり
+T289	Machining 62 64	粗度

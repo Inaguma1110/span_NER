@@ -1,0 +1,17 @@
+T1660	Machining 2 4	切削
+T1661	Machining 11 13	工具
+T1662	Machining 13 18	前逃げ面部
+T1663	Machining 19 23	境界摩耗
+R476	Positive Arg1:T1663 Arg2:T1665
+T1664	Machining 24 30	前逃げ面摩耗
+R475	Positive Arg1:T1664 Arg2:T1665
+T1665	Machining 45 51	仕上げ面粗さ
+T3112	Machining 19 21	境界
+T3113	Machining 21 23	摩耗
+T3114	Machining 28 30	摩耗
+T3115	Machining 24 28	前逃げ面
+T3116	Machining 45 49	仕上げ面
+T3117	Machining 49 51	粗さ
+T3118	Machining 45 48	仕上げ
+T3791	Trigger 31 33	発生
+T3792	Trigger 59 61	増大

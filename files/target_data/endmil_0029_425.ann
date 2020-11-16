@@ -1,0 +1,20 @@
+T1302	Machining 0 4	切削抵抗
+T1303	Machining 14 19	エンドミル
+T1304	Machining 20 24	すくい角
+R374	Negative Arg1:T1304 Arg2:T1302
+R375	Negative Arg1:T1304 Arg2:T1306
+R376	Negative Arg1:T1304 Arg2:T1307
+T1305	Machining 33 37	ねじれ角
+R414	Negative Arg1:T1305 Arg2:T1302
+R420	UpDown Arg1:T1305 Arg2:T1306
+R421	Negative Arg1:T1305 Arg2:T1307
+T1306	Machining 42 45	主分力
+T1307	Machining 46 50	送り分力
+T3466	Machining 0 2	切削
+T3467	Machining 2 4	抵抗
+T3468	Machining 46 48	送り
+T3469	Machining 48 50	分力
+T4771	Trigger 5 7	軽減
+T4772	Trigger 25 31	大きくとった
+T4773	Trigger 51 53	軽減
+T4777	Trigger 38 42	大きくし

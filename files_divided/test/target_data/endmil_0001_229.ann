@@ -1,0 +1,9 @@
+T689	Machining 48 53	固有振動数
+T2665	Machining 0 3	Ｌ／Ｄ
+T2666	Machining 9 13	回転速度
+R614	Positive Arg1:T2666 Arg2:T2669
+T2667	Machining 9 11	回転
+T2668	Machining 11 13	速度
+T2669	Machining 22 24	振動
+T4600	Trigger 14 19	上げていく
+T4603	Trigger 25 27	発生

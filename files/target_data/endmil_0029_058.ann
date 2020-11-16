@@ -1,0 +1,11 @@
+T124	Machining 0 4	超硬合金
+R542	Relation Arg1:T124 Arg2:T1919
+T125	Machining 5 11	高速度工具鋼
+T1916	Machining 2 4	合金
+T1917	Machining 8 11	工具鋼
+T1918	Machining 17 20	たわみ
+T1919	Machining 29 31	強度
+T1920	Quantity 24 25	3
+T1921	Unit 25 26	倍
+T2300	Machining 0 2	超硬
+T2301	Machining 5 8	高速度

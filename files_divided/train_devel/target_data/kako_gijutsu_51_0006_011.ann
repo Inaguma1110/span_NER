@@ -1,0 +1,5 @@
+T35	Machining 4 9	側フライス
+T36	Machining 5 9	フライス
+T147	Machining 1 9	千鳥刃側フライス
+R14	Sub Arg1:T147 Arg2:T25
+T187	Machining 1 4	千鳥刃

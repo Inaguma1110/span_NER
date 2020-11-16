@@ -1,0 +1,4 @@
+T1297	Machining 6 8	切削
+R396	Relation Arg1:T1297 Arg2:T1299
+T1298	Machining 11 13	工具
+T1299	Machining 16 18	応力

@@ -1,0 +1,9 @@
+T549	Machining 7 12	逃げ面摩耗
+T550	Machining 7 10	逃げ面
+T551	Machining 10 12	摩耗
+T552	Machining 17 21	切削温度
+T553	Machining 17 19	切削
+T554	Machining 19 21	温度
+T1850	Machining 7 16	逃げ面摩耗進行速度
+R230	Relation Arg1:T1850 Arg2:T552
+T1865	Machining 14 16	速度

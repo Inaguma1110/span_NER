@@ -1,0 +1,5 @@
+T1494	Machining 5 7	工具
+T1495	Machining 7 10	切れ刃
+R433	Part Arg1:T1495 Arg2:T1494
+T3614	Machining 13 20	トロコイド曲線
+T3615	Machining 5 10	工具切れ刃

@@ -1,0 +1,14 @@
+T235	Machining 3 5	切削
+T236	Machining 3 7	切削油剤
+R41	Relation Arg1:T236 Arg2:T239
+T237	Machining 20 23	工作物
+T238	Machining 30 34	切りくず
+T239	Machining 45 49	加工精度
+T240	Machining 45 47	加工
+T241	Machining 47 49	精度
+T963	Machining 8 12	洗浄作用
+T964	Machining 15 19	工作機械
+T1071	Machining 5 7	油剤
+T1159	Machining 8 10	洗浄
+T1160	Machining 36 38	洗浄
+T1161	Machining 36 40	洗浄排除

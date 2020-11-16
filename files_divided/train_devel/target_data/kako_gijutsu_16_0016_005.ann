@@ -1,0 +1,3 @@
+T10	Machining 6 10	切りくず
+R62	Relation Arg1:T10 Arg2:T449
+T449	Machining 14 18	トラブル

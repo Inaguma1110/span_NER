@@ -1,0 +1,14 @@
+T101	Machining 5 9	切削速度
+R19	Negative Arg1:T101 Arg2:T270
+T102	Machining 5 7	切削
+T103	Machining 16 19	切削幅
+T104	Machining 16 18	切削
+T249	Machining 4 9	低切削速度
+T270	Machining 11 19	安定限界の切削幅
+T579	Machining 11 15	安定限界
+T591	Machining 7 9	速度
+T596	Machining 18 19	幅
+T602	Machining 29 35	低速安定効果
+T603	Machining 29 31	低速
+T616	Trigger 20 22	増大
+T630	Trigger 4 5	低

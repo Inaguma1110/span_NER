@@ -1,0 +1,20 @@
+T469	Machining 8 14	構造用炭素鋼
+T470	Machining 14 18	S45C
+T471	Machining 19 23	焼ならし
+T472	Machining 25 27	鋳鉄
+T473	Machining 27 29	FC
+T474	Machining 33 37	旋削加工
+T475	Machining 33 35	旋削
+T476	Machining 35 37	加工
+T477	Machining 41 49	切削仕上げ面粗さ
+R66	Relation Arg1:T477 Arg2:T483
+T478	Machining 41 47	切削仕上げ面
+T479	Machining 41 43	切削
+T481	Machining 43 47	仕上げ面
+T483	Machining 50 54	切削速度
+T484	Machining 50 52	切削
+T1293	Machining 27 32	FC300
+T591	Machining 43 46	仕上げ
+T1410	Machining 11 14	炭素鋼
+T1495	Machining 47 49	粗さ
+T1549	Machining 52 54	速度

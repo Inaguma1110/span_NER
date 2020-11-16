@@ -1,0 +1,11 @@
+T1657	Machining 3 8	前切れ刃部
+T1658	Machining 9 14	逃げ面摩耗
+R474	Negative Arg1:T1658 Arg2:T1659
+T1659	Machining 44 50	仕上げ面粗さ
+T3107	Machining 9 12	逃げ面
+T3108	Machining 12 14	摩耗
+T3109	Machining 44 48	仕上げ面
+T3110	Machining 48 50	粗さ
+T3111	Machining 44 47	仕上げ
+T3789	Trigger 17 19	発生
+T3790	Trigger 51 56	小さくなる

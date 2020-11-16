@@ -1,0 +1,5 @@
+T52	Machining 6 10	切削抵抗
+R3	Relation Arg1:T52 Arg2:T54
+T53	Machining 6 8	切削
+T54	Machining 13 16	工作物
+T13	Machining 8 10	抵抗

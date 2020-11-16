@@ -1,0 +1,4 @@
+T1389	Machining 0 2	切削
+T2853	Machining 16 18	酸化
+T1383	Machining 5 6	面
+R402	Relation Arg1:T1383 Arg2:T2853

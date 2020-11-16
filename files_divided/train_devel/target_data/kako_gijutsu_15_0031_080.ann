@@ -1,0 +1,16 @@
+T263	Machining 8 13	弾塑性変形
+T265	Machining 13 15	仕事
+T266	Machining 16 19	被削材
+T267	Machining 26 28	工具
+T268	Machining 28 31	逃げ面
+T269	Machining 33 37	摩擦仕事
+R181	Sub Arg1:T269 Arg2:T965
+T270	Machining 33 35	摩擦
+T271	Machining 35 37	仕事
+T262	Machining 1 5	工具切刃
+T1073	Machining 3 5	切刃
+T1074	Machining 1 3	工具
+T1075	Machining 8 11	弾塑性
+T1076	Machining 11 13	変形
+T1248	Machining 20 22	弾性
+T1249	Machining 20 24	弾性回復

@@ -1,0 +1,8 @@
+T90	Machining 0 4	切削条件
+T91	Machining 0 2	切削
+T92	Machining 5 9	切削速度
+T93	Machining 5 7	切削
+T83	Quantity 11 15	1.33
+T775	Variable 9 10	V
+T776	Unit 15 18	m/s
+T1321	Machining 7 9	速度

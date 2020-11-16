@@ -1,0 +1,7 @@
+T1345	Machining 14 21	製品の商品価値
+R175	Relation Arg1:T1345 Arg2:T1346
+R176	Negative Arg1:T1345 Arg2:T1347
+T1346	Machining 29 32	生産高
+T1347	Machining 37 39	費用
+T1664	Trigger 40 42	増加
+T1671	Trigger 22 26	なくなる

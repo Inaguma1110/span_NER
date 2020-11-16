@@ -1,0 +1,10 @@
+T765	Machining 14 17	送り量
+T766	Machining 33 38	切込み深さ
+T2798	Machining 10 11	刃
+T2799	Machining 14 16	送り
+T2800	Machining 22 28	切り取り厚さ
+R631	Relation Arg1:T2800 Arg2:T766
+T2801	Machining 22 26	切り取り
+T2802	Machining 26 28	厚さ
+T2804	Machining 33 36	切込み
+T2805	Machining 36 38	深さ

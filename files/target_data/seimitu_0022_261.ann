@@ -1,0 +1,22 @@
+T951	Machining 6 10	高速度鋼
+R559	Sub Arg1:T951 Arg2:T2372
+T952	Machining 11 15	超硬合金
+R560	Sub Arg1:T952 Arg2:T2372
+T953	Machining 18 24	セラミックス
+R561	Sub Arg1:T953 Arg2:T2372
+T954	Machining 61 67	ダイヤモンド
+R566	Sub Arg1:T954 Arg2:T3573
+T955	Machining 76 78	単層
+T956	Machining 81 83	多層
+T2372	Machining 0 2	母材
+T2373	Machining 11 13	超硬
+T2374	Machining 13 15	合金
+T2375	Machining 43 46	ＴｉＣ
+R562	Sub Arg1:T2375 Arg2:T3573
+T2376	Machining 47 50	ＴｉＮ
+R563	Sub Arg1:T2376 Arg2:T3573
+T2377	Machining 51 54	ＨｆＮ
+R564	Sub Arg1:T2377 Arg2:T3573
+T2378	Machining 55 60	Ａｌ2Ｏ3
+R565	Sub Arg1:T2378 Arg2:T3573
+T3573	Machining 38 39	膜

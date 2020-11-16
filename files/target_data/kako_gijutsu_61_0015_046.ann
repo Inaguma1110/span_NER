@@ -1,0 +1,10 @@
+T187	Machining 0 4	高速度鋼
+T188	Machining 0 9	高速度鋼エンドミル
+T189	Machining 4 9	エンドミル
+T190	Machining 11 16	チッピング
+T191	Machining 22 24	超硬
+T192	Machining 37 42	チッピング
+R3	Relation Arg1:T192 Arg2:T193
+T193	Machining 59 63	局部摩耗
+T194	Machining 61 63	摩耗
+T672	Machining 10 17	耐チッピング性

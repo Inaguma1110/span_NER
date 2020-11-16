@@ -1,0 +1,10 @@
+T1370	Machining 2 4	応力
+T1371	Machining 20 22	応力
+T1372	Machining 37 41	破壊応力
+T2836	Machining 0 2	破壊
+T2842	Machining 0 4	破壊応力
+T2843	Machining 18 20	衝撃
+T2844	Machining 18 22	衝撃応力
+R617	Relation Arg1:T2844 Arg2:T1372
+T2845	Machining 37 39	破壊
+T2846	Machining 39 41	応力

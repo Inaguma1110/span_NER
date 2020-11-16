@@ -1,0 +1,5 @@
+T1143	Machining 9 19	スローアウェイチップ
+R342	Part Arg1:T1143 Arg2:T1144
+T1144	Machining 29 38	荒加工用エンドミル
+T3249	Machining 33 38	エンドミル
+T4322	Machining 29 32	荒加工

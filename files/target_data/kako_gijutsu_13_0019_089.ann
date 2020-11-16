@@ -1,0 +1,4 @@
+T311	Machining 0 3	熱拡散
+T312	Machining 17 19	温度
+R68	Relation Arg1:T312 Arg2:T311
+T1862	Machining 4 6	速度

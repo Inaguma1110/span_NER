@@ -1,0 +1,14 @@
+T347	Machining 0 7	純アルミニウム
+R907	Relation Arg1:T347 Arg2:T4433
+T348	Machining 8 10	純銅
+R908	Relation Arg1:T348 Arg2:T4433
+T349	Machining 21 23	切削
+T350	Machining 33 37	切りくず
+T351	Machining 39 44	エンドミル
+T352	Machining 45 49	すくい面
+R905	Positive Arg1:T352 Arg2:T2233
+T2231	Machining 18 20	材料
+T2232	Machining 28 30	生成
+T2233	Machining 50 52	溶着
+T4433	Machining 13 15	延性
+T4512	Trigger 53 60	生じやすくなり

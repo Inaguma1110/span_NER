@@ -1,0 +1,14 @@
+T152	Machining 48 54	セラミックス
+T1957	Machining 5 9	シリコン
+R545	Sub Arg1:T1957 Arg2:T1961
+T1961	Machining 13 16	半導体
+R556	Sub Arg1:T1961 Arg2:T152
+T1962	Machining 18 21	炭化物
+R546	Sub Arg1:T1962 Arg2:T1965
+T1963	Machining 22 25	窒化物
+R547	Sub Arg1:T1963 Arg2:T1965
+T1964	Machining 26 30	ホウ化物
+R548	Sub Arg1:T1964 Arg2:T1965
+T1965	Machining 37 43	非金属化合物
+R557	Sub Arg1:T1965 Arg2:T152
+T1966	Machining 40 43	化合物

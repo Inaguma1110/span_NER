@@ -1,0 +1,10 @@
+T318	Machining 8 12	高速度鋼
+T319	Machining 8 14	高速度鋼工具
+T320	Machining 12 14	工具
+T321	Machining 15 21	すくい面摩耗
+R69	Relation Arg1:T321 Arg2:T324
+T322	Machining 15 19	すくい面
+T323	Machining 19 21	摩耗
+T324	Machining 22 26	切削温度
+T325	Machining 22 24	切削
+T326	Machining 24 26	温度

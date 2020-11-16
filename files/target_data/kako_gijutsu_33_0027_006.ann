@@ -1,0 +1,16 @@
+T14	Machining 48 50	工具
+T15	Machining 63 65	剛性
+R12	Relation Arg1:T15 Arg2:T43
+T16	Machining 75 80	固有振動数
+R15	Relation Arg1:T16 Arg2:T43
+T17	Machining 83 85	工具
+T44	Machining 28 30	隙間
+R11	Relation Arg1:T44 Arg2:T43
+T45	Machining 9 11	剛性
+R10	Relation Arg1:T45 Arg2:T43
+T46	Machining 51 53	直径
+R13	Relation Arg1:T46 Arg2:T15
+T47	Machining 54 56	長さ
+R14	Relation Arg1:T47 Arg2:T15
+T91	Machining 23 26	軸受け
+T131	Machining 6 8	主軸

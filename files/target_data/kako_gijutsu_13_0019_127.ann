@@ -1,0 +1,10 @@
+T457	Machining 5 9	切りくず
+T458	Machining 17 22	エンゲージ
+T1432	Machining 29 31	欠け
+T652	Machining 10 12	付着
+R75	Positive Arg1:T652 Arg2:T1719
+R179	Positive Arg1:T652 Arg2:T1432
+T1719	Machining 23 25	衝撃
+T1984	Trigger 26 29	大きく
+T1986	Trigger 13 15	ある
+T1659	Trigger 32 38	起こりやすい

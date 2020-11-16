@@ -1,0 +1,9 @@
+T73	Machining 8 10	応力
+T74	Machining 27 30	被削材
+T75	Machining 31 37	塑性流動応力
+T76	Machining 35 37	応力
+T1277	Quantity 18 20	数百
+T1278	Unit 20 23	MPa
+T1734	Machining 31 33	塑性
+T1735	Machining 31 35	塑性流動
+T797	Machining 33 35	流動

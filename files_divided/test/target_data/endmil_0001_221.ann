@@ -1,0 +1,15 @@
+T666	Machining 34 36	工具
+T667	Machining 45 50	ミーリング
+R234	Sub Arg1:T667 Arg2:T669
+T668	Machining 54 57	高精度
+T669	Machining 57 59	加工
+T2612	Machining 51 59	高能率高精度加工
+T2613	Machining 51 54	高能率
+T2614	Machining 43 45	高速
+T2615	Machining 43 50	高速ミーリング
+T2616	Machining 4 14	高速マシニングセンタ
+T2617	Machining 4 6	高速
+T2620	Machining 20 23	ＣＮＣ
+T2621	Machining 6 14	マシニングセンタ
+T2622	Machining 24 27	ＣＡＭ
+T2623	Machining 28 33	ツーリング

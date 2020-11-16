@@ -1,0 +1,7 @@
+T10	Machining 14 16	加工
+T11	Machining 22 24	工具
+T12	Machining 33 37	シャンク
+T17	Machining 45 52	ガイドブッシュ
+T26	Machining 1 6	両持ち方式
+R2	Sub Arg1:T26 Arg2:T24
+T38	Machining 12 13	穴

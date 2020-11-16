@@ -1,0 +1,4 @@
+T83	Machining 6 8	熱源
+T613	Variable 8 11	Q_1
+T614	Variable 12 15	Q_2
+T615	Variable 16 19	Q_3

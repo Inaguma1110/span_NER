@@ -1,0 +1,14 @@
+T413	Machining 37 39	旋削
+T414	Machining 44 46	応力
+T415	Machining 48 51	切込み
+T416	Machining 71 73	応力
+T844	Machining 69 73	引張応力
+R51	Relation Arg1:T844 Arg2:T845
+T845	Machining 87 89	内径
+T998	Machining 42 46	残留応力
+T404	Machining 8 12	切込み量
+T1099	Machining 69 71	引張
+T1169	Machining 8 11	切込み
+T1194	Machining 16 21	焼きなまし
+T1257	Machining 15 22	未焼きなまし材
+T1330	Machining 42 44	残留

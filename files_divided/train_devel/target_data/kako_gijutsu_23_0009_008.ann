@@ -1,0 +1,14 @@
+T22	Machining 3 6	加工物
+T23	Machining 3 5	加工
+T24	Machining 7 11	寸法精度
+T25	Machining 9 11	精度
+T26	Machining 18 21	切削熱
+R7	Relation Arg1:T26 Arg2:T97
+T27	Machining 18 20	切削
+T28	Machining 20 21	熱
+T29	Machining 24 26	温度
+T30	Machining 45 47	切削
+T95	Machining 43 47	湿式切削
+R12	Relation Arg1:T95 Arg2:T97
+T97	Machining 24 28	温度変化
+R13	Relation Arg1:T97 Arg2:T24

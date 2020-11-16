@@ -1,0 +1,4 @@
+T1773	Machining 0 2	折損
+T1774	Machining 4 8	シャンク
+R940	Positive Arg1:T1774 Arg2:T1773
+T4147	Machining 12 16	コレット

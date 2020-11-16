@@ -1,0 +1,8 @@
+T307	Machining 0 4	強制振動
+T308	Machining 17 21	力外乱形
+R58	Sub Arg1:T308 Arg2:T307
+T309	Machining 26 31	変位外乱形
+R59	Sub Arg1:T309 Arg2:T307
+T361	Machining 2 4	振動
+T445	Machining 28 31	外乱形
+T446	Machining 18 21	外乱形

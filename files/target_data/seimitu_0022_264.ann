@@ -1,0 +1,14 @@
+T960	Machining 6 8	工具
+T961	Machining 9 14	仕上げ切削
+T962	Machining 20 22	送り
+T963	Machining 49 52	大送り
+T2390	Machining 0 6	コーテイング
+T2391	Machining 0 8	コーテイング工具
+R550	Relation Arg1:T2391 Arg2:T2392
+T2392	Machining 31 33	剥離
+T2393	Machining 25 29	切り込み
+T2394	Machining 9 12	仕上げ
+T2395	Machining 12 14	切削
+T2396	Machining 53 58	大切り込み
+T3566	Machining 18 22	微小送り
+T3567	Machining 23 29	微小切り込み

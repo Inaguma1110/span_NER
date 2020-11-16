@@ -1,0 +1,7 @@
+T1672	Machining 7 9	切削
+T1673	Machining 26 29	切れ刃
+R646	Relation Arg1:T1673 Arg2:T3130
+T1674	Machining 30 34	構成刃先
+T3127	Machining 4 6	材料
+T3129	Machining 32 34	刃先
+T3130	Machining 39 42	付着物

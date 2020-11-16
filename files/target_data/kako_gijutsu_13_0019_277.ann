@@ -1,0 +1,11 @@
+T969	Machining 24 26	Ca
+R211	Sub Arg1:T969 Arg2:T972
+T970	Machining 27 29	Al
+R212	Sub Arg1:T970 Arg2:T972
+T971	Machining 30 32	Mn
+R213	Sub Arg1:T971 Arg2:T972
+T972	Machining 35 39	複酸化物
+T1615	Machining 5 8	付着物
+R214	Relation Arg1:T1615 Arg2:T972
+T1832	Machining 9 13	ベラーグ
+T1833	Machining 14 19	Belag

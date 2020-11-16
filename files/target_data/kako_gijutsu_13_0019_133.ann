@@ -1,0 +1,11 @@
+T490	Machining 5 7	超硬
+T491	Machining 5 9	超硬合金
+T493	Machining 45 48	酸化物
+T1286	Quantity 18 21	600
+T1321	Machining 11 13	WC
+R191	Relation Arg1:T1321 Arg2:T1382
+R192	Relation Arg1:T1321 Arg2:T493
+T1382	Machining 37 39	酸化
+T1453	Machining 28 30	加熱
+T1110	Unit 21 23	°C
+T1665	Machining 7 9	合金

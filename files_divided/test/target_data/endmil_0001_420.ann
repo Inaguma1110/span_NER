@@ -1,0 +1,17 @@
+T1291	Machining 57 60	被削性
+T3448	Machining 11 19	オーステナイト系
+T3449	Machining 23 29	ＳＵＳ304
+R666	Sub Arg1:T3449 Arg2:T3450
+T3450	Machining 47 55	オーステナイト系
+R668	Sub Arg1:T3450 Arg2:T3454
+R667	Positive Arg1:T3450 Arg2:T1292
+R669	Positive Arg1:T3450 Arg2:T3451
+R671	Positive Arg1:T3450 Arg2:T1294
+R371	Positive Arg1:T3450 Arg2:T1295
+R672	Relation Arg1:T3450 Arg2:T1297
+R673	Positive Arg1:T3450 Arg2:T1298
+R674	Relation Arg1:T3450 Arg2:T1300
+R675	Positive Arg1:T3450 Arg2:T1301
+R323	Positive Arg1:T3450 Arg2:T1293
+R370	Negative Arg1:T3450 Arg2:T1291
+T3454	Machining 63 66	難削材

@@ -1,0 +1,16 @@
+T1136	Machining 0 5	極圧添加剤
+R151	Relation Arg1:T1136 Arg2:T1418
+T1137	Machining 24 27	工具材
+T1139	Machining 34 37	硫化物
+T1140	Machining 41 44	塩化物
+T1141	Machining 48 50	摩耗
+T1418	Machining 6 11	油剤の性質
+R252	Positive Arg1:T1418 Arg2:T1139
+R253	Positive Arg1:T1418 Arg2:T1140
+R254	Positive Arg1:T1418 Arg2:T1141
+T1577	Machining 6 8	油剤
+T1622	Machining 2 5	添加剤
+T1627	Machining 0 2	極圧
+T1969	Trigger 12 14	向上
+T1970	Trigger 45 47	生成
+T1971	Trigger 51 53	促進

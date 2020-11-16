@@ -1,0 +1,13 @@
+T21	Machining 5 9	切削抵抗
+R2	Relation Arg1:T21 Arg2:T74
+T22	Machining 5 7	切削
+T23	Machining 24 26	加工
+T24	Machining 42 44	精度
+T25	Machining 45 49	仕上げ面
+T26	Machining 45 48	仕上げ
+T65	Machining 13 16	カッタ
+T74	Machining 17 20	たわみ
+R3	Relation Arg1:T74 Arg2:T75
+T75	Machining 29 32	面だれ
+T91	Machining 41 44	高精度
+T94	Machining 7 9	抵抗

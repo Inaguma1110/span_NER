@@ -1,0 +1,7 @@
+T1675	Machining 2 6	構成刃先
+R647	Relation Arg1:T1675 Arg2:T3132
+R648	Relation Arg1:T1675 Arg2:T3133
+T1676	Machining 7 9	切削
+T3131	Machining 4 6	刃先
+T3132	Machining 23 25	生成
+T3133	Machining 26 28	脱落

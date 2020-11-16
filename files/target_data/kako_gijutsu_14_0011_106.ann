@@ -1,0 +1,6 @@
+T720	Machining 2 10	前切れ刃境界摩耗
+R101	Relation Arg1:T720 Arg2:T728
+T723	Machining 8 10	摩耗
+T721	Machining 2 6	前切れ刃
+T1494	Machining 6 10	境界摩耗
+T1509	Machining 6 8	境界

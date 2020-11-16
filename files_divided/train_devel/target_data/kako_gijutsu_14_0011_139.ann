@@ -1,0 +1,22 @@
+T973	Machining 11 13	切削
+T974	Machining 11 15	切削油剤
+R134	Relation Arg1:T974 Arg2:T976
+T975	Machining 16 20	潤滑作用
+R133	Relation Arg1:T975 Arg2:T976
+T976	Machining 27 33	切削仕上げ面
+T977	Machining 27 29	切削
+T978	Machining 29 33	仕上げ面
+T980	Machining 46 48	切削
+T981	Machining 68 73	リーマ加工
+T982	Machining 68 71	リーマ
+T983	Machining 71 73	加工
+T984	Machining 96 98	切削
+T1179	Unit 52 57	m/min
+T1344	Machining 44 48	低速切削
+T1345	Machining 91 98	湿式極低速切削
+T1346	Machining 93 98	極低速切削
+T105	Quantity 50 52	20
+T1010	Machining 13 15	油剤
+T1020	Machining 16 18	潤滑
+T1027	Machining 29 32	仕上げ
+T1564	Machining 44 46	低速

@@ -1,0 +1,8 @@
+T949	Machining 21 23	工具
+T950	Machining 28 31	耐熱性
+R118	Relation Arg1:T950 Arg2:T1404
+T1404	Machining 2 10	寿命方程式の指数
+T1405	Variable 19 20	n
+T1717	Machining 2 7	寿命方程式
+T1777	Machining 2 4	寿命
+T1837	Machining 10 15	(VT曲線

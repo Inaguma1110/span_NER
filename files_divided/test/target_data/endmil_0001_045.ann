@@ -1,0 +1,8 @@
+T109	Machining 17 20	じん性
+T1853	Machining 5 8	炭化物
+T1866	Machining 0 2	Ｍｏ
+R526	Relation Arg1:T1866 Arg2:T109
+T4467	Trigger 13 15	促進
+T4468	Trigger 21 23	改善
+T4892	Machining 9 12	微細化
+R942	Positive Arg1:T4892 Arg2:T109

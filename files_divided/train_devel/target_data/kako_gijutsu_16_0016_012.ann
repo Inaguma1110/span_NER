@@ -1,0 +1,10 @@
+T18	Machining 0 4	切りくず
+R8	Relation Arg1:T18 Arg2:T20
+R9	Relation Arg1:T18 Arg2:T19
+T19	Machining 14 18	塑性変形
+R66	Relation Arg1:T19 Arg2:T20
+T20	Machining 22 26	加工硬化
+T21	Machining 22 24	加工
+T541	Machining 16 18	変形
+T542	Machining 14 16	塑性
+T543	Machining 24 26	硬化

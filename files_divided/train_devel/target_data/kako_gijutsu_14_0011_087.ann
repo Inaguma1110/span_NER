@@ -1,0 +1,22 @@
+T579	Machining 15 18	送り量
+R83	Relation Arg1:T579 Arg2:T582
+T580	Machining 32 36	切削速度
+R84	Relation Arg1:T580 Arg2:T582
+T581	Machining 32 34	切削
+T582	Machining 46 50	構成刃先
+T584	Machining 61 64	送り量
+T585	Machining 77 81	切削速度
+T586	Machining 77 79	切削
+T1166	Unit 86 91	m/min
+T1392	Quantity 19 22	0.4
+T1393	Unit 22 28	mm/rev
+T1394	Quantity 38 40	60
+T1395	Unit 40 45	m/min
+T1396	Quantity 65 69	0.04
+T1397	Unit 69 75	mm/rev
+T170	Quantity 83 86	150
+T660	Machining 48 50	刃先
+T663	Machining 15 17	送り
+T664	Machining 61 63	送り
+T1555	Machining 34 36	速度
+T1556	Machining 79 81	速度

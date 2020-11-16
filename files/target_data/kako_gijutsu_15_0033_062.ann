@@ -1,0 +1,30 @@
+T178	Machining 39 43	シャンク
+T179	Machining 99 103	加工精度
+T180	Machining 99 101	加工
+T181	Machining 101 103	精度
+T816	Machining 11 16	刃先撓み量
+T817	Variable 16 19	δ_y
+T818	Machining 25 30	突出し長さ
+R26	Linear Arg1:T818 Arg2:T816
+T819	Variable 30 31	L
+T820	Machining 39 45	シャンク厚さ
+R27	NegativeLinear Arg1:T820 Arg2:T816
+T821	Machining 82 90	スタブツーリング
+T822	Variable 57 58	L
+R29	Negative Arg1:T822 Arg2:T179
+R31	Negative Arg1:T822 Arg2:T824
+T823	Variable 67 68	h
+R30	Positive Arg1:T823 Arg2:T179
+R32	Positive Arg1:T823 Arg2:T824
+T824	Machining 121 124	動剛性
+T729	Machining 21 24	バイト
+T740	Machining 11 13	刃先
+T754	Machining 13 15	撓み
+T1156	Machining 13 16	撓み量
+T1181	Machining 25 28	突出し
+T1233	Machining 28 30	長さ
+T1246	Machining 43 45	厚さ
+T1331	Trigger 111 116	避けられる
+T1332	Trigger 125 127	向上
+T810	Trigger 74 78	厚くする
+T1197	Trigger 61 63	最短

@@ -1,0 +1,22 @@
+T982	Machining 37 40	親和性
+T984	Machining 44 48	工具材種
+R216	Relation Arg1:T984 Arg2:T995
+T986	Machining 53 57	切削温度
+T987	Machining 53 55	切削
+T988	Machining 55 57	温度
+T989	Machining 62 64	溶融
+T990	Machining 69 71	溶融
+T991	Machining 79 83	切削速度
+R217	Relation Arg1:T991 Arg2:T995
+T992	Machining 79 81	切削
+T993	Machining 93 97	複酸化物
+R218	Relation Arg1:T993 Arg2:T995
+T1522	Machining 22 25	工具面
+T1523	Machining 34 40	化学的親和性
+R215	Relation Arg1:T1523 Arg2:T995
+T460	Machining 58 61	付着物
+T1661	Machining 44 46	工具
+T1670	Machining 22 24	工具
+T1834	Machining 17 21	ベラーグ
+T1890	Machining 81 83	速度
+T1922	Machining 109 112	添加量

@@ -1,0 +1,13 @@
+T1543	Machining 4 7	ドリル
+T1544	Machining 7 10	切れ刃
+R448	Part Arg1:T1544 Arg2:T1543
+T1545	Machining 13 16	切削力
+T1546	Machining 25 27	切削
+T1547	Machining 27 30	主分力
+T1548	Machining 34 39	スラスト力
+R457	Sub Arg1:T1548 Arg2:T1545
+T1549	Machining 43 46	背分力
+T2990	Machining 21 24	円周力
+R423	Sub Arg1:T2990 Arg2:T1545
+T2993	Machining 25 30	切削主分力
+T3631	Machining 40 42	推力

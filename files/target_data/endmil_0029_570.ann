@@ -1,0 +1,7 @@
+T1654	Machining 7 10	逃げ面
+T1655	Machining 20 24	すくい面
+T4011	Machining 5 10	外周逃げ面
+R729	Relation Arg1:T4011 Arg2:T1655
+T4012	Machining 11 14	再研削
+T4038	Machining 25 28	再研削
+T4357	Machining 5 7	外周

@@ -1,0 +1,22 @@
+T220	Machining 38 40	温度
+T221	Machining 82 90	コーティング被膜
+T2089	Machining 34 40	酸化開始温度
+T2090	Machining 54 57	潤滑性
+T2091	Machining 6 8	元素
+R563	Positive Arg1:T2091 Arg2:T2089
+R772	Positive Arg1:T2091 Arg2:T2090
+R783	Relation Arg1:T2091 Arg2:T221
+T4221	Machining 88 90	被膜
+T4222	Machining 82 88	コーティング
+T2083	Machining 9 11	Ａｌ
+R779	Sub Arg1:T2083 Arg2:T2091
+T4226	Machining 12 14	Ｓｉ
+R780	Sub Arg1:T4226 Arg2:T2091
+T4227	Machining 15 17	Ｃｒ
+R781	Sub Arg1:T4227 Arg2:T2091
+T4228	Machining 21 22	Ｂ
+R782	Sub Arg1:T4228 Arg2:T2091
+T4229	Machining 34 36	酸化
+T4492	Trigger 26 28	付加
+T4493	Trigger 41 48	向上を図ったり
+T4494	Trigger 58 64	向上させたり

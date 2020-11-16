@@ -1,0 +1,9 @@
+T679	Machining 5 10	副切込み角
+R97	Negative Arg1:T679 Arg2:T1214
+T680	Machining 6 9	切込み
+T681	Machining 6 10	切込み角
+T1214	Machining 24 26	粗さ
+T1398	Quantity 12 13	2
+T1399	Unit 13 16	deg
+T1641	Trigger 18 23	小さくなる
+T1642	Trigger 35 37	増大

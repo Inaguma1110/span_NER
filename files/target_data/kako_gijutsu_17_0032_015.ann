@@ -1,0 +1,17 @@
+T22	Machining 0 4	断続切削
+R62	Relation Arg1:T22 Arg2:T313
+T23	Machining 2 4	切削
+T24	Machining 11 17	フライス加工
+T25	Machining 11 15	フライス
+T26	Machining 15 17	加工
+T27	Machining 22 24	加工
+T28	Machining 39 43	断続切削
+T29	Machining 41 43	切削
+T30	Machining 71 76	固有振動数
+T250	Machining 18 24	ブローチ加工
+T313	Machining 7 9	振動
+T318	Machining 25 33	ギヤシェービング
+T448	Machining 85 89	共振現象
+T449	Machining 85 87	共振
+T538	Machining 63 66	周波数
+T208	Machining 47 50	周波数

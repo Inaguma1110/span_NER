@@ -1,0 +1,14 @@
+T471	Machining 0 4	構成刃先
+R173	Relation Arg1:T471 Arg2:T1262
+R174	Relation Arg1:T471 Arg2:T1263
+T472	Machining 6 10	切りくず
+T473	Machining 20 22	工具
+T474	Machining 26 30	すくい面
+T475	Machining 43 45	凝着
+T476	Machining 62 64	加工
+T573	Machining 51 53	刃先
+T1100	Machining 22 24	切刃
+T1101	Machining 20 24	工具切刃
+T1172	Machining 2 4	刃先
+T1262	Machining 77 79	成長
+T1263	Machining 80 82	脱落

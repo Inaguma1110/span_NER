@@ -1,0 +1,11 @@
+T1277	Machining 2 4	欠損
+T1278	Machining 5 7	切削
+T1279	Machining 24 26	欠損
+T1280	Machining 29 31	切削
+T1281	Machining 50 52	欠損
+T1310	Machining 46 52	時間遅れ欠損
+R382	Sub Arg1:T1310 Arg2:T1312
+T1311	Machining 22 26	初期欠損
+R381	Sub Arg1:T1311 Arg2:T1312
+T1312	Machining 0 4	刃先欠損
+T2745	Machining 0 2	刃先

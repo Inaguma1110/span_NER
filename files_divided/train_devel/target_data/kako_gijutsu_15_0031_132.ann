@@ -1,0 +1,4 @@
+T429	Machining 7 9	外径
+R54	Relation Arg1:T429 Arg2:T848
+T430	Machining 12 14	切削
+T848	Machining 18 20	内径

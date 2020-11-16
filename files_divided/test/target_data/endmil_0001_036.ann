@@ -1,0 +1,18 @@
+T92	Machining 0 5	エンドミル
+T93	Machining 5 7	刃部
+R28	Part Arg1:T93 Arg2:T92
+T94	Machining 21 25	耐摩耗性
+T95	Machining 26 29	耐熱性
+T96	Machining 30 34	耐欠損性
+T97	Machining 35 38	じん性
+T98	Machining 40 46	耐塑性変形性
+T99	Machining 54 58	熱伝導性
+T1823	Machining 7 9	材料
+T1827	Machining 47 53	化学的安定性
+T1828	Machining 0 9	エンドミル刃部材料
+R516	Relation Arg1:T1828 Arg2:T94
+R519	Relation Arg1:T1828 Arg2:T95
+R520	Relation Arg1:T1828 Arg2:T96
+R521	Relation Arg1:T1828 Arg2:T98
+R522	Relation Arg1:T1828 Arg2:T1827
+R523	Relation Arg1:T1828 Arg2:T99

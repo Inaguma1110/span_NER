@@ -143,9 +143,12 @@ class RelationExtractionModule(nn.Module):
         self.Pooling_2        = nn.MaxPool1d(4, stride=2)
 
 
-    def forward(self, rel_word_x, data_unit_for_relation, dflag):
+    def forward(self, rel_word_x, data_unit_for_relation, trigger_vecss, trig_attn):
         rel_logits = []
         rel_labels = []
+
+        loss_trig  = []
+
         rel_word_x = F.dropout(rel_word_x, 0.2) #[num_pair, D, seq_len]
         rel_word_x = F.relu(self.rel_conv(rel_word_x)) + rel_word_x #[num_pair, D, seq_len]
         rel_word_x = F.relu(self.rel_conv2(rel_word_x)) + rel_word_x #[num_pair, D, seq_len]
@@ -157,11 +160,19 @@ class RelationExtractionModule(nn.Module):
                     tail_span_size, tail_index = one_pair[0][1]
                     rel_label = torch.from_numpy(np.array(one_pair[1],dtype=np.int64)).to(device)
 
-
                     headrep = rel_word_x[b].permute(1,0)[head_index:head_index+head_span_size].max(0)[0]
                     tailrep = rel_word_x[b].permute(1,0)[tail_index:tail_index+tail_span_size].max(0)[0]
+                    # pdb.set_trace()
+                    
+
+
+                    # loss_trig_p = nn.BCELoss(trigger_vecss[b], trig_attn[b])
+                    # loss_trig.append(loss_trig_p)
+
 
                     maxed = headrep+tailrep
+                    # maxed = torch.cat((headrep.unsqueeze(dim=0),tailrep.unsqueeze(dim=0)),dim=0)
+                    
                     maxed = F.relu(self.linear1(maxed))
                     maxed = F.relu(self.linear2(maxed))
 
@@ -171,10 +182,15 @@ class RelationExtractionModule(nn.Module):
                     rel_labels.append(rel_label)
             else:
                 pass
-        # rel_word_x = F.dropout(self.linear0(rel_word_x.transpose(-1,-2)),0.2).transpose(-1,-2)
+        
         rel_logits = torch.stack(tuple(rel_logits),dim=0)
         rel_labels = torch.stack(tuple(rel_labels),dim=0)
         return rel_logits, rel_labels
+
+class TriggerAttentionLoss(nn.Module):
+    def __init__(self, embedding_dim, window_size, hidden_dim):
+        super(TriggerAttention, self).__init__()
+
 
 
 
@@ -199,6 +215,12 @@ class MyModel(nn.Module):
         self.conv_1           = nn.Conv1d(self.embedding_dim, self.embedding_dim, self.window_size, padding=((self.window_size//2), ))
         self.dropout      = nn.Dropout(p=0.5)
         self.softmax      = nn.Softmax(dim = 2)
+
+        self.Multihead    = nn.MultiheadAttention(embed_dim = self.embedding_dim, num_heads = 4)
+
+        self.q_dense_layer = nn.Linear(self.embedding_dim,self.embedding_dim)
+        self.k_dende_layer = nn.Linear(self.embedding_dim,self.embedding_dim)
+        self.v_dense_layer = nn.Linear(self.embedding_dim,self.embedding_dim)
 
     def make_pair(self, spans, n_doc, Relation_gold_learning_switch):
         n_doc = n_doc.to('cpu').detach().numpy().copy().squeeze()
@@ -237,16 +259,17 @@ class MyModel(nn.Module):
     def pred_span_entity(self, tokens):
         return self.NerModel(tokens)
 
-    def pred_relation(self, tokens, spans, n_doc, down_sampling_switch, Relation_gold_learning_switch):
+    def pred_relation(self, tokens, spans, n_doc, trigger_vecss, trig_attn, Relation_gold_learning_switch):
         # betch_pair = self.make_pair(spans)
+        # pdb.set_trace()
         data_unit_for_relation = self.make_pair(spans, n_doc, Relation_gold_learning_switch)
 
 
-        return self.ReModel(tokens, data_unit_for_relation, 0)
+        return self.ReModel(tokens, data_unit_for_relation, trigger_vecss, trig_attn)
 
 
 
-    def forward(self, n_doc, tokens_tensor, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop):
+    def forward(self, n_doc, tokens_tensor, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop):
         ###  SHARE PART ###
         # self.pretrained_BERT_model.eval()
         with torch.no_grad():
@@ -276,9 +299,21 @@ class MyModel(nn.Module):
 
         ### RE Part ###
         if NER_RE_switch == "RE": #Relationの学習のみを行う場合
+            trigger_vecss = torch.cat([trigger_vecs.unsqueeze(1)]*h_conv.size(1),dim=1)
+            trig_rep = h_conv * trigger_vecss
+            
+            query = self.q_dense_layer(h_conv.permute(0,2,1)).permute(1,0,2)
+            key   = self.k_dende_layer(h_conv.permute(0,2,1)).permute(1,0,2)
+            val   = self.v_dense_layer(h_conv.permute(0,2,1)).permute(1,0,2)
+            # pdb.set_trace()
+            trigrep, trig_attn = self.Multihead(query, key, val)
+
+            # trigrep, trig_attn = self.Multihead(trig_rep.permute(2,0,1), h_conv.permute(0,2,1), h_conv.permute(0,2,1))
+            hidden = trigrep.permute(1,2,0)
+
             y_spans = nest_cut(y_spans,self.span_size)
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag Relationだけの学習を行う=Goldで学習する
-                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(hidden, y_spans, n_doc, trigger_vecs, trig_attn, Relation_gold_learning_switch)
             else:
                 raise ValueError("Relation gold learning switch is OFF")
             return Re_tag, Rel_label
@@ -290,9 +325,9 @@ class MyModel(nn.Module):
             logits_spans = self.pred_span_entity(h_conv)
 
             if Relation_gold_learning_switch: #Relationの学習をGoldで行うかのflag
-                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(h_conv, y_spans, n_doc, Relation_gold_learning_switch)
             else:
-                Re_tag, Rel_label = self.pred_relation(h_conv, logits_spans, n_doc, down_sampling_switch,Relation_gold_learning_switch)
+                Re_tag, Rel_label = self.pred_relation(h_conv, logits_spans, n_doc, Relation_gold_learning_switch)
 
             return logits_spans, Re_tag, Rel_label
 

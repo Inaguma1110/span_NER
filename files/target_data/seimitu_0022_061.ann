@@ -1,0 +1,12 @@
+T193	Machining 4 6	切削
+R45	Relation Arg1:T193 Arg2:T196
+R58	Relation Arg1:T193 Arg2:T207
+T194	Machining 35 38	せん断
+T195	Machining 38 42	塑性変形
+T196	Machining 48 52	切りくず
+T197	Machining 66 69	せん断
+T207	Machining 35 42	せん断塑性変形
+T1903	Machining 38 40	塑性
+T1904	Machining 40 42	変形
+T3260	Machining 66 70	せん断面
+T3261	Machining 71 81	ｓｈｅａｒｐｌａｎｅ

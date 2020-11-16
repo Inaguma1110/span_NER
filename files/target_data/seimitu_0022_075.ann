@@ -1,0 +1,14 @@
+T245	Machining 0 4	切削加工
+R70	Sub Arg1:T245 Arg2:T246
+R98	Relation Arg1:T245 Arg2:T388
+R673	Relation Arg1:T245 Arg2:T248
+R674	Relation Arg1:T245 Arg2:T249
+T246	Machining 5 10	力学的加工
+T248	Machining 35 37	仕事
+R79	Relation Arg1:T248 Arg2:T249
+T249	Machining 44 46	温度
+T388	Machining 26 29	加工力
+R97	Relation Arg1:T388 Arg2:T248
+T1944	Machining 0 2	切削
+T1945	Machining 2 4	加工
+T3285	Machining 8 10	加工

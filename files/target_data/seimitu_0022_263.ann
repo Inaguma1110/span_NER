@@ -1,0 +1,9 @@
+T958	Machining 5 7	工具
+T959	Machining 36 40	耐剥離性
+T2386	Machining 0 5	コーテング
+T2387	Machining 0 7	コーテング工具
+R549	Relation Arg1:T2387 Arg2:T2388
+T2388	Machining 32 35	密着性
+T2389	Machining 20 22	母材
+T3664	Machining 16 17	膜
+T3665	Machining 30 31	膜

@@ -1,0 +1,8 @@
+T442	Machining 4 6	工具
+R576	Positive Arg1:T442 Arg2:T444
+T443	Machining 10 13	被削材
+T444	Machining 38 40	摩耗
+T4242	Machining 15 19	イオン化
+T4245	Machining 24 27	イオン
+T4528	Trigger 41 43	発生
+T4529	Trigger 31 36	電流を流せ

@@ -1,0 +1,8 @@
+T77	Machining 7 11	すくい角
+T459	Machining 5 11	垂直すくい角
+R8	Negative Arg1:T459 Arg2:T460
+R9	Negative Arg1:T459 Arg2:T461
+T460	Variable 18 21	F_v
+T461	Variable 22 25	F_f
+T529	Trigger 29 31	減少
+T447	Trigger 12 14	増大

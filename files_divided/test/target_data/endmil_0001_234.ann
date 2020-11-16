@@ -1,0 +1,14 @@
+T696	Machining 0 3	加工物
+T697	Machining 29 33	切削抵抗
+R619	Positive Arg1:T697 Arg2:T2688
+R620	Relation Arg1:T697 Arg2:T2690
+T698	Machining 38 41	加工物
+T2682	Machining 13 17	回転速度
+T2683	Machining 13 15	回転
+T2684	Machining 15 17	速度
+T2685	Machining 29 31	切削
+T2686	Machining 31 33	抵抗
+T2687	Machining 34 36	変動
+T2688	Machining 42 44	振動
+T4610	Trigger 34 36	変動
+T4611	Trigger 45 47	誘発

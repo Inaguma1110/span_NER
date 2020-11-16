@@ -1,0 +1,14 @@
+T167	Machining 0 2	切削
+T168	Machining 11 16	高加工精度
+R39	Relation Arg1:T168 Arg2:T169
+T169	Machining 27 36	流れ型切りくず生成
+T170	Machining 56 60	切削条件
+R40	Relation Arg1:T170 Arg2:T168
+R41	Relation Arg1:T170 Arg2:T169
+T1883	Machining 11 14	高加工
+T1884	Machining 14 16	精度
+T1885	Machining 56 58	切削
+T3249	Machining 27 30	流れ型
+T3250	Machining 30 34	切りくず
+T3251	Machining 34 36	生成
+T3252	Machining 30 36	切りくず生成

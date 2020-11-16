@@ -1,0 +1,8 @@
+T653	Machining 18 20	摩耗
+T654	Machining 29 31	工具
+T655	Machining 33 34	熱
+R175	Relation Arg1:T655 Arg2:T2604
+T656	Machining 45 47	摩耗
+T2604	Machining 43 47	拡散摩耗
+T2605	Machining 43 45	拡散
+T2606	Machining 35 37	流入

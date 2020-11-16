@@ -1,0 +1,15 @@
+T1104	Machining 0 4	切削条件
+T1105	Machining 40 42	摩耗
+T1106	Machining 50 52	摩耗
+T1107	Machining 70 74	工具寿命
+T1108	Machining 83 86	工作物
+R336	Relation Arg1:T1108 Arg2:T1107
+T1109	Machining 87 90	工具材
+R332	Relation Arg1:T1109 Arg2:T1107
+T2556	Machining 0 2	切削
+T2557	Machining 17 22	寿命方程式
+T2558	Machining 17 19	寿命
+T2559	Machining 50 54	摩耗経過
+T2560	Machining 50 56	摩耗経過曲線
+T2561	Machining 70 72	工具
+T2562	Machining 72 74	寿命

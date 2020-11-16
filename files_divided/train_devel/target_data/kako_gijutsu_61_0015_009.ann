@@ -1,0 +1,4 @@
+T52	Machining 1 3	側刃
+T53	Machining 12 14	削り
+T587	Machining 10 14	輪郭削り
+R60	Sub Arg1:T587 Arg2:T44

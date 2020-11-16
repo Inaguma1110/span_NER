@@ -1,0 +1,12 @@
+T133	Machining 3 6	チップ
+T134	Machining 57 59	切削
+T135	Machining 89 92	加工面
+T136	Machining 89 91	加工
+T197	Machining 0 6	ワイパチップ
+R33	Sub Arg1:T197 Arg2:T206
+T206	Machining 99 100	刃
+T275	Quantity 69 73	0.05
+T276	Unit 73 75	mm
+T281	Quantity 40 43	0.5
+T282	Unit 43 45	mm
+T297	Machining 24 27	切り刃

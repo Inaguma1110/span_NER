@@ -1,0 +1,25 @@
+T79	Machining 0 3	仕上げ
+T80	Machining 9 11	加工
+T81	Machining 20 24	中仕上げ
+T82	Machining 21 24	仕上げ
+T83	Machining 39 40	溝
+T84	Machining 44 45	溝
+T515	Machining 12 17	ラフィング
+T516	Machining 25 34	ラフ＆フィニッシュ
+T517	Machining 37 40	キー溝
+T518	Machining 42 45	リブ溝
+T519	Machining 47 50	面取り
+T600	Machining 0 4	仕上げ用
+R72	Sub Arg1:T600 Arg2:T67
+T601	Machining 5 7	汎用
+R73	Sub Arg1:T601 Arg2:T67
+T602	Machining 8 19	荒加工(ラフィング)用
+R74	Sub Arg1:T602 Arg2:T67
+T603	Machining 20 36	中仕上げ(ラフ＆フィニッシュ)用
+R75	Sub Arg1:T603 Arg2:T67
+T604	Machining 37 41	キー溝用
+R76	Sub Arg1:T604 Arg2:T67
+T605	Machining 42 46	リブ溝用
+R77	Sub Arg1:T605 Arg2:T67
+T606	Machining 47 51	面取り用
+R78	Sub Arg1:T606 Arg2:T67

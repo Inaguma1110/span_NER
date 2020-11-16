@@ -1,0 +1,4 @@
+T89	Machining 0 3	切込み
+R6	Relation Arg1:T89 Arg2:T91
+T90	Machining 9 13	切りくず
+T91	Machining 9 15	切りくず排出

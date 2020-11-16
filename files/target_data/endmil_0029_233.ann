@@ -1,0 +1,13 @@
+T695	Machining 32 37	びびり振動
+T2675	Machining 7 11	回転速度
+R617	Positive Arg1:T2675 Arg2:T695
+R618	Negative Arg1:T2675 Arg2:T2678
+T2676	Machining 7 9	回転
+T2677	Machining 9 11	速度
+T2678	Machining 19 23	振動周期
+T2679	Machining 19 21	振動
+T2680	Machining 32 35	びびり
+T2681	Machining 35 37	振動
+T4607	Trigger 12 14	増加
+T4608	Trigger 24 28	短くなり
+T4609	Trigger 38 41	なって

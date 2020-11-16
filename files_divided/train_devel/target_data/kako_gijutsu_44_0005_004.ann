@@ -1,0 +1,7 @@
+T12	Machining 3 8	逃げ面摩耗
+R4	Relation Arg1:T12 Arg2:T15
+T13	Machining 3 6	逃げ面
+T14	Machining 6 8	摩耗
+T15	Machining 9 18	１刃当たりの送り量
+T16	Machining 15 17	送り
+T17	Machining 15 18	送り量

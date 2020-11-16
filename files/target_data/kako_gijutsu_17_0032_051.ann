@@ -1,0 +1,16 @@
+T106	Machining 2 7	比切削抵抗
+T107	Machining 3 7	切削抵抗
+T108	Machining 3 5	切削
+T109	Machining 13 17	すくい角
+R20	Negative Arg1:T109 Arg2:T304
+T110	Machining 17 19	工具
+T111	Machining 46 48	工具
+T112	Machining 54 57	逃げ角
+T113	Machining 63 65	工具
+T271	Machining 23 27	重複係数
+T272	Machining 46 50	工具形状
+R21	Relation Arg1:T272 Arg2:T271
+T304	Machining 0 7	動的比切削抵抗
+T386	Machining 5 7	抵抗
+T617	Trigger 8 10	低減
+T618	Trigger 20 22	使用

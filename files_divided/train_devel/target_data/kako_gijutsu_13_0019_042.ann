@@ -1,0 +1,10 @@
+T114	Machining 20 22	摩擦
+R27	Positive Arg1:T114 Arg2:T115
+R29	Positive Arg1:T114 Arg2:T116
+T115	Machining 29 31	温度
+R28	Positive Arg1:T115 Arg2:T116
+T116	Machining 36 38	摩耗
+T1356	Variable 3 5	VB
+T1937	Trigger 23 25	増加
+T1938	Trigger 32 35	上がり
+T1939	Trigger 44 47	増える

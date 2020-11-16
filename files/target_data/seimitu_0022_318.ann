@@ -1,0 +1,7 @@
+T1152	Machining 4 6	凝着
+T1153	Machining 28 31	工具材
+T1154	Machining 44 47	工具材
+T2600	Machining 22 25	合金化
+T2601	Machining 32 34	強度
+R586	Relation Arg1:T2601 Arg2:T3582
+T3582	Machining 41 43	破壊

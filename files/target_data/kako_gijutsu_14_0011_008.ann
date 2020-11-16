@@ -1,0 +1,14 @@
+T51	Machining 3 9	切削仕上げ面
+T52	Machining 3 5	切削
+T53	Machining 5 9	仕上げ面
+T55	Machining 10 13	コーナ
+T56	Machining 27 30	仕上げ
+T57	Machining 27 32	仕上げ削り
+T58	Machining 30 32	削り
+T59	Machining 48 54	仕上げ面粗さ
+T60	Machining 48 52	仕上げ面
+T1157	Variable 54 56	Ry
+T1250	Machining 10 15	コーナ円弧
+T189	Machining 5 8	仕上げ
+T205	Machining 48 51	仕上げ
+T1491	Machining 52 54	粗さ

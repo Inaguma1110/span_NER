@@ -1,0 +1,7 @@
+T937	Machining 6 12	ダイヤモンド
+R279	Sub Arg1:T937 Arg2:T938
+T938	Machining 13 21	超砥粒系工具材料
+T2359	Machining 17 19	工具
+T2360	Machining 19 21	材料
+T2361	Machining 2 5	ｃＢＮ
+R278	Sub Arg1:T2361 Arg2:T938

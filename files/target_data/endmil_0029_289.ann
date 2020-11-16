@@ -1,0 +1,4 @@
+T873	Machining 0 2	送り
+T2986	Machining 25 31	カスプハイト
+T2987	Machining 18 21	面粗さ
+R637	Relation Arg1:T2987 Arg2:T2986

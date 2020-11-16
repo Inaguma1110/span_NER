@@ -1,0 +1,14 @@
+T333	Machining 4 6	切削
+T334	Machining 8 12	切りくず
+R838	Positive Arg1:T334 Arg2:T2217
+R900	Relation Arg1:T334 Arg2:T337
+R901	Relation Arg1:T334 Arg2:T340
+R902	Relation Arg1:T334 Arg2:T342
+R903	Positive Arg1:T334 Arg2:T2689
+R904	Relation Arg1:T334 Arg2:T4433
+T335	Machining 49 53	切りくず
+T336	Machining 87 91	切りくず
+T2217	Machining 30 34	クラック
+T2221	Machining 82 84	生成
+T4509	Trigger 16 20	厚くなり
+T4510	Trigger 35 37	発生

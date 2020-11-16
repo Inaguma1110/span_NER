@@ -1,0 +1,12 @@
+T1418	Machining 51 55	冷却効果
+T2894	Machining 3 11	ソリューション形
+R626	Relation Arg1:T2894 Arg2:T1418
+R627	Relation Arg1:T2894 Arg2:T2896
+R56	Part Arg1:T2894 Arg2:T2901
+R57	Part Arg1:T2894 Arg2:T2898
+T2895	Machining 51 53	冷却
+T2896	Machining 61 64	潤滑性
+T2898	Machining 16 21	炭酸ソーダ
+T2899	Machining 22 27	燐酸ソーダ
+T2900	Machining 28 32	水ガラス
+T2901	Machining 33 39	クロム酸カリ

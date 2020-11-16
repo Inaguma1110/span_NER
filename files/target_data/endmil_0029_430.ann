@@ -1,0 +1,6 @@
+T1319	Machining 0 4	熱伝導率
+R405	Negative Arg1:T1319 Arg2:T1320
+T1320	Machining 11 12	熱
+T3493	Machining 8 10	刃先
+T4875	Trigger 5 7	悪く
+T4876	Trigger 13 21	こもりやすくなり

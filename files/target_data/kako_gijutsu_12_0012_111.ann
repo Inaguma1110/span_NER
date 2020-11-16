@@ -1,0 +1,7 @@
+T394	Machining 3 6	切削熱
+R117	Relation Arg1:T394 Arg2:T397
+R118	Relation Arg1:T394 Arg2:T398
+T395	Machining 3 5	切削
+T396	Machining 5 6	熱
+T397	Machining 7 9	工具
+T398	Machining 10 13	被削材

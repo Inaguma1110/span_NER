@@ -1,0 +1,20 @@
+T523	Machining 0 4	切りくず
+T524	Machining 36 38	工具
+T525	Machining 39 41	破損
+T526	Machining 46 49	加工物
+T527	Machining 46 48	加工
+T528	Machining 55 59	精度劣化
+R55	Positive Arg1:T528 Arg2:T738
+T735	Machining 0 6	切りくず処理
+R50	Relation Arg1:T735 Arg2:T736
+R51	Relation Arg1:T735 Arg2:T525
+R52	Relation Arg1:T735 Arg2:T737
+R53	Relation Arg1:T735 Arg2:T528
+R54	Relation Arg1:T735 Arg2:T738
+R76	Relation Arg1:T735 Arg2:T750
+T736	Machining 26 31	機械稼働率
+T737	Machining 50 52	品質
+T738	Machining 65 68	生産性
+T750	Machining 18 20	安全
+T968	Machining 57 59	劣化
+T364	Machining 55 57	精度

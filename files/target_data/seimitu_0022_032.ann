@@ -1,0 +1,5 @@
+T103	Machining 3 5	切削
+T104	Machining 26 28	削り
+T205	Machining 25 28	平削り
+R31	Sub Arg1:T205 Arg2:T103
+T3227	Machining 0 5	二次元切削

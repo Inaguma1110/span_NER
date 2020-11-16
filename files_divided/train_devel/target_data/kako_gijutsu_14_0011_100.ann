@@ -1,0 +1,17 @@
+T665	Machining 20 26	正面フライス
+T667	Machining 22 26	フライス
+T668	Machining 26 28	切削
+T669	Machining 33 38	副切込み角
+R96	Relation Arg1:T669 Arg2:T673
+T670	Machining 34 37	切込み
+T671	Machining 34 38	切込み角
+T672	Machining 50 54	フライス
+T673	Machining 59 67	切削仕上げ面粗さ
+T675	Machining 59 61	切削
+T676	Machining 59 65	切削仕上げ面
+T677	Machining 61 65	仕上げ面
+T1307	Machining 14 19	SC360
+T1308	Machining 39 47	フェースアングル
+T39	Machining 9 14	炭素鋳鋼品
+T739	Machining 61 64	仕上げ
+T1476	Machining 65 67	粗さ

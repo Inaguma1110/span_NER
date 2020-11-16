@@ -1,0 +1,6 @@
+T279	Machining 16 19	慣性力
+R30	Relation Arg1:T279 Arg2:T280
+R31	Relation Arg1:T279 Arg2:T281
+T472	Machining 0 2	剛体
+T473	Machining 0 4	剛体運動
+T594	Machining 2 4	運動

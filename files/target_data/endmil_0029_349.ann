@@ -1,0 +1,11 @@
+T1069	Machining 11 14	コーナ
+T1070	Machining 23 28	エンドミル
+T1071	Machining 34 36	加工
+T1072	Machining 36 37	溝
+T3170	Machining 15 19	食い込み
+T3171	Machining 29 33	ねじれ刃
+R861	Relation Arg1:T3171 Arg2:T4319
+R920	Part Arg1:T3171 Arg2:T1070
+T3172	Machining 38 40	深さ
+T3174	Machining 2 8	アップカット
+T4319	Machining 34 37	加工溝

@@ -1,0 +1,29 @@
+T284	Machining 11 14	切れ刃
+R67	Positive Arg1:T284 Arg2:T456
+R890	Positive Arg1:T284 Arg2:T457
+T285	Machining 15 18	加工面
+R888	Positive Arg1:T285 Arg2:T456
+R891	Positive Arg1:T285 Arg2:T457
+T286	Machining 20 24	切りくず
+R889	Positive Arg1:T286 Arg2:T456
+R892	Positive Arg1:T286 Arg2:T457
+T287	Machining 31 33	摩擦
+T288	Machining 33 38	エネルギー
+T289	Machining 49 52	せん断
+T290	Machining 52 57	エネルギー
+T291	Machining 59 60	熱
+T292	Machining 60 65	エネルギー
+T293	Machining 71 74	切削熱
+T456	Machining 31 38	摩擦エネルギー
+R68	Positive Arg1:T456 Arg2:T458
+T457	Machining 49 57	せん断エネルギー
+R69	Positive Arg1:T457 Arg2:T458
+T458	Machining 59 65	熱エネルギー
+R66	Positive Arg1:T458 Arg2:T293
+T4424	Machining 15 17	加工
+T4425	Machining 71 73	切削
+T4426	Machining 73 74	熱
+T4500	Trigger 66 68	変換
+T4501	Trigger 75 77	発生
+T4538	Trigger 28 31	生ずる
+T4539	Trigger 43 49	繰り返される

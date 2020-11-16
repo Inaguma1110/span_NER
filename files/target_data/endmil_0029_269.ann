@@ -1,0 +1,15 @@
+T793	Machining 0 3	溝切削
+T794	Machining 15 18	切れ刃
+T795	Machining 21 23	切削
+T796	Machining 30 32	底刃
+T797	Machining 32 35	コーナ
+T798	Machining 36 38	切削
+T799	Machining 49 52	加工面
+T2861	Machining 13 18	外周切れ刃
+R792	Relation Arg1:T2861 Arg2:T795
+T2862	Machining 1 3	切削
+T2863	Machining 49 51	加工
+T4270	Machining 30 35	底刃コーナ
+R793	Relation Arg1:T4270 Arg2:T799
+T4271	Machining 13 15	外周
+T4272	Machining 53 55	接触

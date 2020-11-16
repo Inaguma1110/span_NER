@@ -1,0 +1,9 @@
+T45	Machining 0 2	切削
+T46	Machining 8 10	工具
+T47	Machining 52 55	切れ刃
+R15	Part Arg1:T47 Arg2:T46
+T48	Machining 59 63	すくい面
+R46	Relation Arg1:T48 Arg2:T46
+T49	Machining 64 67	逃げ面
+R47	Relation Arg1:T49 Arg2:T46
+T3222	Machining 8 12	工具形状

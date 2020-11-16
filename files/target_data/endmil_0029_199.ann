@@ -1,0 +1,14 @@
+T573	Machining 4 8	切削速度
+R134	Positive Arg1:T573 Arg2:T574
+R135	Negative Arg1:T573 Arg2:T575
+T574	Machining 12 16	せん断角
+R136	Negative Arg1:T574 Arg2:T575
+T575	Machining 28 32	切削抵抗
+T2495	Machining 4 6	切削
+T2496	Machining 6 8	速度
+T2497	Machining 12 15	せん断
+T2498	Machining 28 30	切削
+T2499	Machining 30 32	抵抗
+T4567	Trigger 9 11	増加
+T4568	Trigger 17 19	増大
+T4569	Trigger 36 38	抑制

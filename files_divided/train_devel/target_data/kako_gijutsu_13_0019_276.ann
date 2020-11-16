@@ -1,0 +1,5 @@
+T968	Machining 17 20	熱拡散
+T1407	Machining 9 12	付着物
+R121	Relation Arg1:T1407 Arg2:T968
+T775	Machining 2 5	工具面
+T1668	Machining 2 4	工具

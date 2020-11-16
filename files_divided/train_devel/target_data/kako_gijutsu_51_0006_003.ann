@@ -1,0 +1,6 @@
+T16	Machining 4 7	切れ刃
+T17	Machining 19 21	剛性
+R1	Relation Arg1:T17 Arg2:T138
+T137	Machining 8 12	側面振れ
+T138	Machining 26 29	びびり
+T7	Machining 10 12	振れ

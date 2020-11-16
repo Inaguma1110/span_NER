@@ -1,0 +1,15 @@
+T485	Machining 0 4	切削加工
+R105	Relation Arg1:T485 Arg2:T662
+R106	Relation Arg1:T485 Arg2:T2375
+T486	Machining 12 15	加工物
+T487	Machining 21 23	加工
+T488	Machining 29 31	応力
+T662	Machining 21 26	加工変質層
+T2372	Machining 27 29	残留
+T2373	Machining 0 2	切削
+T2374	Machining 2 4	加工
+T2375	Machining 27 31	残留応力
+T2376	Machining 40 42	表面
+T2378	Machining 42 44	品位
+T2379	Machining 40 44	表面品位
+T2380	Machining 16 18	表面

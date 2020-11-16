@@ -1,0 +1,12 @@
+T173	Machining 0 2	工具
+T174	Machining 5 14	マイクロチッピング
+R42	Relation Arg1:T174 Arg2:T172
+T175	Machining 9 14	チッピング
+T176	Machining 19 22	工具材
+T179	Machining 32 34	擦過
+R43	Relation Arg1:T179 Arg2:T172
+T1450	Machining 0 4	工具刃先
+T853	Machining 2 4	刃先
+T178	Machining 28 31	工具面
+T1652	Machining 19 21	工具
+T1653	Machining 28 30	工具

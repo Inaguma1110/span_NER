@@ -1,0 +1,9 @@
+T711	Machining 2 5	仕上げ
+T713	Machining 37 42	仕上げしろ
+R115	Relation Arg1:T713 Arg2:T714
+T1041	Machining 2 7	仕上げ寸法
+T1042	Machining 19 23	取りしろ
+R165	Relation Arg1:T1042 Arg2:T713
+T1043	Machining 33 36	JIS
+T1044	Machining 12 14	余肉
+T1300	Machining 15 17	厚さ

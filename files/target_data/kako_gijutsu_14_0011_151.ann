@@ -1,0 +1,20 @@
+T1081	Machining 0 4	切削加工
+T1082	Machining 0 2	切削
+T1083	Machining 2 4	加工
+T1084	Machining 10 15	エネルギー
+T1086	Machining 18 23	エネルギー
+T1087	Machining 27 33	切削仕上げ面
+T1088	Machining 27 29	切削
+T1089	Machining 29 33	仕上げ面
+T1226	Machining 7 15	機械的エネルギー
+R150	Relation Arg1:T1226 Arg2:T1228
+T1227	Machining 16 23	熱的エネルギー
+R151	Relation Arg1:T1227 Arg2:T1228
+T1228	Machining 36 51	物理的、化学的および機械的性質
+R115	Relation Arg1:T1228 Arg2:T1229
+R169	Relation Arg1:T1228 Arg2:T1092
+R170	Relation Arg1:T1228 Arg2:T1233
+R171	Relation Arg1:T1228 Arg2:T1246
+R172	Relation Arg1:T1228 Arg2:T1232
+R173	Relation Arg1:T1228 Arg2:T1231
+T1306	Machining 29 32	仕上げ

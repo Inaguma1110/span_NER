@@ -1,0 +1,12 @@
+T136	Machining 0 2	切削
+T137	Machining 0 4	切削工具
+T138	Machining 2 4	工具
+T139	Machining 5 8	切削力
+R18	Relation Arg1:T139 Arg2:T811
+T141	Machining 10 12	加工
+T142	Machining 25 29	切削抵抗
+R19	Relation Arg1:T142 Arg2:T137
+T143	Machining 25 27	切削
+T811	Machining 9 13	被加工材
+T511	Machining 27 29	抵抗
+T1153	Machining 5 7	切削

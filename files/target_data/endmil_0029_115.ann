@@ -1,0 +1,18 @@
+T280	Machining 0 4	切削抵抗
+R50	Relation Arg1:T280 Arg2:T283
+R65	Positive Arg1:T280 Arg2:T2180
+T281	Machining 21 26	エンドミル
+T282	Machining 45 47	曲げ
+T283	Machining 57 61	加工精度
+T2174	Machining 0 2	切削
+T2175	Machining 2 4	抵抗
+T2176	Machining 6 10	所要動力
+T2177	Machining 8 10	動力
+T2178	Machining 36 39	保持具
+T2179	Machining 40 43	ホルダ
+T2180	Machining 45 49	曲げ変形
+T2181	Machining 47 49	変形
+T2182	Machining 59 61	精度
+T2183	Machining 57 59	加工
+T4536	Trigger 50 52	誘発
+T4537	Trigger 11 13	支配

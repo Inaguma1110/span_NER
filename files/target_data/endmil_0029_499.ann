@@ -1,0 +1,14 @@
+T1515	Machining 3 5	摩耗
+R427	Relation Arg1:T1515 Arg2:T1516
+R428	Relation Arg1:T1515 Arg2:T1517
+R429	Relation Arg1:T1515 Arg2:T1518
+R430	Negative Arg1:T1515 Arg2:T1519
+R715	Positive Arg1:T1515 Arg2:T3723
+T1516	Machining 13 15	切削
+T1517	Machining 20 24	切りくず
+T1518	Machining 28 31	加工面
+T1519	Machining 34 36	精度
+T3723	Machining 17 19	振動
+T3725	Machining 0 2	刃先
+T4809	Trigger 6 11	進んでくる
+T4882	Trigger 37 39	悪化

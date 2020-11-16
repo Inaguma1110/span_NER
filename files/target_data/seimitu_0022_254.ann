@@ -1,0 +1,14 @@
+T927	Machining 2 10	ダイヤモンド工具
+T928	Machining 14 20	ダイヤモンド
+T929	Machining 27 31	超硬合金
+T2318	Machining 14 22	ダイヤモンド粉末
+R689	Relation Arg1:T2318 Arg2:T929
+T2319	Machining 0 10	焼結ダイヤモンド工具
+T2320	Machining 0 2	焼結
+T2331	Machining 2 8	ダイヤモンド
+T2332	Machining 8 10	工具
+T2333	Machining 33 37	焼結結合
+T2334	Machining 27 29	超硬
+T2335	Machining 29 31	合金
+T2336	Machining 33 35	焼結
+T2337	Machining 35 37	結合

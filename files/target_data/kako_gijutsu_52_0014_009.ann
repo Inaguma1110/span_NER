@@ -1,0 +1,13 @@
+T40	Machining 0 3	外周刃
+R6	Relation Arg1:T40 Arg2:T37
+T41	Machining 21 23	切削
+T42	Machining 39 41	送り
+T43	Machining 47 51	仕上げ面
+T44	Machining 47 50	仕上げ
+T77	Machining 35 38	びびり
+T78	Machining 39 43	送りむら
+T79	Machining 12 16	刃先振れ
+R7	Relation Arg1:T79 Arg2:T77
+R8	Relation Arg1:T79 Arg2:T78
+R9	Relation Arg1:T79 Arg2:T43
+T104	Machining 12 14	刃先

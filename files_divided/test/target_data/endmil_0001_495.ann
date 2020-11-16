@@ -1,0 +1,12 @@
+T1512	Machining 31 34	加工物
+T1513	Machining 59 61	精度
+T3713	Machining 16 19	ナット
+T3714	Machining 44 50	動的バランス
+T3715	Machining 0 6	焼きばめ方式
+R712	Relation Arg1:T3715 Arg2:T3713
+R713	Relation Arg1:T3715 Arg2:T3714
+R714	Relation Arg1:T3715 Arg2:T3722
+R716	Relation Arg1:T3715 Arg2:T3716
+T3716	Machining 57 61	把持精度
+T3719	Machining 0 4	焼きばめ
+T3722	Machining 36 38	干渉

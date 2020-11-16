@@ -1,0 +1,27 @@
+T810	Machining 3 8	切込み深さ
+R215	Positive Arg1:T810 Arg2:T823
+R216	Positive Arg1:T810 Arg2:T815
+R217	Positive Arg1:T810 Arg2:T811
+R218	Negative Arg1:T810 Arg2:T812
+T811	Machining 19 23	切削抵抗
+T812	Machining 27 30	切削熱
+T813	Machining 37 39	加工
+T814	Machining 46 49	加工面
+T815	Machining 51 59	引っ張り残留応力
+T823	Machining 37 42	加工変質層
+T2874	Machining 3 6	切込み
+T2875	Machining 6 8	深さ
+T2876	Machining 19 21	切削
+T2877	Machining 21 23	抵抗
+T2878	Machining 27 29	切削
+T2879	Machining 29 30	熱
+T2880	Machining 30 32	発散
+T2881	Machining 55 57	残留
+T2882	Machining 57 59	応力
+T2883	Machining 51 55	引っ張り
+T2884	Machining 46 48	加工
+T4647	Trigger 9 14	大きくする
+T4648	Trigger 24 26	増加
+T4649	Trigger 33 34	減
+T4650	Trigger 43 45	発生
+T4651	Trigger 60 62	増加

@@ -1,0 +1,13 @@
+T4016	Machining 0 3	再研削
+T4017	Machining 17 20	研削量
+T4018	Machining 42 44	研削
+T4019	Machining 52 55	研削量
+T4020	Machining 58 63	再研削時間
+T4022	Machining 58 61	再研削
+T4023	Machining 36 37	背
+R932	Positive Arg1:T4023 Arg2:T4019
+R933	Positive Arg1:T4023 Arg2:T4020
+T4359	Machining 17 19	研削
+T4825	Trigger 56 58	増え
+T4826	Trigger 64 69	長くかかる
+T4827	Trigger 42 44	研削

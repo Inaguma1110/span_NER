@@ -1,0 +1,6 @@
+T489	Machining 1 4	被削材
+T491	Machining 10 16	アルミニウム
+R153	Relation Arg1:T491 Arg2:T986
+T984	Machining 5 9	低炭素鋼
+R152	Relation Arg1:T984 Arg2:T986
+T986	Machining 20 23	延性材

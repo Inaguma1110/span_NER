@@ -1,0 +1,16 @@
+T250	Machining 6 10	工具寿命
+T251	Machining 6 8	工具
+T252	Machining 23 27	切削速度
+T253	Machining 23 25	切削
+T1301	Quantity 27 34	250~150
+T1313	Unit 34 39	m/min
+T1315	Quantity 45 57	3,000~10,000
+T1316	Unit 57 58	回
+T1371	Machining 11 15	衝撃回数
+R63	Negative Arg1:T1371 Arg2:T250
+R64	Positive Arg1:T1371 Arg2:T255
+T1598	Machining 11 13	衝撃
+T1803	Machining 8 10	寿命
+T1814	Machining 43 45	衝撃
+T1859	Machining 25 27	速度
+T1946	Trigger 19 21	漸減

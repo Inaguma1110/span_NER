@@ -1,0 +1,31 @@
+T265	Machining 3 6	切削力
+T266	Machining 21 23	切削
+T267	Machining 28 30	切削
+T268	Machining 30 33	主分力
+T269	Machining 47 49	切削
+T270	Machining 49 52	背分力
+T271	Machining 59 63	切削速度
+T272	Machining 66 70	切りくず
+T273	Machining 112 115	せん断
+T275	Machining 133 137	すくい面
+T393	Machining 28 33	切削主分力
+R102	Sub Arg1:T393 Arg2:T265
+T394	Machining 47 52	切削背分力
+R103	Sub Arg1:T394 Arg2:T265
+T408	Machining 119 123	せん断力
+T409	Machining 140 143	摩擦力
+T1951	Machining 21 25	切削方向
+T3298	Variable 33 35	Ｆｈ
+T3300	Variable 52 54	Ｆｖ
+T3301	Machining 59 61	切削
+T3302	Machining 61 63	速度
+T3303	Machining 70 72	流出
+T3304	Machining 66 72	切りくず流出
+T3305	Machining 112 116	せん断面
+T274	Variable 123 125	Ｆｓ
+T3306	Variable 149 150	Ｎ
+T3307	Variable 143 144	Ｆ
+T3308	Variable 130 132	ＦＮ
+T3309	Machining 126 130	同垂直力
+T3310	Machining 145 149	同垂直力
+T3311	Machining 40 44	垂直方向

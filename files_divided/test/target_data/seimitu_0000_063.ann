@@ -1,0 +1,13 @@
+T212	Machining 0 2	切削
+R66	Relation Arg1:T212 Arg2:T213
+R78	Relation Arg1:T212 Arg2:T406
+T213	Machining 4 8	切りくず
+T214	Machining 15 18	せん断
+T215	Machining 21 24	せん断
+T216	Machining 24 28	塑性変形
+T406	Machining 21 28	せん断塑性変形
+T1905	Machining 4 12	切りくず生成過程
+T1906	Machining 4 10	切りくず生成
+T1909	Machining 24 26	塑性
+T1911	Machining 26 28	変形
+T3264	Machining 8 10	生成

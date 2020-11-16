@@ -1,0 +1,24 @@
+T24	Machining 0 4	切削速度
+R9	Part Arg1:T24 Arg2:T22
+T25	Machining 0 2	切削
+T26	Machining 5 7	送り
+T27	Machining 5 9	送り速度
+R10	Part Arg1:T27 Arg2:T22
+T28	Machining 10 13	切込み
+T29	Machining 10 15	切込み深さ
+R11	Part Arg1:T29 Arg2:T22
+T30	Machining 16 19	切込み
+T31	Machining 35 37	切削
+T79	Machining 21 27	アップカット
+R13	Part Arg1:T79 Arg2:T22
+T80	Machining 28 34	ダウンカット
+R14	Part Arg1:T80 Arg2:T22
+T81	Machining 35 38	切削油
+T99	Machining 16 20	切込み幅
+R12	Part Arg1:T99 Arg2:T22
+T100	Machining 35 49	切削油の有無、種類、給油方法
+R15	Part Arg1:T100 Arg2:T22
+T121	Machining 13 15	深さ
+T122	Machining 19 20	幅
+T123	Machining 2 4	速度
+T124	Machining 7 9	速度

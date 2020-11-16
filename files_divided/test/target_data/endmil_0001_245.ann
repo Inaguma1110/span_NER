@@ -1,0 +1,11 @@
+T725	Machining 6 8	工具
+T726	Machining 22 26	加工精度
+T2737	Machining 9 12	たわみ
+R629	Negative Arg1:T2737 Arg2:T726
+T2738	Machining 13 17	振れ回り
+R86	Negative Arg1:T2738 Arg2:T726
+T2739	Machining 18 20	誘発
+T2740	Machining 22 24	加工
+T2741	Machining 24 26	精度
+T4614	Trigger 27 29	悪化
+T4615	Trigger 18 20	誘発

@@ -1,0 +1,9 @@
+T1092	Machining 0 3	切れ刃
+T1093	Machining 9 12	加工面
+T3192	Machining 4 6	接触
+T3193	Machining 6 8	長さ
+T3194	Machining 4 8	接触長さ
+R647	Relation Arg1:T3194 Arg2:T3196
+T3195	Machining 9 11	加工
+T3196	Machining 13 16	倒れ量
+T3197	Machining 13 15	倒れ

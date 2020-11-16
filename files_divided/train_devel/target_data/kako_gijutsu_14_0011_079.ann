@@ -1,0 +1,21 @@
+T514	Machining 4 8	切削速度
+R72	Positive Arg1:T514 Arg2:T516
+R75	Relation Arg1:T514 Arg2:T520
+R76	Relation Arg1:T514 Arg2:T521
+T515	Machining 4 6	切削
+T516	Machining 18 23	工具面温度
+R73	Relation Arg1:T516 Arg2:T520
+T518	Machining 21 23	温度
+T519	Machining 31 35	構成刃先
+T520	Machining 41 43	凝着
+R74	Relation Arg1:T520 Arg2:T521
+T521	Machining 56 62	切削仕上げ面
+T522	Machining 56 58	切削
+T523	Machining 58 62	仕上げ面
+T621	Machining 33 35	刃先
+T629	Machining 58 61	仕上げ
+T836	Machining 18 20	工具
+T840	Machining 18 21	工具面
+T1579	Machining 6 8	速度
+T1630	Trigger 12 16	低くすれ
+T1631	Trigger 26 31	低くなって

@@ -1,0 +1,5 @@
+T1689	Machining 4 6	加工
+T1690	Machining 8 13	エンドミル
+T1691	Machining 29 31	切削
+R509	Sub Arg1:T1691 Arg2:T1689
+T4056	Machining 14 16	振れ

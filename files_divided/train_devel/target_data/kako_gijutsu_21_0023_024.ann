@@ -1,0 +1,19 @@
+T105	Machining 6 9	切込み
+T106	Machining 13 16	仕上げ
+T107	Machining 13 18	仕上げ切削
+T108	Machining 16 18	切削
+T109	Machining 20 23	コーナ
+T110	Machining 20 25	コーナ半径
+R19	Positive Arg1:T110 Arg2:T111
+R20	Relation Arg1:T110 Arg2:T113
+R21	Relation Arg1:T110 Arg2:T715
+T111	Machining 30 34	切削抵抗
+T112	Machining 30 32	切削
+T113	Machining 39 44	びびり振動
+T114	Machining 53 57	切りくず
+T715	Machining 53 59	切りくず処理
+T784	Machining 32 34	抵抗
+T785	Machining 39 42	びびり
+T786	Machining 42 44	振動
+T1010	Trigger 26 29	大きい
+T1011	Trigger 35 37	増大

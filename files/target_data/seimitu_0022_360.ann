@@ -1,0 +1,19 @@
+T1284	Machining 4 7	工作物
+T1285	Machining 17 19	切削
+T1286	Machining 40 43	切削力
+R371	Relation Arg1:T1286 Arg2:T3022
+T1287	Machining 51 54	工具内
+T1288	Machining 54 56	応力
+T1289	Machining 59 61	応力
+T1314	Machining 4 9	工作物強度
+R389	Positive Arg1:T1314 Arg2:T1286
+T2734	Machining 7 9	強度
+T2735	Machining 23 26	衝撃力
+R370	Positive Arg1:T2735 Arg2:T1286
+T2736	Machining 51 56	工具内応力
+T2737	Machining 57 59	破壊
+T2738	Machining 57 61	破壊応力
+T3022	Machining 67 70	全破壊
+T3768	Trigger 10 14	大き過ぎ
+T3769	Trigger 27 31	大きすぎ
+T3770	Trigger 44 46	働き

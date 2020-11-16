@@ -1,0 +1,13 @@
+T1352	Machining 0 4	断続切削
+T1353	Machining 4 6	加工
+T1354	Machining 8 10	工具
+T1355	Machining 10 13	切れ刃
+R449	Part Arg1:T1355 Arg2:T1354
+T1356	Machining 20 22	応力
+T2808	Machining 2 4	切削
+T2809	Machining 8 13	工具切れ刃
+R37	Relation Arg1:T2809 Arg2:T2810
+R50	Relation Arg1:T2809 Arg2:T3732
+T2810	Machining 14 16	高温
+T2811	Machining 17 20	高衝撃
+T3732	Machining 17 22	高衝撃応力

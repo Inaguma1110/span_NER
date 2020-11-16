@@ -1,0 +1,10 @@
+T81	Machining 38 41	加工物
+T82	Machining 38 40	加工
+T709	Machining 10 15	横切れ刃角
+R14	Positive Arg1:T709 Arg2:T710
+R15	Relation Arg1:T709 Arg2:T711
+T710	Machining 22 26	a'の力
+T711	Machining 43 45	変形
+T849	Machining 10 14	横切れ刃
+T1005	Trigger 16 21	大きくする
+T1006	Trigger 27 32	大きくなり

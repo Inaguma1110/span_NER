@@ -1,0 +1,4 @@
+T163	Machining 1 4	コーナ
+T164	Machining 1 6	コーナ半径
+R32	Positive Arg1:T164 Arg2:T417
+T720	Trigger 7 10	小さく

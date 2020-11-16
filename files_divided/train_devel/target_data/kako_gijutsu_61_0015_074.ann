@@ -1,0 +1,17 @@
+T330	Machining 0 4	加工品質
+T331	Machining 0 2	加工
+T332	Machining 25 29	工具損傷
+T333	Machining 25 27	工具
+T334	Machining 34 38	工具損傷
+T335	Machining 34 36	工具
+T539	Machining 18 20	寿命
+T540	Machining 8 10	寿命
+T542	Machining 5 7	劣化
+T565	Machining 25 33	工具損傷の大きさ
+R30	Relation Arg1:T565 Arg2:T539
+T651	Machining 27 29	損傷
+T652	Machining 36 38	損傷
+T653	Machining 57 59	損傷
+T693	Machining 39 41	寿命
+T694	Machining 8 12	寿命基準
+T695	Machining 39 43	寿命基準

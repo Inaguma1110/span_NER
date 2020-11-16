@@ -1,0 +1,12 @@
+T26	Machining 0 8	切削仕上げ面粗さ
+T28	Machining 0 2	切削
+T29	Machining 0 6	切削仕上げ面
+T30	Machining 2 6	仕上げ面
+T32	Machining 27 29	刃部
+T34	Machining 32 35	送り量
+R3	Relation Arg1:T34 Arg2:T26
+T1191	Machining 27 31	刃部形状
+R4	Relation Arg1:T1191 Arg2:T26
+T136	Machining 2 5	仕上げ
+T153	Machining 32 34	送り
+T1438	Machining 6 8	粗さ

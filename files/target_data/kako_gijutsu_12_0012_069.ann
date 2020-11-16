@@ -1,0 +1,12 @@
+T253	Machining 5 7	熱源
+T254	Machining 18 19	熱
+R46	Relation Arg1:T254 Arg2:T256
+T255	Machining 20 24	切りくず
+T256	Machining 34 36	温度
+T453	Variable 7 10	Q_1
+T454	Variable 12 15	R_1
+T455	Machining 34 38	温度上昇
+T456	Machining 31 38	平均的温度上昇
+T457	Variable 39 42	θ_1
+T552	Machining 1 4	剪断面
+T535	Machining 1 3	剪断

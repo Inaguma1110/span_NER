@@ -1,0 +1,5 @@
+T1638	Machining 2 4	バリ
+R458	Relation Arg1:T1638 Arg2:T1639
+T1639	Machining 5 10	加工面粗さ
+T3983	Machining 5 8	加工面
+T3984	Machining 8 10	粗さ

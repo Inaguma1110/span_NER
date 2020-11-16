@@ -1,0 +1,13 @@
+T162	Machining 0 4	切りくず
+T163	Machining 45 47	切削
+T1868	Machining 0 6	切りくず生成
+T1869	Machining 10 12	変形
+T1870	Machining 20 22	脆性
+T1872	Machining 8 10	延性
+T1873	Machining 8 12	延性変形
+T1874	Machining 22 24	破壊
+T1875	Machining 20 24	脆性破壊
+T3246	Machining 4 6	生成
+T3247	Machining 42 47	2次元切削
+T3806	Trigger 15 19	生じない
+T3807	Trigger 25 27	発生

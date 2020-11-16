@@ -1,0 +1,19 @@
+T217	Machining 3 8	中ぐり加工
+T218	Machining 6 8	加工
+T219	Machining 39 41	工具
+T220	Machining 50 52	工具
+T221	Machining 53 58	固有振動数
+R39	Positive Arg1:T221 Arg2:T291
+T291	Machining 78 81	びびり
+T432	Machining 19 22	びびり
+T433	Machining 17 22	再生びびり
+T527	Quantity 59 61	数千
+T528	Unit 61 63	Hz
+T529	Machining 74 77	周波数
+T560	Machining 32 35	突出し
+T426	Machining 36 39	中ぐり
+T428	Machining 36 41	中ぐり工具
+T435	Machining 47 50	中ぐり
+T437	Machining 47 52	中ぐり工具
+T625	Trigger 66 68	高い
+T626	Trigger 82 85	生じる

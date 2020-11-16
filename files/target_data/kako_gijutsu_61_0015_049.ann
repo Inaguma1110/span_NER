@@ -1,0 +1,16 @@
+T207	Machining 4 6	摩耗
+R4	Relation Arg1:T207 Arg2:T198
+T208	Machining 7 12	チッピング
+R5	Relation Arg1:T208 Arg2:T198
+T209	Machining 31 33	剛性
+R7	Relation Arg1:T209 Arg2:T198
+T210	Machining 37 41	工具設計
+T211	Machining 37 39	工具
+T212	Machining 54 56	応力
+T547	Machining 26 30	異常負荷
+R6	Relation Arg1:T547 Arg2:T198
+T548	Machining 37 49	工具設計または選定の不適
+R8	Relation Arg1:T548 Arg2:T198
+T549	Machining 50 56	研削残留応力
+R9	Relation Arg1:T549 Arg2:T198
+T708	Machining 52 54	残留

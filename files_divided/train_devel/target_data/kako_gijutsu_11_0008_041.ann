@@ -1,0 +1,18 @@
+T187	Machining 10 13	送り量
+R19	Linear Arg1:T187 Arg2:T194
+R78	Relation Arg1:T187 Arg2:T196
+T188	Machining 17 19	切削
+T189	Machining 21 24	切込み
+T190	Machining 26 29	切込み
+R20	Linear Arg1:T190 Arg2:T194
+R79	Relation Arg1:T190 Arg2:T196
+T191	Machining 33 35	切削
+T192	Machining 37 40	切削幅
+T194	Machining 55 59	切削抵抗
+T195	Machining 55 57	切削
+T501	Machining 14 19	2次元切削
+T502	Machining 30 35	2次元切削
+T557	Machining 57 59	抵抗
+T576	Machining 10 12	送り
+T590	Machining 37 39	切削
+T625	Machining 39 40	幅

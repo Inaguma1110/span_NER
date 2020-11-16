@@ -1,0 +1,13 @@
+T601	Machining 2 9	工具寿命方程式
+T602	Machining 12 16	切削速度
+R152	Negative Arg1:T602 Arg2:T603
+T603	Machining 51 55	工具寿命
+T2535	Machining 2 4	工具
+T2536	Machining 4 6	寿命
+T2537	Machining 12 14	切削
+T2538	Machining 14 16	速度
+T2539	Machining 51 53	工具
+T2540	Machining 53 55	寿命
+T4256	Machining 2 6	工具寿命
+T4581	Trigger 17 22	大きくなれ
+T4582	Trigger 58 62	短くなる

@@ -1,0 +1,14 @@
+T1256	Machining 0 3	コーナ
+T1257	Machining 0 5	コーナ半径
+R169	Relation Arg1:T1257 Arg2:T1424
+R170	Positive Arg1:T1257 Arg2:T1258
+R171	Relation Arg1:T1257 Arg2:T1426
+T1258	Machining 31 34	背分力
+R172	Relation Arg1:T1258 Arg2:T1426
+T1424	Machining 7 12	刃先の靱性
+T1425	Variable 5 6	R
+T1426	Machining 37 40	びびり
+T615	Machining 10 12	靱性
+T819	Machining 7 9	刃先
+T1979	Trigger 25 30	大きすぎる
+T1980	Trigger 35 37	増え

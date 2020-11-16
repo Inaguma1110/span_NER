@@ -1,0 +1,14 @@
+T515	Machining 1 5	切りくず
+T516	Machining 7 14	切削エネルギー
+T517	Machining 51 55	切りくず
+T518	Machining 79 81	切削
+R143	Relation Arg1:T518 Arg2:T517
+T2070	Machining 7 9	切削
+T2071	Machining 9 14	エネルギー
+T2072	Machining 23 25	流出
+T2073	Machining 55 57	流出
+T2074	Machining 51 59	切りくず流出方向
+T3429	Variable 67 69	αｅ
+T3430	Variable 70 72	φｅ
+T3431	Variable 73 74	β
+T3432	Variable 75 77	τｓ

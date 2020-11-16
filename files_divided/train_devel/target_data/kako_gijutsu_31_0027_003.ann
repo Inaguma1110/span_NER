@@ -1,0 +1,8 @@
+T7	Machining 14 16	加工
+T8	Machining 25 27	加工
+T9	Machining 33 37	シャンク
+T25	Machining 1 6	片持ち方式
+R1	Sub Arg1:T25 Arg2:T24
+T35	Machining 12 13	穴
+T36	Machining 23 24	穴
+T37	Machining 20 24	止まり穴

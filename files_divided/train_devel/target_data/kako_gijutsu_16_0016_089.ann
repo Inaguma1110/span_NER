@@ -1,0 +1,9 @@
+T159	Machining 0 4	切りくず
+T160	Machining 10 12	加工
+T413	Machining 10 15	加工ぜい化
+T414	Machining 22 30	横向きカール半径
+T556	Machining 12 15	ぜい化
+T604	Machining 25 30	カール半径
+T605	Machining 25 28	カール
+T717	Trigger 5 9	厚くなる
+T718	Trigger 31 36	小さくなる

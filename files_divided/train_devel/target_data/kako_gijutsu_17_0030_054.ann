@@ -1,0 +1,19 @@
+T127	Machining 21 23	工具
+T128	Machining 35 41	正面フライス
+T129	Machining 37 41	フライス
+T130	Machining 42 45	リーマ
+T131	Machining 52 58	アプローチ角
+T132	Machining 62 68	アプローチ角
+T133	Machining 68 70	工具
+T134	Machining 71 76	平フライス
+T135	Machining 72 76	フライス
+T136	Machining 77 82	エンドミル
+T137	Machining 95 99	すくい面
+T138	Machining 102 107	エンドミル
+T337	Machining 18 23	多数刃工具
+T338	Machining 27 34	不等ピッチ設計
+R65	Relation Arg1:T338 Arg2:T339
+T339	Machining 8 14	振動抑制方法
+T340	Machining 8 10	振動
+T408	Machining 116 119	びびり
+T409	Machining 114 119	再生びびり

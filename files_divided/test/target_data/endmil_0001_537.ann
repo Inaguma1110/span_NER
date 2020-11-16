@@ -1,0 +1,13 @@
+T1584	Machining 41 46	エンドミル
+T1585	Machining 50 53	外周刃
+R462	Part Arg1:T1585 Arg2:T1584
+T1586	Machining 54 58	シャンク
+R482	Part Arg1:T1586 Arg2:T1584
+T1587	Machining 61 63	底刃
+R463	Part Arg1:T1587 Arg2:T1584
+T3850	Machining 0 3	支持刃
+T3855	Machining 4 7	刃受け
+T3856	Machining 23 25	砥石
+T3857	Machining 30 33	支持刃
+T3858	Machining 34 37	刃受け
+T3859	Machining 69 71	研削

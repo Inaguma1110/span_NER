@@ -1,0 +1,15 @@
+T1135	Machining 2 5	ニック
+R318	Relation Arg1:T1135 Arg2:T1138
+R319	Relation Arg1:T1135 Arg2:T1139
+R341	Relation Arg1:T1135 Arg2:T1137
+T1136	Machining 9 12	外周刃
+R350	Relation Arg1:T1136 Arg2:T1137
+R351	Relation Arg1:T1136 Arg2:T1138
+R352	Relation Arg1:T1136 Arg2:T1139
+T1137	Machining 24 28	切りくず
+T1138	Machining 41 46	びびり振動
+T1139	Machining 51 55	切削抵抗
+T3244	Machining 41 44	びびり
+T3245	Machining 44 46	振動
+T3246	Machining 51 53	切削
+T3247	Machining 53 55	抵抗

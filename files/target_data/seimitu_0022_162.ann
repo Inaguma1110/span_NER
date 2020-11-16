@@ -1,0 +1,6 @@
+T572	Machining 2 5	工作物
+T573	Machining 6 8	温度
+R177	Relation Arg1:T573 Arg2:T574
+T574	Machining 11 15	加工精度
+T2114	Machining 11 13	加工
+T2115	Machining 13 15	精度

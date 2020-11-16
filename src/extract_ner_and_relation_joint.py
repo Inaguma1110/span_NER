@@ -135,7 +135,8 @@ if target_data_type == "All":
     dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL')
 if target_data_type == "Relation":
     dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL_SHORT')
-
+if target_data_type == 'Relation_trigger':
+    dataname = str(span_size) + config.get('dataname', 'N_REL_DIVIDED_TRAIN_DEVEL_TRIGGER')
 
 
 
@@ -168,6 +169,8 @@ word_input = torch.LongTensor([_[1] for _ in corpus]).to(device)
 output_films = torch.LongTensor([_[2] for _ in corpus]).to(device)
 attention_mask = torch.LongTensor([_[3] for _ in corpus]).to(device)
 tokenized = [_[4] for _ in corpus]
+trigger_vecs = torch.LongTensor([_[5] for _ in corpus]).to(device)
+
 
 doc_correspnd_info_dict = {}  # document毎にシンボリックな値をdocument名と辞書に変えるための辞書
 n_doc = []
@@ -176,7 +179,7 @@ for unit in n_Entdics_Reldics:
     n_doc.append([unit[0]])
 n_doc = torch.LongTensor(n_doc).to(device)
 print(len(word_input))
-dataset = D.TensorDataset(n_doc, word_input, attention_mask, output_films)
+dataset = D.TensorDataset(n_doc, word_input, trigger_vecs, attention_mask, output_films)
 train_size = int(0.9 * len(word_input))
 devel_size = len(word_input) - train_size
 print(train_size, devel_size)
@@ -213,7 +216,6 @@ if scheduler_switch:
 def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_training):
     NER_best_scores, best_average_score, best_re_score = scores
     NER_RE_switch = switches['NER_RE_switch']
-    down_sampling_switch = switches['down_sampling_switch']
     Relation_gold_learning_switch = switches['Relation_gold_learning_switch']
     scheduler_switch = switches['scheduler']
     is_writer = switches['is_writer']
@@ -241,12 +243,12 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
     answers_relation = []
     # if epoch == 40:
     #     pdb.set_trace()
-    for i, [n_doc, words, attention_mask, y_spans] in enumerate(tqdm.tqdm(data_loader)):
+    for i, [n_doc, words, trigger_vecs, attention_mask, y_spans] in enumerate(tqdm.tqdm(data_loader)):
         Model.zero_grad()
         batch_size = words.shape[0]
         all_loss = 0
         if switches['NER_RE_switch'] == 'NER':
-            logits_spans = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop=False)
+            logits_spans = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop=False)
             for s_x in range(span_size):
                 loss_span = loss_functions[s_x](logits_spans[s_x], y_spans.permute(1,0,2)[s_x])
                 sum_losses[s_x] += loss_span
@@ -256,7 +258,7 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
                 answers_spans[s_x].append(y_spans.permute(1,0,2)[s_x])
 
         if switches['NER_RE_switch'] == 'RE':
-            relation_logit, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            relation_logit, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             loss_relation = loss_function_relation(relation_logit, rel_y)
             sum_loss_relation += loss_relation
             all_loss += loss_relation
@@ -264,7 +266,7 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             answers_relation.append(rel_y)
 
         if switches['NER_RE_switch'] == 'Joint':
-            logits_spans, relation_logit, rel_y = Model(n_doc, words, attention_mask, NER_RE_switch, down_sampling_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
+            logits_spans, relation_logit, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
             for s_x in range(span_size):
                 loss_span = loss_functions[s_x](logits_spans[s_x], y_spans.permute(1,0,2)[s_x])
                 sum_losses[s_x] += loss_span
@@ -393,7 +395,6 @@ switches['is_share_stop'] = False
 
 switches['NER_RE_switch'] = NER_RE_switch # NERかREかJointかのモード
 switches['Relation_gold_learning_switch'] = 1 # REのための用語ペアをGoldにするかNERのの出力にするかのflag
-switches['down_sampling_switch'] = 0 # REのTrainの際に用語ペアのLabelが無いものをダウンサンプリングするかどうか
 
 
 
@@ -405,17 +406,11 @@ for epoch in range(int(config.get('main', 'N_EPOCH'))):
     do_ner = switches['NER_RE_switch'] in ['NER', 'Joint']
     do_re = switches['NER_RE_switch'] in ['RE', 'Joint']
     
-    switches['down_sampling_switch'] = 0
     tr_scores = iterate(epoch, train_loader, Model, optimizer, switches, writer, tr_scores, is_training=True)
     
-    switches['down_sampling_switch'] = 0
     dev_scores = iterate(epoch, devel_loader, Model, optimizer, switches, writer, dev_scores, is_training=False)
 
 if model_save:
     torch.save(Model.state_dict(),joint_model_path)
     print('model_save')
 print_setting()
-
-
-
-

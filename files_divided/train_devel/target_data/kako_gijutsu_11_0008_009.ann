@@ -1,0 +1,24 @@
+T42	Machining 16 21	比切削抵抗
+T43	Machining 17 21	切削抵抗
+T44	Machining 17 19	切削
+T45	Machining 29 33	切削抵抗
+T46	Machining 29 31	切削
+T47	Machining 34 37	主分力
+T48	Machining 44 47	切込み
+T50	Machining 63 66	送り量
+T372	Variable 38 39	a
+R71	Relation Arg1:T372 Arg2:T48
+T373	Variable 48 49	f
+R72	Relation Arg1:T373 Arg2:T50
+T448	Variable 4 7	k_v
+R69	Relation Arg1:T448 Arg2:T42
+T449	Variable 22 25	F_v
+R70	Relation Arg1:T449 Arg2:T47
+T450	Unit 8 14	N/mm^2
+T451	Unit 40 42	mm
+T452	Unit 26 27	N
+T453	Unit 50 56	mm/rev
+T454	Unit 57 61	mm/刃
+T543	Machining 19 21	抵抗
+T544	Machining 31 33	抵抗
+T516	Machining 63 65	送り

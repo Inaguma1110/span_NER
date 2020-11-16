@@ -1,0 +1,11 @@
+T85	Machining 16 25	ストレートシャンク
+R18	Sub Arg1:T85 Arg2:T84
+T86	Machining 56 68	ナショナルテーパシャンク
+R19	Sub Arg1:T86 Arg2:T84
+T87	Machining 69 83	ボトルグリップテーパシャンク
+R20	Sub Arg1:T87 Arg2:T84
+T1824	Machining 32 34	負荷
+T1825	Machining 35 37	振動
+T1835	Machining 21 25	シャンク
+T91	Machining 61 68	テーパシャンク
+T4201	Machining 76 83	テーパシャンク

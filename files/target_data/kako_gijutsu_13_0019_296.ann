@@ -1,0 +1,33 @@
+T1064	Machining 0 6	正面フライス
+T1066	Machining 2 6	フライス
+T1067	Machining 6 8	切削
+T1068	Machining 21 25	切削速度
+R138	Relation Arg1:T1068 Arg2:T1071
+R139	Negative Arg1:T1068 Arg2:T1072
+T1069	Machining 21 23	切削
+T1070	Machining 37 42	チッピング
+T1071	Machining 37 44	チッピング確率
+R142	Negative Arg1:T1071 Arg2:T1072
+T1072	Machining 48 51	短寿命
+T1073	Machining 58 62	切削速度
+R140	Relation Arg1:T1073 Arg2:T1079
+T1074	Machining 58 60	切削
+T1075	Machining 64 66	送り
+R141	Relation Arg1:T1075 Arg2:T1079
+T1077	Machining 73 77	疲労亀裂
+R183	Relation Arg1:T1077 Arg2:T1079
+T1078	Machining 75 77	亀裂
+T1079	Machining 82 85	短寿命
+T1080	Machining 100 105	チッピング
+T1081	Machining 114 117	長寿命
+T1060	Machining 49 51	寿命
+T1061	Machining 83 85	寿命
+T492	Machining 68 70	熱的
+R88	Relation Arg1:T492 Arg2:T1079
+T780	Machining 29 32	付着物
+T1823	Machining 73 75	疲労
+T1885	Machining 23 25	速度
+T1886	Machining 60 62	速度
+T2010	Trigger 25 27	以下
+T2011	Trigger 52 54	なり
+T2012	Trigger 45 48	大きく

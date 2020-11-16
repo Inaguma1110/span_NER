@@ -1,0 +1,8 @@
+T1331	Machining 10 12	亀裂
+T1332	Machining 23 25	亀裂
+T1333	Machining 45 47	欠損
+T1550	Machining 6 12	潜在初期亀裂
+R435	Relation Arg1:T1550 Arg2:T1551
+R437	Relation Arg1:T1550 Arg2:T1333
+T1551	Machining 23 29	亀裂進展速度
+R436	Relation Arg1:T1551 Arg2:T1333

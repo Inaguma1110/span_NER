@@ -1,0 +1,5 @@
+T714	Machining 10 14	加工精度
+T715	Machining 10 12	加工
+T716	Machining 12 14	精度
+T885	Machining 4 8	取りしろ
+R114	Relation Arg1:T885 Arg2:T714

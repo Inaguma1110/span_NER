@@ -1,0 +1,14 @@
+T843	Machining 6 9	送り量
+R283	Positive Arg1:T843 Arg2:T841
+R284	Positive Arg1:T843 Arg2:T842
+T844	Machining 24 29	切込み深さ
+R242	Negative Arg1:T844 Arg2:T845
+T845	Machining 42 45	送り量
+T2941	Machining 6 8	送り
+T2942	Machining 24 27	切込み
+T2943	Machining 27 29	深さ
+T2944	Machining 37 38	刃
+T4274	Machining 1 2	刃
+T4659	Trigger 10 12	増加
+T4660	Trigger 30 35	大きくする
+T4661	Trigger 46 51	小さくする

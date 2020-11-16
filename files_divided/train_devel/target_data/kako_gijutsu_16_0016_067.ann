@@ -1,0 +1,8 @@
+T488	Machining 10 16	折断パターン
+R67	Sub Arg1:T488 Arg2:T408
+R68	Sub Arg1:T488 Arg2:T486
+R69	Sub Arg1:T488 Arg2:T487
+R70	Sub Arg1:T488 Arg2:T410
+R71	Sub Arg1:T488 Arg2:T489
+R88	Sub Arg1:T488 Arg2:T411
+T593	Machining 10 12	折断

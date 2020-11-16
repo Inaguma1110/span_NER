@@ -1,0 +1,159 @@
+T0	Machining 4 6	切削
+T1	Machining 4 8	切削油剤
+T2	Machining 15 17	切削
+T3	Machining 15 19	切削油剤
+T5	Machining 58 62	切りくず
+T6	Machining 58 64	切りくず排出
+T7	Machining 74 78	連続切削
+T8	Machining 76 78	切削
+T9	Machining 80 83	切削熱
+T10	Machining 80 82	切削
+T11	Machining 82 83	熱
+T12	Machining 89 92	切れ刃
+T13	Machining 93 97	切削温度
+T14	Machining 93 95	切削
+T15	Machining 95 97	温度
+T16	Machining 103 107	工具寿命
+T17	Machining 103 105	工具
+T18	Machining 119 122	被削材
+T19	Machining 123 125	切削
+T20	Machining 123 127	切削油剤
+T21	Machining 133 135	切削
+T22	Machining 147 150	加工物
+T23	Machining 147 149	加工
+T24	Machining 151 155	寸法精度
+T25	Machining 153 155	精度
+T26	Machining 162 165	切削熱
+T27	Machining 162 164	切削
+T28	Machining 164 165	熱
+T29	Machining 168 170	温度
+T30	Machining 189 191	切削
+T31	Machining 205 208	合金鋼
+T32	Machining 208 210	切削
+T33	Machining 216 218	切削
+T34	Machining 219 223	乾式切削
+T35	Machining 221 223	切削
+T36	Machining 224 226	摩耗
+T37	Machining 235 239	乾式切削
+T38	Machining 237 239	切削
+T39	Machining 244 246	切削
+T40	Machining 249 253	工具寿命
+T41	Machining 249 251	工具
+T42	Machining 268 272	断続切削
+T43	Machining 270 272	切削
+T44	Machining 274 276	切削
+T45	Machining 278 282	切削温度
+T46	Machining 278 280	切削
+T47	Machining 280 282	温度
+T48	Machining 287 289	切削
+T49	Machining 291 295	切削温度
+T50	Machining 291 293	切削
+T51	Machining 293 295	温度
+T52	Machining 310 313	切れ刃
+T53	Machining 314 317	熱亀裂
+T54	Machining 314 315	熱
+T55	Machining 315 317	亀裂
+T56	Machining 344 346	鋳鉄
+T57	Machining 348 352	断続切削
+T58	Machining 350 352	切削
+T59	Machining 354 356	切削
+T60	Machining 354 358	切削油剤
+T61	Machining 363 367	乾式切削
+T62	Machining 365 367	切削
+T63	Machining 375 377	切削
+T64	Machining 381 384	切れ刃
+T65	Machining 385 388	熱亀裂
+T66	Machining 385 386	熱
+T67	Machining 386 388	亀裂
+T68	Machining 397 401	工具寿命
+T69	Machining 397 399	工具
+T71	Machining 410 415	アルミ合金
+T73	Machining 425 429	切削温度
+T74	Machining 425 427	切削
+T75	Machining 427 429	温度
+T76	Machining 433 437	切削温度
+T77	Machining 433 435	切削
+T78	Machining 435 437	温度
+T79	Machining 445 447	加工
+T80	Machining 451 453	切削
+T81	Machining 455 458	熱亀裂
+T82	Machining 455 456	熱
+T83	Machining 456 458	亀裂
+T84	Machining 466 469	切れ刃
+T85	Machining 479 481	切削
+T86	Machining 497 501	旋削加工
+T87	Machining 497 499	旋削
+T88	Machining 499 501	加工
+T89	Machining 507 509	切削
+T90	Machining 510 514	乾式切削
+T91	Machining 512 514	切削
+T92	Machining 515 517	摩耗
+T93	Machining 50 52	冷却
+T94	Machining 54 56	潤滑
+R1	Relation Arg1:T3 Arg2:T93	
+R2	Relation Arg1:T3 Arg2:T94	
+R3	Relation Arg1:T3 Arg2:T6	
+T4	Machining 131 135	湿式切削
+T95	Machining 187 191	湿式切削
+T96	Machining 342 343	鋼
+R4	Relation Arg1:T20 Arg2:T9	
+R5	Relation Arg1:T20 Arg2:T13	
+R6	Relation Arg1:T20 Arg2:T16	
+R8	Relation Arg1:T65 Arg2:T68	
+R9	Relation Arg1:T76 Arg2:T81	
+R10	Relation Arg1:T12 Arg2:T13	
+#1	AnnotatorNotes R10	Y・M
+R11	Relation Arg1:T7 Arg2:T9	
+#2	AnnotatorNotes R11	Y・M
+T97	Machining 168 172	温度変化
+#3	AnnotatorNotes T97	Y・M
+R7	Relation Arg1:T26 Arg2:T97	
+#4	AnnotatorNotes R7	Y・M
+R12	Relation Arg1:T95 Arg2:T97	
+#5	AnnotatorNotes R12	Y・M
+R13	Relation Arg1:T97 Arg2:T24	
+#6	AnnotatorNotes R13	Y・M
+T98	Machining 214 218	湿式切削
+#7	AnnotatorNotes T98	Y・M
+T99	Machining 242 246	湿式切削
+#8	AnnotatorNotes T99	Y・M
+R14	Relation Arg1:T99 Arg2:T40	
+#9	AnnotatorNotes R14	Y・M
+R15	Relation Arg1:T37 Arg2:T40	
+#10	AnnotatorNotes R15	Y・M
+R16	Relation Arg1:T42 Arg2:T45	
+#11	AnnotatorNotes R16	Y・M
+R17	Positive Arg1:T53 Arg2:T52	
+#12	AnnotatorNotes R17	Y・M
+R18	Relation Arg1:T53 Arg2:T42	
+#13	AnnotatorNotes R18	Y・M
+T100	Machining 318 326	サーマルクラック
+#14	AnnotatorNotes T100	Y・M
+T101	Machining 373 377	湿式切削
+#16	AnnotatorNotes T101	Y・M
+R21	Relation Arg1:T65 Arg2:T61	
+#18	AnnotatorNotes R21	Y・M
+T102	Machining 416 419	銅合金
+#19	AnnotatorNotes T102	Y・M
+T103	Machining 440 444	非鉄合金
+#20	AnnotatorNotes T103	Y・M
+R22	Relation Arg1:T102 Arg2:T103	
+#21	AnnotatorNotes R22	Y・M
+R23	Relation Arg1:T71 Arg2:T103	
+#22	AnnotatorNotes R23	Y・M
+T104	Machining 449 453	湿式切削
+#23	AnnotatorNotes T104	Y・M
+T105	Machining 470 472	溶着
+#24	AnnotatorNotes T105	Y・M
+T106	Machining 477 481	湿式切削
+#25	AnnotatorNotes T106	Y・M
+T107	Machining 505 509	湿式切削
+#26	AnnotatorNotes T107	Y・M
+T108	Machining 6 8	油剤
+T109	Machining 17 19	油剤
+T110	Machining 125 127	油剤
+T111	Machining 356 358	油剤
+T70	Machining 105 107	寿命
+T72	Machining 251 253	寿命
+T112	Machining 399 401	寿命
+T113	Trigger 328 335	生じやすくなる

@@ -1,0 +1,13 @@
+T96	Machining 0 6	正面フライス
+T97	Machining 2 6	フライス
+T98	Machining 6 8	削り
+T99	Machining 12 16	仕上げ面
+T100	Machining 12 15	仕上げ
+T101	Machining 37 40	切削面
+T102	Machining 37 39	切削
+T103	Machining 48 51	切れ刃
+T228	Machining 46 52	正面切れ刃角
+T229	Machining 53 61	フェースアングル
+R39	Relation Arg1:T229 Arg2:T228
+T248	Machining 24 28	さらい刃
+T249	Machining 32 36	さらい刃

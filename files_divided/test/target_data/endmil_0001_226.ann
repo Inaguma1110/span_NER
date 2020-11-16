@@ -1,0 +1,23 @@
+T684	Machining 5 9	切削抵抗
+R608	Relation Arg1:T684 Arg2:T2646
+T685	Machining 12 14	工具
+T686	Machining 39 41	工具
+R607	Relation Arg1:T686 Arg2:T2650
+T2643	Machining 5 7	切削
+T2644	Machining 7 9	抵抗
+T2645	Machining 23 25	主軸
+R605	Relation Arg1:T2645 Arg2:T2650
+T2646	Machining 15 18	たわみ
+T2647	Machining 26 31	ツーリング
+R606	Relation Arg1:T2647 Arg2:T2650
+T2648	Machining 32 35	ホルダ
+T2649	Machining 42 44	累積
+T2650	Machining 47 49	振れ
+R603	Positive Arg1:T2650 Arg2:T2652
+T2652	Machining 51 55	高速回転
+R604	Positive Arg1:T2652 Arg2:T2659
+T2653	Machining 51 53	高速
+T2654	Machining 53 55	回転
+T2659	Machining 63 65	振動
+T4597	Trigger 59 61	増幅
+T4598	Trigger 66 68	発生

@@ -1,0 +1,8 @@
+T1098	Machining 9 11	摩耗
+T1099	Machining 27 31	切削速度
+T2539	Machining 9 13	摩耗経過
+T2541	Machining 9 15	摩耗経過曲線
+T2545	Machining 27 29	切削
+T2546	Machining 29 31	速度
+T2547	Machining 45 51	寿命判定基準
+T3581	Machining 45 47	寿命

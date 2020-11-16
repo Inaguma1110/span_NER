@@ -1,0 +1,211 @@
+T0	Machining 40 42	剛性
+T1	Machining 50 52	工具
+T2	Machining 56 60	支持方法
+T3	Machining 61 65	切削条件
+T4	Machining 61 63	切削
+T5	Machining 129 131	工具
+T6	Machining 132 134	曲げ
+T8	Machining 170 172	加工
+T9	Machining 206 208	工具
+T10	Machining 231 235	仕上げ面
+T11	Machining 231 234	仕上げ
+T12	Machining 236 238	工具
+T14	Machining 315 317	工具
+T15	Machining 330 332	剛性
+T16	Machining 342 347	固有振動数
+T17	Machining 350 352	工具
+T18	Machining 371 373	工具
+T19	Machining 400 405	固有振動数
+T20	Machining 507 509	工具
+T21	Machining 522 524	工具
+T22	Machining 576 578	切削
+T23	Machining 683 685	工具
+T24	Machining 686 691	固有振動数
+T25	Machining 716 718	超硬
+T26	Machining 716 720	超硬合金
+T27	Machining 721 723	工具
+T28	Machining 743 745	工具
+T29	Machining 825 827	工具
+T30	Machining 880 883	工作物
+T31	Machining 995 997	精度
+T32	Machining 4 7	びびり
+T33	Machining 112 117	再生びびり
+T34	Machining 143 148	固有モード
+R1	Relation Arg1:T34 Arg2:T33	
+T35	Machining 182 186	固有振動
+R2	Relation Arg1:T35 Arg2:T33	
+T36	Machining 132 136	曲げ変形
+R3	Relation Arg1:T36 Arg2:T34	
+T37	Machining 177 179	変形
+R4	Relation Arg1:T37 Arg2:T35	
+T38	Machining 8 11	びびり
+T39	Machining 23 25	隙間
+T40	Machining 30 32	がた
+T41	Machining 33 39	被削物の形状
+T42	Machining 53 55	剛性
+R5	Relation Arg1:T39 Arg2:T38	
+R6	Relation Arg1:T40 Arg2:T38	
+R7	Relation Arg1:T41 Arg2:T38	
+R8	Relation Arg1:T42 Arg2:T38	
+R9	Relation Arg1:T3 Arg2:T38	
+T43	Machining 202 205	びびり
+R10	Relation Arg1:T45 Arg2:T43	
+T44	Machining 295 297	隙間
+R11	Relation Arg1:T44 Arg2:T43	
+T45	Machining 276 278	剛性
+R12	Relation Arg1:T15 Arg2:T43	
+#1	AnnotatorNotes T15	工具の剛性
+T46	Machining 318 320	直径
+R13	Relation Arg1:T46 Arg2:T15	
+T47	Machining 321 323	長さ
+R14	Relation Arg1:T47 Arg2:T15	
+R15	Relation Arg1:T16 Arg2:T43	
+#2	AnnotatorNotes T16	工具の固有振動数
+T48	Machining 753 756	たわみ
+T49	Machining 743 748	工具の自重
+R16	Relation Arg1:T49 Arg2:T48	
+T50	Machining 808 815	振動系の減衰勢
+T51	Machining 830 833	ダンパ
+R17	Relation Arg1:T51 Arg2:T50	
+T52	Machining 859 864	強制びびり
+T53	Machining 910 916	主軸駆動歯車
+T55	Machining 381 385	片持ち式
+T56	Machining 386 390	両持ち式
+R20	Sub Arg1:T55 Arg2:T18	
+R21	Sub Arg1:T56 Arg2:T18	
+T57	Machining 74 77	びびり
+T58	Machining 85 90	再生びびり
+T59	Machining 91 96	強制びびり
+R22	Sub Arg1:T58 Arg2:T57	
+R23	Sub Arg1:T59 Arg2:T57	
+T60	Machining 161 169	薄肉・箱状工作物
+#3	AnnotatorNotes T60	Y・M
+R24	Relation Arg1:T35 Arg2:T60	
+#4	AnnotatorNotes R24	Y・M
+T61	Machining 258 262	自励振動
+#5	AnnotatorNotes T61	Y・M
+R25	Relation Arg1:T61 Arg2:T43	
+#6	AnnotatorNotes R25	Y・M
+T62	Variable 447 448	L
+#7	AnnotatorNotes T62	Y・M
+T63	Machining 449 463	突き出し長さ、または支持長さ
+#8	AnnotatorNotes T63	Y・M
+T64	Unit 463 464	m
+#9	AnnotatorNotes T64	Y・M
+T65	Variable 465 466	E
+#10	AnnotatorNotes T65	Y・M
+T66	Machining 467 472	縦弾性係数
+#11	AnnotatorNotes T66	Y・M
+T67	Unit 472 474	Pa
+#12	AnnotatorNotes T67	Y・M
+T68	Variable 475 476	I
+#13	AnnotatorNotes T68	Y・M
+T69	Machining 477 486	断面２次モーメント
+#14	AnnotatorNotes T69	Y・M
+T70	Unit 486 489	m^4
+#15	AnnotatorNotes T70	Y・M
+T71	Variable 490 491	g
+#16	AnnotatorNotes T71	Y・M
+T72	Machining 492 496	動加速度
+#17	AnnotatorNotes T72	Y・M
+T73	Quantity 496 499	9.8
+#18	AnnotatorNotes T73	Y・M
+T74	Unit 499 504	m/s^2
+#19	AnnotatorNotes T74	Y・M
+T75	Variable 505 506	γ
+#20	AnnotatorNotes T75	Y・M
+T76	Machining 507 512	工具の密度
+#21	AnnotatorNotes T76	Y・M
+T77	Unit 512 519	kg/cm^3
+#22	AnnotatorNotes T77	Y・M
+T78	Variable 520 521	A
+#23	AnnotatorNotes T78	Y・M
+T79	Machining 522 528	工具の断面積
+#24	AnnotatorNotes T79	Y・M
+T80	Unit 528 531	m^2
+#25	AnnotatorNotes T80	Y・M
+T81	Variable 532 535	λ_2
+#26	AnnotatorNotes T81	Y・M
+T82	Machining 536 545	支持方法による係数
+#27	AnnotatorNotes T82	Y・M
+T83	Machining 707 712	縦弾性係数
+#28	AnnotatorNotes T83	Y・M
+R26	Relation Arg1:T26 Arg2:T83	
+#29	AnnotatorNotes R26	Y・M
+R27	Relation Arg1:T83 Arg2:T24	
+#30	AnnotatorNotes R27	Y・M
+T84	Machining 895 898	びびり
+#31	AnnotatorNotes T84	Y・M
+T85	Machining 87 90	びびり
+T86	Machining 93 96	びびり
+T87	Machining 114 117	びびり
+T88	Machining 260 262	振動
+T90	Machining 441 443	振動
+T92	Machining 651 655	突き出し
+T93	Machining 609 612	中ぐり
+T95	Machining 718 720	合金
+T96	Machining 808 810	振動
+T97	Machining 861 864	びびり
+T98	Machining 778 783	ラインバー
+T99	Machining 668 675	ボーリングバー
+T100	Machining 629 636	ボーリングバー
+T102	Machining 221 223	振動
+T103	Machining 1019 1028	フローティング構造
+T104	Machining 251 253	振動
+T94	Machining 877 879	刃先
+T105	Machining 917 923	かみあい振動
+T107	Machining 612 614	主軸
+T108	Machining 614 618	繰り出し
+T109	Machining 612 618	主軸繰り出し
+T110	Machining 609 618	中ぐり主軸繰り出し
+T114	Machining 921 923	振動
+T115	Machining 910 912	主軸
+T116	Machining 914 916	歯車
+T117	Machining 998 1000	歯車
+T118	Machining 962 967	はす歯歯車
+T119	Machining 965 967	歯車
+T120	Machining 973 976	平歯車
+T121	Machining 1009 1011	歯車
+T122	Machining 1012 1014	主軸
+T54	Machining 943 945	振動
+T112	Machining 937 942	主軸モータ
+T123	Machining 937 939	主軸
+T124	Machining 933 936	軸受け
+T111	Machining 118 120	主軸
+T125	Machining 367 370	中ぐり
+T101	Machining 855 858	びびり
+T126	Machining 853 858	強制びびり
+T127	Machining 866 868	主軸
+T128	Machining 449 453	突き出し
+T129	Machining 16 18	主軸
+T130	Machining 19 22	軸受け
+T91	Machining 290 293	軸受け
+T131	Machining 273 275	主軸
+T132	Machining 662 664	主軸
+T133	Machining 662 665	主軸径
+T134	Machining 651 657	突き出し長さ
+T135	Machining 668 676	ボーリングバー径
+T136	Unit 657 659	mm
+T137	Unit 676 678	mm
+T138	Variable 649 650	L
+T139	Variable 660 661	D
+T140	Machining 655 657	長さ
+T141	Machining 453 455	長さ
+T142	Machining 461 463	長さ
+T143	Machining 134 136	変形
+T144	Machining 980 985	かみ合い率
+T145	Machining 726 728	材料
+T146	Variable 1053 1054	λ
+T147	Unit 444 446	Hz
+T149	Machining 576 580	切削不能
+T150	Machining 33 36	被削物
+T151	Machining 869 871	回転
+T152	Machining 552 557	片持ち方式
+T153	Machining 510 512	密度
+T7	Machining 26 29	摺動部
+R30	Relation Arg1:T0 Arg2:T38	
+T13	Machining 43 49	取りつけ方法
+R31	Relation Arg1:T13 Arg2:T38	
+R32	Relation Arg1:T2 Arg2:T38	
+R18	Relation Arg1:T105 Arg2:T52	
+R19	Relation Arg1:T54 Arg2:T52	

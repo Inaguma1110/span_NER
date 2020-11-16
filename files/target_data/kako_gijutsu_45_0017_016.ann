@@ -1,0 +1,11 @@
+T49	Machining 3 5	切削
+T50	Machining 21 24	熱亀裂
+R19	Relation Arg1:T50 Arg2:T53
+R25	Relation Arg1:T50 Arg2:T76
+T51	Machining 21 22	熱
+T52	Machining 22 24	亀裂
+T53	Machining 27 32	チッピング
+R20	Relation Arg1:T53 Arg2:T75
+T75	Machining 35 37	寿命
+T76	Machining 3 6	切削油
+R21	Relation Arg1:T76 Arg2:T72

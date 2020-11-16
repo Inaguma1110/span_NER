@@ -1,0 +1,8 @@
+T1626	Machining 3 9	仕上げ面粗さ
+T1627	Machining 36 40	切削条件
+R504	Relation Arg1:T1627 Arg2:T1626
+T3062	Machining 3 6	仕上げ
+T3063	Machining 3 7	仕上げ面
+T3064	Machining 7 9	粗さ
+T3065	Machining 28 30	粗さ
+T3066	Machining 36 38	切削

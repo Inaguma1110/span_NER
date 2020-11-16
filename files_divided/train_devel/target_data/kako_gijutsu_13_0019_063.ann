@@ -1,0 +1,12 @@
+T167	Machining 2 6	構成刃先
+R40	Relation Arg1:T167 Arg2:T172
+T168	Machining 9 13	加工硬化
+T169	Machining 9 11	加工
+T170	Machining 23 25	工具
+T171	Machining 28 30	擦過
+R41	Relation Arg1:T171 Arg2:T172
+T172	Machining 39 41	摩耗
+T1449	Machining 23 27	工具表面
+T127	Machining 15 18	付着物
+T1439	Machining 11 13	硬化
+T1592	Machining 4 6	刃先

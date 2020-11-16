@@ -1,0 +1,16 @@
+T692	Machining 3 8	切込み深さ
+R176	Positive Arg1:T692 Arg2:T693
+T693	Machining 16 20	切削抵抗
+R615	Positive Arg1:T693 Arg2:T2674
+R616	Positive Arg1:T693 Arg2:T2673
+T694	Machining 24 26	工具
+T2670	Machining 3 6	切込み
+T2671	Machining 6 8	深さ
+T2672	Machining 27 29	逃げ
+T2673	Machining 32 36	振れ回り
+T2674	Machining 37 40	たわみ
+T4377	Machining 16 18	切削
+T4378	Machining 18 20	抵抗
+T4604	Trigger 9 14	大きくなれ
+T4605	Trigger 21 23	増大
+T4606	Trigger 41 43	増加

@@ -1,0 +1,13 @@
+T423	Machining 22 24	鋳鉄
+R47	Relation Arg1:T423 Arg2:T426
+T424	Machining 25 28	快削鋼
+R48	Relation Arg1:T424 Arg2:T426
+T425	Machining 35 39	切りくず
+T426	Machining 45 49	切削温度
+R59	Relation Arg1:T426 Arg2:T429
+T427	Machining 45 47	切削
+T428	Machining 47 49	温度
+T429	Machining 60 64	構成刃先
+T1291	Machining 32 39	不連続切りくず
+T555	Machining 62 64	刃先
+T1533	Machining 42 44	材料

@@ -1,0 +1,7 @@
+T18	Machining 4 6	工具
+T19	Machining 33 38	固有振動数
+T55	Machining 14 18	片持ち式
+R20	Sub Arg1:T55 Arg2:T18
+T56	Machining 19 23	両持ち式
+R21	Sub Arg1:T56 Arg2:T18
+T125	Machining 0 3	中ぐり

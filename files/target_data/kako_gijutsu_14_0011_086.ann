@@ -1,0 +1,9 @@
+T573	Machining 5 8	送り量
+R81	Relation Arg1:T573 Arg2:T576
+T574	Machining 29 33	切削速度
+R82	Relation Arg1:T574 Arg2:T576
+T575	Machining 29 31	切削
+T576	Machining 44 48	仕上げ面
+T654	Machining 5 7	送り
+T658	Machining 44 47	仕上げ
+T1554	Machining 31 33	速度

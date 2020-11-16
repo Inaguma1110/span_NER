@@ -1,0 +1,8 @@
+T36	Machining 1 5	寸法精度
+T37	Machining 3 5	精度
+T901	Machining 6 8	直径
+R139	Sub Arg1:T901 Arg2:T36
+T902	Machining 9 11	長さ
+R140	Sub Arg1:T902 Arg2:T36
+T903	Machining 12 14	厚さ
+R141	Sub Arg1:T903 Arg2:T36

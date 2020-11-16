@@ -1,0 +1,5 @@
+T2909	Machining 0 3	安定剤
+T2910	Machining 5 10	アルコール
+R630	Sub Arg1:T2910 Arg2:T2909
+T2911	Machining 11 16	界面活性剤
+R631	Sub Arg1:T2911 Arg2:T2909

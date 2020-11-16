@@ -1,0 +1,11 @@
+T1253	Machining 5 7	工具
+T1254	Machining 14 17	切削力
+R692	Positive Arg1:T1254 Arg2:T2719
+T1255	Machining 24 29	チッピング
+R366	Sub Arg1:T1255 Arg2:T1247
+T2712	Machining 11 13	刃先
+R367	Relation Arg1:T2712 Arg2:T1254
+T2719	Machining 37 39	破壊
+T2720	Machining 46 48	刃先
+T3766	Trigger 18 20	働く
+T3767	Trigger 40 42	生じ

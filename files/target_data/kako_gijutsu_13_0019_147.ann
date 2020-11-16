@@ -1,0 +1,6 @@
+T538	Machining 14 16	摩耗
+T539	Machining 14 18	摩耗速度
+T727	Machining 8 13	衝突ひん度
+R229	Relation Arg1:T727 Arg2:T539
+T1606	Machining 8 10	衝突
+T1866	Machining 16 18	速度

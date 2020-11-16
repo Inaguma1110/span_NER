@@ -1,0 +1,13 @@
+T629	Machining 9 13	構成刃先
+T630	Machining 20 25	チッピング
+R201	Relation Arg1:T630 Arg2:T826
+T631	Machining 93 97	切削速度
+T632	Machining 93 95	切削
+T1392	Machining 101 103	寿命
+T1460	Machining 14 16	溶着
+T1461	Machining 92 97	高切削速度
+R100	Linear Arg1:T1461 Arg2:T1392
+T826	Machining 55 59	寿命曲線
+T1558	Machining 11 13	刃先
+T1758	Machining 55 57	寿命
+T1888	Machining 95 97	速度

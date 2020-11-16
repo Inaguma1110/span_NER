@@ -1,0 +1,10 @@
+T2	Machining 0 7	エンドミル加工
+T3	Machining 0 5	エンドミル
+T4	Machining 5 7	加工
+T5	Machining 9 13	乾式切削
+T6	Machining 11 13	切削
+T7	Machining 14 16	切削
+T8	Machining 14 18	切削油剤
+T9	Machining 25 27	切削
+T256	Machining 23 27	湿式切削
+T260	Machining 16 18	油剤

@@ -1,0 +1,34 @@
+T832	Machining 0 4	切削速度
+R237	Positive Arg1:T832 Arg2:T834
+T833	Machining 36 40	切削体積
+T834	Machining 44 48	切削抵抗
+T835	Machining 49 53	切削抵抗
+T836	Machining 60 64	切削抵抗
+T837	Machining 75 79	切削速度
+R238	Positive Arg1:T837 Arg2:T838
+R241	Negative Arg1:T837 Arg2:T839
+T838	Machining 83 87	加工能率
+T839	Machining 98 102	切削抵抗
+T2917	Quantity 10 12	20
+T2918	Quantity 18 20	50
+T2919	Unit 12 17	ｍ／ｍｉｎ
+T2920	Unit 20 25	ｍ／ｍｉｎ
+T2921	Machining 36 38	切削
+T2922	Machining 44 46	切削
+T2923	Machining 46 48	抵抗
+T2924	Machining 49 51	切削
+T2925	Machining 51 53	抵抗
+T2926	Machining 60 62	切削
+T2927	Machining 62 64	抵抗
+T2928	Machining 75 77	切削
+T2929	Machining 77 79	速度
+T2931	Machining 0 2	切削
+T2932	Machining 2 4	速度
+T2933	Machining 83 85	加工
+T2934	Machining 98 100	切削
+T2935	Machining 100 102	抵抗
+T4652	Trigger 66 71	大きくなり
+T4653	Trigger 80 82	上げ
+T4654	Trigger 88 90	向上
+T4655	Trigger 106 109	少ない
+T4868	Trigger 5 26	低速領域（20ｍ／ｍｉｎ～50ｍ／ｍｉｎ）

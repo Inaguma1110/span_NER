@@ -1,0 +1,17 @@
+T259	Machining 4 6	切削
+T260	Machining 8 12	加工硬化
+T261	Machining 8 14	加工硬化指数
+R28	Positive Arg1:T261 Arg2:T264
+T262	Machining 8 10	加工
+T263	Machining 18 21	被削材
+T264	Machining 22 30	切削仕上げ面粗さ
+T265	Machining 22 28	切削仕上げ面
+T266	Machining 22 24	切削
+T268	Machining 24 28	仕上げ面
+T1274	Machining 2 6	低速切削
+T431	Machining 24 27	仕上げ
+T1407	Machining 10 12	硬化
+T1453	Machining 28 30	粗さ
+T1573	Machining 2 4	低速
+T1223	Trigger 15 18	大きい
+T1247	Trigger 31 36	大きくなる

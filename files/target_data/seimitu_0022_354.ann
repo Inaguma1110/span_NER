@@ -1,0 +1,10 @@
+T1261	Machining 0 2	欠損
+T1262	Machining 17 19	欠損
+T1263	Machining 26 28	亀裂
+R368	Relation Arg1:T1263 Arg2:T1262
+T1264	Machining 39 41	工具
+T1265	Machining 43 45	応力
+R369	Relation Arg1:T1265 Arg2:T1262
+T1266	Machining 50 52	応力
+T2725	Machining 48 50	破壊
+T2726	Machining 48 52	破壊応力

@@ -1,0 +1,10 @@
+T32	Machining 0 4	構成刃先
+T33	Machining 5 8	被削材
+T34	Machining 12 14	工具
+T35	Machining 15 18	切れ刃
+T36	Machining 19 21	凝着
+T38	Machining 25 28	凝着物
+T39	Machining 33 35	工具
+T40	Machining 42 44	切削
+T179	Machining 36 38	刃先
+T202	Machining 2 4	刃先

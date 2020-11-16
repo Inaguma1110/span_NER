@@ -1,0 +1,5 @@
+T78	Machining 12 14	送り
+T79	Machining 12 16	送り速度
+T178	Machining 2 16	１分間当りのテーブル送り速度
+T212	Machining 8 16	テーブル送り速度
+T247	Machining 14 16	速度

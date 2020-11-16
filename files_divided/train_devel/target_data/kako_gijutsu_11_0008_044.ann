@@ -1,0 +1,14 @@
+T211	Machining 5 8	送り量
+R35	Negative Arg1:T211 Arg2:T473
+T212	Machining 9 12	切込み
+R34	Negative Arg1:T212 Arg2:T473
+T213	Machining 38 42	切削抵抗
+T214	Machining 38 40	切削
+T215	Machining 54 58	寸法効果
+T473	Machining 37 42	被切削抵抗
+T199	Machining 40 42	抵抗
+T113	Quantity 26 30	0.01
+T117	Unit 30 32	mm
+T578	Machining 5 7	送り
+T653	Trigger 46 51	大きくなる
+T652	Trigger 16 21	小さくなる

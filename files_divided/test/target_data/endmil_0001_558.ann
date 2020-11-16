@@ -1,0 +1,13 @@
+T1631	Machining 3 8	エンドミル
+T1632	Machining 9 12	コーナ
+R453	Part Arg1:T1632 Arg2:T1631
+T3958	Machining 13 15	損傷
+T3960	Machining 25 30	ギャッシュ
+T3961	Machining 32 34	研削
+T3962	Machining 49 51	刃先
+T3963	Machining 52 54	砥石
+T3964	Quantity 60 64	0．05
+T3965	Quantity 67 70	0．2
+T3966	Unit 64 66	ｍｍ
+T3967	Machining 81 83	研削
+T3980	Unit 70 72	ｍｍ

@@ -1,0 +1,11 @@
+T254	Machining 3 7	塑性変形
+T255	Machining 7 9	仕事
+T256	Machining 10 14	切りくず
+T257	Machining 15 17	工具
+T258	Machining 17 21	すくい面
+T259	Machining 23 27	摩擦仕事
+R180	Sub Arg1:T259 Arg2:T965
+T260	Machining 23 25	摩擦
+T261	Machining 25 27	仕事
+T1162	Machining 3 5	塑性
+T1163	Machining 5 7	変形

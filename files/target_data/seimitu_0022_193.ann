@@ -1,0 +1,12 @@
+T691	Machining 6 9	せん断
+T692	Machining 12 15	せん断
+T693	Machining 21 25	温度上昇
+T694	Machining 53 56	せん断
+T695	Machining 59 60	熱
+R225	Relation Arg1:T695 Arg2:T697
+R260	Relation Arg1:T695 Arg2:T693
+T3501	Machining 6 10	せん断面
+T3502	Machining 21 23	温度
+T3503	Machining 53 57	せん断面
+T3504	Variable 25 27	θｓ
+T3505	Machining 12 16	せん断面

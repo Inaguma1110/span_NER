@@ -1,0 +1,11 @@
+T791	Machining 7 13	可変送り切削
+R105	Relation Arg1:T791 Arg2:T794
+R107	Relation Arg1:T791 Arg2:T796
+T792	Machining 9 11	送り
+T793	Machining 11 13	切削
+T794	Machining 17 21	境界摩耗
+R106	Relation Arg1:T794 Arg2:T796
+T795	Machining 19 21	摩耗
+T796	Machining 29 33	仕上げ面
+T815	Machining 29 32	仕上げ
+T1519	Machining 17 19	境界

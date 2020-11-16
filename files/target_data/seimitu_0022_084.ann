@@ -1,0 +1,9 @@
+T288	Machining 3 6	切削幅
+T289	Machining 9 11	切削
+T399	Machining 9 13	切削厚さ
+T1956	Machining 3 5	切削
+T1957	Machining 11 13	厚さ
+T3319	Variable 7 8	ｂ
+T3320	Variable 13 15	ｔ１
+T3321	Variable 20 22	τｓ
+T3322	Variable 23 25	σｓ

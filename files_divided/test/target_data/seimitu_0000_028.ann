@@ -1,0 +1,19 @@
+T94	Machining 0 2	工具
+T95	Machining 6 8	摩耗
+R29	Relation Arg1:T95 Arg2:T1832
+R30	Negative Arg1:T95 Arg2:T3226
+R516	Relation Arg1:T95 Arg2:T1825
+T96	Machining 25 29	仕上げ面
+T97	Machining 31 33	摩擦
+T98	Machining 39 41	摩耗
+T99	Machining 43 47	仕上げ面
+T100	Machining 54 58	仕上げ面
+T1817	Machining 3 5	刃先
+T1825	Machining 49 51	付着
+T1826	Machining 54 57	仕上げ
+T1827	Machining 25 28	仕上げ
+T1831	Machining 43 46	仕上げ
+T1832	Machining 36 38	発熱
+T3226	Machining 59 61	荒れ
+T3741	Trigger 8 10	すれ
+T3742	Trigger 62 65	生じる

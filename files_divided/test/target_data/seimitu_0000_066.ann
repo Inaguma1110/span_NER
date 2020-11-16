@@ -1,0 +1,15 @@
+T225	Machining 0 3	せん断
+T226	Machining 11 15	せん断角
+R90	Relation Arg1:T226 Arg2:T380
+R91	Relation Arg1:T226 Arg2:T381
+T227	Machining 32 34	切削
+T228	Machining 39 43	切りくず
+T380	Machining 32 36	切削厚さ
+T381	Machining 39 45	切りくず厚さ
+T1921	Machining 0 5	せん断方向
+T1922	Machining 34 36	厚さ
+T1924	Machining 43 45	厚さ
+T1929	Variable 36 38	ｔ１
+T1930	Variable 45 47	ｔ２
+T3266	Machining 11 14	せん断
+T3267	Variable 16 17	φ

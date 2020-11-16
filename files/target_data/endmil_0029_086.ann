@@ -1,0 +1,23 @@
+T197	Machining 3 7	切削工具
+T198	Machining 16 18	鋳鉄
+T199	Machining 19 21	加工
+T200	Machining 68 70	工具
+T201	Machining 91 98	エンドミル加工
+T2014	Machining 55 60	バインダー
+R560	Relation Arg1:T2014 Arg2:T201
+T2027	Machining 44 47	ｃＢＮ
+T2028	Machining 0 3	ｃＢＮ
+T196	Machining 3 5	切削
+T2029	Machining 5 7	工具
+T2030	Machining 81 84	炭素鋼
+T2031	Machining 85 90	焼き入れ鋼
+T2032	Machining 91 96	エンドミル
+T2033	Machining 96 98	加工
+T2034	Machining 68 72	工具形状
+R561	Relation Arg1:T2034 Arg2:T201
+T2035	Machining 48 50	粒径
+T2036	Machining 44 50	ｃＢＮの粒径
+R559	Relation Arg1:T2036 Arg2:T201
+T2314	Machining 85 89	焼き入れ
+T2315	Machining 89 90	鋼
+T4423	Machining 0 7	ｃＢＮ切削工具

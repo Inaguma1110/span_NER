@@ -1,0 +1,7 @@
+T63	Machining 37 39	切削
+T237	Machining 0 5	混合形振動
+T238	Machining 18 24	空転時の振動
+T262	Machining 29 33	再生効果
+R12	Relation Arg1:T262 Arg2:T238
+T396	Machining 22 24	振動
+T397	Machining 3 5	振動

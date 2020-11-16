@@ -1,0 +1,13 @@
+T866	Machining 8 11	酸化物
+T867	Machining 27 30	高硬度
+T2231	Machining 0 5	金属炭化物
+R291	Relation Arg1:T2231 Arg2:T3556
+R527	Relation Arg1:T2231 Arg2:T867
+T2232	Machining 2 5	炭化物
+T2233	Machining 0 2	金属
+T2234	Machining 6 8	金属
+T2235	Machining 6 11	金属酸化物
+R528	Relation Arg1:T2235 Arg2:T3556
+R529	Relation Arg1:T2235 Arg2:T867
+T3556	Machining 15 18	高融点
+T3557	Machining 22 24	高温

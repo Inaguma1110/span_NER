@@ -1,0 +1,14 @@
+T171	Machining 12 15	高精度
+T172	Machining 15 22	エンドミル加工
+T173	Machining 15 20	エンドミル
+T174	Machining 20 22	加工
+T175	Machining 24 29	ドライ切削
+T176	Machining 27 29	切削
+T177	Machining 36 39	切削点
+T178	Machining 36 38	切削
+T179	Machining 45 49	切りくず
+T316	Machining 58 60	吐出
+T361	Machining 9 11	高速
+T365	Machining 49 51	除去
+T366	Machining 45 51	切りくず除去
+T241	Machining 9 22	高速・高精度エンドミル加工

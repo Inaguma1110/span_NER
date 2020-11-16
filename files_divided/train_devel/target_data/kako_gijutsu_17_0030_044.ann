@@ -1,0 +1,16 @@
+T89	Machining 0 2	工具
+T90	Machining 9 12	切削力
+T91	Machining 9 11	切削
+T92	Machining 44 46	切削
+T248	Machining 42 48	瞬間切削厚さ
+T267	Variable 52 53	u
+T268	Machining 9 18	切削力の瞬間変動分
+T269	Machining 42 52	瞬間切削厚さの変動分
+R18	Linear Arg1:T269 Arg2:T268
+T383	Machining 2 4	刃先
+T384	Machining 19 21	刃先
+T403	Machining 15 17	変動
+T404	Machining 49 51	変動
+T455	Machining 46 48	厚さ
+T456	Machining 19 22	刃先点
+T562	Machining 27 35	モジュレーション

@@ -1,0 +1,21 @@
+T703	Machining 17 22	切込み深さ
+R222	Relation Arg1:T703 Arg2:T708
+T704	Machining 36 39	加工物
+T705	Machining 40 42	剛性
+R223	Relation Arg1:T705 Arg2:T708
+T706	Machining 52 54	工具
+T707	Machining 61 65	工具材質
+R224	Relation Arg1:T707 Arg2:T708
+T708	Machining 71 75	切削速度
+T2698	Machining 24 30	アスペクト比
+R621	Relation Arg1:T2698 Arg2:T708
+T2699	Machining 31 34	Ｌ／Ｄ
+T2700	Machining 17 20	切込み
+T2701	Machining 20 22	深さ
+T2702	Machining 43 47	共振領域
+R622	Relation Arg1:T2702 Arg2:T708
+T2703	Machining 61 63	工具
+T2704	Machining 71 73	切削
+T2705	Machining 73 75	速度
+T2714	Machining 57 60	耐久性
+R626	Relation Arg1:T2714 Arg2:T708

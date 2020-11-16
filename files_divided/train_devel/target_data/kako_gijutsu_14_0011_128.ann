@@ -1,0 +1,14 @@
+T890	Machining 11 13	旋削
+T891	Machining 17 25	前切れ刃境界摩耗
+R180	Relation Arg1:T891 Arg2:T895
+T893	Machining 21 25	境界摩耗
+T894	Machining 23 25	摩耗
+T895	Machining 26 34	切削仕上げ面粗さ
+T896	Machining 26 32	切削仕上げ面
+T897	Machining 26 28	切削
+T899	Machining 28 32	仕上げ面
+T1333	Machining 7 10	炭素鋼
+T69	Machining 17 21	前切れ刃
+T889	Machining 28 31	仕上げ
+T1484	Machining 32 34	粗さ
+T1528	Machining 21 23	境界

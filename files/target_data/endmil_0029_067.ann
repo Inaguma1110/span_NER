@@ -1,0 +1,7 @@
+T149	Machining 0 6	セラミックス
+T150	Machining 49 55	セラミックス
+T1958	Machining 43 44	瓦
+R543	Sub Arg1:T1958 Arg2:T150
+T1959	Machining 45 48	ガラス
+R544	Sub Arg1:T1959 Arg2:T150
+T2306	Machining 7 15	Ｃｅｒａｍｉｃｓ

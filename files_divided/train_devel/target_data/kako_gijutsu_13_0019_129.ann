@@ -1,0 +1,11 @@
+T471	Machining 2 4	応力
+T472	Machining 23 26	切れ刃
+T473	Machining 30 32	亀裂
+T474	Machining 33 37	疲労亀裂
+R180	Positive Arg1:T474 Arg2:T476
+T475	Machining 35 37	亀裂
+T476	Machining 46 51	チッピング
+T1452	Machining 27 32	微細な亀裂
+T1720	Machining 33 35	疲労
+T1988	Trigger 39 41	発生
+T1989	Trigger 53 56	起こる

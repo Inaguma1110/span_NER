@@ -1,0 +1,40 @@
+T8	Machining 0 7	エンドミル加工
+T9	Machining 0 5	エンドミル
+T10	Machining 5 7	加工
+T11	Machining 11 15	加工精度
+R42	Relation Arg1:T11 Arg2:T8
+T12	Machining 11 13	加工
+T13	Machining 13 15	精度
+T14	Machining 18 22	寸法精度
+R31	Sub Arg1:T14 Arg2:T11
+T15	Machining 20 22	精度
+T16	Machining 23 27	形状精度
+R32	Sub Arg1:T16 Arg2:T11
+T17	Machining 25 27	精度
+T18	Machining 39 41	精度
+T19	Machining 54 60	仕上げ面粗さ
+R1	Relation Arg1:T19 Arg2:T18
+T20	Machining 54 58	仕上げ面
+T21	Machining 54 57	仕上げ
+T22	Machining 65 68	加工面
+T23	Machining 65 67	加工
+T24	Machining 73 76	うねり
+R3	Relation Arg1:T24 Arg2:T18
+R7	Relation Arg1:T24 Arg2:T19
+T25	Machining 109 111	加工
+T26	Machining 121 128	エンドミル加工
+T27	Machining 121 126	エンドミル
+T28	Machining 126 128	加工
+T30	Machining 135 139	切削加工
+T31	Machining 135 137	切削
+T32	Machining 137 139	加工
+T230	Machining 69 72	びびり
+R2	Relation Arg1:T230 Arg2:T18
+R6	Relation Arg1:T230 Arg2:T19
+T231	Machining 80 84	面の倒れ
+R4	Relation Arg1:T231 Arg2:T18
+R8	Relation Arg1:T231 Arg2:T19
+T232	Machining 98 101	かえり
+R5	Relation Arg1:T232 Arg2:T18
+R9	Relation Arg1:T232 Arg2:T19
+T286	Machining 58 60	粗さ

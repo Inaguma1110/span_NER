@@ -1,0 +1,16 @@
+T9	Machining 15 18	加工機
+T10	Machining 41 44	加工物
+T11	Machining 48 50	工具
+T12	Machining 58 65	エンドミル加工
+T13	Machining 83 90	エンドミル加工
+T1794	Machining 5 11	高速回転主軸
+R24	Part Arg1:T1794 Arg2:T9
+T1795	Machining 5 7	高速
+T1796	Machining 7 9	回転
+T1797	Machining 9 11	主軸
+T1798	Machining 58 63	エンドミル
+T1799	Machining 63 65	加工
+T1800	Machining 83 88	エンドミル
+T1801	Machining 88 90	加工
+T4157	Machining 51 53	保持
+T4158	Machining 45 47	保持

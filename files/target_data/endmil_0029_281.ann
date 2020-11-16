@@ -1,0 +1,14 @@
+T850	Machining 11 14	切削熱
+T851	Machining 22 26	切削速度
+R252	Positive Arg1:T851 Arg2:T852
+T852	Machining 33 36	切削熱
+T2952	Machining 11 13	切削
+T2953	Machining 13 14	熱
+T2954	Machining 22 24	切削
+T2955	Machining 24 26	速度
+T2956	Machining 33 35	切削
+T2957	Machining 35 36	熱
+T4663	Trigger 4 6	増加
+T4664	Trigger 15 17	上昇
+T4665	Trigger 27 29	上昇
+T4666	Trigger 42 44	増加

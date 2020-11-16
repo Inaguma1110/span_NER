@@ -1,0 +1,11 @@
+T1030	Machining 6 7	溝
+T1031	Machining 8 11	切れ刃
+T1032	Machining 14 16	切削
+T1033	Machining 24 28	切りくず
+T3134	Machining 19 21	生成
+T3138	Machining 29 31	厚さ
+T3139	Machining 33 35	直刃
+T4311	Machining 3 6	ねじれ
+T4312	Machining 3 7	ねじれ溝
+R62	Relation Arg1:T4312 Arg2:T4414
+T4414	Machining 24 31	切りくずの厚さ

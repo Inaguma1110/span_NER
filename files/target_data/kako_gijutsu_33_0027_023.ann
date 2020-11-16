@@ -1,0 +1,10 @@
+T23	Machining 4 6	工具
+T24	Machining 7 12	固有振動数
+T25	Machining 37 39	超硬
+T26	Machining 37 41	超硬合金
+R26	Relation Arg1:T26 Arg2:T83
+T27	Machining 42 44	工具
+T83	Machining 28 33	縦弾性係数
+R27	Relation Arg1:T83 Arg2:T24
+T95	Machining 39 41	合金
+T145	Machining 47 49	材料

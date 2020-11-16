@@ -1,0 +1,19 @@
+T1689	Machining 4 6	切削
+T1690	Machining 8 10	工具
+T1691	Machining 10 13	切れ刃
+R491	Part Arg1:T1691 Arg2:T1690
+T1692	Machining 16 19	工作物
+R479	Relation Arg1:T1692 Arg2:T1694
+R699	Relation Arg1:T1692 Arg2:T1693
+T1693	Machining 23 27	塑性変形
+T1694	Machining 28 32	切りくず
+T1695	Machining 48 50	工具
+T1696	Machining 50 53	切れ刃
+R507	Part Arg1:T1696 Arg2:T1695
+T3147	Machining 23 25	塑性
+T3148	Machining 25 27	変形
+T3149	Machining 48 53	工具切れ刃
+R698	Relation Arg1:T3149 Arg2:T3152
+T3151	Machining 8 13	工具切れ刃
+R697	Relation Arg1:T3151 Arg2:T1694
+T3152	Machining 60 62	破壊

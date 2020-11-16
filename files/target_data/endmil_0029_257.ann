@@ -1,0 +1,9 @@
+T767	Machining 4 9	切込み深さ
+R632	Positive Arg1:T767 Arg2:T2810
+T2806	Machining 4 7	切込み
+T2807	Machining 7 9	深さ
+T2808	Machining 16 20	切り取り
+T2809	Machining 20 22	厚さ
+T2810	Machining 16 22	切り取り厚さ
+T4631	Trigger 10 15	大きくなる
+T4632	Trigger 23 27	厚くなる

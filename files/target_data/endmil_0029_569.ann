@@ -1,0 +1,11 @@
+T1652	Machining 7 10	逃げ面
+T1653	Machining 22 28	外周すくい角
+T4008	Machining 5 10	外周逃げ面
+R727	Negative Arg1:T4008 Arg2:T1653
+T4009	Machining 11 14	再研削
+R728	Negative Arg1:T4009 Arg2:T1653
+T4010	Machining 24 28	すくい角
+T4355	Machining 22 24	外周
+T4356	Machining 5 7	外周
+T4823	Trigger 11 14	再研削
+T4824	Trigger 32 40	小さくなっていき

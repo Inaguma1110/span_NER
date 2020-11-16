@@ -1,0 +1,10 @@
+T392	Machining 0 6	すくい面摩耗
+T393	Machining 22 24	摩耗
+T394	Machining 31 37	クレータ摩耗
+R57	Sub Arg1:T394 Arg2:T392
+T2265	Machining 16 19	くぼみ
+T2266	Machining 10 14	クレータ
+T2267	Machining 4 6	摩耗
+T2268	Machining 0 4	すくい面
+T2269	Machining 31 35	クレータ
+T2270	Machining 35 37	摩耗

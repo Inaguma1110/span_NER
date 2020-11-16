@@ -1,0 +1,12 @@
+T20	Machining 29 33	切削速度
+T21	Machining 29 31	切削
+T22	Machining 43 47	切削速度
+R5	Relation Arg1:T22 Arg2:T76
+T23	Machining 43 45	切削
+T75	Variable 33 34	V
+T76	Machining 55 59	全コスト
+T77	Variable 59 60	c
+T149	Machining 21 26	コスト要素
+T155	Machining 21 24	コスト
+T159	Machining 31 33	速度
+T160	Machining 45 47	速度

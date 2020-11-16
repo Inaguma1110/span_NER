@@ -1,0 +1,4 @@
+T70	Machining 0 10	製品１箇当りのコスト
+T71	Variable 10 11	c
+T150	Machining 7 10	コスト
+T171	Machining 20 23	コスト

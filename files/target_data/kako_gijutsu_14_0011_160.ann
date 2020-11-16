@@ -1,0 +1,11 @@
+T1126	Machining 0 3	熱処理
+T1127	Machining 5 7	加工
+T1128	Machining 10 13	被削材
+T1129	Machining 14 16	切削
+T1130	Machining 33 35	応力
+T1131	Machining 46 48	応力
+T1188	Machining 31 35	残留応力
+T1189	Machining 44 48	残留応力
+T1595	Machining 31 33	残留
+T1597	Machining 44 46	残留
+T1608	Machining 39 41	合成

@@ -1,0 +1,16 @@
+T463	Machining 2 6	切りくず
+T464	Machining 17 20	工具系
+T465	Machining 28 32	すくい角
+T466	Machining 38 42	すくい角
+T580	Machining 36 42	有効すくい角
+T581	Machining 17 23	工具系傾斜角
+R181	Relation Arg1:T581 Arg2:T580
+T582	Machining 25 32	同垂直すくい角
+R180	Relation Arg1:T582 Arg2:T580
+T596	Machining 2 9	切りくず流出角
+R202	Relation Arg1:T596 Arg2:T580
+T2032	Machining 6 9	流出角
+T3392	Variable 9 11	ηｃ
+T3393	Variable 23 24	ｉ
+T3394	Variable 32 34	αｎ
+T3395	Variable 42 44	αｅ

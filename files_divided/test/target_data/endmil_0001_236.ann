@@ -1,0 +1,14 @@
+T700	Machining 15 19	切削速度
+R177	Relation Arg1:T700 Arg2:T701
+R178	Relation Arg1:T700 Arg2:T702
+R623	Relation Arg1:T700 Arg2:T2696
+R624	Relation Arg1:T700 Arg2:T2697
+T701	Machining 21 25	加工能率
+T702	Machining 26 30	加工品位
+T2691	Machining 15 17	切削
+T2692	Machining 17 19	速度
+T2693	Machining 21 23	加工
+T2694	Machining 26 28	加工
+T2695	Machining 28 30	品位
+T2696	Machining 54 56	発熱
+T2697	Machining 57 59	振動

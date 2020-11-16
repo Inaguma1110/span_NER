@@ -1,0 +1,16 @@
+T194	Machining 0 4	構成刃先
+T195	Machining 13 17	切削速度
+R21	Positive Arg1:T195 Arg2:T197
+R22	Relation Arg1:T195 Arg2:T1196
+T196	Machining 13 15	切削
+T197	Machining 25 30	工具面温度
+T198	Machining 25 27	工具
+T199	Machining 28 30	温度
+T200	Machining 36 40	構成刃先
+T1196	Machining 41 43	軟化
+T325	Machining 38 40	刃先
+T328	Machining 2 4	刃先
+T1463	Machining 48 50	刃先
+T1543	Machining 15 17	速度
+T797	Trigger 18 20	増加
+T804	Trigger 31 36	高くなって

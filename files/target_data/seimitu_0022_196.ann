@@ -1,0 +1,16 @@
+T703	Machining 0 3	せん断
+T704	Machining 16 18	摩擦
+T705	Machining 18 20	熱源
+T706	Machining 21 25	切りくず
+T707	Machining 32 34	熱源
+T708	Machining 35 37	工具
+T709	Machining 44 46	熱源
+T710	Machining 52 56	切りくず
+T711	Machining 58 63	熱配分割合
+T777	Machining 30 34	移動熱源
+R247	Sub Arg1:T777 Arg2:T2179
+T778	Machining 42 46	固定熱源
+R199	Sub Arg1:T778 Arg2:T2179
+T2178	Machining 30 32	移動
+T2179	Machining 16 20	摩擦熱源
+T3511	Machining 0 4	せん断面

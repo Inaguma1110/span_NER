@@ -1,0 +1,18 @@
+T537	Machining 5 9	断続切削
+T538	Machining 7 9	切削
+T539	Machining 11 16	エアカット
+T540	Machining 20 23	切れ刃
+T541	Machining 30 34	連続切削
+T542	Machining 32 34	切削
+T543	Machining 43 45	温度
+T544	Machining 53 57	切削速度
+R78	Negative Arg1:T544 Arg2:T546
+T545	Machining 53 55	切削
+T546	Machining 74 78	仕上げ面
+T1296	Machining 24 26	空冷
+T1297	Machining 41 45	刃面温度
+T633	Machining 74 77	仕上げ
+T1506	Machining 41 43	刃面
+T1551	Machining 55 57	速度
+T1632	Trigger 60 63	速くし
+T1633	Trigger 79 83	得にくい

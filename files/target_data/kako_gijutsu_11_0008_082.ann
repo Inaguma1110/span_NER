@@ -1,0 +1,21 @@
+T362	Machining 6 9	ドリル
+T365	Machining 51 54	送り量
+T437	Unit 15 22	rev/min
+T438	Unit 31 34	N・m
+T439	Variable 24 26	Mc
+R100	Relation Arg1:T439 Arg2:T522
+T440	Variable 36 39	F_p
+R101	Relation Arg1:T440 Arg2:T523
+T441	Unit 46 47	N
+T442	Variable 49 50	f
+R102	Relation Arg1:T442 Arg2:T365
+T443	Unit 55 61	mm/rev
+T521	Machining 10 14	回転速度
+T522	Machining 27 30	トルク
+T363	Machining 40 44	スラスト
+T523	Machining 40 45	スラスト力
+T284	Variable 4 5	N
+R99	Relation Arg1:T284 Arg2:T521
+T585	Machining 51 53	送り
+T621	Machining 10 12	回転
+T622	Machining 12 14	速度

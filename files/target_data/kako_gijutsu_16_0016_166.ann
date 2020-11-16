@@ -1,0 +1,14 @@
+T363	Machining 8 10	加工
+T364	Machining 12 16	切りくず
+T365	Machining 18 21	ひずみ
+T366	Machining 22 26	切りくず
+T367	Machining 30 36	せん断ひずみ
+T368	Machining 30 33	せん断
+T369	Machining 33 36	ひずみ
+T370	Machining 37 40	SCM
+T371	Machining 56 58	加工
+T537	Machining 6 10	冷間加工
+T538	Machining 37 43	SCM420
+T539	Machining 54 58	冷間加工
+T610	Machining 16 21	限界ひずみ
+T680	Machining 22 29	切りくず生成域

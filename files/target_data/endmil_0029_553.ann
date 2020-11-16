@@ -1,0 +1,14 @@
+T1619	Machining 11 12	溝
+T1620	Machining 20 24	すくい面
+T1621	Machining 66 71	チッピング
+T3933	Machining 3 8	万能研削盤
+R877	Positive Arg1:T3933 Arg2:T3938
+R878	Positive Arg1:T3933 Arg2:T1621
+T3935	Machining 5 8	研削盤
+T3936	Machining 13 15	砥石
+T3937	Machining 35 38	再研削
+T3938	Machining 61 65	研削焼け
+T3943	Machining 61 63	研削
+T3946	Machining 63 65	焼け
+T4810	Trigger 35 38	再研削
+T4883	Trigger 72 80	発生しやすくなり

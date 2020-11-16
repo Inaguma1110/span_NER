@@ -1,0 +1,17 @@
+T59	Machining 0 3	切削熱
+T60	Machining 0 2	切削
+T61	Machining 2 3	熱
+T62	Machining 11 15	塑性変形
+R15	Relation Arg1:T62 Arg2:T59
+T63	Machining 18 20	工具
+T64	Machining 20 24	すくい面
+T65	Machining 28 32	摩擦仕事
+R16	Relation Arg1:T65 Arg2:T59
+T66	Machining 28 30	摩擦
+T67	Machining 30 32	仕事
+T433	Variable 32 33	θ
+T538	Machining 4 7	剪断面
+T586	Machining 18 24	工具すくい面
+T330	Machining 4 6	剪断
+T601	Machining 11 13	塑性
+T602	Machining 13 15	変形

@@ -1,0 +1,17 @@
+T608	Machining 11 13	温度
+R174	Relation Arg1:T608 Arg2:T612
+T609	Machining 28 30	切削
+T610	Machining 36 43	超硬エンドミル
+T611	Machining 66 71	エンドミル
+T612	Machining 76 80	切削速度
+T2544	Machining 8 10	刃先
+T2545	Quantity 14 18	1000
+T2546	Unit 18 19	℃
+T2547	Machining 36 38	超硬
+T2548	Machining 38 43	エンドミル
+T2549	Quantity 47 50	550
+T2550	Unit 50 51	℃
+T2551	Machining 63 66	ＨＳＳ
+T2552	Machining 63 71	ＨＳＳエンドミル
+T2553	Machining 76 78	切削
+T2554	Machining 78 80	速度

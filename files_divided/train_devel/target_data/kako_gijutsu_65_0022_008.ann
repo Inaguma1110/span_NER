@@ -1,0 +1,12 @@
+T68	Machining 4 6	切削
+T69	Machining 4 8	切削油剤
+T70	Machining 14 17	油性剤
+T71	Machining 27 30	混成油
+R34	Sub Arg1:T71 Arg2:T249
+T72	Machining 36 41	極圧添加剤
+T248	Machining 48 51	極圧油
+R35	Sub Arg1:T248 Arg2:T249
+T249	Machining 0 8	不水溶性切削油剤
+T269	Machining 6 8	油剤
+T302	Machining 38 41	添加剤
+T346	Machining 10 13	鉱物油

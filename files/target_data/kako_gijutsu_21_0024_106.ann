@@ -1,0 +1,23 @@
+T440	Machining 0 6	クレータ摩耗
+T441	Machining 4 6	摩耗
+T442	Machining 7 11	切削速度
+R38	Relation Arg1:T442 Arg2:T440
+T443	Machining 7 9	切削
+T444	Machining 12 15	切込み
+T445	Machining 28 32	高速切削
+R40	Positive Arg1:T445 Arg2:T447
+R41	Positive Arg1:T445 Arg2:T450
+T446	Machining 30 32	切削
+T447	Machining 37 41	切削温度
+R42	Positive Arg1:T447 Arg2:T450
+T448	Machining 37 39	切削
+T449	Machining 39 41	温度
+T450	Machining 46 52	クレータ摩耗
+T451	Machining 50 52	摩耗
+T726	Machining 12 16	切込み量
+R39	Relation Arg1:T726 Arg2:T440
+T954	Machining 28 30	高速
+T955	Machining 9 11	速度
+T1018	Trigger 42 44	上昇
+T1019	Trigger 53 58	大きくなる
+T1029	Trigger 28 30	高速

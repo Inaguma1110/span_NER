@@ -1,0 +1,9 @@
+T723	Machining 3 5	熱源
+T724	Machining 11 13	摩擦
+T725	Machining 13 14	熱
+T726	Machining 15 17	工具
+T727	Machining 37 41	すくい面
+T728	Machining 44 48	温度上昇
+T2182	Machining 11 14	摩擦熱
+T3519	Machining 44 46	温度
+T3521	Variable 5 6	ｑ

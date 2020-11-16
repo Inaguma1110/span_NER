@@ -1,0 +1,17 @@
+T138	Machining 65 70	サーメット
+T1934	Machining 0 7	炭化チタニウム
+R39	Relation Arg1:T1934 Arg2:T138
+T1935	Machining 8 11	ＴｉＣ
+T1936	Machining 14 21	窒化チタニウム
+R40	Relation Arg1:T1936 Arg2:T138
+T1937	Machining 22 25	ＴｉＮ
+T1938	Machining 27 31	ニッケル
+R75	Relation Arg1:T1938 Arg2:T138
+T1939	Machining 32 34	Ｎｉ
+T1940	Machining 36 40	コバルト
+R517	Relation Arg1:T1940 Arg2:T138
+T1941	Machining 41 43	Ｃｏ
+T1942	Machining 48 53	モリブデン
+R518	Relation Arg1:T1942 Arg2:T138
+T1943	Machining 54 56	Ｍｏ
+T2013	Machining 58 60	結合

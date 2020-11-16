@@ -1,0 +1,20 @@
+T31	Machining 16 21	固有振動数
+T32	Machining 79 82	切削力
+T33	Machining 79 81	切削
+T34	Machining 97 99	工具
+T35	Machining 97 101	工具刃形
+T36	Machining 99 101	刃形
+T232	Machining 38 44	振動変位振幅
+R3	Linear Arg1:T232 Arg2:T255
+T233	Machining 45 50	加振力振幅
+R4	NegativeLinear Arg1:T233 Arg2:T255
+T234	Machining 83 88	強制的変動
+T255	Machining 25 37	構造体のコンプライアンス
+T362	Machining 105 107	振動
+T483	Machining 38 40	振動
+T484	Machining 40 42	変位
+T485	Machining 42 44	振幅
+T486	Machining 45 48	加振力
+T487	Machining 48 50	振幅
+T488	Machining 86 88	変動
+T417	Machining 54 56	振動

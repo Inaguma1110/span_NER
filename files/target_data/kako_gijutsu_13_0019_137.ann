@@ -1,0 +1,4 @@
+T507	Machining 4 6	摩耗
+R182	Relation Arg1:T507 Arg2:T313
+T72	Machining 7 12	不活性ガス
+T313	Machining 7 16	不活性ガス雰囲気中

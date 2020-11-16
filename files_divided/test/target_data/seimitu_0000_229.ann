@@ -1,0 +1,25 @@
+T846	Machining 0 3	熱処理
+R287	Relation Arg1:T846 Arg2:T847
+T847	Machining 5 7	硬度
+T848	Machining 20 25	炭素工具鋼
+T849	Machining 36 40	刃先温度
+R293	Relation Arg1:T849 Arg2:T852
+R239	Relation Arg1:T849 Arg2:T2217
+T850	Machining 60 62	切削
+T851	Machining 66 71	炭素工具系
+T852	Machining 84 88	切削速度
+T853	Machining 100 104	高速度鋼
+T829	Machining 36 38	刃先
+T2216	Machining 38 40	温度
+T2217	Machining 53 55	軟化
+T2218	Machining 8 11	ＨＲＣ
+T2227	Machining 84 86	切削
+T2228	Machining 86 88	速度
+T2248	Machining 58 59	鋼
+T3549	Quantity 12 17	62ー68
+T3550	Quantity 41 44	900
+T3551	Unit 44 45	Ｋ
+T3552	Machining 20 22	炭素
+T3553	Machining 22 25	工具鋼
+T3554	Machining 66 68	炭素
+T3559	Machining 68 70	工具

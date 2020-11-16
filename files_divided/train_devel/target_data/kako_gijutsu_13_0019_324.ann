@@ -1,0 +1,9 @@
+T1205	Machining 11 13	工具
+T1206	Machining 35 40	チッピング
+T1207	Machining 61 63	加工
+T1208	Machining 83 87	工具寿命
+T1209	Machining 83 85	工具
+T1423	Machining 21 23	靱性
+R163	Relation Arg1:T1423 Arg2:T1206
+T1785	Machining 85 87	寿命
+T1903	Machining 46 48	損失

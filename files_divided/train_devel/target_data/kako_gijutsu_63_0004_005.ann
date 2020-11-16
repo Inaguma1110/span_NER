@@ -1,0 +1,12 @@
+T29	Machining 3 6	外周刃
+T30	Machining 15 19	切りくず
+T31	Machining 32 36	切りくず
+T32	Machining 46 50	切りくず
+T264	Machining 9 12	ノーズ
+T289	Machining 32 38	切りくず厚み
+T290	Machining 36 38	厚み
+T295	Machining 20 24	流出方向
+R38	Relation Arg1:T295 Arg2:T289
+R39	Relation Arg1:T295 Arg2:T296
+T296	Machining 43 50	扇形の切りくず
+T326	Machining 20 22	流出

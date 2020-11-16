@@ -1,0 +1,6 @@
+T1207	Machining 9 13	被削材質
+R418	Relation Arg1:T1207 Arg2:T1208
+R419	Relation Arg1:T1207 Arg2:T1209
+T1208	Machining 14 18	熱伝導率
+T1209	Machining 19 21	比熱
+T3350	Machining 9 11	被削

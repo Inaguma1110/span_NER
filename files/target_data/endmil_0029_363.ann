@@ -1,0 +1,16 @@
+T1113	Machining 10 13	外周刃
+T1114	Machining 17 19	切削
+T1115	Machining 34 38	切りくず
+T1116	Machining 65 68	排出性
+T3211	Machining 0 6	ラフィング刃
+R650	Positive Arg1:T3211 Arg2:T3214
+R651	Positive Arg1:T3211 Arg2:T3216
+R652	Negative Arg1:T3211 Arg2:T3219
+R653	Negative Arg1:T3211 Arg2:T1120
+R360	Relation Arg1:T3211 Arg2:T1116
+R654	Positive Arg1:T3211 Arg2:T3223
+R655	Positive Arg1:T3211 Arg2:T3226
+R656	Relation Arg1:T3211 Arg2:T3222
+R657	Relation Arg1:T3211 Arg2:T3230
+R658	Relation Arg1:T3211 Arg2:T3231
+T3213	Machining 60 64	切りくず

@@ -1,0 +1,9 @@
+T1352	Machining 0 4	切削速度
+R381	Negative Arg1:T1352 Arg2:T1353
+T1353	Machining 10 14	工具寿命
+T3520	Machining 0 2	切削
+T3521	Machining 2 4	速度
+T3522	Machining 10 12	工具
+T3523	Machining 12 14	寿命
+T4786	Trigger 5 9	高すぎる
+T4787	Trigger 18 20	低下

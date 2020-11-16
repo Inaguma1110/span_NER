@@ -1,0 +1,19 @@
+T142	Machining 15 19	高速度鋼
+T143	Machining 31 33	超硬
+T144	Machining 31 35	超硬合金
+T145	Machining 36 41	サーメット
+T146	Machining 42 45	TiC
+T147	Machining 46 49	TiN
+T148	Machining 52 56	アルミナ
+T151	Machining 56 62	セラミックス
+T152	Machining 65 69	仕上げ面
+T154	Machining 83 86	工具材
+T156	Machining 93 96	被削材
+T157	Machining 98 111	結合ポテンシャルエネルギー
+R15	Relation Arg1:T157 Arg2:T152
+T158	Machining 106 111	エネルギー
+T1265	Machining 20 23	結合剤
+T1266	Machining 24 26	Co
+T1267	Machining 52 62	アルミナセラミックス
+T150	Machining 65 68	仕上げ
+T811	Machining 33 35	合金

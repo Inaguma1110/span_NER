@@ -1,0 +1,5 @@
+T1024	Machining 3 7	切削速度
+R309	Relation Arg1:T1024 Arg2:T1019
+R310	Relation Arg1:T1024 Arg2:T1020
+T2456	Machining 3 5	切削
+T2457	Machining 5 7	速度

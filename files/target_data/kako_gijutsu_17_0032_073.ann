@@ -1,0 +1,9 @@
+T184	Machining 18 20	工具
+T185	Machining 21 24	工作物
+T280	Machining 12 14	変形
+R53	Relation Arg1:T280 Arg2:T281
+T281	Machining 30 34	振動変位
+R32	Negative Arg1:T281 Arg2:T282
+T420	Machining 30 32	振動
+T421	Machining 32 34	変位
+T619	Trigger 35 38	生じる

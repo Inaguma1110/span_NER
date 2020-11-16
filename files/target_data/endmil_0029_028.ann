@@ -1,0 +1,9 @@
+T81	Machining 21 23	精度
+T82	Machining 55 57	加工
+T1819	Machining 0 4	センタ穴
+R551	Relation Arg1:T1819 Arg2:T2010
+R552	Relation Arg1:T1819 Arg2:T1821
+T1821	Machining 51 57	突っ込み加工
+T1822	Machining 51 55	突っ込み
+T2010	Machining 26 29	再研磨
+T2011	Machining 12 15	再研磨

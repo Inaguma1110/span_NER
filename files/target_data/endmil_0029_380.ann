@@ -1,0 +1,9 @@
+T1155	Machining 13 17	加工精度
+T1156	Machining 18 21	加工面
+T3267	Machining 10 12	刃長
+R922	Relation Arg1:T3267 Arg2:T1155
+T3268	Machining 13 15	加工
+T3269	Machining 15 17	精度
+T3270	Machining 18 20	加工
+T3271	Machining 22 26	たおれ量
+T3273	Machining 22 25	たおれ

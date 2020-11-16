@@ -1,0 +1,22 @@
+T1481	Machining 8 13	エンドミル
+T1482	Machining 18 23	ミーリング
+T1483	Machining 23 25	加工
+T1484	Machining 54 59	エンドミル
+T1485	Machining 60 62	刃部
+R445	Part Arg1:T1485 Arg2:T1484
+T1486	Machining 62 64	外径
+T1487	Machining 79 81	加工
+T3636	Machining 0 6	高速回転主軸
+R875	Relation Arg1:T3636 Arg2:T3641
+R876	Relation Arg1:T3636 Arg2:T3644
+T3637	Machining 4 6	主軸
+T3638	Machining 2 4	回転
+T3639	Machining 0 2	高速
+T3640	Machining 16 18	高速
+T3641	Machining 16 25	高速ミーリング加工
+T3642	Machining 33 38	リニア駆動
+T3643	Machining 39 43	振動レス
+T3644	Machining 75 81	微細精密加工
+T3645	Machining 33 36	リニア
+T3646	Machining 36 38	駆動
+T3647	Machining 39 41	振動

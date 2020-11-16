@@ -1,0 +1,9 @@
+T179	Machining 0 6	ダイヤモンド
+R753	Positive Arg1:T179 Arg2:T2023
+T180	Machining 36 38	加工
+T1987	Machining 17 19	刃先
+T1992	Machining 30 32	材料
+T2022	Machining 27 32	非鉄系材料
+T2023	Machining 33 38	超精密加工
+T4488	Trigger 20 24	得られる
+T4489	Trigger 41 43	有効

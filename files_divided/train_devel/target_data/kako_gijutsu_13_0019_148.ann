@@ -1,0 +1,12 @@
+T540	Machining 7 11	高速度鋼
+T541	Machining 7 13	高速度鋼工具
+T542	Machining 11 13	工具
+T543	Machining 14 20	すくい面摩耗
+T544	Machining 14 18	すくい面
+T545	Machining 18 20	摩耗
+T546	Machining 25 29	切削温度
+T547	Machining 25 27	切削
+T548	Machining 27 29	温度
+T1849	Machining 14 24	すくい面摩耗進行速度
+R228	Relation Arg1:T1849 Arg2:T546
+T1864	Machining 22 24	速度

@@ -1,0 +1,5 @@
+T376	Machining 3 5	凝着
+T377	Machining 10 12	温度
+R72	Relation Arg1:T377 Arg2:T1287
+R73	Relation Arg1:T377 Arg2:T376
+T1287	Machining 0 2	付着
