@@ -6,7 +6,7 @@ import tqdm
 import contextlib
 import time
 import random
-import shelve
+import shelve,pickle
 import configparser
 from progressbar import progressbar
 from collections import defaultdict
@@ -216,7 +216,9 @@ if scheduler_switch:
 
 
 #TODO
-attention_dict = shelve.open('../attention_viewing/attention_dict')
+# attention_dict = shelve.open('../attention_viewing/attention_dict')
+# attention_np = np.empty(1)
+attention_dict = dict()
 
 
 
@@ -277,7 +279,8 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             answers_relation.append(rel_y)
 
 
-            attention_dict[str(i)] = (n_doc, words, trig_attn)
+            attention_dict[str(i)] = [n_doc.to('cpu').detach().numpy().copy(), words.to('cpu').detach().numpy().copy(), trig_attn.to('cpu').detach().numpy().copy()]
+            
 
         if switches['NER_RE_switch'] == 'Joint':
             logits_spans, relation_logit, trig_attn, rel_y = Model(n_doc, words, trigger_vecs, attention_mask, NER_RE_switch, y_spans, Relation_gold_learning_switch, is_share_stop)
@@ -379,7 +382,9 @@ def iterate(epoch, data_loader, Model, optimizer, switches, writer, scores, is_t
             best_re_score[1] = epoch
         print('best ' + desc + 'RE score/epoch is {0} / {1}\n'.format(best_re_score[0], best_re_score[1]))
         
-        attention_dict.close()
+        # attention_dict.close()
+        with open('../attention_viewing/attention.binaryfile', 'wb') as aw:
+            pickle.dump(attention_dict,aw)
     return [NER_best_scores, best_average_score, best_re_score]
 
 
@@ -425,6 +430,7 @@ for epoch in range(int(config.get('main', 'N_EPOCH'))):
     tr_scores = iterate(epoch, train_loader, Model, optimizer, switches, writer, tr_scores, is_training=True)
     
     dev_scores = iterate(epoch, devel_loader, Model, optimizer, switches, writer, dev_scores, is_training=False)
+    pdb.set_trace()
 
 if model_save:
     torch.save(Model.state_dict(),joint_model_path)
