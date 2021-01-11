@@ -65,3 +65,14 @@ def nest_square_cut(pred1,pred2,pred3,pred4):
             except IndexError:
                 pass
     return pred1, pred2, pred3, pred4
+
+
+def nest_cut(spans, span_size): #spans = (batch, span_size, seq_len)
+    for m in range(len(spans)):
+        for s in reversed(range(len(spans[m]))):
+            for index in range(len(spans[m][s])):
+                if spans[m][s][index] == 1:
+                    for i in range(span_size):
+                        if s-i-1>=0:
+                            spans[m][s-i-1][index:index+s+1] = 0
+    return spans
